@@ -14,3 +14,7 @@ Material for learning English
 ## Exam
 
 * [CET4, CET6](https://zhenti.burningvocabulary.cn/)
+
+## Others
+
+* [For Software Developers from Freecodecamp](https://www.freecodecamp.org/learn/b1-english-for-developers)
