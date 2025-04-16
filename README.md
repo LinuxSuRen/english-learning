@@ -14,6 +14,7 @@ Material for learning English
 ## Exam
 
 * [CET4, CET6](https://zhenti.burningvocabulary.cn/)
+* [English test from Cambridge](https://www.cambridgeenglish.org/test-your-english/)
 
 ## Others
 
