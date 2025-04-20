@@ -10,6 +10,7 @@ Material for learning English
 ## Podcast
 
 * [All Ears English](https://www.allearsenglish.com/)
+* [No Worries](https://www.xiaoyuzhoufm.com/podcast/64b6af253fadef2ddd36a011)
 
 ## Exam
 
