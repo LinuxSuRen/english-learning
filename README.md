@@ -20,3 +20,6 @@ Material for learning English
 ## Others
 
 * [For Software Developers from Freecodecamp](https://www.freecodecamp.org/learn/b1-english-for-developers)
+* [英语音频、视频学习工具](https://www.aboboo.com/index.html)
+* [字典](https://www.vocabulary.com/)
+* [分类阅读](https://newsela.com/products/formative)
