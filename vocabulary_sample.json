@@ -1,0 +1,3224 @@
+[
+  {
+    "word": "apple",
+    "grade": "1st-grade",
+    "definitions": [
+      "A round fruit with red or green skin and a white inside",
+      "A common fruit that grows on trees",
+      "A healthy snack that is red, green, or yellow"
+    ]
+  },
+  {
+    "word": "book",
+    "grade": "1st-grade",
+    "definitions": [
+      "A set of printed pages bound together",
+      "Something you read to learn or for entertainment",
+      "An object with pages containing words or pictures"
+    ]
+  },
+  {
+    "word": "cat",
+    "grade": "1st-grade",
+    "definitions": [
+      "A small furry animal that says meow",
+      "A pet that likes to sleep and chase mice",
+      "A mammal with whiskers and retractable claws"
+    ]
+  },
+  {
+    "word": "dog",
+    "grade": "1st-grade",
+    "definitions": [
+      "A furry animal that says woof and is often kept as a pet",
+      "Man's best friend, known for loyalty",
+      "A mammal that barks and wags its tail"
+    ]
+  },
+  {
+    "word": "elephant",
+    "grade": "1st-grade",
+    "definitions": [
+      "A large gray animal with a trunk and big ears",
+      "The biggest land animal with long tusks",
+      "A mammal known for its intelligence and memory"
+    ]
+  },
+  {
+    "word": "fish",
+    "grade": "1st-grade",
+    "definitions": [
+      "An animal that lives in water and has fins",
+      "A creature that swims and breathes through gills",
+      "An aquatic animal that people often eat"
+    ]
+  },
+  {
+    "word": "goat",
+    "grade": "1st-grade",
+    "definitions": [
+      "A farm animal with horns and a beard",
+      "A mammal that eats grass and climbs rocks",
+      "An animal that gives milk and is related to sheep"
+    ]
+  },
+  {
+    "word": "house",
+    "grade": "1st-grade",
+    "definitions": [
+      "A building where people live",
+      "A home with rooms, a roof, and walls",
+      "A place where a family resides"
+    ]
+  },
+  {
+    "word": "ice",
+    "grade": "1st-grade",
+    "definitions": [
+      "Frozen water that is solid and cold",
+      "Water in its solid form",
+      "Something slippery that forms in freezers"
+    ]
+  },
+  {
+    "word": "jump",
+    "grade": "1st-grade",
+    "definitions": [
+      "To push yourself off the ground with your feet",
+      "To leap into the air",
+      "To spring upward or forward"
+    ]
+  },
+  {
+    "word": "kite",
+    "grade": "1st-grade",
+    "definitions": [
+      "A toy that flies in the wind on a string",
+      "Something you fly outside on a windy day",
+      "A lightweight object that soars in the sky"
+    ]
+  },
+  {
+    "word": "lion",
+    "grade": "1st-grade",
+    "definitions": [
+      "A large wild cat known as the king of the jungle",
+      "A fierce animal with a mane and loud roar",
+      "A carnivorous mammal from Africa"
+    ]
+  },
+  {
+    "word": "moon",
+    "grade": "1st-grade",
+    "definitions": [
+      "The bright object that appears in the night sky",
+      "Earth's natural satellite that orbits our planet",
+      "A celestial body that gives light at night"
+    ]
+  },
+  {
+    "word": "nest",
+    "grade": "1st-grade",
+    "definitions": [
+      "A home built by birds for their eggs and babies",
+      "A structure made of twigs and leaves",
+      "A place where birds raise their young"
+    ]
+  },
+  {
+    "word": "orange",
+    "grade": "1st-grade",
+    "definitions": [
+      "A round citrus fruit with a thick skin",
+      "A fruit that is both orange in color and name",
+      "A juicy fruit rich in vitamin C"
+    ]
+  },
+  {
+    "word": "pencil",
+    "grade": "1st-grade",
+    "definitions": [
+      "A thin stick used for writing or drawing",
+      "A writing tool made of wood with graphite inside",
+      "An instrument for making marks on paper"
+    ]
+  },
+  {
+    "word": "queen",
+    "grade": "1st-grade",
+    "definitions": [
+      "A female ruler of a country",
+      "The wife of a king who may rule in his place",
+      "The most important piece in chess"
+    ]
+  },
+  {
+    "word": "rabbit",
+    "grade": "1st-grade",
+    "definitions": [
+      "A small animal with long ears and a fluffy tail",
+      "A mammal that hops and eats carrots",
+      "A furry creature that lives in a burrow"
+    ]
+  },
+  {
+    "word": "sun",
+    "grade": "1st-grade",
+    "definitions": [
+      "The bright star that gives light and heat to Earth",
+      "The celestial body that rises in the morning",
+      "Our solar system's central star"
+    ]
+  },
+  {
+    "word": "tree",
+    "grade": "1st-grade",
+    "definitions": [
+      "A tall plant with a trunk, branches, and leaves",
+      "A woody plant that grows upward",
+      "A plant that provides shade and oxygen"
+    ]
+  },
+  {
+    "word": "umbrella",
+    "grade": "1st-grade",
+    "definitions": [
+      "A portable canopy used for protection from rain",
+      "A device with a handle and folding fabric top",
+      "Something you use to stay dry in the rain"
+    ]
+  },
+  {
+    "word": "violin",
+    "grade": "1st-grade",
+    "definitions": [
+      "A musical instrument played with a bow",
+      "A string instrument held under the chin",
+      "A wooden instrument that makes beautiful sounds"
+    ]
+  },
+  {
+    "word": "water",
+    "grade": "1st-grade",
+    "definitions": [
+      "A clear liquid that we drink to stay alive",
+      "The substance that makes up rivers, lakes, and oceans",
+      "H2O, essential for all living things"
+    ]
+  },
+  {
+    "word": "xylophone",
+    "grade": "1st-grade",
+    "definitions": [
+      "A musical instrument with wooden bars you strike",
+      "A percussion instrument with tuned wooden slats",
+      "An instrument played by hitting bars with mallets"
+    ]
+  },
+  {
+    "word": "yellow",
+    "grade": "1st-grade",
+    "definitions": [
+      "The color of the sun and ripe bananas",
+      "A bright color between red and green on the spectrum",
+      "The hue of lemons and daffodils"
+    ]
+  },
+  {
+    "word": "zebra",
+    "grade": "1st-grade",
+    "definitions": [
+      "An African horse with black and white stripes",
+      "A wild animal related to horses and donkeys",
+      "A mammal with distinctive striped patterns"
+    ]
+  },
+  {
+    "word": "ball",
+    "grade": "1st-grade",
+    "definitions": [
+      "A round object used for playing games",
+      "Something you can throw, catch, or kick",
+      "A spherical toy that bounces"
+    ]
+  },
+  {
+    "word": "car",
+    "grade": "1st-grade",
+    "definitions": [
+      "A vehicle with four wheels that people drive",
+      "A machine that takes you places on roads",
+      "A transportation device with an engine"
+    ]
+  },
+  {
+    "word": "flower",
+    "grade": "1st-grade",
+    "definitions": [
+      "The colorful part of a plant that blooms",
+      "A pretty bloom that grows in gardens",
+      "A plant part with petals that smells nice"
+    ]
+  },
+  {
+    "word": "boat",
+    "grade": "1st-grade",
+    "definitions": [
+      "A vehicle that floats and moves on water",
+      "Something you ride on in lakes or rivers",
+      "A watercraft used for transportation or fun"
+    ]
+  },
+  {
+    "word": "chair",
+    "grade": "1st-grade",
+    "definitions": [
+      "A piece of furniture you sit on",
+      "Something with a back and legs for sitting",
+      "A seat for one person, usually with a backrest"
+    ]
+  },
+  {
+    "word": "happy",
+    "grade": "1st-grade",
+    "definitions": [
+      "Feeling joy or pleasure",
+      "Not sad or upset",
+      "Having a positive emotion and smiling"
+    ]
+  },
+  {
+    "word": "beautiful",
+    "grade": "2nd-grade",
+    "definitions": [
+      "Pleasing to the senses or mind",
+      "Visually attractive or delightful",
+      "Having qualities that give great pleasure"
+    ]
+  },
+  {
+    "word": "computer",
+    "grade": "2nd-grade",
+    "definitions": [
+      "An electronic device for processing data",
+      "A machine that can do calculations and run programs",
+      "A device used for work, games, and communication"
+    ]
+  },
+  {
+    "word": "ocean",
+    "grade": "2nd-grade",
+    "definitions": [
+      "A large body of salt water",
+      "The vast waters that cover most of Earth's surface",
+      "A huge expanse of salt water that borders continents"
+    ]
+  },
+  {
+    "word": "mountain",
+    "grade": "2nd-grade",
+    "definitions": [
+      "A large natural elevation of the earth's surface",
+      "A tall landform that rises prominently above its surroundings",
+      "A natural formation with a peak that is higher than a hill"
+    ]
+  },
+  {
+    "word": "science",
+    "grade": "2nd-grade",
+    "definitions": [
+      "The study of the natural world through observation and experiment",
+      "A branch of knowledge dealing with facts and their systematic arrangement",
+      "Knowledge about or study of the natural world based on facts"
+    ]
+  },
+  {
+    "word": "adventure",
+    "grade": "2nd-grade",
+    "definitions": [
+      "An exciting or unusual experience",
+      "A journey or expedition typically involving risk",
+      "An undertaking that may involve danger or unknown factors"
+    ]
+  },
+  {
+    "word": "bicycle",
+    "grade": "2nd-grade",
+    "definitions": [
+      "A vehicle with two wheels powered by pedals",
+      "A two-wheeled means of transportation",
+      "A bike you ride by pedaling with your feet"
+    ]
+  },
+  {
+    "word": "celebrate",
+    "grade": "2nd-grade",
+    "definitions": [
+      "To honor a special occasion with festivities",
+      "To observe an event with joy and ceremony",
+      "To mark an important day with a party"
+    ]
+  },
+  {
+    "word": "dolphin",
+    "grade": "2nd-grade",
+    "definitions": [
+      "A smart sea mammal that lives in water",
+      "A marine animal known for its intelligence and friendliness",
+      "A mammal that breathes air but lives in oceans"
+    ]
+  },
+  {
+    "word": "energy",
+    "grade": "2nd-grade",
+    "definitions": [
+      "The power to do work or cause change",
+      "The strength or vigor to accomplish something",
+      "Ability to be active or make things happen"
+    ]
+  },
+  {
+    "word": "family",
+    "grade": "2nd-grade",
+    "definitions": [
+      "A group of people related by blood or marriage",
+      "Parents and children living together",
+      "Relatives who care for and support each other"
+    ]
+  },
+  {
+    "word": "garden",
+    "grade": "2nd-grade",
+    "definitions": [
+      "An outdoor area where plants are grown",
+      "A plot of land used for cultivating flowers or vegetables",
+      "A space where people grow plants and flowers"
+    ]
+  },
+  {
+    "word": "history",
+    "grade": "2nd-grade",
+    "definitions": [
+      "The study of past events and times",
+      "A record of things that happened in the past",
+      "The branch of knowledge dealing with past events"
+    ]
+  },
+  {
+    "word": "instrument",
+    "grade": "2nd-grade",
+    "definitions": [
+      "A tool or device used for a specific purpose",
+      "A musical device used to make sounds",
+      "Equipment needed to perform a task"
+    ]
+  },
+  {
+    "word": "journey",
+    "grade": "2nd-grade",
+    "definitions": [
+      "An act of traveling from one place to another",
+      "A trip or voyage to a distant location",
+      "The process of going somewhere"
+    ]
+  },
+  {
+    "word": "knowledge",
+    "grade": "2nd-grade",
+    "definitions": [
+      "Information or skills acquired through experience",
+      "Facts, truths, or principles learned or understood",
+      "Awareness gained through education or experience"
+    ]
+  },
+  {
+    "word": "language",
+    "grade": "2nd-grade",
+    "definitions": [
+      "A system of communication using words and grammar",
+      "The method people use to speak and write",
+      "A structured way to express thoughts and feelings"
+    ]
+  },
+  {
+    "word": "medicine",
+    "grade": "2nd-grade",
+    "definitions": [
+      "A substance used to treat illness or injury",
+      "Treatment that helps people feel better",
+      "Drugs or remedies used by doctors and nurses"
+    ]
+  },
+  {
+    "word": "nature",
+    "grade": "2nd-grade",
+    "definitions": [
+      "The natural world including plants and animals",
+      "Everything that exists in the physical world",
+      "The environment around us that is not man-made"
+    ]
+  },
+  {
+    "word": "opportunity",
+    "grade": "2nd-grade",
+    "definitions": [
+      "A favorable time or chance to do something",
+      "A good situation that allows something to happen",
+      "A moment when you can take advantage of something"
+    ]
+  },
+  {
+    "word": "planet",
+    "grade": "2nd-grade",
+    "definitions": [
+      "A large celestial body that orbits a star",
+      "A round object in space like Earth or Mars",
+      "A heavenly body that moves around the sun"
+    ]
+  },
+  {
+    "word": "question",
+    "grade": "2nd-grade",
+    "definitions": [
+      "An inquiry requesting information",
+      "A sentence asking for a reply",
+      "A problem or matter to be considered"
+    ]
+  },
+  {
+    "word": "respect",
+    "grade": "2nd-grade",
+    "definitions": [
+      "A feeling of admiration for someone or something",
+      "Regard for the feelings or rights of others",
+      "Polite behavior toward people"
+    ]
+  },
+  {
+    "word": "safety",
+    "grade": "2nd-grade",
+    "definitions": [
+      "The condition of being protected from harm",
+      "Being secure and free from danger",
+      "Freedom from threats or dangers"
+    ]
+  },
+  {
+    "word": "treasure",
+    "grade": "2nd-grade",
+    "definitions": [
+      "Valuable items like gold and jewels",
+      "Something precious that is hidden or buried",
+      "Great wealth or riches stored away"
+    ]
+  },
+  {
+    "word": "understand",
+    "grade": "2nd-grade",
+    "definitions": [
+      "To grasp the meaning or idea of something",
+      "To comprehend or perceive something clearly",
+      "To know what someone means or what something signifies"
+    ]
+  },
+  {
+    "word": "weather",
+    "grade": "2nd-grade",
+    "definitions": [
+      "The atmospheric conditions at a specific time",
+      "The state of the atmosphere regarding temperature and precipitation",
+      "Conditions like sunny, rainy, or snowy"
+    ]
+  },
+  {
+    "word": "yesterday",
+    "grade": "2nd-grade",
+    "definitions": [
+      "The day before today",
+      "The previous day in time",
+      "One day ago from the current date"
+    ]
+  },
+  {
+    "word": "animal",
+    "grade": "2nd-grade",
+    "definitions": [
+      "A living creature that moves and eats",
+      "A being that is not a plant or person",
+      "A creature with senses and the ability to move"
+    ]
+  },
+  {
+    "word": "friend",
+    "grade": "2nd-grade",
+    "definitions": [
+      "A person you like and enjoy being with",
+      "Someone who cares about you and is loyal",
+      "A companion you share fun and experiences with"
+    ]
+  },
+  {
+    "word": "school",
+    "grade": "2nd-grade",
+    "definitions": [
+      "A place where children go to learn",
+      "A building where students study and teachers work",
+      "An institution for education and learning"
+    ]
+  },
+  {
+    "word": "holiday",
+    "grade": "2nd-grade",
+    "definitions": [
+      "A special day or period of celebration",
+      "A time when people don't go to work or school",
+      "A day set aside for commemoration or celebration"
+    ]
+  },
+  {
+    "word": "music",
+    "grade": "2nd-grade",
+    "definitions": [
+      "Sounds organized in time with rhythm and melody",
+      "Art form using instruments and voices",
+      "Pleasant sounds that people enjoy listening to"
+    ]
+  },
+  {
+    "word": "planet",
+    "grade": "2nd-grade",
+    "definitions": [
+      "A large celestial body that orbits a star",
+      "A round object in space like Earth or Mars",
+      "A heavenly body that moves around the sun"
+    ]
+  },
+  {
+    "word": "activity",
+    "grade": "3rd-grade",
+    "definitions": [
+      "An action or series of actions",
+      "Something that people do for enjoyment or work",
+      "A pursuit in which a person is engaged"
+    ]
+  },
+  {
+    "word": "bridge",
+    "grade": "3rd-grade",
+    "definitions": [
+      "A structure built over water or land for crossing",
+      "A construction that spans a river or road",
+      "A way to get from one side to another"
+    ]
+  },
+  {
+    "word": "captain",
+    "grade": "3rd-grade",
+    "definitions": [
+      "The leader of a ship or team",
+      "A person in charge of a group or vessel",
+      "The commanding officer of a sports team"
+    ]
+  },
+  {
+    "word": "desert",
+    "grade": "3rd-grade",
+    "definitions": [
+      "A dry area with little or no rainfall",
+      "A barren region with sparse vegetation",
+      "A landscape with very little water"
+    ]
+  },
+  {
+    "word": "education",
+    "grade": "3rd-grade",
+    "definitions": [
+      "The process of learning and acquiring knowledge",
+      "Formal instruction in schools and universities",
+      "The act of teaching or being taught"
+    ]
+  },
+  {
+    "word": "forest",
+    "grade": "3rd-grade",
+    "definitions": [
+      "A large area covered with trees and undergrowth",
+      "Wooded land with many trees and plants",
+      "A dense collection of trees and vegetation"
+    ]
+  },
+  {
+    "word": "government",
+    "grade": "3rd-grade",
+    "definitions": [
+      "The group of people who control a country",
+      "The system that makes and enforces laws",
+      "The official body that rules a nation"
+    ]
+  },
+  {
+    "word": "hospital",
+    "grade": "3rd-grade",
+    "definitions": [
+      "A building where sick people receive treatment",
+      "A medical facility with doctors and nurses",
+      "A place where people go to get better"
+    ]
+  },
+  {
+    "word": "island",
+    "grade": "3rd-grade",
+    "definitions": [
+      "A piece of land surrounded by water",
+      "Land that is completely surrounded by water",
+      "A small continent in the middle of the sea"
+    ]
+  },
+  {
+    "word": "journey",
+    "grade": "3rd-grade",
+    "definitions": [
+      "An act of traveling from one place to another",
+      "A trip or voyage to a distant location",
+      "The process of going somewhere"
+    ]
+  },
+  {
+    "word": "kitchen",
+    "grade": "3rd-grade",
+    "definitions": [
+      "A room where food is prepared and cooked",
+      "The area of a house with appliances for cooking",
+      "A place where meals are made"
+    ]
+  },
+  {
+    "word": "library",
+    "grade": "3rd-grade",
+    "definitions": [
+      "A building containing books and other materials",
+      "A place where people can borrow books",
+      "A collection of books available for reading"
+    ]
+  },
+  {
+    "word": "machine",
+    "grade": "3rd-grade",
+    "definitions": [
+      "A device with moving parts that performs work",
+      "A mechanical apparatus for doing tasks",
+      "Equipment that helps people complete jobs"
+    ]
+  },
+  {
+    "word": "natural",
+    "grade": "3rd-grade",
+    "definitions": [
+      "Existing in or caused by nature",
+      "Not artificial or man-made",
+      "Occurring in the physical world without human intervention"
+    ]
+  },
+  {
+    "word": "observe",
+    "grade": "3rd-grade",
+    "definitions": [
+      "To watch something carefully",
+      "To notice or pay attention to something",
+      "To monitor or keep track of something"
+    ]
+  },
+  {
+    "word": "perfect",
+    "grade": "3rd-grade",
+    "definitions": [
+      "Without any flaws or defects",
+      "Complete and flawless in every way",
+      "Ideal and without any mistakes"
+    ]
+  },
+  {
+    "word": "quality",
+    "grade": "3rd-grade",
+    "definitions": [
+      "A characteristic or feature of something",
+      "The standard or level of something",
+      "An attribute that makes something what it is"
+    ]
+  },
+  {
+    "word": "resource",
+    "grade": "3rd-grade",
+    "definitions": [
+      "A supply of something that can be used",
+      "A source of materials or assets",
+      "Something that can be drawn upon when needed"
+    ]
+  },
+  {
+    "word": "science",
+    "grade": "3rd-grade",
+    "definitions": [
+      "The study of the natural world through observation and experiment",
+      "A branch of knowledge dealing with facts and their systematic arrangement",
+      "Knowledge about or study of the natural world based on facts"
+    ]
+  },
+  {
+    "word": "temperature",
+    "grade": "3rd-grade",
+    "definitions": [
+      "The degree of heat or cold in something",
+      "A measure of how hot or cold something is",
+      "The thermal condition of an object or environment"
+    ]
+  },
+  {
+    "word": "universe",
+    "grade": "3rd-grade",
+    "definitions": [
+      "All of space and everything in it",
+      "The whole system of planets and stars",
+      "Everything that exists, including Earth"
+    ]
+  },
+  {
+    "word": "vegetable",
+    "grade": "3rd-grade",
+    "definitions": [
+      "An edible plant or part of a plant",
+      "A food item from plants, not animals",
+      "A plant used for food, like carrots or lettuce"
+    ]
+  },
+  {
+    "word": "wonder",
+    "grade": "3rd-grade",
+    "definitions": [
+      "A feeling of surprise mixed with admiration",
+      "Amazement at something remarkable",
+      "Curiosity about how something works"
+    ]
+  },
+  {
+    "word": "youth",
+    "grade": "3rd-grade",
+    "definitions": [
+      "The period between childhood and adult age",
+      "Young people considered as a group",
+      "The time of life when one is young"
+    ]
+  },
+  {
+    "word": "zoology",
+    "grade": "3rd-grade",
+    "definitions": [
+      "The scientific study of animals",
+      "Branch of biology dealing with animal life",
+      "The study of different types of animals"
+    ]
+  },
+  {
+    "word": "culture",
+    "grade": "3rd-grade",
+    "definitions": [
+      "The customs and beliefs of a group of people",
+      "The arts and social practices of a society",
+      "The shared patterns of behaviors and interactions"
+    ]
+  },
+  {
+    "word": "economy",
+    "grade": "3rd-grade",
+    "definitions": [
+      "A system of producing and consuming goods",
+      "The money and business of a region or country",
+      "The way people make and spend money"
+    ]
+  },
+  {
+    "word": "geography",
+    "grade": "3rd-grade",
+    "definitions": [
+      "The study of the Earth's landscapes and features",
+      "The subject about places and environments",
+      "The science that deals with the lands and people of the world"
+    ]
+  },
+  {
+    "word": "insect",
+    "grade": "3rd-grade",
+    "definitions": [
+      "A small animal with six legs and a segmented body",
+      "A creature like a bee, ant, or butterfly",
+      "A tiny creature with jointed legs and an exoskeleton"
+    ]
+  },
+  {
+    "word": "material",
+    "grade": "3rd-grade",
+    "definitions": [
+      "The substance something is made of",
+      "Any tangible substance used for a purpose",
+      "The matter from which something is made"
+    ]
+  },
+  {
+    "word": "analyze",
+    "grade": "4th-grade",
+    "definitions": [
+      "To examine something in detail",
+      "To break down information to understand it better",
+      "To study the components of something carefully"
+    ]
+  },
+  {
+    "word": "benefit",
+    "grade": "4th-grade",
+    "definitions": [
+      "An advantage or help gained from something",
+      "Something that improves a situation",
+      "A favorable result or outcome"
+    ]
+  },
+  {
+    "word": "challenge",
+    "grade": "4th-grade",
+    "definitions": [
+      "A difficult task or problem to solve",
+      "A test of one's abilities or resources",
+      "An invitation to compete or struggle"
+    ]
+  },
+  {
+    "word": "community",
+    "grade": "4th-grade",
+    "definitions": [
+      "A group of people living in the same area",
+      "People who share common interests or goals",
+      "A group sharing a common environment"
+    ]
+  },
+  {
+    "word": "compare",
+    "grade": "4th-grade",
+    "definitions": [
+      "To examine the similarities and differences between things",
+      "To judge the qualities of different things",
+      "To note how things are alike or different"
+    ]
+  },
+  {
+    "word": "conserve",
+    "grade": "4th-grade",
+    "definitions": [
+      "To protect and preserve something from harm",
+      "To save or store something for future use",
+      "To use resources carefully to prevent waste"
+    ]
+  },
+  {
+    "word": "develop",
+    "grade": "4th-grade",
+    "definitions": [
+      "To grow or cause to grow gradually",
+      "To make progress or become more advanced",
+      "To create or bring into existence"
+    ]
+  },
+  {
+    "word": "discover",
+    "grade": "4th-grade",
+    "definitions": [
+      "To find something previously unknown",
+      "To become aware of something by accident",
+      "To learn about something for the first time"
+    ]
+  },
+  {
+    "word": "environment",
+    "grade": "4th-grade",
+    "definitions": [
+      "The surroundings or conditions in which a person lives",
+      "All the things around a living thing",
+      "The natural world including air, water, and land"
+    ]
+  },
+  {
+    "word": "experiment",
+    "grade": "4th-grade",
+    "definitions": [
+      "A scientific test to learn something new",
+      "A procedure carried out to test a hypothesis",
+      "A trial or test under controlled conditions"
+    ]
+  },
+  {
+    "word": "feature",
+    "grade": "4th-grade",
+    "definitions": [
+      "A distinctive characteristic or attribute",
+      "A prominent part of something",
+      "An important or interesting aspect"
+    ]
+  },
+  {
+    "word": "generate",
+    "grade": "4th-grade",
+    "definitions": [
+      "To produce or create something",
+      "To bring into existence",
+      "To cause something to happen or occur"
+    ]
+  },
+  {
+    "word": "heritage",
+    "grade": "4th-grade",
+    "definitions": [
+      "Property or traits inherited from ancestors",
+      "Traditions passed down through generations",
+      "Cultural practices and beliefs of a group"
+    ]
+  },
+  {
+    "word": "identify",
+    "grade": "4th-grade",
+    "definitions": [
+      "To recognize or establish the identity of something",
+      "To determine who or what someone or something is",
+      "To distinguish or recognize something"
+    ]
+  },
+  {
+    "word": "investigate",
+    "grade": "4th-grade",
+    "definitions": [
+      "To examine something thoroughly",
+      "To explore or research a topic in detail",
+      "To conduct an inquiry or study"
+    ]
+  },
+  {
+    "word": "journal",
+    "grade": "4th-grade",
+    "definitions": [
+      "A newspaper or magazine",
+      "A personal diary or record of events",
+      "A written record of daily experiences"
+    ]
+  },
+  {
+    "word": "knowledge",
+    "grade": "4th-grade",
+    "definitions": [
+      "Information or skills acquired through experience",
+      "Facts, truths, or principles learned or understood",
+      "Awareness gained through education or experience"
+    ]
+  },
+  {
+    "word": "literature",
+    "grade": "4th-grade",
+    "definitions": [
+      "Written works of fiction and non-fiction",
+      "Books and writings considered to have artistic merit",
+      "Creative writing including novels and poetry"
+    ]
+  },
+  {
+    "word": "method",
+    "grade": "4th-grade",
+    "definitions": [
+      "A particular way of doing something",
+      "A systematic approach to a task",
+      "A procedure or technique for accomplishing something"
+    ]
+  },
+  {
+    "word": "navigate",
+    "grade": "4th-grade",
+    "definitions": [
+      "To plan and direct the route of travel",
+      "To steer a ship or aircraft",
+      "To find one's way through an area"
+    ]
+  },
+  {
+    "word": "observe",
+    "grade": "4th-grade",
+    "definitions": [
+      "To watch something carefully",
+      "To notice or pay attention to something",
+      "To monitor or keep track of something"
+    ]
+  },
+  {
+    "word": "predict",
+    "grade": "4th-grade",
+    "definitions": [
+      "To say what will happen in the future",
+      "To forecast or anticipate events",
+      "To make an educated guess about outcomes"
+    ]
+  },
+  {
+    "word": "research",
+    "grade": "4th-grade",
+    "definitions": [
+      "To study something carefully to find answers",
+      "To investigate a topic systematically",
+      "To gather information about a subject"
+    ]
+  },
+  {
+    "word": "solution",
+    "grade": "4th-grade",
+    "definitions": [
+      "An answer to a problem or question",
+      "A way to solve a difficulty",
+      "The process of resolving an issue"
+    ]
+  },
+  {
+    "word": "technology",
+    "grade": "4th-grade",
+    "definitions": [
+      "The application of scientific knowledge for practical purposes",
+      "Tools and machines used in modern life",
+      "Methods and processes used in industry"
+    ]
+  },
+  {
+    "word": "unique",
+    "grade": "4th-grade",
+    "definitions": [
+      "Being the only one of its kind",
+      "Special and unlike anything else",
+      "Having no equal or equivalent"
+    ]
+  },
+  {
+    "word": "variety",
+    "grade": "4th-grade",
+    "definitions": [
+      "A range of different things",
+      "The quality of being diverse or different",
+      "A collection of various types of something"
+    ]
+  },
+  {
+    "word": "volume",
+    "grade": "4th-grade",
+    "definitions": [
+      "The amount of space something occupies",
+      "The loudness or intensity of sound",
+      "A book that is part of a series"
+    ]
+  },
+  {
+    "word": "witness",
+    "grade": "4th-grade",
+    "definitions": [
+      "To see an event take place",
+      "To observe something happening",
+      "To be present at an occurrence"
+    ]
+  },
+  {
+    "word": "evidence",
+    "grade": "4th-grade",
+    "definitions": [
+      "Facts or information that prove something",
+      "Signs that help explain what happened",
+      "Clues that support a claim or theory"
+    ]
+  },
+  {
+    "word": "process",
+    "grade": "4th-grade",
+    "definitions": [
+      "A series of actions to achieve something",
+      "Steps taken to complete a task",
+      "A method of doing something over time"
+    ]
+  },
+  {
+    "word": "structure",
+    "grade": "4th-grade",
+    "definitions": [
+      "The way something is built or organized",
+      "The arrangement of parts in a system",
+      "A framework that supports and shapes something"
+    ]
+  },
+  {
+    "word": "evaluate",
+    "grade": "4th-grade",
+    "definitions": [
+      "To judge or determine the value of something",
+      "To assess the quality or significance",
+      "To form an opinion about something"
+    ]
+  },
+  {
+    "word": "investigation",
+    "grade": "4th-grade",
+    "definitions": [
+      "A careful examination or inquiry",
+      "An official attempt to find out the facts",
+      "A systematic search for information"
+    ]
+  },
+  {
+    "word": "analyze",
+    "grade": "5th-grade",
+    "definitions": [
+      "To examine something in detail",
+      "To break down information to understand it better",
+      "To study the components of something carefully"
+    ]
+  },
+  {
+    "word": "benefit",
+    "grade": "5th-grade",
+    "definitions": [
+      "An advantage or help gained from something",
+      "Something that improves a situation",
+      "A favorable result or outcome"
+    ]
+  },
+  {
+    "word": "challenge",
+    "grade": "5th-grade",
+    "definitions": [
+      "A difficult task or problem to solve",
+      "A test of one's abilities or resources",
+      "An invitation to compete or struggle"
+    ]
+  },
+  {
+    "word": "community",
+    "grade": "5th-grade",
+    "definitions": [
+      "A group of people living in the same area",
+      "People who share common interests or goals",
+      "A group sharing a common environment"
+    ]
+  },
+  {
+    "word": "compare",
+    "grade": "5th-grade",
+    "definitions": [
+      "To examine the similarities and differences between things",
+      "To judge the qualities of different things",
+      "To note how things are alike or different"
+    ]
+  },
+  {
+    "word": "conserve",
+    "grade": "5th-grade",
+    "definitions": [
+      "To protect and preserve something from harm",
+      "To save or store something for future use",
+      "To use resources carefully to prevent waste"
+    ]
+  },
+  {
+    "word": "develop",
+    "grade": "5th-grade",
+    "definitions": [
+      "To grow or cause to grow gradually",
+      "To make progress or become more advanced",
+      "To create or bring into existence"
+    ]
+  },
+  {
+    "word": "discover",
+    "grade": "5th-grade",
+    "definitions": [
+      "To find something previously unknown",
+      "To become aware of something by accident",
+      "To learn about something for the first time"
+    ]
+  },
+  {
+    "word": "environment",
+    "grade": "5th-grade",
+    "definitions": [
+      "The surroundings or conditions in which a person lives",
+      "All the things around a living thing",
+      "The natural world including air, water, and land"
+    ]
+  },
+  {
+    "word": "experiment",
+    "grade": "5th-grade",
+    "definitions": [
+      "A scientific test to learn something new",
+      "A procedure carried out to test a hypothesis",
+      "A trial or test under controlled conditions"
+    ]
+  },
+  {
+    "word": "feature",
+    "grade": "5th-grade",
+    "definitions": [
+      "A distinctive characteristic or attribute",
+      "A prominent part of something",
+      "An important or interesting aspect"
+    ]
+  },
+  {
+    "word": "generate",
+    "grade": "5th-grade",
+    "definitions": [
+      "To produce or create something",
+      "To bring into existence",
+      "To cause something to happen or occur"
+    ]
+  },
+  {
+    "word": "heritage",
+    "grade": "5th-grade",
+    "definitions": [
+      "Property or traits inherited from ancestors",
+      "Traditions passed down through generations",
+      "Cultural practices and beliefs of a group"
+    ]
+  },
+  {
+    "word": "identify",
+    "grade": "5th-grade",
+    "definitions": [
+      "To recognize or establish the identity of something",
+      "To determine who or what someone or something is",
+      "To distinguish or recognize something"
+    ]
+  },
+  {
+    "word": "investigate",
+    "grade": "5th-grade",
+    "definitions": [
+      "To examine something thoroughly",
+      "To explore or research a topic in detail",
+      "To conduct an inquiry or study"
+    ]
+  },
+  {
+    "word": "journal",
+    "grade": "5th-grade",
+    "definitions": [
+      "A newspaper or magazine",
+      "A personal diary or record of events",
+      "A written record of daily experiences"
+    ]
+  },
+  {
+    "word": "knowledge",
+    "grade": "5th-grade",
+    "definitions": [
+      "Information or skills acquired through experience",
+      "Facts, truths, or principles learned or understood",
+      "Awareness gained through education or experience"
+    ]
+  },
+  {
+    "word": "literature",
+    "grade": "5th-grade",
+    "definitions": [
+      "Written works of fiction and non-fiction",
+      "Books and writings considered to have artistic merit",
+      "Creative writing including novels and poetry"
+    ]
+  },
+  {
+    "word": "method",
+    "grade": "5th-grade",
+    "definitions": [
+      "A particular way of doing something",
+      "A systematic approach to a task",
+      "A procedure or technique for accomplishing something"
+    ]
+  },
+  {
+    "word": "navigate",
+    "grade": "5th-grade",
+    "definitions": [
+      "To plan and direct the route of travel",
+      "To steer a ship or aircraft",
+      "To find one's way through an area"
+    ]
+  },
+  {
+    "word": "observe",
+    "grade": "5th-grade",
+    "definitions": [
+      "To watch something carefully",
+      "To notice or pay attention to something",
+      "To monitor or keep track of something"
+    ]
+  },
+  {
+    "word": "predict",
+    "grade": "5th-grade",
+    "definitions": [
+      "To say what will happen in the future",
+      "To forecast or anticipate events",
+      "To make an educated guess about outcomes"
+    ]
+  },
+  {
+    "word": "research",
+    "grade": "5th-grade",
+    "definitions": [
+      "To study something carefully to find answers",
+      "To investigate a topic systematically",
+      "To gather information about a subject"
+    ]
+  },
+  {
+    "word": "solution",
+    "grade": "5th-grade",
+    "definitions": [
+      "An answer to a problem or question",
+      "A way to solve a difficulty",
+      "The process of resolving an issue"
+    ]
+  },
+  {
+    "word": "technology",
+    "grade": "5th-grade",
+    "definitions": [
+      "The application of scientific knowledge for practical purposes",
+      "Tools and machines used in modern life",
+      "Methods and processes used in industry"
+    ]
+  },
+  {
+    "word": "unique",
+    "grade": "5th-grade",
+    "definitions": [
+      "Being the only one of its kind",
+      "Special and unlike anything else",
+      "Having no equal or equivalent"
+    ]
+  },
+  {
+    "word": "variety",
+    "grade": "5th-grade",
+    "definitions": [
+      "A range of different things",
+      "The quality of being diverse or different",
+      "A collection of various types of something"
+    ]
+  },
+  {
+    "word": "volume",
+    "grade": "5th-grade",
+    "definitions": [
+      "The amount of space something occupies",
+      "The loudness or intensity of sound",
+      "A book that is part of a series"
+    ]
+  },
+  {
+    "word": "witness",
+    "grade": "5th-grade",
+    "definitions": [
+      "To see an event take place",
+      "To observe something happening",
+      "To be present at an occurrence"
+    ]
+  },
+  {
+    "word": "evidence",
+    "grade": "5th-grade",
+    "definitions": [
+      "Facts or information that prove something",
+      "Signs that help explain what happened",
+      "Clues that support a claim or theory"
+    ]
+  },
+  {
+    "word": "process",
+    "grade": "5th-grade",
+    "definitions": [
+      "A series of actions to achieve something",
+      "Steps taken to complete a task",
+      "A method of doing something over time"
+    ]
+  },
+  {
+    "word": "structure",
+    "grade": "5th-grade",
+    "definitions": [
+      "The way something is built or organized",
+      "The arrangement of parts in a system",
+      "A framework that supports and shapes something"
+    ]
+  },
+  {
+    "word": "evaluate",
+    "grade": "5th-grade",
+    "definitions": [
+      "To judge or determine the value of something",
+      "To assess the quality or significance",
+      "To form an opinion about something"
+    ]
+  },
+  {
+    "word": "investigation",
+    "grade": "5th-grade",
+    "definitions": [
+      "A careful examination or inquiry",
+      "An official attempt to find out the facts",
+      "A systematic search for information"
+    ]
+  },
+  {
+    "word": "accumulate",
+    "grade": "6th-grade",
+    "definitions": [
+      "To gather or collect over time",
+      "To build up or increase gradually",
+      "To amass or heap together"
+    ]
+  },
+  {
+    "word": "bias",
+    "grade": "6th-grade",
+    "definitions": [
+      "A preference or prejudice for or against something",
+      "An inclination that influences judgment",
+      "A tendency to favor one side unfairly"
+    ]
+  },
+  {
+    "word": "chronological",
+    "grade": "6th-grade",
+    "definitions": [
+      "Arranged in order of time",
+      "Following the sequence of events",
+      "Organized according to dates or periods"
+    ]
+  },
+  {
+    "word": "comprehensive",
+    "grade": "6th-grade",
+    "definitions": [
+      "Complete and thorough in scope",
+      "Including all or nearly all elements",
+      "Broad and detailed in coverage"
+    ]
+  },
+  {
+    "word": "debate",
+    "grade": "6th-grade",
+    "definitions": [
+      "A formal discussion or argument about a topic",
+      "A contest where opposing sides argue their views",
+      "A discussion involving different points of view"
+    ]
+  },
+  {
+    "word": "demonstrate",
+    "grade": "6th-grade",
+    "definitions": [
+      "To show or prove something clearly",
+      "To make something evident or understood",
+      "To display or exhibit something"
+    ]
+  },
+  {
+    "word": "evaluate",
+    "grade": "6th-grade",
+    "definitions": [
+      "To judge or determine the value of something",
+      "To assess the quality or significance",
+      "To form an opinion about something"
+    ]
+  },
+  {
+    "word": "factor",
+    "grade": "6th-grade",
+    "definitions": [
+      "A circumstance, fact, or influence that contributes to a result",
+      "A number that divides another number exactly",
+      "An element that plays a part in a situation"
+    ]
+  },
+  {
+    "word": "hypothesis",
+    "grade": "6th-grade",
+    "definitions": [
+      "An educated guess that can be tested",
+      "A proposed explanation for a phenomenon",
+      "A tentative assumption made for investigation"
+    ]
+  },
+  {
+    "word": "illustrate",
+    "grade": "6th-grade",
+    "definitions": [
+      "To explain or make something clear with examples",
+      "To provide pictures or diagrams",
+      "To make something visible or understandable"
+    ]
+  },
+  {
+    "word": "interpret",
+    "grade": "6th-grade",
+    "definitions": [
+      "To explain the meaning of something",
+      "To translate spoken language",
+      "To understand and convey the meaning of information"
+    ]
+  },
+  {
+    "word": "justify",
+    "grade": "6th-grade",
+    "definitions": [
+      "To show or prove to be right or reasonable",
+      "To provide evidence for a claim",
+      "To defend or support a position with reasons"
+    ]
+  },
+  {
+    "word": "maintain",
+    "grade": "6th-grade",
+    "definitions": [
+      "To keep something in good condition",
+      "To continue to have or do something",
+      "To preserve or sustain something"
+    ]
+  },
+  {
+    "word": "objective",
+    "grade": "6th-grade",
+    "definitions": [
+      "A goal or aim that one wants to achieve",
+      "Something that can be observed or measured",
+      "A target or desired result"
+    ]
+  },
+  {
+    "word": "perspective",
+    "grade": "6th-grade",
+    "definitions": [
+      "A particular way of viewing things",
+      "The attitude or opinion about something",
+      "A vista or view from a certain position"
+    ]
+  },
+  {
+    "word": "precise",
+    "grade": "6th-grade",
+    "definitions": [
+      "Exact and accurate in every detail",
+      "Clearly expressed or defined",
+      "Sharp and distinct in form or meaning"
+    ]
+  },
+  {
+    "word": "relevant",
+    "grade": "6th-grade",
+    "definitions": [
+      "Connected or related to the matter at hand",
+      "Applicable to the current situation",
+      "Having significance or bearing on the topic"
+    ]
+  },
+  {
+    "word": "significant",
+    "grade": "6th-grade",
+    "definitions": [
+      "Important or meaningful",
+      "Having great influence or effect",
+      "Notable or worthy of attention"
+    ]
+  },
+  {
+    "word": "strategy",
+    "grade": "6th-grade",
+    "definitions": [
+      "A plan or method for achieving a goal",
+      "An approach to solving a problem",
+      "A careful plan of action"
+    ]
+  },
+  {
+    "word": "theory",
+    "grade": "6th-grade",
+    "definitions": [
+      "A proposed explanation for a phenomenon",
+      "An idea used to explain something",
+      "A system of ideas intended to explain something"
+    ]
+  },
+  {
+    "word": "valid",
+    "grade": "6th-grade",
+    "definitions": [
+      "Logically sound or well-founded",
+      "Acceptable or legally binding",
+      "Justified or reasonable"
+    ]
+  },
+  {
+    "word": "verify",
+    "grade": "6th-grade",
+    "definitions": [
+      "To confirm or prove the truth of something",
+      "To make sure something is correct",
+      "To establish the accuracy of information"
+    ]
+  },
+  {
+    "word": "concept",
+    "grade": "6th-grade",
+    "definitions": [
+      "An abstract idea or general notion",
+      "A mental image of something",
+      "A general understanding of a subject"
+    ]
+  },
+  {
+    "word": "data",
+    "grade": "6th-grade",
+    "definitions": [
+      "Facts and statistics collected for reference",
+      "Information used for analysis or decision making",
+      "Numbers and facts that help explain things"
+    ]
+  },
+  {
+    "word": "formula",
+    "grade": "6th-grade",
+    "definitions": [
+      "A mathematical rule expressed with symbols",
+      "A fixed method for doing something",
+      "A set of instructions for solving a problem"
+    ]
+  },
+  {
+    "word": "hypothesis",
+    "grade": "6th-grade",
+    "definitions": [
+      "An educated guess that can be tested",
+      "A proposed explanation for a phenomenon",
+      "A tentative assumption made for investigation"
+    ]
+  },
+  {
+    "word": "persuade",
+    "grade": "6th-grade",
+    "definitions": [
+      "To convince someone to do or believe something",
+      "To influence someone through reasoning",
+      "To cause someone to take a course of action"
+    ]
+  },
+  {
+    "word": "adequate",
+    "grade": "7th-grade",
+    "definitions": [
+      "Sufficient to meet the requirements",
+      "Good enough for a specific need",
+      "Satisfactory but not outstanding"
+    ]
+  },
+  {
+    "word": "analyze",
+    "grade": "7th-grade",
+    "definitions": [
+      "To examine something in detail",
+      "To break down information to understand it better",
+      "To study the components of something carefully"
+    ]
+  },
+  {
+    "word": "benefit",
+    "grade": "7th-grade",
+    "definitions": [
+      "An advantage or help gained from something",
+      "Something that improves a situation",
+      "A favorable result or outcome"
+    ]
+  },
+  {
+    "word": "challenge",
+    "grade": "7th-grade",
+    "definitions": [
+      "A difficult task or problem to solve",
+      "A test of one's abilities or resources",
+      "An invitation to compete or struggle"
+    ]
+  },
+  {
+    "word": "community",
+    "grade": "7th-grade",
+    "definitions": [
+      "A group of people living in the same area",
+      "People who share common interests or goals",
+      "A group sharing a common environment"
+    ]
+  },
+  {
+    "word": "compare",
+    "grade": "7th-grade",
+    "definitions": [
+      "To examine the similarities and differences between things",
+      "To judge the qualities of different things",
+      "To note how things are alike or different"
+    ]
+  },
+  {
+    "word": "conserve",
+    "grade": "7th-grade",
+    "definitions": [
+      "To protect and preserve something from harm",
+      "To save or store something for future use",
+      "To use resources carefully to prevent waste"
+    ]
+  },
+  {
+    "word": "develop",
+    "grade": "7th-grade",
+    "definitions": [
+      "To grow or cause to grow gradually",
+      "To make progress or become more advanced",
+      "To create or bring into existence"
+    ]
+  },
+  {
+    "word": "discover",
+    "grade": "7th-grade",
+    "definitions": [
+      "To find something previously unknown",
+      "To become aware of something by accident",
+      "To learn about something for the first time"
+    ]
+  },
+  {
+    "word": "environment",
+    "grade": "7th-grade",
+    "definitions": [
+      "The surroundings or conditions in which a person lives",
+      "All the things around a living thing",
+      "The natural world including air, water, and land"
+    ]
+  },
+  {
+    "word": "experiment",
+    "grade": "7th-grade",
+    "definitions": [
+      "A scientific test to learn something new",
+      "A procedure carried out to test a hypothesis",
+      "A trial or test under controlled conditions"
+    ]
+  },
+  {
+    "word": "feature",
+    "grade": "7th-grade",
+    "definitions": [
+      "A distinctive characteristic or attribute",
+      "A prominent part of something",
+      "An important or interesting aspect"
+    ]
+  },
+  {
+    "word": "generate",
+    "grade": "7th-grade",
+    "definitions": [
+      "To produce or create something",
+      "To bring into existence",
+      "To cause something to happen or occur"
+    ]
+  },
+  {
+    "word": "heritage",
+    "grade": "7th-grade",
+    "definitions": [
+      "Property or traits inherited from ancestors",
+      "Traditions passed down through generations",
+      "Cultural practices and beliefs of a group"
+    ]
+  },
+  {
+    "word": "identify",
+    "grade": "7th-grade",
+    "definitions": [
+      "To recognize or establish the identity of something",
+      "To determine who or what someone or something is",
+      "To distinguish or recognize something"
+    ]
+  },
+  {
+    "word": "investigate",
+    "grade": "7th-grade",
+    "definitions": [
+      "To examine something thoroughly",
+      "To explore or research a topic in detail",
+      "To conduct an inquiry or study"
+    ]
+  },
+  {
+    "word": "journal",
+    "grade": "7th-grade",
+    "definitions": [
+      "A newspaper or magazine",
+      "A personal diary or record of events",
+      "A written record of daily experiences"
+    ]
+  },
+  {
+    "word": "knowledge",
+    "grade": "7th-grade",
+    "definitions": [
+      "Information or skills acquired through experience",
+      "Facts, truths, or principles learned or understood",
+      "Awareness gained through education or experience"
+    ]
+  },
+  {
+    "word": "literature",
+    "grade": "7th-grade",
+    "definitions": [
+      "Written works of fiction and non-fiction",
+      "Books and writings considered to have artistic merit",
+      "Creative writing including novels and poetry"
+    ]
+  },
+  {
+    "word": "method",
+    "grade": "7th-grade",
+    "definitions": [
+      "A particular way of doing something",
+      "A systematic approach to a task",
+      "A procedure or technique for accomplishing something"
+    ]
+  },
+  {
+    "word": "navigate",
+    "grade": "7th-grade",
+    "definitions": [
+      "To plan and direct the route of travel",
+      "To steer a ship or aircraft",
+      "To find one's way through an area"
+    ]
+  },
+  {
+    "word": "observe",
+    "grade": "7th-grade",
+    "definitions": [
+      "To watch something carefully",
+      "To notice or pay attention to something",
+      "To monitor or keep track of something"
+    ]
+  },
+  {
+    "word": "predict",
+    "grade": "7th-grade",
+    "definitions": [
+      "To say what will happen in the future",
+      "To forecast or anticipate events",
+      "To make an educated guess about outcomes"
+    ]
+  },
+  {
+    "word": "research",
+    "grade": "7th-grade",
+    "definitions": [
+      "To study something carefully to find answers",
+      "To investigate a topic systematically",
+      "To gather information about a subject"
+    ]
+  },
+  {
+    "word": "solution",
+    "grade": "7th-grade",
+    "definitions": [
+      "An answer to a problem or question",
+      "A way to solve a difficulty",
+      "The process of resolving an issue"
+    ]
+  },
+  {
+    "word": "technology",
+    "grade": "7th-grade",
+    "definitions": [
+      "The application of scientific knowledge for practical purposes",
+      "Tools and machines used in modern life",
+      "Methods and processes used in industry"
+    ]
+  },
+  {
+    "word": "unique",
+    "grade": "7th-grade",
+    "definitions": [
+      "Being the only one of its kind",
+      "Special and unlike anything else",
+      "Having no equal or equivalent"
+    ]
+  },
+  {
+    "word": "variety",
+    "grade": "7th-grade",
+    "definitions": [
+      "A range of different things",
+      "The quality of being diverse or different",
+      "A collection of various types of something"
+    ]
+  },
+  {
+    "word": "volume",
+    "grade": "7th-grade",
+    "definitions": [
+      "The amount of space something occupies",
+      "The loudness or intensity of sound",
+      "A book that is part of a series"
+    ]
+  },
+  {
+    "word": "witness",
+    "grade": "7th-grade",
+    "definitions": [
+      "To see an event take place",
+      "To observe something happening",
+      "To be present at an occurrence"
+    ]
+  },
+  {
+    "word": "persuade",
+    "grade": "7th-grade",
+    "definitions": [
+      "To convince someone to do or believe something",
+      "To influence someone through reasoning",
+      "To cause someone to take a course of action"
+    ]
+  },
+  {
+    "word": "hypothesis",
+    "grade": "7th-grade",
+    "definitions": [
+      "An educated guess that can be tested",
+      "A proposed explanation for a phenomenon",
+      "A tentative assumption made for investigation"
+    ]
+  },
+  {
+    "word": "accumulate",
+    "grade": "8th-grade",
+    "definitions": [
+      "To gather or collect over time",
+      "To build up or increase gradually",
+      "To amass or heap together"
+    ]
+  },
+  {
+    "word": "bias",
+    "grade": "8th-grade",
+    "definitions": [
+      "A preference or prejudice for or against something",
+      "An inclination that influences judgment",
+      "A tendency to favor one side unfairly"
+    ]
+  },
+  {
+    "word": "chronological",
+    "grade": "8th-grade",
+    "definitions": [
+      "Arranged in order of time",
+      "Following the sequence of events",
+      "Organized according to dates or periods"
+    ]
+  },
+  {
+    "word": "comprehensive",
+    "grade": "8th-grade",
+    "definitions": [
+      "Complete and thorough in scope",
+      "Including all or nearly all elements",
+      "Broad and detailed in coverage"
+    ]
+  },
+  {
+    "word": "debate",
+    "grade": "8th-grade",
+    "definitions": [
+      "A formal discussion or argument about a topic",
+      "A contest where opposing sides argue their views",
+      "A discussion involving different points of view"
+    ]
+  },
+  {
+    "word": "demonstrate",
+    "grade": "8th-grade",
+    "definitions": [
+      "To show or prove something clearly",
+      "To make something evident or understood",
+      "To display or exhibit something"
+    ]
+  },
+  {
+    "word": "evaluate",
+    "grade": "8th-grade",
+    "definitions": [
+      "To judge or determine the value of something",
+      "To assess the quality or significance",
+      "To form an opinion about something"
+    ]
+  },
+  {
+    "word": "factor",
+    "grade": "8th-grade",
+    "definitions": [
+      "A circumstance, fact, or influence that contributes to a result",
+      "A number that divides another number exactly",
+      "An element that plays a part in a situation"
+    ]
+  },
+  {
+    "word": "hypothesis",
+    "grade": "8th-grade",
+    "definitions": [
+      "An educated guess that can be tested",
+      "A proposed explanation for a phenomenon",
+      "A tentative assumption made for investigation"
+    ]
+  },
+  {
+    "word": "illustrate",
+    "grade": "8th-grade",
+    "definitions": [
+      "To explain or make something clear with examples",
+      "To provide pictures or diagrams",
+      "To make something visible or understandable"
+    ]
+  },
+  {
+    "word": "interpret",
+    "grade": "8th-grade",
+    "definitions": [
+      "To explain the meaning of something",
+      "To translate spoken language",
+      "To understand and convey the meaning of information"
+    ]
+  },
+  {
+    "word": "justify",
+    "grade": "8th-grade",
+    "definitions": [
+      "To show or prove to be right or reasonable",
+      "To provide evidence for a claim",
+      "To defend or support a position with reasons"
+    ]
+  },
+  {
+    "word": "maintain",
+    "grade": "8th-grade",
+    "definitions": [
+      "To keep something in good condition",
+      "To continue to have or do something",
+      "To preserve or sustain something"
+    ]
+  },
+  {
+    "word": "objective",
+    "grade": "8th-grade",
+    "definitions": [
+      "A goal or aim that one wants to achieve",
+      "Something that can be observed or measured",
+      "A target or desired result"
+    ]
+  },
+  {
+    "word": "perspective",
+    "grade": "8th-grade",
+    "definitions": [
+      "A particular way of viewing things",
+      "The attitude or opinion about something",
+      "A vista or view from a certain position"
+    ]
+  },
+  {
+    "word": "precise",
+    "grade": "8th-grade",
+    "definitions": [
+      "Exact and accurate in every detail",
+      "Clearly expressed or defined",
+      "Sharp and distinct in form or meaning"
+    ]
+  },
+  {
+    "word": "relevant",
+    "grade": "8th-grade",
+    "definitions": [
+      "Connected or related to the matter at hand",
+      "Applicable to the current situation",
+      "Having significance or bearing on the topic"
+    ]
+  },
+  {
+    "word": "significant",
+    "grade": "8th-grade",
+    "definitions": [
+      "Important or meaningful",
+      "Having great influence or effect",
+      "Notable or worthy of attention"
+    ]
+  },
+  {
+    "word": "strategy",
+    "grade": "8th-grade",
+    "definitions": [
+      "A plan or method for achieving a goal",
+      "An approach to solving a problem",
+      "A careful plan of action"
+    ]
+  },
+  {
+    "word": "theory",
+    "grade": "8th-grade",
+    "definitions": [
+      "A proposed explanation for a phenomenon",
+      "An idea used to explain something",
+      "A system of ideas intended to explain something"
+    ]
+  },
+  {
+    "word": "valid",
+    "grade": "8th-grade",
+    "definitions": [
+      "Logically sound or well-founded",
+      "Acceptable or legally binding",
+      "Justified or reasonable"
+    ]
+  },
+  {
+    "word": "verify",
+    "grade": "8th-grade",
+    "definitions": [
+      "To confirm or prove the truth of something",
+      "To make sure something is correct",
+      "To establish the accuracy of information"
+    ]
+  },
+  {
+    "word": "collaborate",
+    "grade": "8th-grade",
+    "definitions": [
+      "To work together with others on a project",
+      "To cooperate with someone to achieve a goal",
+      "To partner with others in a joint effort"
+    ]
+  },
+  {
+    "word": "evaluate",
+    "grade": "8th-grade",
+    "definitions": [
+      "To judge or determine the value of something",
+      "To assess the quality or significance",
+      "To form an opinion about something"
+    ]
+  },
+  {
+    "word": "adequate",
+    "grade": "9th-grade",
+    "definitions": [
+      "Sufficient to meet the requirements",
+      "Good enough for a specific need",
+      "Satisfactory but not outstanding"
+    ]
+  },
+  {
+    "word": "analyze",
+    "grade": "9th-grade",
+    "definitions": [
+      "To examine something in detail",
+      "To break down information to understand it better",
+      "To study the components of something carefully"
+    ]
+  },
+  {
+    "word": "benefit",
+    "grade": "9th-grade",
+    "definitions": [
+      "An advantage or help gained from something",
+      "Something that improves a situation",
+      "A favorable result or outcome"
+    ]
+  },
+  {
+    "word": "challenge",
+    "grade": "9th-grade",
+    "definitions": [
+      "A difficult task or problem to solve",
+      "A test of one's abilities or resources",
+      "An invitation to compete or struggle"
+    ]
+  },
+  {
+    "word": "community",
+    "grade": "9th-grade",
+    "definitions": [
+      "A group of people living in the same area",
+      "People who share common interests or goals",
+      "A group sharing a common environment"
+    ]
+  },
+  {
+    "word": "compare",
+    "grade": "9th-grade",
+    "definitions": [
+      "To examine the similarities and differences between things",
+      "To judge the qualities of different things",
+      "To note how things are alike or different"
+    ]
+  },
+  {
+    "word": "conserve",
+    "grade": "9th-grade",
+    "definitions": [
+      "To protect and preserve something from harm",
+      "To save or store something for future use",
+      "To use resources carefully to prevent waste"
+    ]
+  },
+  {
+    "word": "develop",
+    "grade": "9th-grade",
+    "definitions": [
+      "To grow or cause to grow gradually",
+      "To make progress or become more advanced",
+      "To create or bring into existence"
+    ]
+  },
+  {
+    "word": "discover",
+    "grade": "9th-grade",
+    "definitions": [
+      "To find something previously unknown",
+      "To become aware of something by accident",
+      "To learn about something for the first time"
+    ]
+  },
+  {
+    "word": "environment",
+    "grade": "9th-grade",
+    "definitions": [
+      "The surroundings or conditions in which a person lives",
+      "All the things around a living thing",
+      "The natural world including air, water, and land"
+    ]
+  },
+  {
+    "word": "experiment",
+    "grade": "9th-grade",
+    "definitions": [
+      "A scientific test to learn something new",
+      "A procedure carried out to test a hypothesis",
+      "A trial or test under controlled conditions"
+    ]
+  },
+  {
+    "word": "feature",
+    "grade": "9th-grade",
+    "definitions": [
+      "A distinctive characteristic or attribute",
+      "A prominent part of something",
+      "An important or interesting aspect"
+    ]
+  },
+  {
+    "word": "generate",
+    "grade": "9th-grade",
+    "definitions": [
+      "To produce or create something",
+      "To bring into existence",
+      "To cause something to happen or occur"
+    ]
+  },
+  {
+    "word": "heritage",
+    "grade": "9th-grade",
+    "definitions": [
+      "Property or traits inherited from ancestors",
+      "Traditions passed down through generations",
+      "Cultural practices and beliefs of a group"
+    ]
+  },
+  {
+    "word": "identify",
+    "grade": "9th-grade",
+    "definitions": [
+      "To recognize or establish the identity of something",
+      "To determine who or what someone or something is",
+      "To distinguish or recognize something"
+    ]
+  },
+  {
+    "word": "investigate",
+    "grade": "9th-grade",
+    "definitions": [
+      "To examine something thoroughly",
+      "To explore or research a topic in detail",
+      "To conduct an inquiry or study"
+    ]
+  },
+  {
+    "word": "journal",
+    "grade": "9th-grade",
+    "definitions": [
+      "A newspaper or magazine",
+      "A personal diary or record of events",
+      "A written record of daily experiences"
+    ]
+  },
+  {
+    "word": "knowledge",
+    "grade": "9th-grade",
+    "definitions": [
+      "Information or skills acquired through experience",
+      "Facts, truths, or principles learned or understood",
+      "Awareness gained through education or experience"
+    ]
+  },
+  {
+    "word": "literature",
+    "grade": "9th-grade",
+    "definitions": [
+      "Written works of fiction and non-fiction",
+      "Books and writings considered to have artistic merit",
+      "Creative writing including novels and poetry"
+    ]
+  },
+  {
+    "word": "method",
+    "grade": "9th-grade",
+    "definitions": [
+      "A particular way of doing something",
+      "A systematic approach to a task",
+      "A procedure or technique for accomplishing something"
+    ]
+  },
+  {
+    "word": "navigate",
+    "grade": "9th-grade",
+    "definitions": [
+      "To plan and direct the route of travel",
+      "To steer a ship or aircraft",
+      "To find one's way through an area"
+    ]
+  },
+  {
+    "word": "observe",
+    "grade": "9th-grade",
+    "definitions": [
+      "To watch something carefully",
+      "To notice or pay attention to something",
+      "To monitor or keep track of something"
+    ]
+  },
+  {
+    "word": "predict",
+    "grade": "9th-grade",
+    "definitions": [
+      "To say what will happen in the future",
+      "To forecast or anticipate events",
+      "To make an educated guess about outcomes"
+    ]
+  },
+  {
+    "word": "research",
+    "grade": "9th-grade",
+    "definitions": [
+      "To study something carefully to find answers",
+      "To investigate a topic systematically",
+      "To gather information about a subject"
+    ]
+  },
+  {
+    "word": "solution",
+    "grade": "9th-grade",
+    "definitions": [
+      "An answer to a problem or question",
+      "A way to solve a difficulty",
+      "The process of resolving an issue"
+    ]
+  },
+  {
+    "word": "technology",
+    "grade": "9th-grade",
+    "definitions": [
+      "The application of scientific knowledge for practical purposes",
+      "Tools and machines used in modern life",
+      "Methods and processes used in industry"
+    ]
+  },
+  {
+    "word": "unique",
+    "grade": "9th-grade",
+    "definitions": [
+      "Being the only one of its kind",
+      "Special and unlike anything else",
+      "Having no equal or equivalent"
+    ]
+  },
+  {
+    "word": "variety",
+    "grade": "9th-grade",
+    "definitions": [
+      "A range of different things",
+      "The quality of being diverse or different",
+      "A collection of various types of something"
+    ]
+  },
+  {
+    "word": "volume",
+    "grade": "9th-grade",
+    "definitions": [
+      "The amount of space something occupies",
+      "The loudness or intensity of sound",
+      "A book that is part of a series"
+    ]
+  },
+  {
+    "word": "witness",
+    "grade": "9th-grade",
+    "definitions": [
+      "To see an event take place",
+      "To observe something happening",
+      "To be present at an occurrence"
+    ]
+  },
+  {
+    "word": "collaborate",
+    "grade": "9th-grade",
+    "definitions": [
+      "To work together with others on a project",
+      "To cooperate with someone to achieve a goal",
+      "To partner with others in a joint effort"
+    ]
+  },
+  {
+    "word": "evaluate",
+    "grade": "9th-grade",
+    "definitions": [
+      "To judge or determine the value of something",
+      "To assess the quality or significance",
+      "To form an opinion about something"
+    ]
+  },
+  {
+    "word": "accumulate",
+    "grade": "10th-grade",
+    "definitions": [
+      "To gather or collect over time",
+      "To build up or increase gradually",
+      "To amass or heap together"
+    ]
+  },
+  {
+    "word": "bias",
+    "grade": "10th-grade",
+    "definitions": [
+      "A preference or prejudice for or against something",
+      "An inclination that influences judgment",
+      "A tendency to favor one side unfairly"
+    ]
+  },
+  {
+    "word": "chronological",
+    "grade": "10th-grade",
+    "definitions": [
+      "Arranged in order of time",
+      "Following the sequence of events",
+      "Organized according to dates or periods"
+    ]
+  },
+  {
+    "word": "comprehensive",
+    "grade": "10th-grade",
+    "definitions": [
+      "Complete and thorough in scope",
+      "Including all or nearly all elements",
+      "Broad and detailed in coverage"
+    ]
+  },
+  {
+    "word": "debate",
+    "grade": "10th-grade",
+    "definitions": [
+      "A formal discussion or argument about a topic",
+      "A contest where opposing sides argue their views",
+      "A discussion involving different points of view"
+    ]
+  },
+  {
+    "word": "demonstrate",
+    "grade": "10th-grade",
+    "definitions": [
+      "To show or prove something clearly",
+      "To make something evident or understood",
+      "To display or exhibit something"
+    ]
+  },
+  {
+    "word": "evaluate",
+    "grade": "10th-grade",
+    "definitions": [
+      "To judge or determine the value of something",
+      "To assess the quality or significance",
+      "To form an opinion about something"
+    ]
+  },
+  {
+    "word": "factor",
+    "grade": "10th-grade",
+    "definitions": [
+      "A circumstance, fact, or influence that contributes to a result",
+      "A number that divides another number exactly",
+      "An element that plays a part in a situation"
+    ]
+  },
+  {
+    "word": "hypothesis",
+    "grade": "10th-grade",
+    "definitions": [
+      "An educated guess that can be tested",
+      "A proposed explanation for a phenomenon",
+      "A tentative assumption made for investigation"
+    ]
+  },
+  {
+    "word": "illustrate",
+    "grade": "10th-grade",
+    "definitions": [
+      "To explain or make something clear with examples",
+      "To provide pictures or diagrams",
+      "To make something visible or understandable"
+    ]
+  },
+  {
+    "word": "persuade",
+    "grade": "10th-grade",
+    "definitions": [
+      "To convince someone to do or believe something",
+      "To influence someone through reasoning",
+      "To cause someone to take a course of action"
+    ]
+  },
+  {
+    "word": "interpret",
+    "grade": "10th-grade",
+    "definitions": [
+      "To explain the meaning of something",
+      "To translate spoken language",
+      "To understand and convey the meaning of information"
+    ]
+  },
+  {
+    "word": "justify",
+    "grade": "10th-grade",
+    "definitions": [
+      "To show or prove to be right or reasonable",
+      "To provide evidence for a claim",
+      "To defend or support a position with reasons"
+    ]
+  },
+  {
+    "word": "maintain",
+    "grade": "10th-grade",
+    "definitions": [
+      "To keep something in good condition",
+      "To continue to have or do something",
+      "To preserve or sustain something"
+    ]
+  },
+  {
+    "word": "objective",
+    "grade": "10th-grade",
+    "definitions": [
+      "A goal or aim that one wants to achieve",
+      "Something that can be observed or measured",
+      "A target or desired result"
+    ]
+  },
+  {
+    "word": "perspective",
+    "grade": "10th-grade",
+    "definitions": [
+      "A particular way of viewing things",
+      "The attitude or opinion about something",
+      "A vista or view from a certain position"
+    ]
+  },
+  {
+    "word": "precise",
+    "grade": "10th-grade",
+    "definitions": [
+      "Exact and accurate in every detail",
+      "Clearly expressed or defined",
+      "Sharp and distinct in form or meaning"
+    ]
+  },
+  {
+    "word": "relevant",
+    "grade": "10th-grade",
+    "definitions": [
+      "Connected or related to the matter at hand",
+      "Applicable to the current situation",
+      "Having significance or bearing on the topic"
+    ]
+  },
+  {
+    "word": "significant",
+    "grade": "10th-grade",
+    "definitions": [
+      "Important or meaningful",
+      "Having great influence or effect",
+      "Notable or worthy of attention"
+    ]
+  },
+  {
+    "word": "strategy",
+    "grade": "10th-grade",
+    "definitions": [
+      "A plan or method for achieving a goal",
+      "An approach to solving a problem",
+      "A careful plan of action"
+    ]
+  },
+  {
+    "word": "theory",
+    "grade": "10th-grade",
+    "definitions": [
+      "A proposed explanation for a phenomenon",
+      "An idea used to explain something",
+      "A system of ideas intended to explain something"
+    ]
+  },
+  {
+    "word": "valid",
+    "grade": "10th-grade",
+    "definitions": [
+      "Logically sound or well-founded",
+      "Acceptable or legally binding",
+      "Justified or reasonable"
+    ]
+  },
+  {
+    "word": "verify",
+    "grade": "10th-grade",
+    "definitions": [
+      "To confirm or prove the truth of something",
+      "To make sure something is correct",
+      "To establish the accuracy of information"
+    ]
+  },
+  {
+    "word": "adequate",
+    "grade": "11th-grade",
+    "definitions": [
+      "Sufficient to meet the requirements",
+      "Good enough for a specific need",
+      "Satisfactory but not outstanding"
+    ]
+  },
+  {
+    "word": "analyze",
+    "grade": "11th-grade",
+    "definitions": [
+      "To examine something in detail",
+      "To break down information to understand it better",
+      "To study the components of something carefully"
+    ]
+  },
+  {
+    "word": "benefit",
+    "grade": "11th-grade",
+    "definitions": [
+      "An advantage or help gained from something",
+      "Something that improves a situation",
+      "A favorable result or outcome"
+    ]
+  },
+  {
+    "word": "challenge",
+    "grade": "11th-grade",
+    "definitions": [
+      "A difficult task or problem to solve",
+      "A test of one's abilities or resources",
+      "An invitation to compete or struggle"
+    ]
+  },
+  {
+    "word": "community",
+    "grade": "11th-grade",
+    "definitions": [
+      "A group of people living in the same area",
+      "People who share common interests or goals",
+      "A group sharing a common environment"
+    ]
+  },
+  {
+    "word": "compare",
+    "grade": "11th-grade",
+    "definitions": [
+      "To examine the similarities and differences between things",
+      "To judge the qualities of different things",
+      "To note how things are alike or different"
+    ]
+  },
+  {
+    "word": "conserve",
+    "grade": "11th-grade",
+    "definitions": [
+      "To protect and preserve something from harm",
+      "To save or store something for future use",
+      "To use resources carefully to prevent waste"
+    ]
+  },
+  {
+    "word": "develop",
+    "grade": "11th-grade",
+    "definitions": [
+      "To grow or cause to grow gradually",
+      "To make progress or become more advanced",
+      "To create or bring into existence"
+    ]
+  },
+  {
+    "word": "discover",
+    "grade": "11th-grade",
+    "definitions": [
+      "To find something previously unknown",
+      "To become aware of something by accident",
+      "To learn about something for the first time"
+    ]
+  },
+  {
+    "word": "environment",
+    "grade": "11th-grade",
+    "definitions": [
+      "The surroundings or conditions in which a person lives",
+      "All the things around a living thing",
+      "The natural world including air, water, and land"
+    ]
+  },
+  {
+    "word": "experiment",
+    "grade": "11th-grade",
+    "definitions": [
+      "A scientific test to learn something new",
+      "A procedure carried out to test a hypothesis",
+      "A trial or test under controlled conditions"
+    ]
+  },
+  {
+    "word": "feature",
+    "grade": "11th-grade",
+    "definitions": [
+      "A distinctive characteristic or attribute",
+      "A prominent part of something",
+      "An important or interesting aspect"
+    ]
+  },
+  {
+    "word": "generate",
+    "grade": "11th-grade",
+    "definitions": [
+      "To produce or create something",
+      "To bring into existence",
+      "To cause something to happen or occur"
+    ]
+  },
+  {
+    "word": "heritage",
+    "grade": "11th-grade",
+    "definitions": [
+      "Property or traits inherited from ancestors",
+      "Traditions passed down through generations",
+      "Cultural practices and beliefs of a group"
+    ]
+  },
+  {
+    "word": "identify",
+    "grade": "11th-grade",
+    "definitions": [
+      "To recognize or establish the identity of something",
+      "To determine who or what someone or something is",
+      "To distinguish or recognize something"
+    ]
+  },
+  {
+    "word": "investigate",
+    "grade": "11th-grade",
+    "definitions": [
+      "To examine something thoroughly",
+      "To explore or research a topic in detail",
+      "To conduct an inquiry or study"
+    ]
+  },
+  {
+    "word": "journal",
+    "grade": "11th-grade",
+    "definitions": [
+      "A newspaper or magazine",
+      "A personal diary or record of events",
+      "A written record of daily experiences"
+    ]
+  },
+  {
+    "word": "knowledge",
+    "grade": "11th-grade",
+    "definitions": [
+      "Information or skills acquired through experience",
+      "Facts, truths, or principles learned or understood",
+      "Awareness gained through education or experience"
+    ]
+  },
+  {
+    "word": "literature",
+    "grade": "11th-grade",
+    "definitions": [
+      "Written works of fiction and non-fiction",
+      "Books and writings considered to have artistic merit",
+      "Creative writing including novels and poetry"
+    ]
+  },
+  {
+    "word": "method",
+    "grade": "11th-grade",
+    "definitions": [
+      "A particular way of doing something",
+      "A systematic approach to a task",
+      "A procedure or technique for accomplishing something"
+    ]
+  },
+  {
+    "word": "navigate",
+    "grade": "11th-grade",
+    "definitions": [
+      "To plan and direct the route of travel",
+      "To steer a ship or aircraft",
+      "To find one's way through an area"
+    ]
+  },
+  {
+    "word": "observe",
+    "grade": "11th-grade",
+    "definitions": [
+      "To watch something carefully",
+      "To notice or pay attention to something",
+      "To monitor or keep track of something"
+    ]
+  },
+  {
+    "word": "predict",
+    "grade": "11th-grade",
+    "definitions": [
+      "To say what will happen in the future",
+      "To forecast or anticipate events",
+      "To make an educated guess about outcomes"
+    ]
+  },
+  {
+    "word": "research",
+    "grade": "11th-grade",
+    "definitions": [
+      "To study something carefully to find answers",
+      "To investigate a topic systematically",
+      "To gather information about a subject"
+    ]
+  },
+  {
+    "word": "solution",
+    "grade": "11th-grade",
+    "definitions": [
+      "An answer to a problem or question",
+      "A way to solve a difficulty",
+      "The process of resolving an issue"
+    ]
+  },
+  {
+    "word": "technology",
+    "grade": "11th-grade",
+    "definitions": [
+      "The application of scientific knowledge for practical purposes",
+      "Tools and machines used in modern life",
+      "Methods and processes used in industry"
+    ]
+  },
+  {
+    "word": "unique",
+    "grade": "11th-grade",
+    "definitions": [
+      "Being the only one of its kind",
+      "Special and unlike anything else",
+      "Having no equal or equivalent"
+    ]
+  },
+  {
+    "word": "variety",
+    "grade": "11th-grade",
+    "definitions": [
+      "A range of different things",
+      "The quality of being diverse or different",
+      "A collection of various types of something"
+    ]
+  },
+  {
+    "word": "volume",
+    "grade": "11th-grade",
+    "definitions": [
+      "The amount of space something occupies",
+      "The loudness or intensity of sound",
+      "A book that is part of a series"
+    ]
+  },
+  {
+    "word": "witness",
+    "grade": "11th-grade",
+    "definitions": [
+      "To see an event take place",
+      "To observe something happening",
+      "To be present at an occurrence"
+    ]
+  },
+  {
+    "word": "collaborate",
+    "grade": "11th-grade",
+    "definitions": [
+      "To work together with others on a project",
+      "To cooperate with someone to achieve a goal",
+      "To partner with others in a joint effort"
+    ]
+  },
+  {
+    "word": "evaluate",
+    "grade": "11th-grade",
+    "definitions": [
+      "To judge or determine the value of something",
+      "To assess the quality or significance",
+      "To form an opinion about something"
+    ]
+  },
+  {
+    "word": "accumulate",
+    "grade": "12th-grade",
+    "definitions": [
+      "To gather or collect over time",
+      "To build up or increase gradually",
+      "To amass or heap together"
+    ]
+  },
+  {
+    "word": "bias",
+    "grade": "12th-grade",
+    "definitions": [
+      "A preference or prejudice for or against something",
+      "An inclination that influences judgment",
+      "A tendency to favor one side unfairly"
+    ]
+  },
+  {
+    "word": "chronological",
+    "grade": "12th-grade",
+    "definitions": [
+      "Arranged in order of time",
+      "Following the sequence of events",
+      "Organized according to dates or periods"
+    ]
+  },
+  {
+    "word": "comprehensive",
+    "grade": "12th-grade",
+    "definitions": [
+      "Complete and thorough in scope",
+      "Including all or nearly all elements",
+      "Broad and detailed in coverage"
+    ]
+  },
+  {
+    "word": "debate",
+    "grade": "12th-grade",
+    "definitions": [
+      "A formal discussion or argument about a topic",
+      "A contest where opposing sides argue their views",
+      "A discussion involving different points of view"
+    ]
+  },
+  {
+    "word": "demonstrate",
+    "grade": "12th-grade",
+    "definitions": [
+      "To show or prove something clearly",
+      "To make something evident or understood",
+      "To display or exhibit something"
+    ]
+  },
+  {
+    "word": "evaluate",
+    "grade": "12th-grade",
+    "definitions": [
+      "To judge or determine the value of something",
+      "To assess the quality or significance",
+      "To form an opinion about something"
+    ]
+  },
+  {
+    "word": "factor",
+    "grade": "12th-grade",
+    "definitions": [
+      "A circumstance, fact, or influence that contributes to a result",
+      "A number that divides another number exactly",
+      "An element that plays a part in a situation"
+    ]
+  },
+  {
+    "word": "hypothesis",
+    "grade": "12th-grade",
+    "definitions": [
+      "An educated guess that can be tested",
+      "A proposed explanation for a phenomenon",
+      "A tentative assumption made for investigation"
+    ]
+  },
+  {
+    "word": "illustrate",
+    "grade": "12th-grade",
+    "definitions": [
+      "To explain or make something clear with examples",
+      "To provide pictures or diagrams",
+      "To make something visible or understandable"
+    ]
+  },
+  {
+    "word": "interpret",
+    "grade": "12th-grade",
+    "definitions": [
+      "To explain the meaning of something",
+      "To translate spoken language",
+      "To understand and convey the meaning of information"
+    ]
+  },
+  {
+    "word": "justify",
+    "grade": "12th-grade",
+    "definitions": [
+      "To show or prove to be right or reasonable",
+      "To provide evidence for a claim",
+      "To defend or support a position with reasons"
+    ]
+  },
+  {
+    "word": "maintain",
+    "grade": "12th-grade",
+    "definitions": [
+      "To keep something in good condition",
+      "To continue to have or do something",
+      "To preserve or sustain something"
+    ]
+  },
+  {
+    "word": "objective",
+    "grade": "12th-grade",
+    "definitions": [
+      "A goal or aim that one wants to achieve",
+      "Something that can be observed or measured",
+      "A target or desired result"
+    ]
+  },
+  {
+    "word": "perspective",
+    "grade": "12th-grade",
+    "definitions": [
+      "A particular way of viewing things",
+      "The attitude or opinion about something",
+      "A vista or view from a certain position"
+    ]
+  },
+  {
+    "word": "precise",
+    "grade": "12th-grade",
+    "definitions": [
+      "Exact and accurate in every detail",
+      "Clearly expressed or defined",
+      "Sharp and distinct in form or meaning"
+    ]
+  },
+  {
+    "word": "relevant",
+    "grade": "12th-grade",
+    "definitions": [
+      "Connected or related to the matter at hand",
+      "Applicable to the current situation",
+      "Having significance or bearing on the topic"
+    ]
+  },
+  {
+    "word": "significant",
+    "grade": "12th-grade",
+    "definitions": [
+      "Important or meaningful",
+      "Having great influence or effect",
+      "Notable or worthy of attention"
+    ]
+  },
+  {
+    "word": "strategy",
+    "grade": "12th-grade",
+    "definitions": [
+      "A plan or method for achieving a goal",
+      "An approach to solving a problem",
+      "A careful plan of action"
+    ]
+  },
+  {
+    "word": "theory",
+    "grade": "12th-grade",
+    "definitions": [
+      "A proposed explanation for a phenomenon",
+      "An idea used to explain something",
+      "A system of ideas intended to explain something"
+    ]
+  },
+  {
+    "word": "valid",
+    "grade": "12th-grade",
+    "definitions": [
+      "Logically sound or well-founded",
+      "Acceptable or legally binding",
+      "Justified or reasonable"
+    ]
+  },
+  {
+    "word": "verify",
+    "grade": "12th-grade",
+    "definitions": [
+      "To confirm or prove the truth of something",
+      "To make sure something is correct",
+      "To establish the accuracy of information"
+    ]
+  },
+  {
+    "word": "persuade",
+    "grade": "12th-grade",
+    "definitions": [
+      "To convince someone to do or believe something",
+      "To influence someone through reasoning",
+      "To cause someone to take a course of action"
+    ]
+  },
+  {
+    "word": "collaborate",
+    "grade": "12th-grade",
+    "definitions": [
+      "To work together with others on a project",
+      "To cooperate with someone to achieve a goal",
+      "To partner with others in a joint effort"
+    ]
+  }
+]

@@ -1,0 +1,866 @@
+[
+  {
+    "word": "abstract",
+    "grade": "10th-grade",
+    "definitions": [
+      "Existing in thought or as an idea but not having a physical existence",
+      "Expressing or showing feelings instead of real objects or people",
+      "A summary of a document or article"
+    ]
+  },
+  {
+    "word": "divert",
+    "grade": "10th-grade",
+    "definitions": [
+      "To cause something to change direction",
+      "To distract someone's attention",
+      "To use something for a different purpose than originally intended"
+    ]
+  },
+  {
+    "word": "oppose",
+    "grade": "10th-grade",
+    "definitions": [
+      "To disagree with or disapprove of something",
+      "To compete against someone in a game or contest",
+      "To resist or fight against something"
+    ]
+  },
+  {
+    "word": "admonish",
+    "grade": "10th-grade",
+    "definitions": [
+      "To warn or reprimand someone gently but seriously",
+      "To advise or recommend strongly",
+      "To caution against something"
+    ]
+  },
+  {
+    "word": "dormant",
+    "grade": "10th-grade",
+    "definitions": [
+      "Inactive or sleeping",
+      "Not active or in use temporarily",
+      "Having the ability to become active in the future"
+    ]
+  },
+  {
+    "word": "panacea",
+    "grade": "10th-grade",
+    "definitions": [
+      "A solution or remedy for all problems or difficulties",
+      "A cure-all for any situation",
+      "An answer to all problems"
+    ]
+  },
+  {
+    "word": "advocate",
+    "grade": "10th-grade",
+    "definitions": [
+      "To publicly support or recommend a cause or policy",
+      "To plead on behalf of someone else",
+      "A person who supports a cause or policy"
+    ]
+  },
+  {
+    "word": "egocentric",
+    "grade": "10th-grade",
+    "definitions": [
+      "Thinking only of oneself and not considering others",
+      "Centered on the self rather than others",
+      "Self-centered and unable to consider other perspectives"
+    ]
+  },
+  {
+    "word": "perfunctory",
+    "grade": "10th-grade",
+    "definitions": [
+      "Done routinely and with little interest or care",
+      "Carried out with minimum effort",
+      "Performed merely as a routine duty"
+    ]
+  },
+  {
+    "word": "alternative",
+    "grade": "10th-grade",
+    "definitions": [
+      "One of two or more choices available",
+      "Different from the usual or traditional form",
+      "Offering a choice between two or more possibilities"
+    ]
+  },
+  {
+    "word": "elusive",
+    "grade": "10th-grade",
+    "definitions": [
+      "Difficult to find, catch, or achieve",
+      "Hard to remember or define precisely",
+      "Slipping away from grasp or pursuit"
+    ]
+  },
+  {
+    "word": "preposterous",
+    "grade": "10th-grade",
+    "definitions": [
+      "Completely ridiculous or absurd",
+      "Utterly unreasonable or illogical",
+      "So absurd as to be laughable"
+    ]
+  },
+  {
+    "word": "ambiguous",
+    "grade": "10th-grade",
+    "definitions": [
+      "Open to more than one interpretation",
+      "Having a double meaning",
+      "Unclear or inexact because a choice between alternatives has not been made"
+    ]
+  },
+  {
+    "word": "emulate",
+    "grade": "10th-grade",
+    "definitions": [
+      "To match or surpass someone through imitation",
+      "To strive to equal or excel someone",
+      "To copy in hope of equaling or bettering"
+    ]
+  },
+  {
+    "word": "precarious",
+    "grade": "10th-grade",
+    "definitions": [
+      "Not securely held or in position; dangerously likely to fall or collapse",
+      "Uncertain or risky in terms of success or safety",
+      "Lacking security, stability, or permanence"
+    ]
+  },
+  {
+    "word": "analogy",
+    "grade": "10th-grade",
+    "definitions": [
+      "A comparison between two things to show similarity",
+      "A relationship of likeness or similarity between two things",
+      "A similarity that allows the inference of other similarities"
+    ]
+  },
+  {
+    "word": "equitable",
+    "grade": "10th-grade",
+    "definitions": [
+      "Fair and impartial; treating everyone equally",
+      "Just and unbiased in distribution",
+      "Impartial and reasonable"
+    ]
+  },
+  {
+    "word": "precipitate",
+    "grade": "10th-grade",
+    "definitions": [
+      "To cause something to happen suddenly or too soon",
+      "To fall as a solid from a solution",
+      "To fall from clouds in the form of rain, snow, or hail"
+    ]
+  },
+  {
+    "word": "anarchy",
+    "grade": "10th-grade",
+    "definitions": [
+      "A state of disorder due to absence or non-recognition of authority",
+      "Absence of government and absolute freedom of the individual",
+      "Political disorder and confusion"
+    ]
+  },
+  {
+    "word": "eradicate",
+    "grade": "10th-grade",
+    "definitions": [
+      "To remove or destroy completely",
+      "To eliminate or get rid of entirely",
+      "To pull up by the roots"
+    ]
+  },
+  {
+    "word": "preclude",
+    "grade": "10th-grade",
+    "definitions": [
+      "To prevent from happening; make impossible",
+      "To exclude or hinder something from occurring",
+      "To make in advance ineffective"
+    ]
+  },
+  {
+    "word": "assiduous",
+    "grade": "10th-grade",
+    "definitions": [
+      "Showing great care, attention, and effort",
+      "Diligent and hard-working",
+      "Constant in application or attention"
+    ]
+  },
+  {
+    "word": "estrange",
+    "grade": "10th-grade",
+    "definitions": [
+      "To cause someone to become unfriendly or hostile",
+      "To arouse hostility or indifference in where there had formerly been love or friendliness",
+      "To cause to feel less emotionally connected"
+    ]
+  },
+  {
+    "word": "proficient",
+    "grade": "10th-grade",
+    "definitions": [
+      "Competent or skilled in doing something",
+      "Having mastered a subject or skill",
+      "Expert or accomplished"
+    ]
+  },
+  {
+    "word": "assimilate",
+    "grade": "10th-grade",
+    "definitions": [
+      "To absorb and integrate into one's knowledge or experience",
+      "To become similar to something or someone else",
+      "To digest and incorporate nutrients"
+    ]
+  },
+  {
+    "word": "exacerbate",
+    "grade": "10th-grade",
+    "definitions": [
+      "To make a problem, bad situation, or negative feeling worse",
+      "To increase the severity or bitterness of",
+      "To aggravate or intensify"
+    ]
+  },
+  {
+    "word": "propensity",
+    "grade": "10th-grade",
+    "definitions": [
+      "An inclination or natural tendency to behave in a particular way",
+      "A natural inclination or disposition",
+      "A tendency to choose or prefer something"
+    ]
+  },
+  {
+    "word": "augment",
+    "grade": "10th-grade",
+    "definitions": [
+      "To make something greater by adding to it; increase",
+      "To enlarge or enhance something",
+      "To add as a supplement"
+    ]
+  },
+  {
+    "word": "expedite",
+    "grade": "10th-grade",
+    "definitions": [
+      "To make an action or process happen sooner or be accomplished more quickly",
+      "To accelerate the progress of something",
+      "To hasten or speed up"
+    ]
+  },
+  {
+    "word": "qualitative",
+    "grade": "10th-grade",
+    "definitions": [
+      "Relating to the quality or standard of something rather than the quantity",
+      "Based on personal judgment or experience rather than measurable facts",
+      "Concerned with descriptive characteristics rather than numerical values"
+    ]
+  },
+  {
+    "word": "authentic",
+    "grade": "10th-grade",
+    "definitions": [
+      "Genuine; based on facts; not false or copied",
+      "Real or true in the same way as claimed",
+      "Made or done in the traditional way"
+    ]
+  },
+  {
+    "word": "fabricate",
+    "grade": "10th-grade",
+    "definitions": [
+      "To invent or make up something that is not true",
+      "To construct or manufacture something",
+      "To create something by assembling parts"
+    ]
+  },
+  {
+    "word": "quantitative",
+    "grade": "10th-grade",
+    "definitions": [
+      "Relating to, measuring, or measured by quantity rather than quality",
+      "Expressible as a quantity or relating to quantities",
+      "Based on numerical measurements"
+    ]
+  },
+  {
+    "word": "belligerent",
+    "grade": "10th-grade",
+    "definitions": [
+      "Hostile and aggressive",
+      "Demonstrating an eagerness to fight",
+      "Engaged in war or conflict"
+    ]
+  },
+  {
+    "word": "facilitate",
+    "grade": "10th-grade",
+    "definitions": [
+      "To make an action or process easy or easier",
+      "To help bring about or make possible",
+      "To assist in the progress of something"
+    ]
+  },
+  {
+    "word": "recalcitrant",
+    "grade": "10th-grade",
+    "definitions": [
+      "Resisting authority or control; refusing to obey",
+      "Difficult to manage or operate",
+      "Stubbornly defiant or disobedient"
+    ]
+  },
+  {
+    "word": "bolster",
+    "grade": "10th-grade",
+    "definitions": [
+      "To support or strengthen something",
+      "To boost or reinforce",
+      "To prop up or encourage"
+    ]
+  },
+  {
+    "word": "fortuitous",
+    "grade": "10th-grade",
+    "definitions": [
+      "Happening by accident or chance rather than design",
+      "Lucky or fortunate",
+      "Occurring unexpectedly in a happy way"
+    ]
+  },
+  {
+    "word": "redeem",
+    "grade": "10th-grade",
+    "definitions": [
+      "To compensate for the faults or mistakes of",
+      "To fulfill a promise or obligation",
+      "To exchange for something of value"
+    ]
+  },
+  {
+    "word": "bureaucratic",
+    "grade": "10th-grade",
+    "definitions": [
+      "Related to a bureaucracy or to government administration",
+      "Involving excessive red tape or complex procedures",
+      "Characterized by complicated administrative processes"
+    ]
+  },
+  {
+    "word": "fraudulent",
+    "grade": "10th-grade",
+    "definitions": [
+      "Dishonest and deceptive",
+      "Based on or done by fraud",
+      "Intended to deceive or swindle"
+    ]
+  },
+  {
+    "word": "rejuvenate",
+    "grade": "10th-grade",
+    "definitions": [
+      "To make someone or something younger or more energetic",
+      "To restore to youthful vigor or appearance",
+      "To revitalize or refresh"
+    ]
+  },
+  {
+    "word": "circumvent",
+    "grade": "10th-grade",
+    "definitions": [
+      "To find a way around a problem or obstacle",
+      "To avoid or get around by cleverness",
+      "To surround or enclose"
+    ]
+  },
+  {
+    "word": "heinous",
+    "grade": "10th-grade",
+    "definitions": [
+      "Completely evil or wicked",
+      "Shockingly evil or wicked",
+      "Horrifyingly atrocious"
+    ]
+  },
+  {
+    "word": "relegate",
+    "grade": "10th-grade",
+    "definitions": [
+      "To consign to an inferior rank or position",
+      "To assign to a lower position or class",
+      "To dismiss to a lower league or division"
+    ]
+  },
+  {
+    "word": "coalition",
+    "grade": "10th-grade",
+    "definitions": [
+      "A temporary alliance for combined action",
+      "A union of political parties or factions",
+      "An association of nations for common defense"
+    ]
+  },
+  {
+    "word": "hypothetical",
+    "grade": "10th-grade",
+    "definitions": [
+      "Based on a suggested idea rather than actual fact",
+      "Assumed for the sake of argument or discussion",
+      "Speculative or theoretical"
+    ]
+  },
+  {
+    "word": "relinquish",
+    "grade": "10th-grade",
+    "definitions": [
+      "To voluntarily give up or surrender something",
+      "To let go of or cease to hold something",
+      "To abandon or renounce"
+    ]
+  },
+  {
+    "word": "cohesive",
+    "grade": "10th-grade",
+    "definitions": [
+      "Sticking together firmly",
+      "Forming a united whole",
+      "Coordinating well and functioning as a unit"
+    ]
+  },
+  {
+    "word": "illicit",
+    "grade": "10th-grade",
+    "definitions": [
+      "Forbidden by law, rules, or custom",
+      "Not permitted or allowed",
+      "Unlawful or improper"
+    ]
+  },
+  {
+    "word": "repugnant",
+    "grade": "10th-grade",
+    "definitions": [
+      "Extremely distasteful or objectionable",
+      "Filled with disgust or hatred",
+      "Offensive to moral sensibilities"
+    ]
+  },
+  {
+    "word": "collaborate",
+    "grade": "10th-grade",
+    "definitions": [
+      "To work jointly with others on an activity",
+      "To cooperate with an enemy who has invaded your country",
+      "To work together toward a common goal"
+    ]
+  },
+  {
+    "word": "imminent",
+    "grade": "10th-grade",
+    "definitions": [
+      "About to happen; impending",
+      "Approaching rapidly",
+      "Threatening to occur immediately"
+    ]
+  },
+  {
+    "word": "resilient",
+    "grade": "10th-grade",
+    "definitions": [
+      "Able to withstand or recover quickly from difficult conditions",
+      "Bouncing back readily",
+      "Flexible and durable"
+    ]
+  },
+  {
+    "word": "comply",
+    "grade": "10th-grade",
+    "definitions": [
+      "To act in accordance with a wish or command",
+      "To conform to a rule or regulation",
+      "To submit to or follow a requirement"
+    ]
+  },
+  {
+    "word": "impetuous",
+    "grade": "10th-grade",
+    "definitions": [
+      "Acting or done quickly and without thought or care",
+      "Characterized by sudden impulses",
+      "Rashly impatient or impulsive"
+    ]
+  },
+  {
+    "word": "retrospect",
+    "grade": "10th-grade",
+    "definitions": [
+      "A survey or review of a past course of events",
+      "Looking back on or considering the past",
+      "Contemplation of past events"
+    ]
+  },
+  {
+    "word": "concurrent",
+    "grade": "10th-grade",
+    "definitions": [
+      "Existing, happening, or done at the same time",
+      "Simultaneous or coinciding",
+      "Running parallel or side by side"
+    ]
+  },
+  {
+    "word": "incongruous",
+    "grade": "10th-grade",
+    "definitions": [
+      "Not in harmony or keeping with the surroundings",
+      "Out of place or inappropriate",
+      "Lacking in harmony; incompatible"
+    ]
+  },
+  {
+    "word": "sanction",
+    "grade": "10th-grade",
+    "definitions": [
+      "Official permission or approval",
+      "A threatened penalty for disobeying a law",
+      "To officially approve or permit"
+    ]
+  },
+  {
+    "word": "connotation",
+    "grade": "10th-grade",
+    "definitions": [
+      "An idea or feeling that a word invokes in addition to its literal meaning",
+      "A secondary meaning or association",
+      "The emotional or cultural association of a word"
+    ]
+  },
+  {
+    "word": "indigenous",
+    "grade": "10th-grade",
+    "definitions": [
+      "Originating or occurring naturally in a particular place",
+      "Native to a particular area or region",
+      "Belonging to an area from the beginning"
+    ]
+  },
+  {
+    "word": "spontaneous",
+    "grade": "10th-grade",
+    "definitions": [
+      "Performed or occurring as a result of a sudden inner impulse",
+      "Natural and unrestrained",
+      "Arising without external stimulus"
+    ]
+  },
+  {
+    "word": "constituent",
+    "grade": "10th-grade",
+    "definitions": [
+      "A part of a whole",
+      "A citizen who elects or is represented by an elected official",
+      "One of the components that make up something"
+    ]
+  },
+  {
+    "word": "indiscriminate",
+    "grade": "10th-grade",
+    "definitions": [
+      "Done without careful judgment or discrimination",
+      "Random or arbitrary in selection",
+      "Lacking restraint or distinction"
+    ]
+  },
+  {
+    "word": "static",
+    "grade": "10th-grade",
+    "definitions": [
+      "Lacking movement, development, or change",
+      "Remaining in one place or position",
+      "Not dynamic or changing"
+    ]
+  },
+  {
+    "word": "contingent",
+    "grade": "10th-grade",
+    "definitions": [
+      "Dependent on or conditioned by something else",
+      "Possible but not certain to occur",
+      "A group of people forming part of a larger assembly"
+    ]
+  },
+  {
+    "word": "inherent",
+    "grade": "10th-grade",
+    "definitions": [
+      "Existing in something as a permanent, essential, or characteristic attribute",
+      "Naturally belonging to something",
+      "Built-in or intrinsic"
+    ]
+  },
+  {
+    "word": "stringent",
+    "grade": "10th-grade",
+    "definitions": [
+      "Strict, rigorous, or demanding",
+      "Constrained or tight in conditions",
+      "Severe or exacting"
+    ]
+  },
+  {
+    "word": "criteria",
+    "grade": "10th-grade",
+    "definitions": [
+      "A principle or standard by which something may be judged",
+      "The plural of criterion",
+      "Standards for evaluating or making decisions"
+    ]
+  },
+  {
+    "word": "jurisdiction",
+    "grade": "10th-grade",
+    "definitions": [
+      "The official power to make legal decisions and judgments",
+      "The territory within which authority can be exercised",
+      "The right or power to administer justice"
+    ]
+  },
+  {
+    "word": "subordinate",
+    "grade": "10th-grade",
+    "definitions": [
+      "Lower in rank, importance, or authority",
+      "Subject to the control of someone else",
+      "Secondary or inferior"
+    ]
+  },
+  {
+    "word": "demeanor",
+    "grade": "10th-grade",
+    "definitions": [
+      "Outward behavior or bearing",
+      "The way someone behaves toward other people",
+      "A person's apparent character as shown through their behavior"
+    ]
+  },
+  {
+    "word": "lax",
+    "grade": "10th-grade",
+    "definitions": [
+      "Not sufficiently strict, severe, or careful",
+      "Loose or not taut",
+      "Lacking rigor or discipline"
+    ]
+  },
+  {
+    "word": "subsidize",
+    "grade": "10th-grade",
+    "definitions": [
+      "To support financially",
+      "To assist with a subsidy",
+      "To help pay the costs of"
+    ]
+  },
+  {
+    "word": "deplore",
+    "grade": "10th-grade",
+    "definitions": [
+      "To feel or express strong disapproval of something",
+      "To regret or be sorry about something",
+      "To regard with sorrow or disappointment"
+    ]
+  },
+  {
+    "word": "meticulous",
+    "grade": "10th-grade",
+    "definitions": [
+      "Showing great attention to detail; very careful and precise",
+      "Marked by extreme care in treatment of details",
+      "Excessively careful or scrupulous"
+    ]
+  },
+  {
+    "word": "tenuous",
+    "grade": "10th-grade",
+    "definitions": [
+      "Very weak or slight",
+      "Thin or slender in texture",
+      "Lacking substance or strength"
+    ]
+  },
+  {
+    "word": "derogatory",
+    "grade": "10th-grade",
+    "definitions": [
+      "Expressing a low opinion; intended to hurt the reputation of a person or thing",
+      "Showing a critical or disrespectful attitude",
+      "Disparaging or belittling"
+    ]
+  },
+  {
+    "word": "negligent",
+    "grade": "10th-grade",
+    "definitions": [
+      "Failing to take proper care in doing something",
+      "Not giving sufficient attention or effort",
+      "Characterized by carelessness"
+    ]
+  },
+  {
+    "word": "travesty",
+    "grade": "10th-grade",
+    "definitions": [
+      "A false, absurd, or distorted representation of something",
+      "A grotesque imitation",
+      "A mockery or parody"
+    ]
+  },
+  {
+    "word": "disparity",
+    "grade": "10th-grade",
+    "definitions": [
+      "A great difference or inequality",
+      "A lack of equality or similarity",
+      "A noticeable difference in quality or character"
+    ]
+  },
+  {
+    "word": "nonchalant",
+    "grade": "10th-grade",
+    "definitions": [
+      "Feeling or appearing casually calm and relaxed",
+      "Indifferent or unconcerned",
+      "Cool and uninvolved"
+    ]
+  },
+  {
+    "word": "tumult",
+    "grade": "10th-grade",
+    "definitions": [
+      "A loud, confused noise, especially one made by a crowd",
+      "A state of confusion or disorder",
+      "Agitated or turbulent motion"
+    ]
+  },
+  {
+    "word": "disseminate",
+    "grade": "10th-grade",
+    "definitions": [
+      "To spread or disperse widely",
+      "To scatter or distribute broadly",
+      "To circulate information widely"
+    ]
+  },
+  {
+    "word": "oblivious",
+    "grade": "10th-grade",
+    "definitions": [
+      "Not aware of or not noticing something happening",
+      "Unmindful or unconscious of something",
+      "Lacking awareness or consciousness"
+    ]
+  },
+  {
+    "word": "unilateral",
+    "grade": "10th-grade",
+    "definitions": [
+      "Performed by or affecting only one person or group",
+      "Having only one side",
+      "Done by one party without the consent of another"
+    ]
+  },
+  {
+    "word": "dissident",
+    "grade": "10th-grade",
+    "definitions": [
+      "A person who opposes official policy",
+      "Someone who disagrees with established doctrines",
+      "One who challenges prevailing views"
+    ]
+  },
+  {
+    "word": "obscure",
+    "grade": "10th-grade",
+    "definitions": [
+      "Not clearly expressed or readily understood",
+      "Unknown or not famous",
+      "Not clearly visible or easily seen"
+    ]
+  },
+  {
+    "word": "validate",
+    "grade": "10th-grade",
+    "definitions": [
+      "To check or prove the validity or accuracy of something",
+      "To make legally valid or binding",
+      "To confirm or establish the authenticity of"
+    ]
+  },
+  {
+    "word": "distraught",
+    "grade": "10th-grade",
+    "definitions": [
+      "Deeply upset and agitated",
+      "Very worried or distressed",
+      "Emotionally overwhelmed"
+    ]
+  },
+  {
+    "word": "omnipotent",
+    "grade": "10th-grade",
+    "definitions": [
+      "Having unlimited power; able to do anything",
+      "Almighty or all-powerful",
+      "Possessing infinite authority"
+    ]
+  },
+  {
+    "word": "vindicate",
+    "grade": "10th-grade",
+    "definitions": [
+      "To clear someone of blame or suspicion",
+      "To show to be right or justified",
+      "To defend against criticism or attack"
+    ]
+  },
+  {
+    "word": "docile",
+    "grade": "10th-grade",
+    "definitions": [
+      "Ready to accept control or instruction; submissive",
+      "Gentle and easily managed",
+      "Easily taught or handled"
+    ]
+  },
+  {
+    "word": "opportune",
+    "grade": "10th-grade",
+    "definitions": [
+      "Especially convenient or appropriate for a particular action",
+      "Happening at a favorable time",
+      "Well-timed or suitable"
+    ]
+  },
+  {
+    "word": "zealot",
+    "grade": "10th-grade",
+    "definitions": [
+      "A person who is fanatically committed to a cause",
+      "An extremely zealous person",
+      "One who is uncompromising in pursuit of their religious, political, or other ideals"
+    ]
+  }
+]

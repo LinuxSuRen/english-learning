@@ -1,0 +1,1145 @@
+[
+  {
+    "word": "family",
+    "grade": "2nd-grade",
+    "definitions": [
+      "A group of people related by blood or marriage",
+      "Parents and children living together",
+      "Relatives who care for and support each other"
+    ]
+  },
+  {
+    "word": "grandpa",
+    "grade": "2nd-grade",
+    "definitions": [
+      "A father of one's father or mother",
+      "A male grandparent",
+      "An elderly man who is a parent to a parent"
+    ]
+  },
+  {
+    "word": "grandma",
+    "grade": "2nd-grade",
+    "definitions": [
+      "A mother of one's father or mother",
+      "A female grandparent",
+      "An elderly woman who is a parent to a parent"
+    ]
+  },
+  {
+    "word": "dad",
+    "grade": "2nd-grade",
+    "definitions": [
+      "A male parent",
+      "A father of a child",
+      "A man who is a parent"
+    ]
+  },
+  {
+    "word": "mom",
+    "grade": "2nd-grade",
+    "definitions": [
+      "A female parent",
+      "A mother of a child",
+      "A woman who is a parent"
+    ]
+  },
+  {
+    "word": "sister",
+    "grade": "2nd-grade",
+    "definitions": [
+      "A female sibling",
+      "A girl who has the same parents",
+      "A female brother"
+    ]
+  },
+  {
+    "word": "brother",
+    "grade": "2nd-grade",
+    "definitions": [
+      "A male sibling",
+      "A boy who has the same parents",
+      "A male sibling"
+    ]
+  },
+  {
+    "word": "me",
+    "grade": "2nd-grade",
+    "definitions": [
+      "The person speaking or writing",
+      "Used to refer to oneself",
+      "The first person pronoun"
+    ]
+  },
+  {
+    "word": "policeman",
+    "grade": "2nd-grade",
+    "definitions": [
+      "A male police officer",
+      "Someone who maintains law and order",
+      "A law enforcement officer"
+    ]
+  },
+  {
+    "word": "doctor",
+    "grade": "2nd-grade",
+    "definitions": [
+      "A person who treats sick people",
+      "A medical professional",
+      "Someone who helps people feel better"
+    ]
+  },
+  {
+    "word": "song",
+    "grade": "2nd-grade",
+    "definitions": [
+      "A musical composition with words",
+      "A poem set to music",
+      "A melody with lyrics"
+    ]
+  },
+  {
+    "word": "team",
+    "grade": "2nd-grade",
+    "definitions": [
+      "A group working together",
+      "A sports group competing together",
+      "People united for a common purpose"
+    ]
+  },
+  {
+    "word": "meat",
+    "grade": "2nd-grade",
+    "definitions": [
+      "Animal flesh used for food",
+      "Edible flesh of animals",
+      "Protein-rich food from animals"
+    ]
+  },
+  {
+    "word": "noodles",
+    "grade": "2nd-grade",
+    "definitions": [
+      "Long strips of pasta",
+      "A type of food made from flour and water",
+      "Thin strands of dough boiled for eating"
+    ]
+  },
+  {
+    "word": "rice",
+    "grade": "2nd-grade",
+    "definitions": [
+      "A grain used for food",
+      "Small white grains from a plant",
+      "A staple food in many countries"
+    ]
+  },
+  {
+    "word": "sweets",
+    "grade": "2nd-grade",
+    "definitions": [
+      "Candies or sugary treats",
+      "Sweet-tasting foods or desserts",
+      "Foods with a lot of sugar"
+    ]
+  },
+  {
+    "word": "children",
+    "grade": "2nd-grade",
+    "definitions": [
+      "Plural of child, young humans",
+      "Offspring or sons and daughters",
+      "Kids or young people"
+    ]
+  },
+  {
+    "word": "ginger",
+    "grade": "2nd-grade",
+    "definitions": [
+      "A spicy root used in cooking",
+      "A plant with a flavorful root",
+      "A spice with a hot taste"
+    ]
+  },
+  {
+    "word": "nice",
+    "grade": "2nd-grade",
+    "definitions": [
+      "Pleasant or agreeable",
+      "Kind and considerate",
+      "Satisfactory or adequate"
+    ]
+  },
+  {
+    "word": "tall",
+    "grade": "2nd-grade",
+    "definitions": [
+      "Having a greater than average height",
+      "Extending upward a great distance",
+      "Of more than average stature"
+    ]
+  },
+  {
+    "word": "short",
+    "grade": "2nd-grade",
+    "definitions": [
+      "Measuring a small distance from end to end",
+      "Not long in length or duration",
+      "Low in height or stature"
+    ]
+  },
+  {
+    "word": "boy",
+    "grade": "2nd-grade",
+    "definitions": [
+      "A male child or young man",
+      "A young male person",
+      "A male of any age from birth"
+    ]
+  },
+  {
+    "word": "girl",
+    "grade": "2nd-grade",
+    "definitions": [
+      "A female child or young woman",
+      "A young female person",
+      "A female of any age from birth"
+    ]
+  },
+  {
+    "word": "big",
+    "grade": "2nd-grade",
+    "definitions": [
+      "Large in size or extent",
+      "Of considerable dimensions",
+      "Great in amount or degree"
+    ]
+  },
+  {
+    "word": "small",
+    "grade": "2nd-grade",
+    "definitions": [
+      "Little in size or extent",
+      "Below average in dimensions",
+      "Tiny or miniature"
+    ]
+  },
+  {
+    "word": "no",
+    "grade": "2nd-grade",
+    "definitions": [
+      "Used to give a negative answer",
+      "Not at all or in no way",
+      "A word expressing refusal"
+    ]
+  },
+  {
+    "word": "yes",
+    "grade": "2nd-grade",
+    "definitions": [
+      "Used to give an affirmative answer",
+      "To agree or consent",
+      "A word expressing approval"
+    ]
+  },
+  {
+    "word": "name",
+    "grade": "2nd-grade",
+    "definitions": [
+      "A word or set of words by which a person is known",
+      "A label for a person, place, or thing",
+      "The title given to someone"
+    ]
+  },
+  {
+    "word": "sorry",
+    "grade": "2nd-grade",
+    "definitions": [
+      "Feeling regret for something done",
+      "Used to express apology",
+      "Feeling sympathy or pity"
+    ]
+  },
+  {
+    "word": "seven",
+    "grade": "2nd-grade",
+    "definitions": [
+      "The number following six",
+      "A group of seven items",
+      "Seven times the value of one"
+    ]
+  },
+  {
+    "word": "eight",
+    "grade": "2nd-grade",
+    "definitions": [
+      "The number following seven",
+      "A group of eight items",
+      "Eight times the value of one"
+    ]
+  },
+  {
+    "word": "nine",
+    "grade": "2nd-grade",
+    "definitions": [
+      "The number following eight",
+      "A group of nine items",
+      "Nine times the value of one"
+    ]
+  },
+  {
+    "word": "ten",
+    "grade": "2nd-grade",
+    "definitions": [
+      "The number following nine",
+      "A group of ten items",
+      "Ten times the value of one"
+    ]
+  },
+  {
+    "word": "elephant",
+    "grade": "2nd-grade",
+    "definitions": [
+      "A large gray animal with a trunk and big ears",
+      "The biggest land animal with long tusks",
+      "A mammal known for its intelligence and memory"
+    ]
+  },
+  {
+    "word": "swim",
+    "grade": "2nd-grade",
+    "definitions": [
+      "To move through water using limbs",
+      "To propel oneself in liquid",
+      "To travel through water by paddling"
+    ]
+  },
+  {
+    "word": "write",
+    "grade": "2nd-grade",
+    "definitions": [
+      "To form letters and words on paper",
+      "To create text with a pen or pencil",
+      "To compose written material"
+    ]
+  },
+  {
+    "word": "fly",
+    "grade": "2nd-grade",
+    "definitions": [
+      "To move through the air with wings",
+      "To travel in an aircraft",
+      "To move swiftly through the air"
+    ]
+  },
+  {
+    "word": "ride",
+    "grade": "2nd-grade",
+    "definitions": [
+      "To sit on and control a vehicle",
+      "To travel on a bicycle or horse",
+      "To be carried along in a vehicle"
+    ]
+  },
+  {
+    "word": "giraffe",
+    "grade": "2nd-grade",
+    "definitions": [
+      "A tall African animal with a long neck",
+      "The world's tallest land animal",
+      "A mammal with spotted legs and a long tongue"
+    ]
+  },
+  {
+    "word": "friend",
+    "grade": "2nd-grade",
+    "definitions": [
+      "A person whom one knows and likes",
+      "Someone who is not an enemy",
+      "A companion or acquaintance"
+    ]
+  },
+  {
+    "word": "young",
+    "grade": "2nd-grade",
+    "definitions": [
+      "Having lived or existed for a short time",
+      "Not old or aged",
+      "In the early period of life or growth"
+    ]
+  },
+  {
+    "word": "old",
+    "grade": "2nd-grade",
+    "definitions": [
+      "Having lived for a long time",
+      "Advanced in age",
+      "Not young or new"
+    ]
+  },
+  {
+    "word": "hair",
+    "grade": "2nd-grade",
+    "definitions": [
+      "The strands that grow from the scalp",
+      "Fibers that cover the head",
+      "Strands used for styling and grooming"
+    ]
+  },
+  {
+    "word": "head",
+    "grade": "2nd-grade",
+    "definitions": [
+      "The upper part of the body with the face",
+      "The part of the body that contains the brain",
+      "The top portion of a person's body"
+    ]
+  },
+  {
+    "word": "your",
+    "grade": "2nd-grade",
+    "definitions": [
+      "Belonging to or associated with the person being addressed",
+      "Used to indicate possession by the listener",
+      "The possessive form of you"
+    ]
+  },
+  {
+    "word": "long",
+    "grade": "2nd-grade",
+    "definitions": [
+      "Measuring a great distance from end to end",
+      "Extended in time or duration",
+      "Having considerable length"
+    ]
+  },
+  {
+    "word": "now",
+    "grade": "2nd-grade",
+    "definitions": [
+      "At the present time",
+      "Currently or at this moment",
+      "This instant or right away"
+    ]
+  },
+  {
+    "word": "look",
+    "grade": "2nd-grade",
+    "definitions": [
+      "To direct one's gaze toward something",
+      "To search or seek with the eyes",
+      "To appear or seem to be"
+    ]
+  },
+  {
+    "word": "kangaroo",
+    "grade": "2nd-grade",
+    "definitions": [
+      "An Australian animal that jumps and has a pouch",
+      "A marsupial with powerful hind legs",
+      "A mammal that carries babies in a pouch"
+    ]
+  },
+  {
+    "word": "lion",
+    "grade": "2nd-grade",
+    "definitions": [
+      "A large wild cat known as the king of the jungle",
+      "A fierce animal with a mane and loud roar",
+      "A carnivorous mammal from Africa"
+    ]
+  },
+  {
+    "word": "has",
+    "grade": "2nd-grade",
+    "definitions": [
+      "Possesses or owns something",
+      "Contains or holds within",
+      "Third person singular of 'have'"
+    ]
+  },
+  {
+    "word": "playground",
+    "grade": "2nd-grade",
+    "definitions": [
+      "An outdoor area for children to play",
+      "A recreational space with equipment",
+      "An area with swings and slides"
+    ]
+  },
+  {
+    "word": "slide",
+    "grade": "2nd-grade",
+    "definitions": [
+      "A smooth surface for sliding down",
+      "A piece of playground equipment",
+      "A chute for sliding down"
+    ]
+  },
+  {
+    "word": "swing",
+    "grade": "2nd-grade",
+    "definitions": [
+      "A seat suspended for swinging back and forth",
+      "A playground equipment for recreation",
+      "To move back and forth in a curve"
+    ]
+  },
+  {
+    "word": "seesaw",
+    "grade": "2nd-grade",
+    "definitions": [
+      "A long board balanced in the middle",
+      "A playground toy that rocks up and down",
+      "A plank balanced on a fulcrum"
+    ]
+  },
+  {
+    "word": "room",
+    "grade": "2nd-grade",
+    "definitions": [
+      "A space enclosed by walls",
+      "A division of a building",
+      "An area for a specific purpose"
+    ]
+  },
+  {
+    "word": "put",
+    "grade": "2nd-grade",
+    "definitions": [
+      "To place or set something somewhere",
+      "To position an object deliberately",
+      "To move something to a location"
+    ]
+  },
+  {
+    "word": "the",
+    "grade": "2nd-grade",
+    "definitions": [
+      "Used to refer to a specific thing",
+      "Used before a noun to make it definite",
+      "The definite article in English"
+    ]
+  },
+  {
+    "word": "in",
+    "grade": "2nd-grade",
+    "definitions": [
+      "Expressing location or position",
+      "Indicating presence in a place",
+      "Used to show where something is"
+    ]
+  },
+  {
+    "word": "bag",
+    "grade": "2nd-grade",
+    "definitions": [
+      "A container used to carry things",
+      "A school bag for books and supplies",
+      "A flexible container for holding items"
+    ]
+  },
+  {
+    "word": "dad",
+    "grade": "2nd-grade",
+    "definitions": [
+      "A male parent",
+      "A father of a child",
+      "A man who is a parent"
+    ]
+  },
+  {
+    "word": "box",
+    "grade": "2nd-grade",
+    "definitions": [
+      "A container with a lid",
+      "A rectangular storage container",
+      "A package for holding items"
+    ]
+  },
+  {
+    "word": "on",
+    "grade": "2nd-grade",
+    "definitions": [
+      "In contact with and supported by",
+      "Positioned at the upper surface of",
+      "Expressing location or position"
+    ]
+  },
+  {
+    "word": "chair",
+    "grade": "2nd-grade",
+    "definitions": [
+      "A piece of furniture for sitting",
+      "A seat with a back and legs",
+      "A place for one person to sit"
+    ]
+  },
+  {
+    "word": "desk",
+    "grade": "2nd-grade",
+    "definitions": [
+      "A piece of furniture for writing",
+      "A table used for schoolwork",
+      "A study surface with drawers"
+    ]
+  },
+  {
+    "word": "car",
+    "grade": "2nd-grade",
+    "definitions": [
+      "A vehicle with four wheels for transportation",
+      "A motorized vehicle for road travel",
+      "A machine used for personal transportation"
+    ]
+  },
+  {
+    "word": "look at",
+    "grade": "2nd-grade",
+    "definitions": [
+      "To direct one's gaze toward something",
+      "To observe or examine visually",
+      "To pay attention to by seeing"
+    ]
+  },
+  {
+    "word": "pencil case",
+    "grade": "2nd-grade",
+    "definitions": [
+      "A container for holding writing tools",
+      "A case for storing pencils and pens",
+      "A box to keep school supplies organized"
+    ]
+  },
+  {
+    "word": "dinner",
+    "grade": "2nd-grade",
+    "definitions": [
+      "The main meal of the day",
+      "An evening meal eaten at home",
+      "Food served as the principal meal"
+    ]
+  },
+  {
+    "word": "ready",
+    "grade": "2nd-grade",
+    "definitions": [
+      "Prepared for something",
+      "Completely prepared or organized",
+      "In a state of preparation"
+    ]
+  },
+  {
+    "word": "plate",
+    "grade": "2nd-grade",
+    "definitions": [
+      "A flat dish for serving food",
+      "A dish used for eating meals",
+      "A flat round dish for food"
+    ]
+  },
+  {
+    "word": "chopsticks",
+    "grade": "2nd-grade",
+    "definitions": [
+      "Twin sticks used for eating Asian food",
+      "Utensils for picking up food",
+      "Wooden or metal sticks for eating"
+    ]
+  },
+  {
+    "word": "bowl",
+    "grade": "2nd-grade",
+    "definitions": [
+      "A round container for food or liquid",
+      "A dish with curved sides",
+      "A container used for serving food"
+    ]
+  },
+  {
+    "word": "spoon",
+    "grade": "2nd-grade",
+    "definitions": [
+      "A utensil with a round bowl on a handle",
+      "An eating implement for liquids",
+      "A tool for stirring and serving food"
+    ]
+  },
+  {
+    "word": "sky",
+    "grade": "2nd-grade",
+    "definitions": [
+      "The upper atmosphere or firmament",
+      "The apparent vault overhead",
+      "The space above the earth"
+    ]
+  },
+  {
+    "word": "moon",
+    "grade": "2nd-grade",
+    "definitions": [
+      "The bright object that appears in the night sky",
+      "Earth's natural satellite that orbits our planet",
+      "A celestial body that gives light at night"
+    ]
+  },
+  {
+    "word": "bright",
+    "grade": "2nd-grade",
+    "definitions": [
+      "Giving out much light",
+      "Shining with intensity",
+      "Full of light or illumination"
+    ]
+  },
+  {
+    "word": "sun",
+    "grade": "2nd-grade",
+    "definitions": [
+      "The bright star that gives light and heat to Earth",
+      "The celestial body that rises in the morning",
+      "Our solar system's central star"
+    ]
+  },
+  {
+    "word": "star",
+    "grade": "2nd-grade",
+    "definitions": [
+      "A luminous celestial body in the night sky",
+      "A shining point of light in darkness",
+      "A heavenly body that twinkles at night"
+    ]
+  },
+  {
+    "word": "snake",
+    "grade": "2nd-grade",
+    "definitions": [
+      "A long reptile with no legs",
+      "An animal that slithers on the ground",
+      "A creature with a long, thin body"
+    ]
+  },
+  {
+    "word": "king",
+    "grade": "2nd-grade",
+    "definitions": [
+      "A male ruler of a country",
+      "A man who reigns over a kingdom",
+      "The most important piece in chess"
+    ]
+  },
+  {
+    "word": "good",
+    "grade": "2nd-grade",
+    "definitions": [
+      "Pleasant or agreeable",
+      "Kind and considerate",
+      "Satisfactory or adequate"
+    ]
+  },
+  {
+    "word": "morning",
+    "grade": "2nd-grade",
+    "definitions": [
+      "The early part of the day",
+      "The time from dawn to noon",
+      "The beginning of the day"
+    ]
+  },
+  {
+    "word": "afternoon",
+    "grade": "2nd-grade",
+    "definitions": [
+      "The time from noon to evening",
+      "The period following lunch",
+      "The hours between midday and sunset"
+    ]
+  },
+  {
+    "word": "evening",
+    "grade": "2nd-grade",
+    "definitions": [
+      "The latter part of the day",
+      "The time between afternoon and night",
+      "Hours after the workday ends"
+    ]
+  },
+  {
+    "word": "night",
+    "grade": "2nd-grade",
+    "definitions": [
+      "The time of darkness between sunset and sunrise",
+      "The period when people sleep",
+      "The hours of darkness in a day"
+    ]
+  },
+  {
+    "word": "day",
+    "grade": "2nd-grade",
+    "definitions": [
+      "A 24-hour period",
+      "The time between sunrise and sunset",
+      "A specific time or date"
+    ]
+  },
+  {
+    "word": "mum",
+    "grade": "2nd-grade",
+    "definitions": [
+      "A female parent",
+      "A mother of a child",
+      "A woman who is a parent"
+    ]
+  },
+  {
+    "word": "today",
+    "grade": "2nd-grade",
+    "definitions": [
+      "The present day or time",
+      "This day as opposed to yesterday or tomorrow",
+      "The current day of the week"
+    ]
+  },
+  {
+    "word": "very",
+    "grade": "2nd-grade",
+    "definitions": [
+      "To a great extent or degree",
+      "Extremely or exceptionally",
+      "In a high degree or manner"
+    ]
+  },
+  {
+    "word": "well",
+    "grade": "2nd-grade",
+    "definitions": [
+      "In a good or satisfactory manner",
+      "Thoroughly or completely",
+      "Used to indicate agreement"
+    ]
+  },
+  {
+    "word": "tall",
+    "grade": "2nd-grade",
+    "definitions": [
+      "Having a greater than average height",
+      "Extending upward a great distance",
+      "Of more than average stature"
+    ]
+  },
+  {
+    "word": "short",
+    "grade": "2nd-grade",
+    "definitions": [
+      "Measuring a small distance from end to end",
+      "Not long in length or duration",
+      "Low in height or stature"
+    ]
+  },
+  {
+    "word": "big",
+    "grade": "2nd-grade",
+    "definitions": [
+      "Large in size or extent",
+      "Of considerable dimensions",
+      "Great in amount or degree"
+    ]
+  },
+  {
+    "word": "small",
+    "grade": "2nd-grade",
+    "definitions": [
+      "Little in size or extent",
+      "Below average in dimensions",
+      "Tiny or miniature"
+    ]
+  },
+  {
+    "word": "no",
+    "grade": "2nd-grade",
+    "definitions": [
+      "Used to give a negative answer",
+      "Not at all or in no way",
+      "A word expressing refusal"
+    ]
+  },
+  {
+    "word": "yes",
+    "grade": "2nd-grade",
+    "definitions": [
+      "Used to give an affirmative answer",
+      "To agree or consent",
+      "A word expressing approval"
+    ]
+  },
+  {
+    "word": "beautiful",
+    "grade": "2nd-grade",
+    "definitions": [
+      "Pleasing to the senses or mind",
+      "Visually attractive or delightful",
+      "Having qualities that give great pleasure"
+    ]
+  },
+  {
+    "word": "ugly",
+    "grade": "2nd-grade",
+    "definitions": [
+      "Unpleasant or repulsive in appearance",
+      "Not visually appealing",
+      "Hideous or unattractive"
+    ]
+  },
+  {
+    "word": "from",
+    "grade": "2nd-grade",
+    "definitions": [
+      "Indicating the starting point",
+      "Used to show origin or source",
+      "Beginning at a certain place or time"
+    ]
+  },
+  {
+    "word": "China",
+    "grade": "2nd-grade",
+    "definitions": [
+      "A country in East Asia",
+      "The most populous country in the world",
+      "A nation known for its long history"
+    ]
+  },
+  {
+    "word": "Canada",
+    "grade": "2nd-grade",
+    "definitions": [
+      "A country in North America",
+      "A nation known for its maple syrup",
+      "The second largest country by area"
+    ]
+  },
+  {
+    "word": "Britain",
+    "grade": "2nd-grade",
+    "definitions": [
+      "A country consisting of England, Scotland, and Wales",
+      "The United Kingdom of Great Britain",
+      "An island nation in Europe"
+    ]
+  },
+  {
+    "word": "red",
+    "grade": "2nd-grade",
+    "definitions": [
+      "The color of blood or fire",
+      "A bright warm color at one end of the spectrum",
+      "The color associated with roses and apples"
+    ]
+  },
+  {
+    "word": "green",
+    "grade": "2nd-grade",
+    "definitions": [
+      "The color of grass and leaves",
+      "A color between blue and yellow",
+      "The hue associated with nature and plants"
+    ]
+  },
+  {
+    "word": "blue",
+    "grade": "2nd-grade",
+    "definitions": [
+      "The color of the sky and ocean",
+      "A cool color between green and violet",
+      "The hue of water and clear skies"
+    ]
+  },
+  {
+    "word": "yellow",
+    "grade": "2nd-grade",
+    "definitions": [
+      "The color of the sun and ripe bananas",
+      "A bright color between red and green on the spectrum",
+      "The hue of lemons and daffodils"
+    ]
+  },
+  {
+    "word": "orange",
+    "grade": "2nd-grade",
+    "definitions": [
+      "A round citrus fruit with a thick skin",
+      "A fruit that is both orange in color and name",
+      "A juicy fruit rich in vitamin C"
+    ]
+  },
+  {
+    "word": "brown",
+    "grade": "2nd-grade",
+    "definitions": [
+      "The color of chocolate and soil",
+      "A dark color like tree bark or earth",
+      "A warm color between red and yellow"
+    ]
+  },
+  {
+    "word": "one",
+    "grade": "2nd-grade",
+    "definitions": [
+      "The number following zero",
+      "A single person or thing",
+      "The smallest positive integer"
+    ]
+  },
+  {
+    "word": "two",
+    "grade": "2nd-grade",
+    "definitions": [
+      "The number following one",
+      "A pair or couple of things",
+      "Twice the value of one"
+    ]
+  },
+  {
+    "word": "three",
+    "grade": "2nd-grade",
+    "definitions": [
+      "The number following two",
+      "A trio or group of three",
+      "Three times the value of one"
+    ]
+  },
+  {
+    "word": "four",
+    "grade": "2nd-grade",
+    "definitions": [
+      "The number following three",
+      "A group of four items",
+      "Four times the value of one"
+    ]
+  },
+  {
+    "word": "five",
+    "grade": "2nd-grade",
+    "definitions": [
+      "The number following four",
+      "A group of five items",
+      "Five times the value of one"
+    ]
+  },
+  {
+    "word": "six",
+    "grade": "2nd-grade",
+    "definitions": [
+      "The number following five",
+      "A group of six items",
+      "Six times the value of one"
+    ]
+  },
+  {
+    "word": "seven",
+    "grade": "2nd-grade",
+    "definitions": [
+      "The number following six",
+      "A group of seven items",
+      "Seven times the value of one"
+    ]
+  },
+  {
+    "word": "eight",
+    "grade": "2nd-grade",
+    "definitions": [
+      "The number following seven",
+      "A group of eight items",
+      "Eight times the value of one"
+    ]
+  },
+  {
+    "word": "nine",
+    "grade": "2nd-grade",
+    "definitions": [
+      "The number following eight",
+      "A group of nine items",
+      "Nine times the value of one"
+    ]
+  },
+  {
+    "word": "ten",
+    "grade": "2nd-grade",
+    "definitions": [
+      "The number following nine",
+      "A group of ten items",
+      "Ten times the value of one"
+    ]
+  },
+  {
+    "word": "apple",
+    "grade": "2nd-grade",
+    "definitions": [
+      "A round fruit with red or green skin and a white inside",
+      "A common fruit that grows on trees",
+      "A healthy snack that is red, green, or yellow"
+    ]
+  },
+  {
+    "word": "banana",
+    "grade": "2nd-grade",
+    "definitions": [
+      "A curved yellow tropical fruit",
+      "A fruit with a thick peel and soft inside",
+      "A potassium-rich yellow fruit"
+    ]
+  },
+  {
+    "word": "peach",
+    "grade": "2nd-grade",
+    "definitions": [
+      "A round fruit with fuzzy skin and sweet flesh",
+      "A pink or yellow fruit with a stone inside",
+      "A juicy summer fruit"
+    ]
+  },
+  {
+    "word": "melon",
+    "grade": "2nd-grade",
+    "definitions": [
+      "A large round fruit with sweet juicy flesh",
+      "A fruit with a hard rind and soft interior",
+      "A refreshing summer fruit"
+    ]
+  },
+  {
+    "word": "pear",
+    "grade": "2nd-grade",
+    "definitions": [
+      "A fruit with a narrow neck and rounded base",
+      "A sweet fruit with a distinctive shape",
+      "A fruit with a smooth green or yellow skin"
+    ]
+  },
+  {
+    "word": "grape",
+    "grade": "2nd-grade",
+    "definitions": [
+      "A small round fruit that grows in bunches",
+      "A berry used to make wine",
+      "A sweet or sour fruit on vines"
+    ]
+  },
+  {
+    "word": "strawberry",
+    "grade": "2nd-grade",
+    "definitions": [
+      "A red fruit with small seeds on the surface",
+      "A sweet berry with a distinctive shape",
+      "A popular fruit for desserts"
+    ]
+  },
+  {
+    "word": "pineapple",
+    "grade": "2nd-grade",
+    "definitions": [
+      "A tropical fruit with a rough skin and sweet flesh",
+      "A fruit with a crown of leaves on top",
+      "A juicy fruit with a distinctive appearance"
+    ]
+  }
+]

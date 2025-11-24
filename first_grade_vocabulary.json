@@ -1,0 +1,803 @@
+[
+  {
+    "word": "hello",
+    "grade": "1st-grade",
+    "definitions": [
+      "A greeting used when meeting someone",
+      "A word said to start a conversation",
+      "An expression used to say hi"
+    ]
+  },
+  {
+    "word": "hi",
+    "grade": "1st-grade",
+    "definitions": [
+      "A casual greeting",
+      "A short way to say hello",
+      "An informal way to greet someone"
+    ]
+  },
+  {
+    "word": "goodbye",
+    "grade": "1st-grade",
+    "definitions": [
+      "A word said when leaving",
+      "A farewell expression",
+      "A way to say farewell to others"
+    ]
+  },
+  {
+    "word": "bye-bye",
+    "grade": "1st-grade",
+    "definitions": [
+      "An informal way to say goodbye",
+      "A casual farewell expression",
+      "A child's way of saying farewell"
+    ]
+  },
+  {
+    "word": "good morning",
+    "grade": "1st-grade",
+    "definitions": [
+      "A greeting used in the morning",
+      "A polite way to say hello in the morning",
+      "A morning salutation"
+    ]
+  },
+  {
+    "word": "how",
+    "grade": "1st-grade",
+    "definitions": [
+      "In what way or manner",
+      "To what extent or degree",
+      "Used to ask about methods or means"
+    ]
+  },
+  {
+    "word": "fine",
+    "grade": "1st-grade",
+    "definitions": [
+      "In good health or condition",
+      "Satisfactory or acceptable",
+      "Well or in good shape"
+    ]
+  },
+  {
+    "word": "thank you",
+    "grade": "1st-grade",
+    "definitions": [
+      "An expression of gratitude",
+      "Words used to show appreciation",
+      "A polite way to express thanks"
+    ]
+  },
+  {
+    "word": "and",
+    "grade": "1st-grade",
+    "definitions": [
+      "Used to connect words or phrases",
+      "In addition to or also",
+      "A conjunction to join elements"
+    ]
+  },
+  {
+    "word": "too",
+    "grade": "1st-grade",
+    "definitions": [
+      "Also or as well",
+      "Excessively or overly",
+      "In addition or besides"
+    ]
+  },
+  {
+    "word": "boy",
+    "grade": "1st-grade",
+    "definitions": [
+      "A male child or young man",
+      "A young male person",
+      "A male of any age from birth"
+    ]
+  },
+  {
+    "word": "girl",
+    "grade": "1st-grade",
+    "definitions": [
+      "A female child or young woman",
+      "A young female person",
+      "A female of any age from birth"
+    ]
+  },
+  {
+    "word": "Ms",
+    "grade": "1st-grade",
+    "definitions": [
+      "A title used before a woman's name",
+      "A respectful form of address for women",
+      "An honorific title for adult females"
+    ]
+  },
+  {
+    "word": "good afternoon",
+    "grade": "1st-grade",
+    "definitions": [
+      "A greeting used in the afternoon",
+      "A polite way to say hello during the day",
+      "A midday salutation"
+    ]
+  },
+  {
+    "word": "Mr",
+    "grade": "1st-grade",
+    "definitions": [
+      "A title used before a man's name",
+      "A respectful form of address for men",
+      "An honorific title for adult males"
+    ]
+  },
+  {
+    "word": "what",
+    "grade": "1st-grade",
+    "definitions": [
+      "Used to ask for information",
+      "Inquiring about something specific",
+      "A question word for asking details"
+    ]
+  },
+  {
+    "word": "your",
+    "grade": "1st-grade",
+    "definitions": [
+      "Belonging to or associated with the person being addressed",
+      "Used to indicate possession by the listener",
+      "The possessive form of you"
+    ]
+  },
+  {
+    "word": "name",
+    "grade": "1st-grade",
+    "definitions": [
+      "A word or set of words by which a person is known",
+      "A label for a person, place, or thing",
+      "The title given to someone"
+    ]
+  },
+  {
+    "word": "a",
+    "grade": "1st-grade",
+    "definitions": [
+      "Used before words beginning with consonants",
+      "An indefinite article",
+      "One of something not specified"
+    ]
+  },
+  {
+    "word": "panda",
+    "grade": "1st-grade",
+    "definitions": [
+      "A black and white bear from China",
+      "A mammal that eats bamboo",
+      "A beloved endangered species"
+    ]
+  },
+  {
+    "word": "now",
+    "grade": "1st-grade",
+    "definitions": [
+      "At the present time",
+      "Currently or at this moment",
+      "This instant or right away"
+    ]
+  },
+  {
+    "word": "it is",
+    "grade": "1st-grade",
+    "definitions": [
+      "A statement of existence or condition",
+      "Used to identify or describe something",
+      "A way to express what something is"
+    ]
+  },
+  {
+    "word": "it's",
+    "grade": "1st-grade",
+    "definitions": [
+      "A contraction of 'it is'",
+      "A shortened way to say 'it is'",
+      "An abbreviated form of 'it is'"
+    ]
+  },
+  {
+    "word": "red",
+    "grade": "1st-grade",
+    "definitions": [
+      "The color of blood or fire",
+      "A bright warm color at one end of the spectrum",
+      "The color associated with roses and apples"
+    ]
+  },
+  {
+    "word": "blue",
+    "grade": "1st-grade",
+    "definitions": [
+      "The color of the sky and ocean",
+      "A cool color between green and violet",
+      "The hue of water and clear skies"
+    ]
+  },
+  {
+    "word": "yellow",
+    "grade": "1st-grade",
+    "definitions": [
+      "The color of the sun and ripe bananas",
+      "A bright color between red and green on the spectrum",
+      "The hue of lemons and daffodils"
+    ]
+  },
+  {
+    "word": "green",
+    "grade": "1st-grade",
+    "definitions": [
+      "The color of grass and leaves",
+      "A color between blue and yellow",
+      "The hue associated with nature and plants"
+    ]
+  },
+  {
+    "word": "black",
+    "grade": "1st-grade",
+    "definitions": [
+      "The darkest color that absorbs all light",
+      "The color of coal and night",
+      "The absence of light in color"
+    ]
+  },
+  {
+    "word": "dog",
+    "grade": "1st-grade",
+    "definitions": [
+      "A furry animal that says woof and is often kept as a pet",
+      "Man's best friend, known for loyalty",
+      "A mammal that barks and wags its tail"
+    ]
+  },
+  {
+    "word": "desk",
+    "grade": "1st-grade",
+    "definitions": [
+      "A piece of furniture for writing",
+      "A table used for schoolwork",
+      "A study surface with drawers"
+    ]
+  },
+  {
+    "word": "chair",
+    "grade": "1st-grade",
+    "definitions": [
+      "A piece of furniture for sitting",
+      "A seat with a back and legs",
+      "A place for one person to sit"
+    ]
+  },
+  {
+    "word": "orange",
+    "grade": "1st-grade",
+    "definitions": [
+      "A round citrus fruit with a thick skin",
+      "A fruit that is both orange in color and name",
+      "A juicy fruit rich in vitamin C"
+    ]
+  },
+  {
+    "word": "how many",
+    "grade": "1st-grade",
+    "definitions": [
+      "Used to ask about quantity",
+      "A phrase to inquire about number",
+      "A way to ask for a count of items"
+    ]
+  },
+  {
+    "word": "one",
+    "grade": "1st-grade",
+    "definitions": [
+      "The number following zero",
+      "A single person or thing",
+      "The smallest positive integer"
+    ]
+  },
+  {
+    "word": "two",
+    "grade": "1st-grade",
+    "definitions": [
+      "The number following one",
+      "A pair or couple of things",
+      "Twice the value of one"
+    ]
+  },
+  {
+    "word": "three",
+    "grade": "1st-grade",
+    "definitions": [
+      "The number following two",
+      "A trio or group of three",
+      "Three times the value of one"
+    ]
+  },
+  {
+    "word": "four",
+    "grade": "1st-grade",
+    "definitions": [
+      "The number following three",
+      "A group of four items",
+      "Four times the value of one"
+    ]
+  },
+  {
+    "word": "five",
+    "grade": "1st-grade",
+    "definitions": [
+      "The number following four",
+      "A group of five items",
+      "Five times the value of one"
+    ]
+  },
+  {
+    "word": "six",
+    "grade": "1st-grade",
+    "definitions": [
+      "The number following five",
+      "A group of six items",
+      "Six times the value of one"
+    ]
+  },
+  {
+    "word": "seven",
+    "grade": "1st-grade",
+    "definitions": [
+      "The number following six",
+      "A group of seven items",
+      "Seven times the value of one"
+    ]
+  },
+  {
+    "word": "eight",
+    "grade": "1st-grade",
+    "definitions": [
+      "The number following seven",
+      "A group of eight items",
+      "Eight times the value of one"
+    ]
+  },
+  {
+    "word": "nine",
+    "grade": "1st-grade",
+    "definitions": [
+      "The number following eight",
+      "A group of nine items",
+      "Nine times the value of one"
+    ]
+  },
+  {
+    "word": "ten",
+    "grade": "1st-grade",
+    "definitions": [
+      "The number following nine",
+      "A group of ten items",
+      "Ten times the value of one"
+    ]
+  },
+  {
+    "word": "eleven",
+    "grade": "1st-grade",
+    "definitions": [
+      "The number following ten",
+      "One more than ten",
+      "Considered unlucky in some cultures"
+    ]
+  },
+  {
+    "word": "twelve",
+    "grade": "1st-grade",
+    "definitions": [
+      "The number following eleven",
+      "A dozen items or units",
+      "Twice six in numerical value"
+    ]
+  },
+  {
+    "word": "cap",
+    "grade": "1st-grade",
+    "definitions": [
+      "A type of hat with a visor",
+      "A covering for the head",
+      "A protective head covering"
+    ]
+  },
+  {
+    "word": "hand",
+    "grade": "1st-grade",
+    "definitions": [
+      "The extremity of the arm used for grasping",
+      "The part of the body at the end of the arm",
+      "A body part with fingers and a thumb"
+    ]
+  },
+  {
+    "word": "cat",
+    "grade": "1st-grade",
+    "definitions": [
+      "A small furry animal that says meow",
+      "A pet that likes to sleep and chase mice",
+      "A mammal with whiskers and retractable claws"
+    ]
+  },
+  {
+    "word": "book",
+    "grade": "1st-grade",
+    "definitions": [
+      "A set of printed pages bound together",
+      "Something you read to learn or for entertainment",
+      "An object with pages containing words or pictures"
+    ]
+  },
+  {
+    "word": "ruler",
+    "grade": "1st-grade",
+    "definitions": [
+      "A straight strip used for drawing straight lines",
+      "A measuring tool for length",
+      "A flat piece of wood or plastic with markings"
+    ]
+  },
+  {
+    "word": "pencil",
+    "grade": "1st-grade",
+    "definitions": [
+      "A thin stick used for writing or drawing",
+      "A writing tool made of wood with graphite inside",
+      "An instrument for making marks on paper"
+    ]
+  },
+  {
+    "word": "eraser",
+    "grade": "1st-grade",
+    "definitions": [
+      "A rubber tool for removing pencil marks",
+      "An object used to rub out writing",
+      "A tool for correcting mistakes on paper"
+    ]
+  },
+  {
+    "word": "pencil case",
+    "grade": "1st-grade",
+    "definitions": [
+      "A container for holding writing tools",
+      "A case for storing pencils and pens",
+      "A box to keep school supplies organized"
+    ]
+  },
+  {
+    "word": "backpack",
+    "grade": "1st-grade",
+    "definitions": [
+      "A bag carried on one's back",
+      "A pack for carrying books and supplies",
+      "A school bag with shoulder straps"
+    ]
+  },
+  {
+    "word": "school",
+    "grade": "1st-grade",
+    "definitions": [
+      "A building where children go to learn",
+      "An educational institution for students",
+      "A place where people study and attend classes"
+    ]
+  },
+  {
+    "word": "eye",
+    "grade": "1st-grade",
+    "definitions": [
+      "The organ of sight in the face",
+      "The part of the body used for seeing",
+      "A round opening that allows vision"
+    ]
+  },
+  {
+    "word": "ear",
+    "grade": "1st-grade",
+    "definitions": [
+      "The organ of hearing on the head",
+      "The part of the body used for listening",
+      "The side part of the head for hearing"
+    ]
+  },
+  {
+    "word": "mouth",
+    "grade": "1st-grade",
+    "definitions": [
+      "The opening in the face used for eating",
+      "The part of the face used for speaking",
+      "The opening through which food enters"
+    ]
+  },
+  {
+    "word": "nose",
+    "grade": "1st-grade",
+    "definitions": [
+      "The part of the face used for smelling",
+      "The organ for breathing and smelling",
+      "The feature in the middle of the face"
+    ]
+  },
+  {
+    "word": "foot",
+    "grade": "1st-grade",
+    "definitions": [
+      "The lower extremity of the leg",
+      "The body part used for standing and walking",
+      "A unit of measurement equal to 12 inches"
+    ]
+  },
+  {
+    "word": "face",
+    "grade": "1st-grade",
+    "definitions": [
+      "The front part of the head with eyes and mouth",
+      "The expression showing someone's feelings",
+      "The surface of something that can be seen"
+    ]
+  },
+  {
+    "word": "leg",
+    "grade": "1st-grade",
+    "definitions": [
+      "The limb that supports the body",
+      "The part of the body used for walking",
+      "A limb that extends from the hip to foot"
+    ]
+  },
+  {
+    "word": "arm",
+    "grade": "1st-grade",
+    "definitions": [
+      "The upper limb from shoulder to hand",
+      "The body part used for lifting and carrying",
+      "A limb connected to the shoulder"
+    ]
+  },
+  {
+    "word": "bird",
+    "grade": "1st-grade",
+    "definitions": [
+      "An animal with feathers and wings",
+      "A creature that can fly in the sky",
+      "A warm-blooded vertebrate with a beak"
+    ]
+  },
+  {
+    "word": "rabbit",
+    "grade": "1st-grade",
+    "definitions": [
+      "A small animal with long ears and a fluffy tail",
+      "A mammal that hops and eats carrots",
+      "A furry creature that lives in a burrow"
+    ]
+  },
+  {
+    "word": "chicken",
+    "grade": "1st-grade",
+    "definitions": [
+      "A domesticated bird raised for meat",
+      "A common farm animal with feathers",
+      "The meat from a domesticated fowl"
+    ]
+  },
+  {
+    "word": "duck",
+    "grade": "1st-grade",
+    "definitions": [
+      "A water bird with a flat bill",
+      "An animal that swims and quacks",
+      "A bird that can live on land and water"
+    ]
+  },
+  {
+    "word": "monkey",
+    "grade": "1st-grade",
+    "definitions": [
+      "An animal with a long tail that climbs trees",
+      "A primate that swings from branches",
+      "A smart animal that likes to play"
+    ]
+  },
+  {
+    "word": "tiger",
+    "grade": "1st-grade",
+    "definitions": [
+      "A large wild cat with stripes",
+      "A fierce predator from Asia",
+      "A big cat with orange and black stripes"
+    ]
+  },
+  {
+    "word": "panda",
+    "grade": "1st-grade",
+    "definitions": [
+      "A black and white bear from China",
+      "A mammal that eats bamboo",
+      "A beloved endangered species"
+    ]
+  },
+  {
+    "word": "elephant",
+    "grade": "1st-grade",
+    "definitions": [
+      "A large gray animal with a trunk and big ears",
+      "The biggest land animal with long tusks",
+      "A mammal known for its intelligence and memory"
+    ]
+  },
+  {
+    "word": "fish",
+    "grade": "1st-grade",
+    "definitions": [
+      "An animal that lives in water and has fins",
+      "A creature that swims and breathes through gills",
+      "An aquatic animal that people often eat"
+    ]
+  },
+  {
+    "word": "apple",
+    "grade": "1st-grade",
+    "definitions": [
+      "A round fruit with red or green skin and a white inside",
+      "A common fruit that grows on trees",
+      "A healthy snack that is red, green, or yellow"
+    ]
+  },
+  {
+    "word": "banana",
+    "grade": "1st-grade",
+    "definitions": [
+      "A curved yellow tropical fruit",
+      "A fruit with a thick peel and soft inside",
+      "A potassium-rich yellow fruit"
+    ]
+  },
+  {
+    "word": "peach",
+    "grade": "1st-grade",
+    "definitions": [
+      "A round fruit with fuzzy skin and sweet flesh",
+      "A pink or yellow fruit with a stone inside",
+      "A juicy summer fruit"
+    ]
+  },
+  {
+    "word": "melon",
+    "grade": "1st-grade",
+    "definitions": [
+      "A large round fruit with sweet juicy flesh",
+      "A fruit with a hard rind and soft interior",
+      "A refreshing summer fruit"
+    ]
+  },
+  {
+    "word": "pear",
+    "grade": "1st-grade",
+    "definitions": [
+      "A fruit with a narrow neck and rounded base",
+      "A sweet fruit with a distinctive shape",
+      "A fruit with a smooth green or yellow skin"
+    ]
+  },
+  {
+    "word": "orange",
+    "grade": "1st-grade",
+    "definitions": [
+      "A round citrus fruit with a thick skin",
+      "A fruit that is both orange in color and name",
+      "A juicy fruit rich in vitamin C"
+    ]
+  },
+  {
+    "word": "grape",
+    "grade": "1st-grade",
+    "definitions": [
+      "A small round fruit that grows in bunches",
+      "A berry used to make wine",
+      "A sweet or sour fruit on vines"
+    ]
+  },
+  {
+    "word": "strawberry",
+    "grade": "1st-grade",
+    "definitions": [
+      "A red fruit with small seeds on the surface",
+      "A sweet berry with a distinctive shape",
+      "A popular fruit for desserts"
+    ]
+  },
+  {
+    "word": "pineapple",
+    "grade": "1st-grade",
+    "definitions": [
+      "A tropical fruit with a rough skin and sweet flesh",
+      "A fruit with a crown of leaves on top",
+      "A juicy fruit with a distinctive appearance"
+    ]
+  },
+  {
+    "word": "purple",
+    "grade": "1st-grade",
+    "definitions": [
+      "A color made by mixing red and blue",
+      "The color of grapes and violets",
+      "A rich color between red and blue"
+    ]
+  },
+  {
+    "word": "brown",
+    "grade": "1st-grade",
+    "definitions": [
+      "The color of chocolate and soil",
+      "A dark color like tree bark or earth",
+      "A warm color between red and yellow"
+    ]
+  },
+  {
+    "word": "white",
+    "grade": "1st-grade",
+    "definitions": [
+      "The color of snow and milk",
+      "The lightest color that reflects all light",
+      "The hue of clouds and paper"
+    ]
+  },
+  {
+    "word": "pink",
+    "grade": "1st-grade",
+    "definitions": [
+      "A light red color",
+      "A pale shade between red and white",
+      "The color of cherry blossoms"
+    ]
+  },
+  {
+    "word": "blue",
+    "grade": "1st-grade",
+    "definitions": [
+      "The color of the sky and ocean",
+      "A cool color between green and violet",
+      "The hue of water and clear skies"
+    ]
+  },
+  {
+    "word": "black",
+    "grade": "1st-grade",
+    "definitions": [
+      "The darkest color that absorbs all light",
+      "The color of coal and night",
+      "The absence of light in color"
+    ]
+  },
+  {
+    "word": "moon",
+    "grade": "1st-grade",
+    "definitions": [
+      "The bright object that appears in the night sky",
+      "Earth's natural satellite that orbits our planet",
+      "A celestial body that gives light at night"
+    ]
+  },
+  {
+    "word": "star",
+    "grade": "1st-grade",
+    "definitions": [
+      "A luminous celestial body in the night sky",
+      "A shining point of light in darkness",
+      "A heavenly body that twinkles at night"
+    ]
+  }
+]

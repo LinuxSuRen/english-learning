@@ -1,0 +1,920 @@
+[
+  {
+    "word": "anachronistic",
+    "grade": "12th-grade",
+    "definitions": [
+      "Chronologically misplaced; belonging to a different time period",
+      "Something that is outdated or obsolete",
+      "A person or thing that seems to belong to a different era"
+    ]
+  },
+  {
+    "word": "empathy",
+    "grade": "12th-grade",
+    "definitions": [
+      "The ability to understand and share the feelings of another",
+      "The capacity to put oneself in another's position",
+      "Sensitivity to or understanding of another's situation"
+    ]
+  },
+  {
+    "word": "perfidious",
+    "grade": "12th-grade",
+    "definitions": [
+      "Deceitful and untrustworthy",
+      "Faithless or treacherous",
+      "Betraying trust or confidence"
+    ]
+  },
+  {
+    "word": "abbreviate",
+    "grade": "12th-grade",
+    "definitions": [
+      "To make shorter or briefer",
+      "To reduce in length by omitting parts",
+      "To shorten a word or phrase"
+    ]
+  },
+  {
+    "word": "emulate",
+    "grade": "12th-grade",
+    "definitions": [
+      "To match or surpass someone through imitation",
+      "To strive to equal or excel someone",
+      "To copy in hope of equaling or bettering"
+    ]
+  },
+  {
+    "word": "precocious",
+    "grade": "12th-grade",
+    "definitions": [
+      "Exceptionally advanced or mature in development",
+      "Developing early or prematurely",
+      "Showing unusually early development or maturity"
+    ]
+  },
+  {
+    "word": "abdicate",
+    "grade": "12th-grade",
+    "definitions": [
+      "To formally give up the throne or power",
+      "To renounce a position of responsibility",
+      "To fail to fulfill or undertake a responsibility"
+    ]
+  },
+  {
+    "word": "enervating",
+    "grade": "12th-grade",
+    "definitions": [
+      "Making one feel drained of energy or vitality",
+      "Weakening or draining of strength",
+      "Causing a loss of energy or vitality"
+    ]
+  },
+  {
+    "word": "pretentious",
+    "grade": "12th-grade",
+    "definitions": [
+      "Attempting to impress by affecting greater importance",
+      "Making unjustified claims or displaying false importance",
+      "Showing off in an exaggerated way"
+    ]
+  },
+  {
+    "word": "abstinence",
+    "grade": "12th-grade",
+    "definitions": [
+      "The practice of refraining from indulging in something",
+      "Self-restraint or denial of desires",
+      "The act of refraining from satisfying an appetite"
+    ]
+  },
+  {
+    "word": "enhance",
+    "grade": "12th-grade",
+    "definitions": [
+      "To intensify, increase, or improve the quality of",
+      "To raise to a higher value or greater status",
+      "To make more attractive or valuable"
+    ]
+  },
+  {
+    "word": "procrastinate",
+    "grade": "12th-grade",
+    "definitions": [
+      "To delay or postpone action; put off doing something",
+      "To defer tasks unnecessarily",
+      "To postpone or delay needlessly"
+    ]
+  },
+  {
+    "word": "adulation",
+    "grade": "12th-grade",
+    "definitions": [
+      "Excessive admiration or praise",
+      "Obsequious flattery or servile admiration",
+      "Overly enthusiastic appreciation or approval"
+    ]
+  },
+  {
+    "word": "ephemeral",
+    "grade": "12th-grade",
+    "definitions": [
+      "Lasting for a very short time",
+      "Brief or transitory",
+      "Fleeting or momentary"
+    ]
+  },
+  {
+    "word": "prosaic",
+    "grade": "12th-grade",
+    "definitions": [
+      "Lacking in excitement or imagination; dull and commonplace",
+      "Matter-of-fact or unimaginative",
+      "Ordinary or commonplace in nature"
+    ]
+  },
+  {
+    "word": "adversity",
+    "grade": "12th-grade",
+    "definitions": [
+      "A state of hardship or misfortune",
+      "Difficulties or setbacks in life",
+      "Opposition or resistance"
+    ]
+  },
+  {
+    "word": "evanescent",
+    "grade": "12th-grade",
+    "definitions": [
+      "Soon passing away or disappearing",
+      "Vanishing quickly like vapor",
+      "Fleeting or transient"
+    ]
+  },
+  {
+    "word": "prosperity",
+    "grade": "12th-grade",
+    "definitions": [
+      "The state of being successful or thriving",
+      "Good fortune and financial success",
+      "Flourishing or thriving condition"
+    ]
+  },
+  {
+    "word": "aesthetic",
+    "grade": "12th-grade",
+    "definitions": [
+      "Concerned with beauty or the appreciation of beauty",
+      "Having a pleasing appearance",
+      "Relating to the philosophical study of beauty and taste"
+    ]
+  },
+  {
+    "word": "exasperation",
+    "grade": "12th-grade",
+    "definitions": [
+      "A feeling of intense irritation or annoyance",
+      "The state of being frustrated or annoyed",
+      "Extreme irritation or vexation"
+    ]
+  },
+  {
+    "word": "provocative",
+    "grade": "12th-grade",
+    "definitions": [
+      "Causing anger or another strong reaction",
+      "Intended to stimulate or excite",
+      "Provoking thought or discussion"
+    ]
+  },
+  {
+    "word": "amicable",
+    "grade": "12th-grade",
+    "definitions": [
+      "Characterized by friendliness and absence of discord",
+      "Friendly and pleasant",
+      "Marked by goodwill and cooperation"
+    ]
+  },
+  {
+    "word": "exemplary",
+    "grade": "12th-grade",
+    "definitions": [
+      "Serving as a desirable model",
+      "Outstandingly good",
+      "Worthy of imitation"
+    ]
+  },
+  {
+    "word": "prudent",
+    "grade": "12th-grade",
+    "definitions": [
+      "Acting with or showing care and thought for the future",
+      "Wise in practical affairs",
+      "Cautious and sensible"
+    ]
+  },
+  {
+    "word": "anecdote",
+    "grade": "12th-grade",
+    "definitions": [
+      "A short account of an interesting or humorous incident",
+      "A brief story about a real person or event",
+      "A personal account of some incident"
+    ]
+  },
+  {
+    "word": "extenuating",
+    "grade": "12th-grade",
+    "definitions": [
+      "Serving to lessen the seriousness of guilt or offense",
+      "Making less guilty or more forgivable",
+      "Mitigating or excusing circumstances"
+    ]
+  },
+  {
+    "word": "querulous",
+    "grade": "12th-grade",
+    "definitions": [
+      "Complaining in a whining manner",
+      "Given to complaining or grumbling",
+      "Habitually complaining"
+    ]
+  },
+  {
+    "word": "anonymous",
+    "grade": "12th-grade",
+    "definitions": [
+      "Having no name or identity",
+      "Unknown or unacknowledged by name",
+      "Without the name of the author or creator"
+    ]
+  },
+  {
+    "word": "florid",
+    "grade": "12th-grade",
+    "definitions": [
+      "Having a red or flushed complexion",
+      "Elaborately or excessively intricate or ornate",
+      "Flowery or elaborate in style"
+    ]
+  },
+  {
+    "word": "rancorous",
+    "grade": "12th-grade",
+    "definitions": [
+      "Characterized by bitterness or resentment",
+      "Full of hate or ill will",
+      "Showing deep bitterness or hostility"
+    ]
+  },
+  {
+    "word": "antagonist",
+    "grade": "12th-grade",
+    "definitions": [
+      "One who opposes or competes against another",
+      "A character who opposes the main character",
+      "A person who actively opposes or fights against something"
+    ]
+  },
+  {
+    "word": "fortuitous",
+    "grade": "12th-grade",
+    "definitions": [
+      "Happening by accident or chance rather than design",
+      "Lucky or fortunate",
+      "Occurring unexpectedly in a happy way"
+    ]
+  },
+  {
+    "word": "reclusive",
+    "grade": "12th-grade",
+    "definitions": [
+      "Living in seclusion or isolation",
+      "Withdrawn from society",
+      "Preferring to live alone"
+    ]
+  },
+  {
+    "word": "arid",
+    "grade": "12th-grade",
+    "definitions": [
+      "Having little or no rain; extremely dry",
+      "Lacking in interest or excitement",
+      "Barren or desolate"
+    ]
+  },
+  {
+    "word": "frugal",
+    "grade": "12th-grade",
+    "definitions": [
+      "Economical in use or expenditure",
+      "Simple and inexpensive in lifestyle",
+      "Avoiding waste or extravagance"
+    ]
+  },
+  {
+    "word": "reconciliation",
+    "grade": "12th-grade",
+    "definitions": [
+      "The restoration of friendly relations",
+      "The action of making one view compatible with another",
+      "A meeting or settlement of differences"
+    ]
+  },
+  {
+    "word": "assiduous",
+    "grade": "12th-grade",
+    "definitions": [
+      "Showing great care, attention, and effort",
+      "Diligent and hard-working",
+      "Constant in application or attention"
+    ]
+  },
+  {
+    "word": "hackneyed",
+    "grade": "12th-grade",
+    "definitions": [
+      "Lacking significance through overuse; stale",
+      "Repeated so often as to have lost freshness",
+      "Overused and therefore uninteresting"
+    ]
+  },
+  {
+    "word": "renovation",
+    "grade": "12th-grade",
+    "definitions": [
+      "The action or process of renovating something",
+      "The state of being restored or improved",
+      "A thorough repair or restoration"
+    ]
+  },
+  {
+    "word": "asylum",
+    "grade": "12th-grade",
+    "definitions": [
+      "Protection or safety from persecution",
+      "A place of refuge or safety",
+      "An institution for the care of the mentally ill"
+    ]
+  },
+  {
+    "word": "haughty",
+    "grade": "12th-grade",
+    "definitions": [
+      "Arrogantly superior and disdainful",
+      "Proud and looking down on others",
+      "Having or showing irrational pride"
+    ]
+  },
+  {
+    "word": "resilient",
+    "grade": "12th-grade",
+    "definitions": [
+      "Able to withstand or recover quickly from difficult conditions",
+      "Bouncing back readily",
+      "Flexible and durable"
+    ]
+  },
+  {
+    "word": "benevolent",
+    "grade": "12th-grade",
+    "definitions": [
+      "Well-meaning and kindly",
+      "Generous or charitable in nature",
+      "Having a disposition to do good"
+    ]
+  },
+  {
+    "word": "hedonist",
+    "grade": "12th-grade",
+    "definitions": [
+      "A person who believes that pleasure is the most important thing",
+      "One who pursues pleasure as a goal",
+      "A person devoted to sensual enjoyment"
+    ]
+  },
+  {
+    "word": "restrained",
+    "grade": "12th-grade",
+    "definitions": [
+      "Characterized by moderation or self-control",
+      "Restrained or limited in expression",
+      "Showing self-discipline or constraint"
+    ]
+  },
+  {
+    "word": "camaraderie",
+    "grade": "12th-grade",
+    "definitions": [
+      "Mutual trust and friendship among people",
+      "A spirit of friendly fellowship",
+      "Goodwill and lighthearted rapport between companions"
+    ]
+  },
+  {
+    "word": "hypothesis",
+    "grade": "12th-grade",
+    "definitions": [
+      "A proposed explanation for a phenomenon",
+      "A tentative assumption made to draw out implications",
+      "A supposition or proposed explanation"
+    ]
+  },
+  {
+    "word": "reverence",
+    "grade": "12th-grade",
+    "definitions": [
+      "Deep respect or veneration for someone or something",
+      "A gesture or movement expressing respect",
+      "Profound awe or respect for something sacred"
+    ]
+  },
+  {
+    "word": "censure",
+    "grade": "12th-grade",
+    "definitions": [
+      "To criticize someone or something severely",
+      "To express strong disapproval",
+      "To find fault with or condemn"
+    ]
+  },
+  {
+    "word": "impetuous",
+    "grade": "12th-grade",
+    "definitions": [
+      "Acting or done quickly and without thought or care",
+      "Characterized by sudden impulses",
+      "Rashly impatient or impulsive"
+    ]
+  },
+  {
+    "word": "sagacity",
+    "grade": "12th-grade",
+    "definitions": [
+      "The quality of being wise or having good judgment",
+      "Keen discernment or insight",
+      "Sound judgment and wisdom"
+    ]
+  },
+  {
+    "word": "circuitous",
+    "grade": "12th-grade",
+    "definitions": [
+      "Longer than the most direct way; not direct or straight",
+      "Roundabout or indirect in route or speech",
+      "Following a curved or winding course"
+    ]
+  },
+  {
+    "word": "impute",
+    "grade": "12th-grade",
+    "definitions": [
+      "To attribute or ascribe something to someone",
+      "To represent as existing or happening",
+      "To credit or blame with a particular characteristic"
+    ]
+  },
+  {
+    "word": "scrutinize",
+    "grade": "12th-grade",
+    "definitions": [
+      "To examine something very carefully",
+      "To inspect or investigate closely",
+      "To look at critically or searchingly"
+    ]
+  },
+  {
+    "word": "clairvoyant",
+    "grade": "12th-grade",
+    "definitions": [
+      "A person who claims to have supernatural insight",
+      "Having the ability to see the future",
+      "Possessing extrasensory perception"
+    ]
+  },
+  {
+    "word": "incompatible",
+    "grade": "12th-grade",
+    "definitions": [
+      "Not able to exist or work together in harmony",
+      "Inconsistent or contradictory",
+      "Unable to be used together"
+    ]
+  },
+  {
+    "word": "spontaneity",
+    "grade": "12th-grade",
+    "definitions": [
+      "The quality of being natural and unrestrained",
+      "Natural and unrestrained behavior",
+      "Acting without planning or premeditation"
+    ]
+  },
+  {
+    "word": "collaborate",
+    "grade": "12th-grade",
+    "definitions": [
+      "To work jointly with others on an activity",
+      "To cooperate with an enemy who has invaded your country",
+      "To work together toward a common goal"
+    ]
+  },
+  {
+    "word": "inconsequential",
+    "grade": "12th-grade",
+    "definitions": [
+      "Not important or significant",
+      "Trivial or negligible",
+      "Having no logical consequence or effect"
+    ]
+  },
+  {
+    "word": "spurious",
+    "grade": "12th-grade",
+    "definitions": [
+      "Not being what it claims to be; false or fake",
+      "Based on false ideas or reasoning",
+      "Lacking authenticity or validity"
+    ]
+  },
+  {
+    "word": "compassion",
+    "grade": "12th-grade",
+    "definitions": [
+      "Sympathetic pity and concern for the sufferings of others",
+      "A deep awareness of and sympathy for another's suffering",
+      "The feeling that arises when witnessing another's suffering"
+    ]
+  },
+  {
+    "word": "inevitable",
+    "grade": "12th-grade",
+    "definitions": [
+      "Certain to happen; unavoidable",
+      "Sure to occur",
+      "Not able to be prevented or avoided"
+    ]
+  },
+  {
+    "word": "submissive",
+    "grade": "12th-grade",
+    "definitions": [
+      "Ready to conform or yield to the authority of others",
+      "Compliant or obedient",
+      "Willing to accept orders or suggestions without protest"
+    ]
+  },
+  {
+    "word": "compromise",
+    "grade": "12th-grade",
+    "definitions": [
+      "An agreement by which each side gives up something",
+      "A settlement of differences by mutual concessions",
+      "To settle a dispute by mutual concession"
+    ]
+  },
+  {
+    "word": "integrity",
+    "grade": "12th-grade",
+    "definitions": [
+      "The quality of being honest and having strong moral principles",
+      "The state of being whole and undivided",
+      "Adherence to moral and ethical principles"
+    ]
+  },
+  {
+    "word": "substantiate",
+    "grade": "12th-grade",
+    "definitions": [
+      "To provide evidence to support or prove",
+      "To give a concrete form to",
+      "To establish by evidence or proof"
+    ]
+  },
+  {
+    "word": "condescending",
+    "grade": "12th-grade",
+    "definitions": [
+      "Having or showing a superior attitude toward others",
+      "Displaying a patronizingly superior manner",
+      "Treating others as inferior"
+    ]
+  },
+  {
+    "word": "intrepid",
+    "grade": "12th-grade",
+    "definitions": [
+      "Fearless; adventurous; brave",
+      "Showing courage and boldness",
+      "Undaunted by danger or risk"
+    ]
+  },
+  {
+    "word": "subtle",
+    "grade": "12th-grade",
+    "definitions": [
+      "Making use of clever and indirect methods",
+      "Difficult to perceive or understand",
+      "Refined or delicate in meaning or effect"
+    ]
+  },
+  {
+    "word": "conditional",
+    "grade": "12th-grade",
+    "definitions": [
+      "Subject to one or more conditions or requirements",
+      "Dependent on something else",
+      "Expressing a condition or limitation"
+    ]
+  },
+  {
+    "word": "intuitive",
+    "grade": "12th-grade",
+    "definitions": [
+      "Using or based on what one feels to be true",
+      "Known or perceived through instinct rather than reasoning",
+      "Perceived without conscious reasoning"
+    ]
+  },
+  {
+    "word": "superficial",
+    "grade": "12th-grade",
+    "definitions": [
+      "Existing or occurring at or on the surface",
+      "Lacking depth or thoroughness",
+      "Concerned with or understanding only what is apparent"
+    ]
+  },
+  {
+    "word": "conformist",
+    "grade": "12th-grade",
+    "definitions": [
+      "A person who conforms to accepted behavior or standards",
+      "One who follows established customs or practices",
+      "Someone who behaves in accordance with social norms"
+    ]
+  },
+  {
+    "word": "jubilation",
+    "grade": "12th-grade",
+    "definitions": [
+      "A feeling of great happiness and triumph",
+      "The emotion of great joy",
+      "Exultation or rejoicing"
+    ]
+  },
+  {
+    "word": "superfluous",
+    "grade": "12th-grade",
+    "definitions": [
+      "Exceeding what is sufficient or necessary",
+      "Needless or unnecessary",
+      "More than is needed or wanted"
+    ]
+  },
+  {
+    "word": "congregation",
+    "grade": "12th-grade",
+    "definitions": [
+      "A group of people assembled for religious worship",
+      "A gathering or collection of people or things",
+      "An assembly of people for a religious service"
+    ]
+  },
+  {
+    "word": "lobbyist",
+    "grade": "12th-grade",
+    "definitions": [
+      "A person who tries to influence legislation on behalf of a client",
+      "One who seeks to influence legislators or government officials",
+      "A person employed to persuade legislators to support legislation"
+    ]
+  },
+  {
+    "word": "suppress",
+    "grade": "12th-grade",
+    "definitions": [
+      "To forcibly put an end to or restrain",
+      "To prevent from being revealed or published",
+      "To restrain or hold back by force"
+    ]
+  },
+  {
+    "word": "convergence",
+    "grade": "12th-grade",
+    "definitions": [
+      "The act of coming together from different directions",
+      "The tendency to move toward one point or state",
+      "The occurrence of two or more things coming together"
+    ]
+  },
+  {
+    "word": "longevity",
+    "grade": "12th-grade",
+    "definitions": [
+      "Long existence or service",
+      "The length or duration of life",
+      "Long continuance or serviceability"
+    ]
+  },
+  {
+    "word": "surreptitious",
+    "grade": "12th-grade",
+    "definitions": [
+      "Kept secret or done secretly",
+      "Obtained or done by stealth",
+      "Concealed or hidden from view"
+    ]
+  },
+  {
+    "word": "deleterious",
+    "grade": "12th-grade",
+    "definitions": [
+      "Causing harm or damage",
+      "Hurtful or injurious",
+      "Having a harmful effect"
+    ]
+  },
+  {
+    "word": "mundane",
+    "grade": "12th-grade",
+    "definitions": [
+      "Lacking interest or excitement; ordinary",
+      "Relating to the world rather than spiritual matters",
+      "Commonplace or routine"
+    ]
+  },
+  {
+    "word": "tactful",
+    "grade": "12th-grade",
+    "definitions": [
+      "Having or showing skill and sensitivity in dealing with others",
+      "Diplomatic or considerate in behavior",
+      "Showing good judgment in social situations"
+    ]
+  },
+  {
+    "word": "demagogue",
+    "grade": "12th-grade",
+    "definitions": [
+      "A political leader who seeks support by appealing to popular desires",
+      "A leader who obtains power by appealing to prejudice",
+      "One who gains power by exciting the passions of the crowd"
+    ]
+  },
+  {
+    "word": "nonchalant",
+    "grade": "12th-grade",
+    "definitions": [
+      "Feeling or appearing casually calm and relaxed",
+      "Indifferent or unconcerned",
+      "Cool and uninvolved"
+    ]
+  },
+  {
+    "word": "tenacious",
+    "grade": "12th-grade",
+    "definitions": [
+      "Tending to keep a firm hold of something",
+      "Persistent or determined",
+      "Stubbornly unyielding"
+    ]
+  },
+  {
+    "word": "digression",
+    "grade": "12th-grade",
+    "definitions": [
+      "A temporary departure from the main subject",
+      "A departure from the main topic in speech or writing",
+      "Going off-topic or wandering from the main point"
+    ]
+  },
+  {
+    "word": "novice",
+    "grade": "12th-grade",
+    "definitions": [
+      "A person new to or inexperienced in a field or situation",
+      "A beginner or tyro",
+      "One who is new to an art, skill, or craft"
+    ]
+  },
+  {
+    "word": "transient",
+    "grade": "12th-grade",
+    "definitions": [
+      "Lasting only for a short time; temporary",
+      "Staying or living somewhere for only a short time",
+      "Not permanent; passing through"
+    ]
+  },
+  {
+    "word": "diligent",
+    "grade": "12th-grade",
+    "definitions": [
+      "Having or showing care and conscientiousness",
+      "Hard-working and persistent",
+      "Careful and persevering effort"
+    ]
+  },
+  {
+    "word": "opulent",
+    "grade": "12th-grade",
+    "definitions": [
+      "Ostentatiously rich and luxurious",
+      "Wealthy and extravagant",
+      "Characterized by abundance or luxury"
+    ]
+  },
+  {
+    "word": "venerable",
+    "grade": "12th-grade",
+    "definitions": [
+      "Accorded a great deal of respect, especially because of age",
+      "Commanding respect because of dignity or age",
+      "Deserving reverence because of great age or dignity"
+    ]
+  },
+  {
+    "word": "discredit",
+    "grade": "12th-grade",
+    "definitions": [
+      "To damage the reputation or credibility of",
+      "To cause to seem dishonest or untrustworthy",
+      "To bring shame or dishonor upon"
+    ]
+  },
+  {
+    "word": "orator",
+    "grade": "12th-grade",
+    "definitions": [
+      "A person who delivers a speech or oration",
+      "A public speaker, especially one who is eloquent",
+      "One who speaks in public with skill and fluency"
+    ]
+  },
+  {
+    "word": "vindicate",
+    "grade": "12th-grade",
+    "definitions": [
+      "To clear someone of blame or suspicion",
+      "To show to be right or justified",
+      "To defend against criticism or attack"
+    ]
+  },
+  {
+    "word": "disdain",
+    "grade": "12th-grade",
+    "definitions": [
+      "The feeling that someone or something is unworthy of consideration",
+      "A feeling of contempt or scorn",
+      "To regard with dislike mixed with haughtiness"
+    ]
+  },
+  {
+    "word": "ostentatious",
+    "grade": "12th-grade",
+    "definitions": [
+      "Characterized by vulgar or pretentious display",
+      "Designed to impress or attract notice",
+      "Pretentious or showy display"
+    ]
+  },
+  {
+    "word": "wary",
+    "grade": "12th-grade",
+    "definitions": [
+      "Feeling or showing caution about possible dangers",
+      "Watchful or cautious in attitude",
+      "Alert to potential dangers or difficulties"
+    ]
+  },
+  {
+    "word": "divergent",
+    "grade": "12th-grade",
+    "definitions": [
+      "Tending to be different or develop in different directions",
+      "Moving or extending in different directions from a common point",
+      "Different from each other"
+    ]
+  },
+  {
+    "word": "parched",
+    "grade": "12th-grade",
+    "definitions": [
+      "Dried up or extremely thirsty",
+      "Extremely dry or withered",
+      "Deprived of moisture"
+    ]
+  },
+  {
+    "word": "zealot",
+    "grade": "12th-grade",
+    "definitions": [
+      "A person who is fanatically committed to a cause",
+      "An extremely zealous person",
+      "One who is uncompromising in pursuit of their religious, political, or other ideals"
+    ]
+  }
+]

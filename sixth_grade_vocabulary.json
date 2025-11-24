@@ -1,0 +1,1334 @@
+[
+  {
+    "word": "science",
+    "grade": "6th-grade",
+    "definitions": [
+      "The study of the natural world through observation and experiment",
+      "A branch of knowledge dealing with facts and their systematic arrangement",
+      "Knowledge about or study of the natural world based on facts"
+    ]
+  },
+  {
+    "word": "museum",
+    "grade": "6th-grade",
+    "definitions": [
+      "A building containing books and other materials",
+      "A place where people can borrow books",
+      "A collection of books available for reading"
+    ]
+  },
+  {
+    "word": "post office",
+    "grade": "6th-grade",
+    "definitions": [
+      "A place where mail is processed and sent",
+      "A building where people send letters and packages",
+      "An establishment that provides postal services"
+    ]
+  },
+  {
+    "word": "bookstore",
+    "grade": "6th-grade",
+    "definitions": [
+      "A shop that sells books",
+      "A store specializing in selling printed works",
+      "A retail establishment for books"
+    ]
+  },
+  {
+    "word": "cinema",
+    "grade": "6th-grade",
+    "definitions": [
+      "A theater where movies are shown",
+      "A building with a screen for films",
+      "A place where people watch movies"
+    ]
+  },
+  {
+    "word": "hospital",
+    "grade": "6th-grade",
+    "definitions": [
+      "A building where sick people receive treatment",
+      "A medical facility with doctors and nurses",
+      "A place where people go to get better"
+    ]
+  },
+  {
+    "word": "crossing",
+    "grade": "6th-grade",
+    "definitions": [
+      "A place where roads or paths intersect",
+      "A junction where streets meet",
+      "An intersection for vehicles and pedestrians"
+    ]
+  },
+  {
+    "word": "turn",
+    "grade": "6th-grade",
+    "definitions": [
+      "To change direction",
+      "To move in a circular motion",
+      "To rotate or pivot"
+    ]
+  },
+  {
+    "word": "left",
+    "grade": "6th-grade",
+    "definitions": [
+      "The direction opposite to the right",
+      "The side of the body opposite the right hand",
+      "Not right or correct"
+    ]
+  },
+  {
+    "word": "straight",
+    "grade": "6th-grade",
+    "definitions": [
+      "Without curves or bends",
+      "Direct and not deviating",
+      "Honest and direct in behavior"
+    ]
+  },
+  {
+    "word": "right",
+    "grade": "6th-grade",
+    "definitions": [
+      "The direction toward the east when facing north",
+      "The side of the body opposite the left hand",
+      "Correct or proper"
+    ]
+  },
+  {
+    "word": "ask",
+    "grade": "6th-grade",
+    "definitions": [
+      "To inquire about something",
+      "To request information",
+      "To question or interrogate"
+    ]
+  },
+  {
+    "word": "sir",
+    "grade": "6th-grade",
+    "definitions": [
+      "A title of respect for a man",
+      "A polite form of address",
+      "Used when speaking to a gentleman"
+    ]
+  },
+  {
+    "word": "interesting",
+    "grade": "6th-grade",
+    "definitions": [
+      "Arousing curiosity or interest",
+      "Engaging attention or concern",
+      "Captivating or fascinating"
+    ]
+  },
+  {
+    "word": "Italian",
+    "grade": "6th-grade",
+    "definitions": [
+      "Relating to Italy or its people",
+      "Native or inhabitant of Italy",
+      "Of or relating to Italian culture"
+    ]
+  },
+  {
+    "word": "restaurant",
+    "grade": "6th-grade",
+    "definitions": [
+      "A place where people buy meals",
+      "An establishment serving food",
+      "A dining venue with tables"
+    ]
+  },
+  {
+    "word": "pizza",
+    "grade": "6th-grade",
+    "definitions": [
+      "A dish with a flatbread base and toppings",
+      "An Italian food with sauce and cheese",
+      "A round baked dish with various toppings"
+    ]
+  },
+  {
+    "word": "street",
+    "grade": "6th-grade",
+    "definitions": [
+      "A public road in a city or town",
+      "A thoroughfare for vehicles and pedestrians",
+      "A paved way for transportation"
+    ]
+  },
+  {
+    "word": "get",
+    "grade": "6th-grade",
+    "definitions": [
+      "To acquire or obtain something",
+      "To arrive at a place",
+      "To become or cause to become"
+    ]
+  },
+  {
+    "word": "GPS",
+    "grade": "6th-grade",
+    "definitions": [
+      "A system for finding locations using satellites",
+      "Global Positioning System for navigation",
+      "Technology that shows your position on Earth"
+    ]
+  },
+  {
+    "word": "give",
+    "grade": "6th-grade",
+    "definitions": [
+      "To present something to someone",
+      "To hand over or deliver",
+      "To provide or supply"
+    ]
+  },
+  {
+    "word": "by",
+    "grade": "6th-grade",
+    "definitions": [
+      "Using a particular method or means",
+      "Indicating the agent performing an action",
+      "Next to or beside"
+    ]
+  },
+  {
+    "word": "foot",
+    "grade": "6th-grade",
+    "definitions": [
+      "The lower extremity of the leg",
+      "The body part used for standing and walking",
+      "A unit of measurement equal to 12 inches"
+    ]
+  },
+  {
+    "word": "bike",
+    "grade": "6th-grade",
+    "definitions": [
+      "A vehicle with two wheels powered by pedals",
+      "A two-wheeled means of transportation",
+      "A bike you ride by pedaling with your feet"
+    ]
+  },
+  {
+    "word": "bus",
+    "grade": "6th-grade",
+    "definitions": [
+      "A large vehicle for carrying passengers",
+      "A public transportation vehicle",
+      "A vehicle that travels on fixed routes"
+    ]
+  },
+  {
+    "word": "train",
+    "grade": "6th-grade",
+    "definitions": [
+      "A series of connected railway vehicles",
+      "A form of public transportation on tracks",
+      "A locomotive with cars for passengers or freight"
+    ]
+  },
+  {
+    "word": "plane",
+    "grade": "6th-grade",
+    "definitions": [
+      "An aircraft with fixed wings",
+      "A vehicle that flies through the air",
+      "A means of air transportation"
+    ]
+  },
+  {
+    "word": "ship",
+    "grade": "6th-grade",
+    "definitions": [
+      "A large watercraft for transportation",
+      "A vessel that travels on water",
+      "A boat for carrying goods or people"
+    ]
+  },
+  {
+    "word": "subway",
+    "grade": "6th-grade",
+    "definitions": [
+      "An underground railway system",
+      "A rapid transit system below ground",
+      "An underground form of public transportation"
+    ]
+  },
+  {
+    "word": "how",
+    "grade": "6th-grade",
+    "definitions": [
+      "In what way or manner",
+      "To what extent or degree",
+      "Used to ask about methods or means"
+    ]
+  },
+  {
+    "word": "go to school",
+    "grade": "6th-grade",
+    "definitions": [
+      "To attend educational institution",
+      "To travel to a place of learning",
+      "To participate in formal education"
+    ]
+  },
+  {
+    "word": "then",
+    "grade": "6th-grade",
+    "definitions": [
+      "At that time or period",
+      "Next in order of time",
+      "In addition or besides"
+    ]
+  },
+  {
+    "word": "fifth",
+    "grade": "6th-grade",
+    "definitions": [
+      "Constituting number five in a sequence",
+      "The ordinal number next after fourth",
+      "Positioned as number five"
+    ]
+  },
+  {
+    "word": "traffic",
+    "grade": "6th-grade",
+    "definitions": [
+      "Vehicles moving on roads",
+      "The movement of people or vehicles",
+      "The flow of transportation"
+    ]
+  },
+  {
+    "word": "traffic light",
+    "grade": "6th-grade",
+    "definitions": [
+      "A signaling device with colored lights",
+      "A device controlling vehicle movement",
+      "A system with red, yellow, and green lights"
+    ]
+  },
+  {
+    "word": "traffic rule",
+    "grade": "6th-grade",
+    "definitions": [
+      "Regulations governing road behavior",
+      "Laws for vehicle and pedestrian safety",
+      "Rules for safe transportation"
+    ]
+  },
+  {
+    "word": "stop",
+    "grade": "6th-grade",
+    "definitions": [
+      "To cease moving or doing something",
+      "To come to an end or halt",
+      "A place where vehicles pause"
+    ]
+  },
+  {
+    "word": "wait",
+    "grade": "6th-grade",
+    "definitions": [
+      "To stay in one place until something happens",
+      "To delay action until a time or event",
+      "To remain in readiness"
+    ]
+  },
+  {
+    "word": "remember",
+    "grade": "6th-grade",
+    "definitions": [
+      "To recall or think of something",
+      "To keep in memory or mind",
+      "To not forget something"
+    ]
+  },
+  {
+    "word": "get to",
+    "grade": "6th-grade",
+    "definitions": [
+      "To arrive at a destination",
+      "To reach a particular place",
+      "To come to a location"
+    ]
+  },
+  {
+    "word": "find",
+    "grade": "6th-grade",
+    "definitions": [
+      "To discover or locate something",
+      "To come upon by searching",
+      "To determine or discover"
+    ]
+  },
+  {
+    "word": "difference",
+    "grade": "6th-grade",
+    "definitions": [
+      "A point of variation or dissimilarity",
+      "The condition of being unlike",
+      "A distinction between things compared"
+    ]
+  },
+  {
+    "word": "same",
+    "grade": "6th-grade",
+    "definitions": [
+      "Identical or equal in type or nature",
+      "Not different or altered",
+      "Of identical nature or quality"
+    ]
+  },
+  {
+    "word": "every",
+    "grade": "6th-grade",
+    "definitions": [
+      "Each and all of a group",
+      "All without exception",
+      "Used to refer to each member of a group"
+    ]
+  },
+  {
+    "word": "country",
+    "grade": "6th-grade",
+    "definitions": [
+      "A nation with its own government",
+      "An area of land with defined borders",
+      "A rural area outside cities"
+    ]
+  },
+  {
+    "word": "always",
+    "grade": "6th-grade",
+    "definitions": [
+      "At all times or on every occasion",
+      "Forever or continually",
+      "Without exception or variation"
+    ]
+  },
+  {
+    "word": "mean",
+    "grade": "6th-grade",
+    "definitions": [
+      "To intend to express or convey",
+      "To signify or indicate",
+      "To have significance or importance"
+    ]
+  },
+  {
+    "word": "drive",
+    "grade": "6th-grade",
+    "definitions": [
+      "To operate and control a vehicle",
+      "To travel by car or automobile",
+      "To push or force something forward"
+    ]
+  },
+  {
+    "word": "right",
+    "grade": "6th-grade",
+    "definitions": [
+      "The direction toward the east when facing north",
+      "The side of the body opposite the left hand",
+      "Correct or proper"
+    ]
+  },
+  {
+    "word": "side",
+    "grade": "6th-grade",
+    "definitions": [
+      "A position to the left or right",
+      "One of two or more surfaces",
+      "A surface forming part of an object"
+    ]
+  },
+  {
+    "word": "England",
+    "grade": "6th-grade",
+    "definitions": [
+      "A country that is part of the United Kingdom",
+      "A nation in southern Great Britain",
+      "A former independent country now part of UK"
+    ]
+  },
+  {
+    "word": "Australia",
+    "grade": "6th-grade",
+    "definitions": [
+      "A country and continent in the southern hemisphere",
+      "A nation comprising the mainland and islands",
+      "The smallest continent by land area"
+    ]
+  },
+  {
+    "word": "but",
+    "grade": "6th-grade",
+    "definitions": [
+      "Used to introduce a phrase that contrasts",
+      "However or nevertheless",
+      "Except or other than"
+    ]
+  },
+  {
+    "word": "left",
+    "grade": "6th-grade",
+    "definitions": [
+      "The direction opposite to the right",
+      "The side of the body opposite the right hand",
+      "Not right or correct"
+    ]
+  },
+  {
+    "word": "if",
+    "grade": "6th-grade",
+    "definitions": [
+      "Used to introduce a condition",
+      "Whether or not",
+      "In case that"
+    ]
+  },
+  {
+    "word": "must",
+    "grade": "6th-grade",
+    "definitions": [
+      "Required or necessary",
+      "Obligatory or compulsory",
+      "To be compelled to"
+    ]
+  },
+  {
+    "word": "know",
+    "grade": "6th-grade",
+    "definitions": [
+      "To be aware of through observation",
+      "To understand or perceive",
+      "To have knowledge or information"
+    ]
+  },
+  {
+    "word": "library",
+    "grade": "6th-grade",
+    "definitions": [
+      "A building containing books and other materials",
+      "A place where people can borrow books",
+      "A collection of books available for reading"
+    ]
+  },
+  {
+    "word": "post office",
+    "grade": "6th-grade",
+    "definitions": [
+      "A place where mail is processed and sent",
+      "A building where people send letters and packages",
+      "An establishment that provides postal services"
+    ]
+  },
+  {
+    "word": "hospital",
+    "grade": "6th-grade",
+    "definitions": [
+      "A building where sick people receive treatment",
+      "A medical facility with doctors and nurses",
+      "A place where people go to get better"
+    ]
+  },
+  {
+    "word": "cinema",
+    "grade": "6th-grade",
+    "definitions": [
+      "A theater where movies are shown",
+      "A building with a screen for films",
+      "A place where people watch movies"
+    ]
+  },
+  {
+    "word": "bookstore",
+    "grade": "6th-grade",
+    "definitions": [
+      "A shop that sells books",
+      "A store specializing in selling printed works",
+      "A retail establishment for books"
+    ]
+  },
+  {
+    "word": "science museum",
+    "grade": "6th-grade",
+    "definitions": [
+      "A museum focused on scientific exhibits",
+      "An institution displaying scientific knowledge",
+      "A place with interactive science displays"
+    ]
+  },
+  {
+    "word": "excuse me",
+    "grade": "6th-grade",
+    "definitions": [
+      "A polite expression for getting attention",
+      "Used when interrupting or asking questions",
+      "A courteous way to begin a request"
+    ]
+  },
+  {
+    "word": "where",
+    "grade": "6th-grade",
+    "definitions": [
+      "In or at what place or position",
+      "To what place or destination",
+      "Used to ask about location"
+    ]
+  },
+  {
+    "word": "please",
+    "grade": "6th-grade",
+    "definitions": [
+      "Used to make a request more polite",
+      "To make someone happy or satisfied",
+      "To cause satisfaction or pleasure"
+    ]
+  },
+  {
+    "word": "next to",
+    "grade": "6th-grade",
+    "definitions": [
+      "Immediately adjacent to",
+      "Beside or at the side of",
+      "In close proximity to"
+    ]
+  },
+  {
+    "word": "far",
+    "grade": "6th-grade",
+    "definitions": [
+      "At or to a great distance",
+      "Remote in space or time",
+      "Distant or removed"
+    ]
+  },
+  {
+    "word": "supermarket",
+    "grade": "6th-grade",
+    "definitions": [
+      "A large self-service grocery store",
+      "A retail market selling food and household goods",
+      "A big store where customers select their own items"
+    ]
+  },
+  {
+    "word": "bank",
+    "grade": "6th-grade",
+    "definitions": [
+      "An institution for financial transactions",
+      "A place where money is kept safe",
+      "A building for banking services"
+    ]
+  },
+  {
+    "word": "after school",
+    "grade": "6th-grade",
+    "definitions": [
+      "The time period following school hours",
+      "Activities that occur after classes end",
+      "The afternoon period after education"
+    ]
+  },
+  {
+    "word": "want",
+    "grade": "6th-grade",
+    "definitions": [
+      "To desire or wish for something",
+      "To have a wish or need",
+      "To feel a desire for"
+    ]
+  },
+  {
+    "word": "buy",
+    "grade": "6th-grade",
+    "definitions": [
+      "To acquire by paying money",
+      "To purchase goods or services",
+      "To obtain in exchange for payment"
+    ]
+  },
+  {
+    "word": "pair of",
+    "grade": "6th-grade",
+    "definitions": [
+      "Two items of the same kind",
+      "Two things considered together",
+      "A set of two matching objects"
+    ]
+  },
+  {
+    "word": "shoe store",
+    "grade": "6th-grade",
+    "definitions": [
+      "A store that sells footwear",
+      "A shop specializing in shoes",
+      "A retail establishment for footwear"
+    ]
+  },
+  {
+    "word": "get off",
+    "grade": "6th-grade",
+    "definitions": [
+      "To leave a vehicle or platform",
+      "To disembark from transportation",
+      "To exit or alight from"
+    ]
+  },
+  {
+    "word": "minute",
+    "grade": "6th-grade",
+    "definitions": [
+      "A unit of time equal to 60 seconds",
+      "Sixty seconds of duration",
+      "A small amount of time"
+    ]
+  },
+  {
+    "word": "north",
+    "grade": "6th-grade",
+    "definitions": [
+      "The direction toward the Earth's North Pole",
+      "One of the four cardinal directions",
+      "The direction indicated by a compass needle"
+    ]
+  },
+  {
+    "word": "south",
+    "grade": "6th-grade",
+    "definitions": [
+      "The direction toward the Earth's South Pole",
+      "One of the four cardinal directions",
+      "The opposite of north"
+    ]
+  },
+  {
+    "word": "east",
+    "grade": "6th-grade",
+    "definitions": [
+      "The direction where the sun rises",
+      "One of the four cardinal directions",
+      "The direction opposite to west"
+    ]
+  },
+  {
+    "word": "west",
+    "grade": "6th-grade",
+    "definitions": [
+      "The direction where the sun sets",
+      "One of the four cardinal directions",
+      "The direction opposite to east"
+    ]
+  },
+  {
+    "word": "turn",
+    "grade": "6th-grade",
+    "definitions": [
+      "To change direction",
+      "To move in a circular motion",
+      "To rotate or pivot"
+    ]
+  },
+  {
+    "word": "right",
+    "grade": "6th-grade",
+    "definitions": [
+      "The direction toward the east when facing north",
+      "The side of the body opposite the left hand",
+      "Correct or proper"
+    ]
+  },
+  {
+    "word": "left",
+    "grade": "6th-grade",
+    "definitions": [
+      "The direction opposite to the right",
+      "The side of the body opposite the right hand",
+      "Not right or correct"
+    ]
+  },
+  {
+    "word": "straight",
+    "grade": "6th-grade",
+    "definitions": [
+      "Without curves or bends",
+      "Direct and not deviating",
+      "Honest and direct in behavior"
+    ]
+  },
+  {
+    "word": "then",
+    "grade": "6th-grade",
+    "definitions": [
+      "At that time or period",
+      "Next in order of time",
+      "In addition or besides"
+    ]
+  },
+  {
+    "word": "twentieth",
+    "grade": "6th-grade",
+    "definitions": [
+      "Constituting number twenty in a sequence",
+      "The ordinal number for twenty",
+      "Positioned as number twenty"
+    ]
+  },
+  {
+    "word": "party",
+    "grade": "6th-grade",
+    "definitions": [
+      "A social gathering for entertainment",
+      "A celebration with food and activities",
+      "A group of people assembled together"
+    ]
+  },
+  {
+    "word": "tell",
+    "grade": "6th-grade",
+    "definitions": [
+      "To communicate information",
+      "To make known or reveal",
+      "To inform or notify"
+    ]
+  },
+  {
+    "word": "start",
+    "grade": "6th-grade",
+    "definitions": [
+      "To begin or commence something",
+      "To initiate or set in motion",
+      "To start doing something"
+    ]
+  },
+  {
+    "word": "take",
+    "grade": "6th-grade",
+    "definitions": [
+      "To carry or bring with oneself",
+      "To get into or enter",
+      "To require or need"
+    ]
+  },
+  {
+    "word": "look for",
+    "grade": "6th-grade",
+    "definitions": [
+      "To search or seek something",
+      "To try to find something",
+      "To hunt for or pursue"
+    ]
+  },
+  {
+    "word": "next week",
+    "grade": "6th-grade",
+    "definitions": [
+      "The week following the current one",
+      "The upcoming seven-day period",
+      "The time period after this week"
+    ]
+  },
+  {
+    "word": "this morning",
+    "grade": "6th-grade",
+    "definitions": [
+      "The morning of the current day",
+      "Today's early hours before noon",
+      "The morning part of today"
+    ]
+  },
+  {
+    "word": "this afternoon",
+    "grade": "6th-grade",
+    "definitions": [
+      "The afternoon of the current day",
+      "Today's hours after noon",
+      "The later part of today"
+    ]
+  },
+  {
+    "word": "this evening",
+    "grade": "6th-grade",
+    "definitions": [
+      "The evening of the current day",
+      "Tonight or this night",
+      "The later hours of today"
+    ]
+  },
+  {
+    "word": "tonight",
+    "grade": "6th-grade",
+    "definitions": [
+      "The evening or night of the current day",
+      "This evening or this night",
+      "The current day's night hours"
+    ]
+  },
+  {
+    "word": "tomorrow",
+    "grade": "6th-grade",
+    "definitions": [
+      "The day following today",
+      "The next day in time",
+      "One day after the present day"
+    ]
+  },
+  {
+    "word": "take a trip",
+    "grade": "6th-grade",
+    "definitions": [
+      "To go on a journey or excursion",
+      "To travel to a destination",
+      "To make a trip or voyage"
+    ]
+  },
+  {
+    "word": "read magazine",
+    "grade": "6th-grade",
+    "definitions": [
+      "To look at and understand written content in a magazine",
+      "To peruse periodical publications",
+      "To study magazine articles"
+    ]
+  },
+  {
+    "word": "go to the cinema",
+    "grade": "6th-grade",
+    "definitions": [
+      "To attend a movie theater",
+      "To watch films at a cinema",
+      "To go see a movie"
+    ]
+  },
+  {
+    "word": "theme park",
+    "grade": "6th-grade",
+    "definitions": [
+      "An amusement park with specific themes",
+      "A recreational area with themed attractions",
+      "A park with rides and entertainment"
+    ]
+  },
+  {
+    "word": "the Great Wall",
+    "grade": "6th-grade",
+    "definitions": [
+      "A historic fortification in China",
+      "A famous Chinese landmark",
+      "An ancient wall stretching across northern China"
+    ]
+  },
+  {
+    "word": "busy",
+    "grade": "6th-grade",
+    "definitions": [
+      "Having much to do or many activities",
+      "Occupied with work or tasks",
+      "Not free or available"
+    ]
+  },
+  {
+    "word": "together",
+    "grade": "6th-grade",
+    "definitions": [
+      "In each other's company or presence",
+      "With each other or in unison",
+      "Jointly or collectively"
+    ]
+  },
+  {
+    "word": "comic book",
+    "grade": "6th-grade",
+    "definitions": [
+      "A magazine containing comic stories",
+      "A publication with illustrated narratives",
+      "A book with sequential art and text"
+    ]
+  },
+  {
+    "word": "postcard",
+    "grade": "6th-grade",
+    "definitions": [
+      "A card for sending messages by mail",
+      "A picture card with space for a message",
+      "A card sent as a souvenir or greeting"
+    ]
+  },
+  {
+    "word": "newspaper",
+    "grade": "6th-grade",
+    "definitions": [
+      "A printed publication containing news",
+      "A daily or weekly paper with information",
+      "A periodical with current events"
+    ]
+  },
+  {
+    "word": "magazine",
+    "grade": "6th-grade",
+    "definitions": [
+      "A publication with articles and illustrations",
+      "A periodical on specific subjects",
+      "A printed work issued regularly"
+    ]
+  },
+  {
+    "word": "dictionary",
+    "grade": "6th-grade",
+    "definitions": [
+      "A book defining words and their meanings",
+      "A reference work with word definitions",
+      "A guide to language meanings"
+    ]
+  },
+  {
+    "word": "buy",
+    "grade": "6th-grade",
+    "definitions": [
+      "To acquire by paying money",
+      "To purchase goods or services",
+      "To obtain in exchange for payment"
+    ]
+  },
+  {
+    "word": "fruit stand",
+    "grade": "6th-grade",
+    "definitions": [
+      "A stall selling fresh fruits",
+      "An outdoor display for fruits",
+      "A vendor's stand with produce"
+    ]
+  },
+  {
+    "word": "pet shop",
+    "grade": "6th-grade",
+    "definitions": [
+      "A store selling animals as pets",
+      "A shop for animal companions",
+      "A retailer of domestic animals"
+    ]
+  },
+  {
+    "word": "need",
+    "grade": "6th-grade",
+    "definitions": [
+      "To require something essential",
+      "To want or demand something",
+      "To have a necessity for"
+    ]
+  },
+  {
+    "word": "plant",
+    "grade": "6th-grade",
+    "definitions": [
+      "A living organism that grows in soil",
+      "An organism that produces its own food",
+      "To put a seed or plant in ground"
+    ]
+  },
+  {
+    "word": "else",
+    "grade": "6th-grade",
+    "definitions": [
+      "In addition to what was mentioned",
+      "Other or different",
+      "Besides what has been stated"
+    ]
+  },
+  {
+    "word": "shop",
+    "grade": "6th-grade",
+    "definitions": [
+      "A store where goods are sold",
+      "To visit stores for purchases",
+      "A retail establishment"
+    ]
+  },
+  {
+    "word": "magic",
+    "grade": "6th-grade",
+    "definitions": [
+      "The power to perform wonders",
+      "Illusions performed by a magician",
+      "Supernatural forces or powers"
+    ]
+  },
+  {
+    "word": "clever",
+    "grade": "6th-grade",
+    "definitions": [
+      "Quick to understand or learn",
+      "Intelligent and mentally sharp",
+      "Showing inventiveness or originality"
+    ]
+  },
+  {
+    "word": "foolish",
+    "grade": "6th-grade",
+    "definitions": [
+      "Lacking good sense or judgment",
+      "Unwise or imprudent",
+      "Acting without thinking"
+    ]
+  },
+  {
+    "word": "through",
+    "grade": "6th-grade",
+    "definitions": [
+      "From one end to another",
+      "By means of or with the aid of",
+      "From beginning to end"
+    ]
+  },
+  {
+    "word": "laugh",
+    "grade": "6th-grade",
+    "definitions": [
+      "To express amusement vocally",
+      "To make sounds of joy or pleasure",
+      "To chuckle or giggle"
+    ]
+  },
+  {
+    "word": "wear",
+    "grade": "6th-grade",
+    "definitions": [
+      "To have clothing or accessories on",
+      "To carry or display something",
+      "To deteriorate from use"
+    ]
+  },
+  {
+    "word": "tell",
+    "grade": "6th-grade",
+    "definitions": [
+      "To communicate information",
+      "To make known or reveal",
+      "To inform or notify"
+    ]
+  },
+  {
+    "word": "each",
+    "grade": "6th-grade",
+    "definitions": [
+      "Every one of two or more people",
+      "Used to refer to individuals separately",
+      "Applies to all members individually"
+    ]
+  },
+  {
+    "word": "say",
+    "grade": "6th-grade",
+    "definitions": [
+      "To utter words or express",
+      "To communicate verbally",
+      "To pronounce or declare"
+    ]
+  },
+  {
+    "word": "sentence",
+    "grade": "6th-grade",
+    "definitions": [
+      "A group of words expressing a thought",
+      "A grammatical unit with a complete meaning",
+      "A statement in writing or speech"
+    ]
+  },
+  {
+    "word": "quick",
+    "grade": "6th-grade",
+    "definitions": [
+      "Fast or rapid in motion",
+      "Done with speed or haste",
+      "Moving or acting with agility"
+    ]
+  },
+  {
+    "word": "next",
+    "grade": "6th-grade",
+    "definitions": [
+      "Coming immediately after",
+      "The following in order",
+      "Adjacent or nearest"
+    ]
+  },
+  {
+    "word": "small",
+    "grade": "6th-grade",
+    "definitions": [
+      "Little in size or extent",
+      "Below average in dimensions",
+      "Tiny or miniature"
+    ]
+  },
+  {
+    "word": "young",
+    "grade": "6th-grade",
+    "definitions": [
+      "Having lived or existed for a short time",
+      "Not old or aged",
+      "In the early period of life or growth"
+    ]
+  },
+  {
+    "word": "chance",
+    "grade": "6th-grade",
+    "definitions": [
+      "An opportunity or possibility",
+      "A favorable set of circumstances",
+      "A risk or hazard"
+    ]
+  },
+  {
+    "word": "think",
+    "grade": "6th-grade",
+    "definitions": [
+      "To use the mind to consider",
+      "To reflect or contemplate",
+      "To form opinions or ideas"
+    ]
+  },
+  {
+    "word": "hard",
+    "grade": "6th-grade",
+    "definitions": [
+      "With great effort or force",
+      "Difficult to accomplish",
+      "Strenuously or laboriously"
+    ]
+  },
+  {
+    "word": "child",
+    "grade": "6th-grade",
+    "definitions": [
+      "A young person below adolescence",
+      "A son or daughter",
+      "An immature human being"
+    ]
+  },
+  {
+    "word": "become",
+    "grade": "6th-grade",
+    "definitions": [
+      "To begin to be or come to be",
+      "To grow to be or turn into",
+      "To develop into or transform"
+    ]
+  },
+  {
+    "word": "sunny",
+    "grade": "6th-grade",
+    "definitions": [
+      "Bright with sunshine",
+      "Clear and illuminated by the sun",
+      "Warm and bright with daylight"
+    ]
+  },
+  {
+    "word": "show",
+    "grade": "6th-grade",
+    "definitions": [
+      "To display or exhibit something",
+      "To make visible or apparent",
+      "To present or demonstrate"
+    ]
+  },
+  {
+    "word": "interesting",
+    "grade": "6th-grade",
+    "definitions": [
+      "Arousing curiosity or interest",
+      "Engaging attention or concern",
+      "Captivating or fascinating"
+    ]
+  },
+  {
+    "word": "weather",
+    "grade": "6th-grade",
+    "definitions": [
+      "The atmospheric conditions at a specific time",
+      "The state of the atmosphere regarding temperature and precipitation",
+      "Conditions like sunny, rainy, or snowy"
+    ]
+  },
+  {
+    "word": "change",
+    "grade": "6th-grade",
+    "definitions": [
+      "To make or become different",
+      "To alter or modify",
+      "To transform or convert"
+    ]
+  },
+  {
+    "word": "windy",
+    "grade": "6th-grade",
+    "definitions": [
+      "Characterized by strong winds",
+      "Having lots of moving air",
+      "Blustery with gusts of wind"
+    ]
+  },
+  {
+    "word": "cloudy",
+    "grade": "6th-grade",
+    "definitions": [
+      "Overcast with clouds in the sky",
+      "Gray and covered with misty formations",
+      "Not clear or sunny, but dim"
+    ]
+  },
+  {
+    "word": "high",
+    "grade": "6th-grade",
+    "definitions": [
+      "Of great vertical extent",
+      "Elevated or raised up",
+      "Great in amount or degree"
+    ]
+  },
+  {
+    "word": "sky",
+    "grade": "6th-grade",
+    "definitions": [
+      "The upper atmosphere or firmament",
+      "The apparent vault overhead",
+      "The space above the earth"
+    ]
+  },
+  {
+    "word": "bring",
+    "grade": "6th-grade",
+    "definitions": [
+      "To carry something to a place",
+      "To transport or convey something",
+      "To take along with oneself"
+    ]
+  },
+  {
+    "word": "honey",
+    "grade": "6th-grade",
+    "definitions": [
+      "A sweet substance made by bees",
+      "A syrupy liquid from flower nectar",
+      "A natural sweetener"
+    ]
+  },
+  {
+    "word": "drink",
+    "grade": "6th-grade",
+    "definitions": [
+      "To consume liquid by swallowing",
+      "To take in fluids",
+      "To imbibe or quaff"
+    ]
+  }
+]

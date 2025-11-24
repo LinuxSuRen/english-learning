@@ -1,0 +1,650 @@
+[
+  {
+    "word": "pen",
+    "grade": "3rd-grade",
+    "definitions": [
+      "A thin stick used for writing or drawing",
+      "A writing tool made of plastic with ink inside",
+      "An instrument for making marks on paper"
+    ]
+  },
+  {
+    "word": "pencil",
+    "grade": "3rd-grade",
+    "definitions": [
+      "A thin stick used for writing or drawing",
+      "A writing tool made of wood with graphite inside",
+      "An instrument for making marks on paper"
+    ]
+  },
+  {
+    "word": "pencil-case",
+    "grade": "3rd-grade",
+    "definitions": [
+      "A container for holding writing tools",
+      "A case for storing pencils and pens",
+      "A box to keep school supplies organized"
+    ]
+  },
+  {
+    "word": "ruler",
+    "grade": "3rd-grade",
+    "definitions": [
+      "A straight strip used for drawing straight lines",
+      "A measuring tool for length",
+      "A flat piece of wood or plastic with markings"
+    ]
+  },
+  {
+    "word": "eraser",
+    "grade": "3rd-grade",
+    "definitions": [
+      "A rubber tool for removing pencil marks",
+      "An object used to rub out writing",
+      "A tool for correcting mistakes on paper"
+    ]
+  },
+  {
+    "word": "crayon",
+    "grade": "3rd-grade",
+    "definitions": [
+      "A stick of colored wax for drawing",
+      "A coloring tool made of pigment and wax",
+      "A wax-based art medium"
+    ]
+  },
+  {
+    "word": "book",
+    "grade": "3rd-grade",
+    "definitions": [
+      "A set of printed pages bound together",
+      "Something you read to learn or for entertainment",
+      "An object with pages containing words or pictures"
+    ]
+  },
+  {
+    "word": "bag",
+    "grade": "3rd-grade",
+    "definitions": [
+      "A container used to carry things",
+      "A school bag for books and supplies",
+      "A flexible container for holding items"
+    ]
+  },
+  {
+    "word": "sharpener",
+    "grade": "3rd-grade",
+    "definitions": [
+      "A tool for making pencils sharp",
+      "A device used to point pencils",
+      "An instrument for sharpening writing tools"
+    ]
+  },
+  {
+    "word": "school",
+    "grade": "3rd-grade",
+    "definitions": [
+      "A building where children go to learn",
+      "An educational institution for students",
+      "A place where people study and attend classes"
+    ]
+  },
+  {
+    "word": "head",
+    "grade": "3rd-grade",
+    "definitions": [
+      "The upper part of the body with the face",
+      "The part of the body that contains the brain",
+      "The top portion of a person's body"
+    ]
+  },
+  {
+    "word": "face",
+    "grade": "3rd-grade",
+    "definitions": [
+      "The front part of the head with eyes and mouth",
+      "The expression showing someone's feelings",
+      "The surface of something that can be seen"
+    ]
+  },
+  {
+    "word": "nose",
+    "grade": "3rd-grade",
+    "definitions": [
+      "The part of the face used for smelling",
+      "The organ for breathing and smelling",
+      "The feature in the middle of the face"
+    ]
+  },
+  {
+    "word": "mouth",
+    "grade": "3rd-grade",
+    "definitions": [
+      "The opening in the face used for eating",
+      "The part of the face used for speaking",
+      "The opening through which food enters"
+    ]
+  },
+  {
+    "word": "eye",
+    "grade": "3rd-grade",
+    "definitions": [
+      "The organ of sight in the face",
+      "The part of the body used for seeing",
+      "A round opening that allows vision"
+    ]
+  },
+  {
+    "word": "ear",
+    "grade": "3rd-grade",
+    "definitions": [
+      "The organ of hearing on the head",
+      "The part of the body used for listening",
+      "The side part of the head for hearing"
+    ]
+  },
+  {
+    "word": "arm",
+    "grade": "3rd-grade",
+    "definitions": [
+      "The upper limb from shoulder to hand",
+      "The body part used for lifting and carrying",
+      "A limb connected to the shoulder"
+    ]
+  },
+  {
+    "word": "finger",
+    "grade": "3rd-grade",
+    "definitions": [
+      "Any of the five digits on the hand",
+      "The extremities of the hand",
+      "Digits used for grasping and touching"
+    ]
+  },
+  {
+    "word": "leg",
+    "grade": "3rd-grade",
+    "definitions": [
+      "The limb that supports the body",
+      "The part of the body used for walking",
+      "A limb that extends from the hip to foot"
+    ]
+  },
+  {
+    "word": "foot",
+    "grade": "3rd-grade",
+    "definitions": [
+      "The lower extremity of the leg",
+      "The body part used for standing and walking",
+      "A unit of measurement equal to 12 inches"
+    ]
+  },
+  {
+    "word": "body",
+    "grade": "3rd-grade",
+    "definitions": [
+      "The physical structure of a person",
+      "The main part of a living thing",
+      "The entire physical form of a person"
+    ]
+  },
+  {
+    "word": "red",
+    "grade": "3rd-grade",
+    "definitions": [
+      "The color of blood or fire",
+      "A bright warm color at one end of the spectrum",
+      "The color associated with roses and apples"
+    ]
+  },
+  {
+    "word": "yellow",
+    "grade": "3rd-grade",
+    "definitions": [
+      "The color of the sun and ripe bananas",
+      "A bright color between red and green on the spectrum",
+      "The hue of lemons and daffodils"
+    ]
+  },
+  {
+    "word": "green",
+    "grade": "3rd-grade",
+    "definitions": [
+      "The color of grass and leaves",
+      "A color between blue and yellow",
+      "The hue associated with nature and plants"
+    ]
+  },
+  {
+    "word": "blue",
+    "grade": "3rd-grade",
+    "definitions": [
+      "The color of the sky and ocean",
+      "A cool color between green and violet",
+      "The hue of water and clear skies"
+    ]
+  },
+  {
+    "word": "purple",
+    "grade": "3rd-grade",
+    "definitions": [
+      "A color made by mixing red and blue",
+      "The color of grapes and violets",
+      "A rich color between red and blue"
+    ]
+  },
+  {
+    "word": "white",
+    "grade": "3rd-grade",
+    "definitions": [
+      "The color of snow and milk",
+      "The lightest color that reflects all light",
+      "The hue of clouds and paper"
+    ]
+  },
+  {
+    "word": "black",
+    "grade": "3rd-grade",
+    "definitions": [
+      "The darkest color that absorbs all light",
+      "The color of coal and night",
+      "The absence of light in color"
+    ]
+  },
+  {
+    "word": "orange",
+    "grade": "3rd-grade",
+    "definitions": [
+      "A round citrus fruit with a thick skin",
+      "A fruit that is both orange in color and name",
+      "A juicy fruit rich in vitamin C"
+    ]
+  },
+  {
+    "word": "pink",
+    "grade": "3rd-grade",
+    "definitions": [
+      "A light red color",
+      "A pale shade between red and white",
+      "The color of cherry blossoms"
+    ]
+  },
+  {
+    "word": "brown",
+    "grade": "3rd-grade",
+    "definitions": [
+      "The color of chocolate and soil",
+      "A dark color like tree bark or earth",
+      "A warm color between red and yellow"
+    ]
+  },
+  {
+    "word": "cat",
+    "grade": "3rd-grade",
+    "definitions": [
+      "A small furry animal that says meow",
+      "A pet that likes to sleep and chase mice",
+      "A mammal with whiskers and retractable claws"
+    ]
+  },
+  {
+    "word": "dog",
+    "grade": "3rd-grade",
+    "definitions": [
+      "A furry animal that says woof and is often kept as a pet",
+      "Man's best friend, known for loyalty",
+      "A mammal that barks and wags its tail"
+    ]
+  },
+  {
+    "word": "monkey",
+    "grade": "3rd-grade",
+    "definitions": [
+      "An animal with a long tail that climbs trees",
+      "A primate that swings from branches",
+      "A smart animal that likes to play"
+    ]
+  },
+  {
+    "word": "panda",
+    "grade": "3rd-grade",
+    "definitions": [
+      "A black and white bear from China",
+      "A mammal that eats bamboo",
+      "A beloved endangered species"
+    ]
+  },
+  {
+    "word": "rabbit",
+    "grade": "3rd-grade",
+    "definitions": [
+      "A small animal with long ears and a fluffy tail",
+      "A mammal that hops and eats carrots",
+      "A furry creature that lives in a burrow"
+    ]
+  },
+  {
+    "word": "duck",
+    "grade": "3rd-grade",
+    "definitions": [
+      "A water bird with a flat bill",
+      "An animal that swims and quacks",
+      "A bird that can live on land and water"
+    ]
+  },
+  {
+    "word": "pig",
+    "grade": "3rd-grade",
+    "definitions": [
+      "A domesticated farm animal with a snout",
+      "A pink or black mammal raised for meat",
+      "An intelligent and social animal"
+    ]
+  },
+  {
+    "word": "bird",
+    "grade": "3rd-grade",
+    "definitions": [
+      "An animal with feathers and wings",
+      "A creature that can fly in the sky",
+      "A warm-blooded vertebrate with a beak"
+    ]
+  },
+  {
+    "word": "bear",
+    "grade": "3rd-grade",
+    "definitions": [
+      "A large mammal with thick fur",
+      "A strong animal that walks on four legs",
+      "An animal that hibernates in winter"
+    ]
+  },
+  {
+    "word": "elephant",
+    "grade": "3rd-grade",
+    "definitions": [
+      "A large gray animal with a trunk and big ears",
+      "The biggest land animal with long tusks",
+      "A mammal known for its intelligence and memory"
+    ]
+  },
+  {
+    "word": "mouse",
+    "grade": "3rd-grade",
+    "definitions": [
+      "A small rodent with a pointed snout",
+      "A tiny animal that squeaks",
+      "A small mammal with whiskers and a tail"
+    ]
+  },
+  {
+    "word": "squirrel",
+    "grade": "3rd-grade",
+    "definitions": [
+      "A small animal with a bushy tail",
+      "An animal that collects and stores nuts",
+      "A rodent that climbs trees skillfully"
+    ]
+  },
+  {
+    "word": "cake",
+    "grade": "3rd-grade",
+    "definitions": [
+      "A sweet baked dessert often for celebrations",
+      "A baked good made with flour and sugar",
+      "A sweet food often decorated for birthdays"
+    ]
+  },
+  {
+    "word": "bread",
+    "grade": "3rd-grade",
+    "definitions": [
+      "Food made from flour and baked",
+      "A staple food made from wheat",
+      "A baked product made from dough"
+    ]
+  },
+  {
+    "word": "hot dog",
+    "grade": "3rd-grade",
+    "definitions": [
+      "A sausage in a long bun",
+      "A popular street food in America",
+      "A grilled sausage served in bread"
+    ]
+  },
+  {
+    "word": "hamburger",
+    "grade": "3rd-grade",
+    "definitions": [
+      "A sandwich with a meat patty",
+      "A popular fast food item",
+      "A round meat patty in a bun"
+    ]
+  },
+  {
+    "word": "chicken",
+    "grade": "3rd-grade",
+    "definitions": [
+      "A domesticated bird raised for meat",
+      "A common farm animal with feathers",
+      "The meat from a domesticated fowl"
+    ]
+  },
+  {
+    "word": "French fries",
+    "grade": "3rd-grade",
+    "definitions": [
+      "Thin strips of fried potatoes",
+      "A popular fast food side dish",
+      "Potato sticks that are deep fried"
+    ]
+  },
+  {
+    "word": "Coke",
+    "grade": "3rd-grade",
+    "definitions": [
+      "A popular brand of cola drink",
+      "A carbonated soft drink",
+      "A sweet fizzy brown beverage"
+    ]
+  },
+  {
+    "word": "juice",
+    "grade": "3rd-grade",
+    "definitions": [
+      "Liquid squeezed from fruits",
+      "A beverage made from fruits or vegetables",
+      "A drink rich in vitamins"
+    ]
+  },
+  {
+    "word": "milk",
+    "grade": "3rd-grade",
+    "definitions": [
+      "A white liquid from cows or other mammals",
+      "A nutritious drink for children",
+      "A dairy product rich in calcium"
+    ]
+  },
+  {
+    "word": "water",
+    "grade": "3rd-grade",
+    "definitions": [
+      "A clear liquid that we drink to stay alive",
+      "The substance that makes up rivers, lakes, and oceans",
+      "H2O, essential for all living things"
+    ]
+  },
+  {
+    "word": "tea",
+    "grade": "3rd-grade",
+    "definitions": [
+      "A hot drink made from leaves",
+      "A beverage made by steeping tea leaves",
+      "A popular drink served hot or cold"
+    ]
+  },
+  {
+    "word": "coffee",
+    "grade": "3rd-grade",
+    "definitions": [
+      "A beverage made from roasted seeds",
+      "A drink made from ground beans and hot water",
+      "A popular morning stimulant drink"
+    ]
+  },
+  {
+    "word": "one",
+    "grade": "3rd-grade",
+    "definitions": [
+      "The number following zero",
+      "A single person or thing",
+      "The smallest positive integer"
+    ]
+  },
+  {
+    "word": "two",
+    "grade": "3rd-grade",
+    "definitions": [
+      "The number following one",
+      "A pair or couple of things",
+      "Twice the value of one"
+    ]
+  },
+  {
+    "word": "three",
+    "grade": "3rd-grade",
+    "definitions": [
+      "The number following two",
+      "A trio or group of three",
+      "Three times the value of one"
+    ]
+  },
+  {
+    "word": "four",
+    "grade": "3rd-grade",
+    "definitions": [
+      "The number following three",
+      "A group of four items",
+      "Four times the value of one"
+    ]
+  },
+  {
+    "word": "five",
+    "grade": "3rd-grade",
+    "definitions": [
+      "The number following four",
+      "A group of five items",
+      "Five times the value of one"
+    ]
+  },
+  {
+    "word": "six",
+    "grade": "3rd-grade",
+    "definitions": [
+      "The number following five",
+      "A group of six items",
+      "Six times the value of one"
+    ]
+  },
+  {
+    "word": "seven",
+    "grade": "3rd-grade",
+    "definitions": [
+      "The number following six",
+      "A group of seven items",
+      "Seven times the value of one"
+    ]
+  },
+  {
+    "word": "eight",
+    "grade": "3rd-grade",
+    "definitions": [
+      "The number following seven",
+      "A group of eight items",
+      "Eight times the value of one"
+    ]
+  },
+  {
+    "word": "nine",
+    "grade": "3rd-grade",
+    "definitions": [
+      "The number following eight",
+      "A group of nine items",
+      "Nine times the value of one"
+    ]
+  },
+  {
+    "word": "ten",
+    "grade": "3rd-grade",
+    "definitions": [
+      "The number following nine",
+      "A group of ten items",
+      "Ten times the value of one"
+    ]
+  },
+  {
+    "word": "doll",
+    "grade": "3rd-grade",
+    "definitions": [
+      "A toy figure of a person",
+      "A child's toy that looks like a person",
+      "A plaything in the shape of a human"
+    ]
+  },
+  {
+    "word": "boat",
+    "grade": "3rd-grade",
+    "definitions": [
+      "A water vehicle for transportation",
+      "A small vessel that floats on water",
+      "A craft used for traveling on water"
+    ]
+  },
+  {
+    "word": "ball",
+    "grade": "3rd-grade",
+    "definitions": [
+      "A round object used in games",
+      "A spherical toy for playing",
+      "A round object that bounces"
+    ]
+  },
+  {
+    "word": "kite",
+    "grade": "3rd-grade",
+    "definitions": [
+      "A toy that flies in the wind on a string",
+      "Something you fly outside on a windy day",
+      "A lightweight object that soars in the sky"
+    ]
+  },
+  {
+    "word": "balloon",
+    "grade": "3rd-grade",
+    "definitions": [
+      "An inflatable rubber bag",
+      "A colorful object that floats in air",
+      "A party decoration that can be filled with gas"
+    ]
+  },
+  {
+    "word": "car",
+    "grade": "3rd-grade",
+    "definitions": [
+      "A vehicle with four wheels for transportation",
+      "A motorized vehicle for road travel",
+      "A machine used for personal transportation"
+    ]
+  },
+  {
+    "word": "plane",
+    "grade": "3rd-grade",
+    "definitions": [
+      "An aircraft with fixed wings",
+      "A vehicle that flies through the air",
+      "A means of air transportation"
+    ]
+  }
+]
