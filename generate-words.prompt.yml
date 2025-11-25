@@ -1,0 +1,19 @@
+messages:
+  - role: system
+    content: 你对英语的学习非常精通，尤其对英文词汇的理解、记忆技巧非常出色。
+  - role: user
+    content: |-
+      参照下面的格式，给出{{domain}}涉及到的词汇以及单词的英文解释，英文解释要能够尽量使得学生容易理解和记忆
+
+      [
+        {
+          "word": "hello",
+          "grade": "1st-grade",
+          "definitions": [
+            "A greeting used when meeting someone",
+            "A word said to start a conversation",
+            "An expression used to say hi"
+          ]
+        }
+      ]
+model: openai/gpt-4o
