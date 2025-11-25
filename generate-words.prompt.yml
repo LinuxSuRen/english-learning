@@ -3,8 +3,10 @@ messages:
     content: 你对英语的学习非常精通，尤其对英文词汇的理解、记忆技巧非常出色。
   - role: user
     content: >-
-      参照下面的格式，给出{{domain}}涉及到的词汇以及单词的英文解释，英文解释要能够尽量使得学生容易理解和记忆。尽可能提供{{count}}个词汇。
+      参照下面的格式，给出{{domain}}涉及到的词汇以及单词的英文解释，英文解释要能够尽量使得学生容易理解和记忆。尽可能提供{{count}}个词汇。如果数量太多，可以分多次声称。
 
 
-      https://raw.githubusercontent.com/LinuxSuRen/english-learning/refs/heads/master/physics.json
+      [{"word":"force","grade":"physics","definitions":["A push or pull on an
+      object","Something that can make objects move, stop, or change
+      direction","A strength or energy that causes motion or change"]}]
 model: openai/gpt-4o
