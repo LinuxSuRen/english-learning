@@ -1,0 +1,22 @@
+[
+  {"word":"atom","grade":"chemistry","definitions":["The tiny building block of matter, the basic unit of a chemical element","Made up of protons, neutrons, and electrons"]},
+  {"word":"molecule","grade":"chemistry","definitions":["A group of atoms joined together","The smallest unit of a chemical compound that can exist independently"]},
+  {"word":"element","grade":"chemistry","definitions":["A substance made of only one type of atom","Cannot be broken down into simpler substances"]},
+  {"word":"compound","grade":"chemistry","definitions":["A substance formed when two or more elements combine chemically","Can be broken into simpler substances"]},
+  {"word":"reaction","grade":"chemistry","definitions":["A process in which substances change to form new substances","Involves breaking and forming chemical bonds"]},
+  {"word":"solution","grade":"chemistry","definitions":["A mixture where one substance dissolves into another","Example: salt dissolved in water"]},
+  {"word":"acid","grade":"chemistry","definitions":["A substance that tastes sour and turns litmus paper red","Has a pH less than 7"]},
+  {"word":"base","grade":"chemistry","definitions":["A substance that tastes bitter and feels slippery","Has a pH greater than 7"]},
+  {"word":"pH","grade":"chemistry","definitions":["A scale to measure how acidic or basic a substance is","Ranges from 0 to 14, where 7 is neutral"]},
+  {"word":"bond","grade":"chemistry","definitions":["A connection between atoms in a molecule","Can be ionic, covalent, or metallic"]},
+  {"word":"covalent","grade":"chemistry","definitions":["A type of bond where atoms share electrons","Common in molecules like water"]},
+  {"word":"ionic","grade":"chemistry","definitions":["A type of bond formed by transfer of electrons","Occurs between metals and non-metals"]},
+  {"word":"electrolyte","grade":"chemistry","definitions":["A substance that allows electricity to flow when dissolved in water","Example: salt water"]},
+  {"word":"precipitate","grade":"chemistry","definitions":["A solid formed in a chemical reaction that doesn't dissolve","Appears in a solution when chemicals combine"]},
+  {"word":"oxidation","grade":"chemistry","definitions":["A process where electrons are lost from an atom or molecule","Often involves oxygen"]},
+  {"word":"reduction","grade":"chemistry","definitions":["A process where electrons are gained by an atom or molecule","Opposite of oxidation"]},
+  {"word":"catalyst","grade":"chemistry","definitions":["A substance that speeds up a chemical reaction but is not used up","Example: enzymes in the body"]},
+  {"word":"solvent","grade":"chemistry","definitions":["A substance that dissolves other substances","Example: water is the solvent for sugar"]},
+  {"word":"solute","grade":"chemistry","definitions":["The substance that is dissolved in a solvent","Example: sugar in water solution"]},
+  {"word":"organic","grade":"chemistry","definitions":["Refers to compounds that contain carbon and hydrogen","Includes fuels like methane and compounds in living organisms"]}
+]
