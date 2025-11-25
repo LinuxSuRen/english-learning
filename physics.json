@@ -1,0 +1,272 @@
+[
+  {
+    "word": "force",
+    "grade": "physics",
+    "definitions": [
+      "A push or pull on an object",
+      "Something that can make objects move, stop, or change direction",
+      "A strength or energy that causes motion or change"
+    ]
+  },
+  {
+    "word": "energy",
+    "grade": "physics",
+    "definitions": [
+      "The ability to do work or cause change",
+      "What makes things move, heat up, or light up",
+      "Power that can be changed from one form to another"
+    ]
+  },
+  {
+    "word": "work",
+    "grade": "physics",
+    "definitions": [
+      "When a force moves an object over a distance",
+      "Force multiplied by the distance moved in the force's direction",
+      "Energy transferred when something is moved"
+    ]
+  },
+  {
+    "word": "power",
+    "grade": "physics",
+    "definitions": [
+      "How fast work is done or energy is used",
+      "Work divided by time, measured in watts",
+      "The rate of transferring energy"
+    ]
+  },
+  {
+    "word": "motion",
+    "grade": "physics",
+    "definitions": [
+      "The state of changing position over time",
+      "When an object is moving from one place to another",
+      "Movement of an object"
+    ]
+  },
+  {
+    "word": "speed",
+    "grade": "physics",
+    "definitions": [
+      "How fast an object moves",
+      "Distance traveled divided by time taken",
+      "The rate of movement"
+    ]
+  },
+  {
+    "word": "velocity",
+    "grade": "physics",
+    "definitions": [
+      "Speed in a specific direction",
+      "How fast something moves and which way it goes",
+      "Speed with direction included"
+    ]
+  },
+  {
+    "word": "acceleration",
+    "grade": "physics",
+    "definitions": [
+      "How quickly velocity changes over time",
+      "When an object speeds up, slows down, or changes direction",
+      "The rate of change in speed"
+    ]
+  },
+  {
+    "word": "mass",
+    "grade": "physics",
+    "definitions": [
+      "The amount of matter in an object",
+      "How much 'stuff' makes up an object",
+      "A measure of an object's resistance to acceleration"
+    ]
+  },
+  {
+    "word": "weight",
+    "grade": "physics",
+    "definitions": [
+      "The force of gravity pulling on an object's mass",
+      "How heavy something is, measured in newtons",
+      "Mass multiplied by gravitational force"
+    ]
+  },
+  {
+    "word": "gravity",
+    "grade": "physics",
+    "definitions": [
+      "The force that pulls objects toward each other",
+      "What makes things fall down to the ground",
+      "The natural force of attraction between masses"
+    ]
+  },
+  {
+    "word": "friction",
+    "grade": "physics",
+    "definitions": [
+      "A force that opposes motion between two touching surfaces",
+      "What makes it hard to slide things across the floor",
+      "Resistance when one surface rubs against another"
+    ]
+  },
+  {
+    "word": "pressure",
+    "grade": "physics",
+    "definitions": [
+      "Force spread out over an area",
+      "How much force is applied per unit of surface",
+      "Force divided by the area it acts on"
+    ]
+  },
+  {
+    "word": "density",
+    "grade": "physics",
+    "definitions": [
+      "How much mass is packed into a given volume",
+      "Mass per unit volume of a material",
+      "How heavy something is for its size"
+    ]
+  },
+  {
+    "word": "temperature",
+    "grade": "physics",
+    "definitions": [
+      "A measure of how hot or cold something is",
+      "The average kinetic energy of particles in a substance",
+      "Degrees that show thermal energy level"
+    ]
+  },
+  {
+    "word": "heat",
+    "grade": "physics",
+    "definitions": [
+      "Energy that flows from hotter objects to colder ones",
+      "Thermal energy transferred between objects",
+      "The movement of energy due to temperature differences"
+    ]
+  },
+  {
+    "word": "sound",
+    "grade": "physics",
+    "definitions": [
+      "Vibrations that travel through air and can be heard",
+      "Energy waves we hear with our ears",
+      "Mechanical waves caused by vibrating objects"
+    ]
+  },
+  {
+    "word": "light",
+    "grade": "physics",
+    "definitions": [
+      "A form of energy that lets us see things",
+      "Electromagnetic waves visible to the eye",
+      "Radiation that travels in straight lines"
+    ]
+  },
+  {
+    "word": "electricity",
+    "grade": "physics",
+    "definitions": [
+      "The flow of electric charges through a material",
+      "Energy carried by moving electrons",
+      "A form of energy from charged particles"
+    ]
+  },
+  {
+    "word": "circuit",
+    "grade": "physics",
+    "definitions": [
+      "A complete path that allows electricity to flow",
+      "A closed loop for electric current to travel through",
+      "Components connected so electricity can move"
+    ]
+  },
+  {
+    "word": "magnetism",
+    "grade": "physics",
+    "definitions": [
+      "A force that attracts iron and some metals",
+      "The power of magnets to pull or push other magnets",
+      "Invisible force field around magnets"
+    ]
+  },
+  {
+    "word": "wavelength",
+    "grade": "physics",
+    "definitions": [
+      "The distance between two peaks of a wave",
+      "How long one complete wave cycle is",
+      "The measurement from crest to crest of a wave"
+    ]
+  },
+  {
+    "word": "frequency",
+    "grade": "physics",
+    "definitions": [
+      "How many wave cycles pass a point per second",
+      "The number of vibrations or oscillations in a given time",
+      "How often a wave repeats itself"
+    ]
+  },
+  {
+    "word": "voltage",
+    "grade": "physics",
+    "definitions": [
+      "The electrical 'push' that makes charges move",
+      "Potential difference that drives current in a circuit",
+      "Electrical pressure measured in volts"
+    ]
+  },
+  {
+    "word": "current",
+    "grade": "physics",
+    "definitions": [
+      "The flow of electric charge through a wire",
+      "How much electricity passes a point per second",
+      "Rate of electron flow in a circuit"
+    ]
+  },
+  {
+    "word": "resistance",
+    "grade": "physics",
+    "definitions": [
+      "How much a material opposes electric current",
+      "What makes it hard for electricity to flow",
+      "Opposition to the flow of electric charges"
+    ]
+  },
+  {
+    "word": "reflection",
+    "grade": "physics",
+    "definitions": [
+      "When light or sound waves bounce off a surface",
+      "The change in direction of waves at a surface",
+      "Waves returning after hitting something"
+    ]
+  },
+  {
+    "word": "refraction",
+    "grade": "physics",
+    "definitions": [
+      "When light bends as it passes through different materials",
+      "The bending of waves when entering a new medium",
+      "Change in wave direction due to speed change"
+    ]
+  },
+  {
+    "word": "lens",
+    "grade": "physics",
+    "definitions": [
+      "A curved piece of glass that bends light rays",
+      "An object that focuses or spreads out light",
+      "Transparent material that changes light direction"
+    ]
+  },
+  {
+    "word": "mirror",
+    "grade": "physics",
+    "definitions": [
+      "A smooth surface that reflects light to form images",
+      "Glass with a backing that shows your reflection",
+      "A surface that bounces back light waves"
+    ]
+  }
+]
