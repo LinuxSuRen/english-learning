@@ -269,4 +269,276 @@
       "A surface that bounces back light waves"
     ]
   }
+,
+  {
+    "word": "displacement",
+    "grade": "physics",
+    "definitions": [
+      "How far and in what direction an object has moved",
+      "The straight-line change in position from start to finish",
+      "A vector that shows distance with direction"
+    ]
+  },
+  {
+    "word": "momentum",
+    "grade": "physics",
+    "definitions": [
+      "A measure of how hard it is to stop a moving object",
+      "Mass multiplied by velocity",
+      "Quantity that depends on both speed and amount of matter"
+    ]
+  },
+  {
+    "word": "impulse",
+    "grade": "physics",
+    "definitions": [
+      "A change in momentum caused by a force over time",
+      "Force multiplied by the time it acts",
+      "What happens when a short strong push changes motion"
+    ]
+  },
+  {
+    "word": "inertia",
+    "grade": "physics",
+    "definitions": [
+      "The tendency of an object to keep doing what it's doing",
+      "Resistance to change in motion",
+      "Heavier objects usually have more inertia"
+    ]
+  },
+  {
+    "word": "torque",
+    "grade": "physics",
+    "definitions": [
+      "A twisting force that makes objects rotate",
+      "How strongly a force tries to turn something",
+      "The rotational equivalent of a push or pull"
+    ]
+  },
+  {
+    "word": "equilibrium",
+    "grade": "physics",
+    "definitions": [
+      "A state where all forces balance and nothing changes",
+      "When an object stays still or moves steadily because forces cancel",
+      "A stable condition with no net motion change"
+    ]
+  },
+  {
+    "word": "center of mass",
+    "grade": "physics",
+    "definitions": [
+      "The point where an object's mass is balanced",
+      "A single location that represents the object's overall mass",
+      "Where you can imagine all the mass being concentrated"
+    ]
+  },
+  {
+    "word": "angular momentum",
+    "grade": "physics",
+    "definitions": [
+      "A quantity that describes rotation and is conserved",
+      "Depends on how mass is distributed and how fast it spins",
+      "The rotational version of linear momentum"
+    ]
+  },
+  {
+    "word": "angular velocity",
+    "grade": "physics",
+    "definitions": [
+      "How fast something spins and in what direction",
+      "The rate of rotation measured in radians per second",
+      "Describes rotational speed around an axis"
+    ]
+  },
+  {
+    "word": "angular acceleration",
+    "grade": "physics",
+    "definitions": [
+      "How quickly the rotation speed changes",
+      "When a spinning object speeds up or slows down",
+      "Rate of change of angular velocity"
+    ]
+  },
+  {
+    "word": "moment of inertia",
+    "grade": "physics",
+    "definitions": [
+      "A measure of how hard it is to change an object's rotation",
+      "Depends on mass and how far it is from the rotation axis",
+      "The rotational equivalent of mass for spinning objects"
+    ]
+  },
+  {
+    "word": "oscillation",
+    "grade": "physics",
+    "definitions": [
+      "Repeated back-and-forth motion",
+      "Like a swing moving to and fro",
+      "Any motion that repeats over time"
+    ]
+  },
+  {
+    "word": "simple harmonic motion",
+    "grade": "physics",
+    "definitions": [
+      "A smooth repeating motion like a perfect spring or pendulum",
+      "Motion that follows a sine or cosine pattern",
+      "When restoring force is proportional to displacement"
+    ]
+  },
+  {
+    "word": "amplitude",
+    "grade": "physics",
+    "definitions": [
+      "How big a wave or oscillation is",
+      "The maximum distance from the middle position",
+      "A measure of wave height or motion size"
+    ]
+  },
+  {
+    "word": "wave",
+    "grade": "physics",
+    "definitions": [
+      "A disturbance that carries energy through space or a medium",
+      "Examples include water waves, sound waves, and light waves",
+      "Waves move energy without moving matter far distances"
+    ]
+  },
+  {
+    "word": "diffraction",
+    "grade": "physics",
+    "definitions": [
+      "When waves bend around obstacles or through small openings",
+      "Causes spreading of waves after passing an edge",
+      "Explains patterns seen when waves encounter barriers"
+    ]
+  },
+  {
+    "word": "interference",
+    "grade": "physics",
+    "definitions": [
+      "When two or more waves meet and combine",
+      "Can make bigger waves or cancel them out",
+      "Produces patterns of reinforcement and cancellation"
+    ]
+  },
+  {
+    "word": "polarization",
+    "grade": "physics",
+    "definitions": [
+      "The direction in which light waves vibrate",
+      "Light whose vibrations are more in one direction than others",
+      "Used in sunglasses to block glare"
+    ]
+  },
+  {
+    "word": "Doppler effect",
+    "grade": "physics",
+    "definitions": [
+      "A change in frequency when a source or observer moves",
+      "Why a siren sounds higher as it approaches and lower as it passes",
+      "Shift in pitch or color caused by relative motion"
+    ]
+  },
+  {
+    "word": "standing wave",
+    "grade": "physics",
+    "definitions": [
+      "A wave pattern that stays in one place",
+      "Occurs when incoming and reflected waves overlap just right",
+      "Shows nodes and antinodes at fixed positions"
+    ]
+  },
+  {
+    "word": "node",
+    "grade": "physics",
+    "definitions": [
+      "A point on a standing wave with no motion",
+      "Places where the wave amplitude is always zero",
+      "Fixed points between vibrating sections"
+    ]
+  },
+  {
+    "word": "antinode",
+    "grade": "physics",
+    "definitions": [
+      "A point on a standing wave with maximum motion",
+      "Places where the wave reaches its biggest displacement",
+      "Opposite of a node in a vibrating pattern"
+    ]
+  },
+  {
+    "word": "elasticity",
+    "grade": "physics",
+    "definitions": [
+      "The ability of a material to return to its shape after stretching",
+      "How well something bounces back when forces are removed",
+      "Materials with high elasticity stretch and then recover"
+    ]
+  },
+  {
+    "word": "stress",
+    "grade": "physics",
+    "definitions": [
+      "Force applied over an area inside a material",
+      "How strongly the material is being pushed or pulled",
+      "Stress can cause materials to change shape or break"
+    ]
+  },
+  {
+    "word": "strain",
+    "grade": "physics",
+    "definitions": [
+      "How much a material stretches or changes shape",
+      "The deformation that results from applied stress",
+      "Measured as a change in length divided by original length"
+    ]
+  },
+  {
+    "word": "Young's modulus",
+    "grade": "physics",
+    "definitions": [
+      "A number that describes a material's stiffness",
+      "Higher values mean the material is harder to stretch",
+      "Found by comparing stress to strain"
+    ]
+  },
+  {
+    "word": "capacitance",
+    "grade": "physics",
+    "definitions": [
+      "The ability of a device to store electric charge",
+      "Measured in farads and used in capacitors",
+      "Determines how much charge a component holds at a given voltage"
+    ]
+  },
+  {
+    "word": "inductance",
+    "grade": "physics",
+    "definitions": [
+      "A property of coils that resists changes in current",
+      "Makes a changing current produce a voltage",
+      "Measured in henrys and used in inductors"
+    ]
+  },
+  {
+    "word": "photon",
+    "grade": "physics",
+    "definitions": [
+      "A tiny particle of light",
+      "Carries electromagnetic energy like light and radio waves",
+      "Has no mass but carries energy and momentum"
+    ]
+  }
+,
+  {
+    "word": "resonance",
+    "grade": "physics",
+    "definitions": [
+      "When an object vibrates strongly at a particular frequency",
+      "Occurs when a system is driven at its natural frequency",
+      "Can make sounds louder or cause structures to oscillate more"
+    ]
+  }
 ]
