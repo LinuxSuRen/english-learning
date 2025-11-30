@@ -48,9 +48,7 @@
     "word": "conserve",
     "grade": "4th-grade",
     "definitions": [
-      "To protect and preserve something from harm",
-      "To save or store something for future use",
-      "To use resources carefully to prevent waste"
+      "To protect and preserve something from harm"
     ]
   },
   {
@@ -533,6 +531,7 @@
   {
     "word": "thirteen",
     "grade": "4th-grade",
+    "unit": "Unit 6",
     "definitions": [
       "The number following twelve",
       "One more than twelve",
@@ -642,6 +641,7 @@
   {
     "word": "foot",
     "grade": "4th-grade",
+    "unit": "Unit 5",
     "definitions": [
       "The lower extremity of the leg",
       "The body part used for standing and walking",
@@ -1218,6 +1218,7 @@
   {
     "word": "at",
     "grade": "4th-grade",
+    "unit": "Unit 6",
     "definitions": [
       "Expressing location or position",
       "Indicating presence in a place",
@@ -1335,6 +1336,7 @@
   {
     "word": "thirty",
     "grade": "4th-grade",
+    "unit": "Unit 6",
     "definitions": [
       "Three times ten in numerical value",
       "The number following twenty-nine",
@@ -1434,6 +1436,7 @@
   {
     "word": "pet",
     "grade": "4th-grade",
+    "unit": "Unit 5",
     "definitions": [
       "A domesticated animal for companionship",
       "An animal kept for pleasure",
@@ -1990,6 +1993,328 @@
       "Having high temperature",
       "Very warm or scorching",
       "Feeling warmth when touched"
+    ]
+  },
+  {
+    "word": "go",
+    "grade": "4th-grade",
+    "unit": "Unit 4",
+    "definitions": [
+      "To move from one place to another",
+      "To travel or proceed somewhere"
+    ]
+  },
+  {
+    "word": "boating",
+    "grade": "4th-grade",
+    "unit": "Unit 4",
+    "definitions": [
+      "The activity of sailing or rowing a boat on water"
+    ]
+  },
+  {
+    "word": "fly",
+    "grade": "4th-grade",
+    "unit": "Unit 4",
+    "definitions": [
+      "To move through the air using wings",
+      "To travel in an airplane"
+    ]
+  },
+  {
+    "word": "snowman",
+    "grade": "4th-grade",
+    "unit": "Unit 4",
+    "definitions": [
+      "A figure made of snow, usually shaped like a person"
+    ]
+  },
+  {
+    "word": "bookshop",
+    "grade": "4th-grade",
+    "unit": "Unit 4",
+    "definitions": [
+      "A store where books are sold"
+    ]
+  },
+  {
+    "word": "library",
+    "grade": "4th-grade",
+    "unit": "Unit 4",
+    "definitions": [
+      "A building or room where books are kept for reading or borrowing"
+    ]
+  },
+  {
+    "word": "cinema",
+    "grade": "4th-grade",
+    "unit": "Unit 4",
+    "definitions": [
+      "A place where movies are shown to the public"
+    ]
+  },
+  {
+    "word": "bear",
+    "grade": "4th-grade",
+    "unit": "Unit 5",
+    "definitions": [
+      "A large mammal with thick fur and strong claws"
+    ]
+  },
+  {
+    "word": "panda",
+    "grade": "4th-grade",
+    "unit": "Unit 5",
+    "definitions": [
+      "A black-and-white bear native to China"
+    ]
+  },
+  {
+    "word": "tiger",
+    "grade": "4th-grade",
+    "unit": "Unit 5",
+    "definitions": [
+      "A large wild cat with orange fur and black stripes"
+    ]
+  },
+  {
+    "word": "elephant",
+    "grade": "4th-grade",
+    "unit": "Unit 5",
+    "definitions": [
+      "A very large animal with a trunk and tusks"
+    ]
+  },
+  {
+    "word": "monkey",
+    "grade": "4th-grade",
+    "unit": "Unit 5",
+    "definitions": [
+      "A small animal with a long tail that lives in trees"
+    ]
+  },
+  {
+    "word": "lion",
+    "grade": "4th-grade",
+    "unit": "Unit 5",
+    "definitions": [
+      "A large wild cat known as the king of the jungle"
+    ]
+  },
+  {
+    "word": "arm",
+    "grade": "4th-grade",
+    "unit": "Unit 5",
+    "definitions": [
+      "The part of the body between the shoulder and hand"
+    ]
+  },
+  {
+    "word": "leg",
+    "grade": "4th-grade",
+    "unit": "Unit 5",
+    "definitions": [
+      "The part of the body below the hip and above the foot"
+    ]
+  },
+  {
+    "word": "body",
+    "grade": "4th-grade",
+    "unit": "Unit 5",
+    "definitions": [
+      "The physical structure of a person or animal"
+    ]
+  },
+  {
+    "word": "tail",
+    "grade": "4th-grade",
+    "unit": "Unit 5",
+    "definitions": [
+      "The long part at the back of some animals"
+    ]
+  },
+  {
+    "word": "head",
+    "grade": "4th-grade",
+    "unit": "Unit 5",
+    "definitions": [
+      "The top part of the body containing the brain and face"
+    ]
+  },
+  {
+    "word": "favourite",
+    "grade": "4th-grade",
+    "unit": "Unit 5",
+    "definitions": [
+      "Something that is liked best among others"
+    ]
+  },
+  {
+    "word": "fast",
+    "grade": "4th-grade",
+    "unit": "Unit 5",
+    "definitions": [
+      "Moving quickly or rapidly"
+    ]
+  },
+  {
+    "word": "clever",
+    "grade": "4th-grade",
+    "unit": "Unit 5",
+    "definitions": [
+      "Smart or intelligent"
+    ]
+  },
+  {
+    "word": "its",
+    "grade": "4th-grade",
+    "unit": "Unit 5",
+    "definitions": [
+      "Possessive form of 'it', meaning belonging to it"
+    ]
+  },
+  {
+    "word": "fourteen",
+    "grade": "4th-grade",
+    "unit": "Unit 6",
+    "definitions": [
+      "The number after thirteen"
+    ]
+  },
+  {
+    "word": "fifteen",
+    "grade": "4th-grade",
+    "unit": "Unit 6",
+    "definitions": [
+      "The number after fourteen"
+    ]
+  },
+  {
+    "word": "sixteen",
+    "grade": "4th-grade",
+    "unit": "Unit 6",
+    "definitions": [
+      "The number after fifteen"
+    ]
+  },
+  {
+    "word": "seventeen",
+    "grade": "4th-grade",
+    "unit": "Unit 6",
+    "definitions": [
+      "The number after sixteen"
+    ]
+  },
+  {
+    "word": "eighteen",
+    "grade": "4th-grade",
+    "unit": "Unit 6",
+    "definitions": [
+      "The number after seventeen"
+    ]
+  },
+  {
+    "word": "nineteen",
+    "grade": "4th-grade",
+    "unit": "Unit 6",
+    "definitions": [
+      "The number after eighteen"
+    ]
+  },
+  {
+    "word": "twenty",
+    "grade": "4th-grade",
+    "unit": "Unit 6",
+    "definitions": [
+      "The number after nineteen"
+    ]
+  },
+  {
+    "word": "forty",
+    "grade": "4th-grade",
+    "unit": "Unit 6",
+    "definitions": [
+      "Four times ten"
+    ]
+  },
+  {
+    "word": "fifty",
+    "grade": "4th-grade",
+    "unit": "Unit 6",
+    "definitions": [
+      "Five times ten"
+    ]
+  },
+  {
+    "word": "get up",
+    "grade": "4th-grade",
+    "unit": "Unit 6",
+    "definitions": [
+      "To wake up and leave bed"
+    ]
+  },
+  {
+    "word": "clock",
+    "grade": "4th-grade",
+    "unit": "Unit 6",
+    "definitions": [
+      "A device that shows the time"
+    ]
+  },
+  {
+    "word": "have to",
+    "grade": "4th-grade",
+    "unit": "Unit 6",
+    "definitions": [
+      "Must do something; necessity"
+    ]
+  },
+  {
+    "word": "get to",
+    "grade": "4th-grade",
+    "unit": "Unit 6",
+    "definitions": [
+      "To arrive at a place"
+    ]
+  },
+  {
+    "word": "before",
+    "grade": "4th-grade",
+    "unit": "Unit 6",
+    "definitions": [
+      "Earlier than a certain time or event"
+    ]
+  },
+  {
+    "word": "hurry up",
+    "grade": "4th-grade",
+    "unit": "Unit 6",
+    "definitions": [
+      "To move quickly; to speed up"
+    ]
+  },
+  {
+    "word": "o'clock",
+    "grade": "4th-grade",
+    "unit": "Unit 6",
+    "definitions": [
+      "Used to express the hour of the day"
+    ]
+  },
+  {
+    "word": "breakfast",
+    "grade": "4th-grade",
+    "unit": "Unit 6",
+    "definitions": [
+      "The first meal of the day"
+    ]
+  },
+  {
+    "word": "over",
+    "grade": "4th-grade",
+    "unit": "Unit 6",
+    "definitions": [
+      "Finished or ended"
     ]
   }
 ]
