@@ -12,6 +12,128 @@
     "word": "about",
     "grade": "7th-grade",
     "definitions": [
+      "approximately",
+      "concerning",
+      "regarding",
+      "in the vicinity of"
+    ]
+  },
+  {
+    "word": "husband",
+    "grade": "7th-grade",
+    "definitions": [
+      "a married man",
+      "a woman's male partner in marriage",
+      "the male half of a married couple"
+    ]
+  },
+  {
+    "word": "i",
+    "grade": "7th-grade"
+  },
+  {
+    "word": "in",
+    "grade": "7th-grade",
+    "definitions": [
+      "inside",
+      "into",
+      "within",
+      "on the inside of"
+    ]
+  },
+  {
+    "word": "is",
+    "grade": "7th-grade",
+    "definitions": [
+      "to be",
+      "to exist",
+      "to equal"
+    ]
+  },
+  {
+    "word": "it",
+    "grade": "7th-grade",
+    "definitions": [
+      "a thing",
+      "a person",
+      "a place"
+    ]
+  },
+  {
+    "word": "of",
+    "grade": "7th-grade",
+    "definitions": [
+      "belonging to",
+      "coming from",
+      "made of",
+      "about"
+    ]
+  },
+  {
+    "word": "on",
+    "grade": "7th-grade",
+    "definitions": [
+      "above",
+      "upon",
+      "in the position of",
+      "at the time of"
+    ]
+  },
+  {
+    "word": "that",
+    "grade": "7th-grade",
+    "definitions": [
+      "used to point out a particular person or thing",
+      "used to introduce a clause",
+      "used to express a wish or command"
+    ]
+  },
+  {
+    "word": "the",
+    "grade": "7th-grade",
+    "definitions": [
+      "definite article",
+      "used to refer to a specific person, place, thing, or idea"
+    ]
+  },
+  {
+    "word": "to",
+    "grade": "7th-grade",
+    "definitions": [
+      "towards",
+      "until",
+      "in order to",
+      "for the purpose of"
+    ]
+  },
+  {
+    "word": "was",
+    "grade": "7th-grade",
+    "definitions": [
+      "past tense of 'is'",
+      "past tense of 'am'",
+      "past tense of 'are'"
+    ]
+  },
+  {
+    "word": "we",
+    "grade": "7th-grade",
+    "definitions": [
+      "used to refer to a group of people including the speaker",
+      "used to refer to the speaker and one other person"
+    ]
+  },
+  {
+    "word": "were",
+    "grade": "7th-grade",
+    "definitions": [
+      "past tense of 'is'",
+      "past tense of 'am'",
+      "past tense of 'are'"
+    ]
+  },
+    "grade": "7th-grade",
+    "definitions": [
       "on the subject of; concerning",
       "approximately",
       "in various places"
@@ -3974,7 +4096,12 @@
   },
   {
     "word": "hurry",
-    "grade": "7th-grade"
+    "grade": "7th-grade",
+    "definitions": [
+      "to move or act quickly",
+      "to rush or do something fast",
+      "to be in a rush because you are late"
+    ]
   },
   {
     "word": "hurt",
@@ -3990,7 +4117,12 @@
   },
   {
     "word": "ice",
-    "grade": "7th-grade"
+    "grade": "7th-grade",
+    "definitions": [
+      "frozen water that is solid and cold",
+      "to put ice on something to make it cold",
+      "a piece of frozen water, often in cubes"
+    ]
   },
   {
     "word": "ice-cream",
