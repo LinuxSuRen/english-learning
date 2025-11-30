@@ -1991,6 +1991,7 @@
   {
     "word": "different",
     "grade": "7th-grade",
+    "unit": "Unit 2",
     "definitions": [
       "not the same as another or each other; unlike in nature, form, or quality",
       "distinct or separate from others",
@@ -2207,6 +2208,7 @@
   {
     "word": "dry",
     "grade": "7th-grade",
+    "unit": "Unit 2",
     "definitions": [
       "free from moisture or liquid; not wet or sticky",
       "to remove moisture from something by evaporation or absorption",
@@ -2450,6 +2452,7 @@
   {
     "word": "eraser",
     "grade": "7th-grade",
+    "unit": "Starter",
     "definitions": [
       "a piece of rubber or other material used for rubbing out pencil or pen marks",
       "a tool used to remove written or drawn marks from paper",
@@ -2504,6 +2507,7 @@
   {
     "word": "everyone",
     "grade": "7th-grade",
+    "unit": "Starter",
     "definitions": [
       "every person; all people without exception",
       "used to refer to all people in a group",
@@ -2594,6 +2598,7 @@
   {
     "word": "fact",
     "grade": "7th-grade",
+    "unit": "Unit 2",
     "definitions": [
       "a thing that is known or proved to be true",
       "a piece of information used as evidence",
@@ -3008,6 +3013,7 @@
   {
     "word": "forget",
     "grade": "7th-grade",
+    "unit": "Starter",
     "definitions": [
       "to fail to remember something that happened or information previously known",
       "to leave something behind unintentionally",
@@ -3152,6 +3158,7 @@
   {
     "word": "fun",
     "grade": "7th-grade",
+    "unit": "Starter",
     "definitions": [
       "enjoyment, amusement, or light-hearted pleasure",
       "to act in a playful or joking manner",
@@ -3485,6 +3492,7 @@
   {
     "word": "guitar",
     "grade": "7th-grade",
+    "unit": "Unit 2",
     "definitions": [
       "a stringed musical instrument played by plucking or strumming",
       "a musical instrument with six or twelve strings",
@@ -3737,6 +3745,7 @@
   {
     "word": "hers",
     "grade": "7th-grade",
+    "unit": "Unit 2",
     "definitions": [
       "belonging to or associated with a female person previously mentioned",
       "used to indicate possession by a female",
@@ -3800,6 +3809,7 @@
   {
     "word": "history",
     "grade": "7th-grade",
+    "unit": "Starter",
     "definitions": [
       "the study of past events, particularly in human affairs",
       "a continuous, systematic narrative of past events",
@@ -3818,6 +3828,7 @@
   {
     "word": "hobby",
     "grade": "7th-grade",
+    "unit": "Starter",
     "definitions": [
       "an activity done regularly in one's leisure time for pleasure",
       "a pursuit outside one's regular occupation engaged in especially for relaxation",
@@ -3863,6 +3874,7 @@
   {
     "word": "homework",
     "grade": "7th-grade",
+    "unit": "Unit 2",
     "definitions": [
       "school assignments that are given to students to be completed outside class",
       "tasks or work assigned by a teacher to be done at home",
@@ -3872,6 +3884,7 @@
   {
     "word": "hope",
     "grade": "7th-grade",
+    "unit": "Unit 2",
     "definitions": [
       "a feeling of expectation and desire for a particular thing to happen",
       "to want something to happen or be the case",
@@ -3996,10 +4009,6 @@
     "grade": "7th-grade"
   },
   {
-    "word": "important",
-    "grade": "7th-grade"
-  },
-  {
     "word": "in",
     "grade": "7th-grade"
   },
@@ -4068,10 +4077,6 @@
     "grade": "7th-grade"
   },
   {
-    "word": "jacket",
-    "grade": "7th-grade"
-  },
-  {
     "word": "january",
     "grade": "7th-grade"
   },
@@ -4085,10 +4090,6 @@
   },
   {
     "word": "job",
-    "grade": "7th-grade"
-  },
-  {
-    "word": "join",
     "grade": "7th-grade"
   },
   {
@@ -4288,10 +4289,6 @@
     "grade": "7th-grade"
   },
   {
-    "word": "life",
-    "grade": "7th-grade"
-  },
-  {
     "word": "light",
     "grade": "7th-grade"
   },
@@ -4460,10 +4457,6 @@
     "grade": "7th-grade"
   },
   {
-    "word": "meaning",
-    "grade": "7th-grade"
-  },
-  {
     "word": "meat",
     "grade": "7th-grade"
   },
@@ -4524,10 +4517,6 @@
     "grade": "7th-grade"
   },
   {
-    "word": "mind",
-    "grade": "7th-grade"
-  },
-  {
     "word": "mine",
     "grade": "7th-grade"
   },
@@ -4541,10 +4530,6 @@
   },
   {
     "word": "miss",
-    "grade": "7th-grade"
-  },
-  {
-    "word": "mistake",
     "grade": "7th-grade"
   },
   {
@@ -4676,10 +4661,6 @@
     "grade": "7th-grade"
   },
   {
-    "word": "need",
-    "grade": "7th-grade"
-  },
-  {
     "word": "needle",
     "grade": "7th-grade"
   },
@@ -4689,10 +4670,6 @@
   },
   {
     "word": "neither",
-    "grade": "7th-grade"
-  },
-  {
-    "word": "nervous",
     "grade": "7th-grade"
   },
   {
@@ -5088,10 +5065,6 @@
     "grade": "7th-grade"
   },
   {
-    "word": "plan",
-    "grade": "7th-grade"
-  },
-  {
     "word": "plane",
     "grade": "7th-grade"
   },
@@ -5133,14 +5106,6 @@
   },
   {
     "word": "police",
-    "grade": "7th-grade"
-  },
-  {
-    "word": "polite",
-    "grade": "7th-grade"
-  },
-  {
-    "word": "pool",
     "grade": "7th-grade"
   },
   {
@@ -5228,19 +5193,11 @@
     "grade": "7th-grade"
   },
   {
-    "word": "problem",
-    "grade": "7th-grade"
-  },
-  {
     "word": "produce",
     "grade": "7th-grade"
   },
   {
     "word": "promise",
-    "grade": "7th-grade"
-  },
-  {
-    "word": "protect",
     "grade": "7th-grade"
   },
   {
@@ -5332,10 +5289,6 @@
     "grade": "7th-grade"
   },
   {
-    "word": "ready",
-    "grade": "7th-grade"
-  },
-  {
     "word": "real",
     "grade": "7th-grade"
   },
@@ -5357,10 +5310,6 @@
   },
   {
     "word": "relative",
-    "grade": "7th-grade"
-  },
-  {
-    "word": "remember",
     "grade": "7th-grade"
   },
   {
@@ -5493,10 +5442,6 @@
   },
   {
     "word": "safe",
-    "grade": "7th-grade"
-  },
-  {
-    "word": "sail",
     "grade": "7th-grade"
   },
   {
@@ -5904,10 +5849,6 @@
     "grade": "7th-grade"
   },
   {
-    "word": "something",
-    "grade": "7th-grade"
-  },
-  {
     "word": "sometimes",
     "grade": "7th-grade"
   },
@@ -5925,10 +5866,6 @@
   },
   {
     "word": "sorry",
-    "grade": "7th-grade"
-  },
-  {
-    "word": "sound",
     "grade": "7th-grade"
   },
   {
@@ -5997,10 +5934,6 @@
   },
   {
     "word": "star",
-    "grade": "7th-grade"
-  },
-  {
-    "word": "start",
     "grade": "7th-grade"
   },
   {
@@ -6076,6 +6009,7 @@
   {
     "word": "storm",
     "grade": "7th-grade",
+    "unit": "Unit 2",
     "definitions": [
       "a violent disturbance of the atmosphere with strong winds and usually rain, thunder, lightning, or snow",
       "to attack or assault someone or something violently",
@@ -6364,6 +6298,7 @@
   {
     "word": "task",
     "grade": "7th-grade",
+    "unit": "Unit 2",
     "definitions": [
       "a piece of work to be done or undertaken",
       "to assign a task to someone",
@@ -6508,6 +6443,7 @@
   {
     "word": "textbook",
     "grade": "7th-grade",
+    "unit": "Starter",
     "definitions": [
       "a book used as a standard work for the study of a particular subject",
       "a standard book used in schools for studying a subject",
@@ -6715,6 +6651,7 @@
   {
     "word": "thought",
     "grade": "7th-grade",
+    "unit": "Unit 2",
     "definitions": [
       "an idea or opinion produced by thinking or occurring suddenly in the mind",
       "the past tense and past participle of 'think'",
@@ -6742,6 +6679,7 @@
   {
     "word": "through",
     "grade": "7th-grade",
+    "unit": "Unit 2",
     "definitions": [
       "moving in one side and out of the other side of something",
       "from beginning to end of an experience or activity",
@@ -6850,6 +6788,7 @@
   {
     "word": "together",
     "grade": "7th-grade",
+    "unit": "Starter",
     "definitions": [
       "with or in proximity to another or others",
       "in a single group or mass; jointly",
@@ -7732,6 +7671,7 @@
   {
     "word": "wide",
     "grade": "7th-grade",
+    "unit": "Unit 2",
     "definitions": [
       "measuring a large distance from side to side",
       "extending far or broadly in space or scope",
@@ -7777,6 +7717,7 @@
   {
     "word": "wind",
     "grade": "7th-grade",
+    "unit": "Unit 2",
     "definitions": [
       "the movement of air caused by pressure differences in the atmosphere",
       "to turn or twist something repeatedly",
@@ -7849,6 +7790,7 @@
   {
     "word": "without",
     "grade": "7th-grade",
+    "unit": "Unit 1",
     "definitions": [
       "in the absence of or not having something",
       "used to indicate that something is not done or present",
@@ -8047,6 +7989,7 @@
   {
     "word": "yourself",
     "grade": "7th-grade",
+    "unit": "Starter",
     "definitions": [
       "used to refer to the person being addressed as the object of a verb or preposition",
       "in your normal state of mind or body",
@@ -8080,7 +8023,23 @@
       "a facility dedicated to the conservation and exhibition of wildlife"
     ]
   },
-    {
+  {
+    "word": "ready",
+    "grade": "7th-grade",
+    "unit": "Starter",
+    "definitions": [
+      "prepared to do something"
+    ]
+  },
+  {
+    "word": "junior high",
+    "grade": "7th-grade",
+    "unit": "Starter",
+    "definitions": [
+      "a school for students in grades 7 to 9"
+    ]
+  },
+  {
     "word": "geography",
     "grade": "7th-grade",
     "unit": "Starter",
@@ -8111,6 +8070,22 @@
     ]
   },
   {
+    "word": "jacket",
+    "grade": "7th-grade",
+    "unit": "Starter",
+    "definitions": [
+      "a short coat worn over other clothes"
+    ]
+  },
+  {
+    "word": "red scarf",
+    "grade": "7th-grade",
+    "unit": "Starter",
+    "definitions": [
+      "a red cloth worn around the neck, often as a symbol of membership in an organization"
+    ]
+  },
+  {
     "word": "T-shirt",
     "grade": "7th-grade",
     "unit": "Starter",
@@ -8118,6 +8093,70 @@
       "a casual top with short sleeves and no collar, typically made of cotton",
       "a garment worn on the upper body that is usually knitted from cotton or polyester",
       "a type of shirt that is often used for advertising or displaying designs"
+    ]
+  },
+  {
+    "word": "uniform",
+    "grade": "7th-grade",
+    "unit": "Starter",
+    "definitions": [
+      "a set of clothes worn by members of a particular group or organization"
+    ]
+  },
+  {
+    "word": "school uniform",
+    "grade": "7th-grade",
+    "unit": "Starter",
+    "definitions": [
+      "clothes worn by students at school"
+    ]
+  },
+  {
+    "word": "of course",
+    "grade": "7th-grade",
+    "unit": "Starter",
+    "definitions": [
+      "certainly; naturally"
+    ]
+  },
+  {
+    "word": "teaching building",
+    "grade": "7th-grade",
+    "unit": "Starter",
+    "definitions": [
+      "a building where classes are held"
+    ]
+  },
+  {
+    "word": "dining hall",
+    "grade": "7th-grade",
+    "unit": "Starter",
+    "definitions": [
+      "a large room where people eat meals together"
+    ]
+  },
+  {
+    "word": "lab",
+    "grade": "7th-grade",
+    "unit": "Starter",
+    "definitions": [
+      "a room or building equipped for scientific experiments"
+    ]
+  },
+  {
+    "word": "start",
+    "grade": "7th-grade",
+    "unit": "Starter",
+    "definitions": [
+      "to begin doing something"
+    ]
+  },
+  {
+    "word": "each other",
+    "grade": "7th-grade",
+    "unit": "Starter",
+    "definitions": [
+      "mutually; reciprocally"
     ]
   },
   {
@@ -8138,6 +8177,262 @@
       "to make someone known to another person by name",
       "to bring something into use or operation for the first time",
       "to present something for consideration or discussion"
+    ]
+  },
+  {
+    "word": "a bit",
+    "grade": "7th-grade",
+    "unit": "Starter",
+    "definitions": [
+      "slightly; somewhat"
+    ]
+  },
+  {
+    "word": "nervous",
+    "grade": "7th-grade",
+    "unit": "Starter",
+    "definitions": [
+      "feeling anxious or worried"
+    ]
+  },
+  {
+    "word": "join",
+    "grade": "7th-grade",
+    "unit": "Starter",
+    "definitions": [
+      "to become a member of a group"
+    ]
+  },
+  {
+    "word": "team",
+    "grade": "7th-grade",
+    "unit": "Starter",
+    "definitions": [
+      "a group of people working together"
+    ]
+  },
+  {
+    "word": "take part in",
+    "grade": "7th-grade",
+    "unit": "Starter",
+    "definitions": [
+      "to participate in an activity"
+    ]
+  },
+  {
+    "word": "sentence",
+    "grade": "7th-grade",
+    "unit": "Unit 1",
+    "definitions": [
+      "a group of words expressing a complete thought"
+    ]
+  },
+  {
+    "word": "point out",
+    "grade": "7th-grade",
+    "unit": "Unit 1",
+    "definitions": [
+      "to indicate or draw attention to something"
+    ]
+  },
+  {
+    "word": "mistake",
+    "grade": "7th-grade",
+    "unit": "Unit 1",
+    "definitions": [
+      "an error or wrong action"
+    ]
+  },
+  {
+    "word": "polite",
+    "grade": "7th-grade",
+    "unit": "Unit 1",
+    "definitions": [
+      "showing good manners and respect"
+    ]
+  },
+  {
+    "word": "mind",
+    "grade": "7th-grade",
+    "unit": "Unit 1",
+    "definitions": [
+      "the faculty of thought, understanding, and reasoning"
+    ]
+  },
+  {
+    "word": "meaning",
+    "grade": "7th-grade",
+    "unit": "Unit 2",
+    "definitions": [
+      "the idea or significance of something"
+    ]
+  },
+  {
+    "word": "in fact",
+    "grade": "7th-grade",
+    "unit": "Unit 2",
+    "definitions": [
+      "actually; truly"
+    ]
+  },
+  {
+    "word": "need",
+    "grade": "7th-grade",
+    "unit": "Unit 2",
+    "definitions": [
+      "to require something"
+    ]
+  },
+  {
+    "word": "remember",
+    "grade": "7th-grade",
+    "unit": "Unit 2",
+    "definitions": [
+      "to recall something from memory"
+    ]
+  },
+  {
+    "word": "really",
+    "grade": "7th-grade",
+    "unit": "Unit 2",
+    "definitions": [
+      "truly; genuinely"
+    ]
+  },
+  {
+    "word": "important",
+    "grade": "7th-grade",
+    "unit": "Unit 2",
+    "definitions": [
+      "having great significance or value"
+    ]
+  },
+  {
+    "word": "plan",
+    "grade": "7th-grade",
+    "unit": "Unit 2",
+    "definitions": [
+      "to make arrangements for something in advance"
+    ]
+  },
+  {
+    "word": "problem",
+    "grade": "7th-grade",
+    "unit": "Unit 2",
+    "definitions": [
+      "a difficult situation or question that needs to be solved"
+    ]
+  },
+  {
+    "word": "project",
+    "grade": "7th-grade",
+    "unit": "Unit 2",
+    "definitions": [
+      "a planned piece of work, especially one involving research or creativity"
+    ]
+  },
+  {
+    "word": "advice",
+    "grade": "7th-grade",
+    "unit": "Unit 2",
+    "definitions": [
+      "recommendation or guidance about what to do"
+    ]
+  },
+  {
+    "word": "journey",
+    "grade": "7th-grade",
+    "unit": "Unit 2",
+    "definitions": [
+      "a trip or travel from one place to another"
+    ]
+  },
+  {
+    "word": "something",
+    "grade": "7th-grade",
+    "unit": "Unit 2",
+    "definitions": [
+      "an unspecified thing or object"
+    ]
+  },
+  {
+    "word": "life",
+    "grade": "7th-grade",
+    "unit": "Unit 2",
+    "definitions": [
+      "the condition of being alive"
+    ]
+  },
+  {
+    "word": "primary school",
+    "grade": "7th-grade",
+    "unit": "Unit 2",
+    "definitions": [
+      "a school for children before they go to secondary school"
+    ]
+  },
+  {
+    "word": "pool",
+    "grade": "7th-grade",
+    "unit": "Unit 2",
+    "definitions": [
+      "a body of water used for swimming"
+    ]
+  },
+  {
+    "word": "protect",
+    "grade": "7th-grade",
+    "unit": "Unit 2",
+    "definitions": [
+      "to keep safe from harm or danger"
+    ]
+  },
+  {
+    "word": "sail",
+    "grade": "7th-grade",
+    "unit": "Unit 2",
+    "definitions": [
+      "to move a boat across water using sails"
+    ]
+  },
+  {
+    "word": "towards",
+    "grade": "7th-grade",
+    "unit": "Unit 2",
+    "definitions": [
+      "in the direction of"
+    ]
+  },
+  {
+    "word": "rock music",
+    "grade": "7th-grade",
+    "unit": "Unit 2",
+    "definitions": [
+      "a type of music characterized by strong rhythms and electric instruments"
+    ]
+  },
+  {
+    "word": "electric",
+    "grade": "7th-grade",
+    "unit": "Unit 2",
+    "definitions": [
+      "powered by electricity"
+    ]
+  },
+  {
+    "word": "band",
+    "grade": "7th-grade",
+    "unit": "Unit 2",
+    "definitions": [
+      "a group of musicians who play music together"
+    ]
+  },
+  {
+    "word": "sound",
+    "grade": "7th-grade",
+    "unit": "Unit 2",
+    "definitions": [
+      "vibrations that travel through the air and can be heard"
     ]
   }
 ]
