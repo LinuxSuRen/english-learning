@@ -8079,5 +8079,65 @@
       "a place where various animals are kept for visitors to observe and study",
       "a facility dedicated to the conservation and exhibition of wildlife"
     ]
+  },
+    {
+    "word": "geography",
+    "grade": "7th-grade",
+    "unit": "Starter",
+    "definitions": [
+      "the study of the physical features of the earth and its atmosphere, and of human activity as it affects and is affected by these",
+      "the natural features of a region, such as its climate, terrain, and resources",
+      "a book or set of books dealing with geography as a subject of study"
+    ]
+  },
+  {
+    "word": "biology",
+    "grade": "7th-grade",
+    "unit": "Starter",
+    "definitions": [
+      "the scientific study of life and living organisms",
+      "the structure, function, growth, origin, evolution, and distribution of living organisms",
+      "the plants and animals of a particular area or region"
+    ]
+  },
+  {
+    "word": "grey",
+    "grade": "7th-grade",
+    "unit": "Starter",
+    "definitions": [
+      "of a color between black and white, like that of clouds or ashes",
+      "dull and nondescript; without interest or character",
+      "(of hair) turning white or gray with age"
+    ]
+  },
+  {
+    "word": "T-shirt",
+    "grade": "7th-grade",
+    "unit": "Starter",
+    "definitions": [
+      "a casual top with short sleeves and no collar, typically made of cotton",
+      "a garment worn on the upper body that is usually knitted from cotton or polyester",
+      "a type of shirt that is often used for advertising or displaying designs"
+    ]
+  },
+  {
+    "word": "explore",
+    "grade": "7th-grade",
+    "unit": "Starter",
+    "definitions": [
+      "to travel through an unfamiliar area in order to learn about it",
+      "to inquire into or discuss a subject in detail",
+      "to examine by touch or physically investigate"
+    ]
+  },
+  {
+    "word": "introduce",
+    "grade": "7th-grade",
+    "unit": "Starter",
+    "definitions": [
+      "to make someone known to another person by name",
+      "to bring something into use or operation for the first time",
+      "to present something for consideration or discussion"
+    ]
   }
 ]

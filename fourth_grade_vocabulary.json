@@ -826,6 +826,7 @@
   {
     "word": "paint",
     "grade": "4th-grade",
+    "unit": "Unit 2",
     "definitions": [
       "To apply colored liquid to a surface",
       "To create art with pigments",
@@ -1739,6 +1740,256 @@
       "A tool with bristles for cleaning",
       "An implement for applying paint",
       "A device with stiff hairs or fibers"
+    ]
+  },
+  {
+    "word": "jump",
+    "grade": "4th-grade",
+    "unit": "Unit 1",
+    "definitions": [
+      "To move quickly upward or forward by pushing off the ground",
+      "To leap or spring into the air",
+      "To make a sudden movement"
+    ]
+  },
+  {
+    "word": "ping-pong",
+    "grade": "4th-grade",
+    "unit": "Unit 1",
+    "definitions": [
+      "A game played with small paddles and a lightweight ball",
+      "Table tennis, often played recreationally",
+      "A fast-paced indoor sport"
+    ]
+  },
+  {
+    "word": "basketball",
+    "grade": "4th-grade",
+    "unit": "Unit 1",
+    "definitions": [
+      "A team sport played with a ball and hoop",
+      "A game where players try to score points by shooting",
+      "An outdoor or indoor sport involving dribbling and shooting"
+    ]
+  },
+  {
+    "word": "once",
+    "grade": "4th-grade",
+    "unit": "Unit 1",
+    "definitions": [
+      "One time only",
+      "At a single occasion",
+      "Only one instance"
+    ]
+  },
+  {
+    "word": "twice",
+    "grade": "4th-grade",
+    "unit": "Unit 1",
+    "definitions": [
+      "Two times",
+      "On two separate occasions",
+      "Repeatedly"
+    ]
+  },
+  {
+    "word": "time",
+    "grade": "4th-grade",
+    "unit": "Unit 1",
+    "definitions": [
+      "A period during which something happens",
+      "The measurement of duration",
+      "An instant or moment"
+    ]
+  },
+  {
+    "word": "every",
+    "grade": "4th-grade",
+    "unit": "Unit 1",
+    "definitions": [
+      "Each individual one",
+      "All without exception",
+      "Used before singular nouns to indicate all instances"
+    ]
+  },
+  {
+    "word": "day",
+    "grade": "4th-grade",
+    "unit": "Unit 1",
+    "definitions": [
+      "A period of 24 hours",
+      "The time from sunrise to sunset",
+      "A single calendar date"
+    ]
+  },
+  {
+    "word": "sport",
+    "grade": "4th-grade",
+    "unit": "Unit 1",
+    "definitions": [
+      "A physical activity requiring skill and competition",
+      "An organized game or contest",
+      "Recreational exercise or competition"
+    ]
+  },
+  {
+    "word": "make",
+    "grade": "4th-grade",
+    "unit": "Unit 1",
+    "definitions": [
+      "To cause something to happen",
+      "To form or create something",
+      "To become friends with someone"
+    ]
+  },
+  {
+    "word": "be good at",
+    "grade": "4th-grade",
+    "unit": "Unit 1",
+    "definitions": [
+      "To have skill or ability in something",
+      "To perform well in a particular area",
+      "To excel at a task or activity"
+    ]
+  },
+  {
+    "word": "the USA",
+    "grade": "4th-grade",
+    "unit": "Unit 1",
+    "definitions": [
+      "The United States of America",
+      "A country in North America",
+      "A federal republic consisting of 50 states"
+    ]
+  },
+  {
+    "word": "China",
+    "grade": "4th-grade",
+    "unit": "Unit 1",
+    "definitions": [
+      "A country in East Asia",
+      "The most populous country in the world",
+      "A nation with ancient history and culture"
+    ]
+  },
+  {
+    "word": "dance",
+    "grade": "4th-grade",
+    "unit": "Unit 2",
+    "definitions": [
+      "To move rhythmically to music",
+      "To perform steps in coordination with music",
+      "To express oneself through body movement"
+    ]
+  },
+  {
+    "word": "listen",
+    "grade": "4th-grade",
+    "unit": "Unit 2",
+    "definitions": [
+      "To pay attention to sounds",
+      "To hear something intentionally",
+      "To focus on what someone is saying"
+    ]
+  },
+  {
+    "word": "stamp",
+    "grade": "4th-grade",
+    "unit": "Unit 2",
+    "definitions": [
+      "A small piece of paper used for mailing",
+      "A postmark applied to letters",
+      "A collectible item often featuring artwork"
+    ]
+  },
+  {
+    "word": "weiqi",
+    "grade": "4th-grade",
+    "unit": "Unit 2",
+    "definitions": [
+      "A strategic board game from China",
+      "Also known as Go, played with black and white stones",
+      "A game of territorial control and strategy"
+    ]
+  },
+  {
+    "word": "story",
+    "grade": "4th-grade",
+    "unit": "Unit 2",
+    "definitions": [
+      "A narrative about people and events",
+      "A fictional or real account of experiences",
+      "A tale told in writing or speech"
+    ]
+  },
+  {
+    "word": "practise",
+    "grade": "4th-grade",
+    "unit": "Unit 2",
+    "definitions": [
+      "To repeat actions to improve skills",
+      "To train regularly for mastery",
+      "To rehearse for better performance"
+    ]
+  },
+  {
+    "word": "kung fu",
+    "grade": "4th-grade",
+    "unit": "Unit 2",
+    "definitions": [
+      "A traditional Chinese martial art",
+      "A system of physical techniques and discipline",
+      "Often practiced for self-defense and fitness"
+    ]
+  },
+  {
+    "word": "hobby",
+    "grade": "4th-grade",
+    "unit": "Unit 2",
+    "definitions": [
+      "An activity done for enjoyment",
+      "A pastime pursued in free time",
+      "Something one enjoys doing in leisure"
+    ]
+  },
+  {
+    "word": "any",
+    "grade": "4th-grade",
+    "unit": "Unit 2",
+    "definitions": [
+      "One or some of a group",
+      "Used to refer to an indefinite number",
+      "Any single one among several options"
+    ]
+  },
+  {
+    "word": "fishing",
+    "grade": "4th-grade",
+    "unit": "Unit 2",
+    "definitions": [
+      "The activity of catching fish",
+      "A recreational outdoor pursuit",
+      "Using hooks and lines to catch aquatic animals"
+    ]
+  },
+  {
+    "word": "eat",
+    "grade": "4th-grade",
+    "unit": "Unit 2",
+    "definitions": [
+      "To consume food",
+      "To take in nourishment",
+      "To chew and swallow meals"
+    ]
+  },
+  {
+    "word": "hot",
+    "grade": "4th-grade",
+    "unit": "Unit 3",
+    "definitions": [
+      "Having high temperature",
+      "Very warm or scorching",
+      "Feeling warmth when touched"
     ]
   }
 ]
