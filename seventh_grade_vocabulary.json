@@ -6888,731 +6888,1641 @@
   },
   {
     "word": "quarter",
-    "grade": "7th-grade"
+    "grade": "7th-grade",
+    "meaning": [
+      "one of four equal parts",
+      "three months of a year",
+      "25 cents in money"
+    ]
   },
   {
     "word": "queen",
-    "grade": "7th-grade"
+    "grade": "7th-grade",
+    "meaning": [
+      "female ruler of a country",
+      "wife of a king",
+      "playing card with crown"
+    ]
   },
   {
     "word": "question",
-    "grade": "7th-grade"
+    "grade": "7th-grade",
+    "meaning": [
+      "sentence asking for information",
+      "doubt or inquiry about something",
+      "to ask or inquire about"
+    ]
   },
   {
     "word": "queue",
-    "grade": "7th-grade"
+    "grade": "7th-grade",
+    "meaning": [
+      "line of people waiting for turn",
+      "ordered sequence of items",
+      "to wait in line for something"
+    ]
   },
   {
     "word": "quick",
-    "grade": "7th-grade"
+    "grade": "7th-grade",
+    "meaning": [
+      "fast or speedy in movement",
+      "done with haste or urgency",
+      "lasting for short time"
+    ]
   },
   {
     "word": "quiet",
-    "grade": "7th-grade"
+    "grade": "7th-grade",
+    "meaning": [
+      "making little or no noise",
+      "calm and peaceful atmosphere",
+      "not active or busy"
+    ]
   },
   {
     "word": "quite",
-    "grade": "7th-grade"
+    "grade": "7th-grade",
+    "meaning": [
+      "to certain degree or extent",
+      "completely or totally",
+      "used to emphasize statement"
+    ]
   },
   {
     "word": "rabbit",
-    "grade": "7th-grade"
+    "grade": "7th-grade",
+    "meaning": [
+      "small animal with long ears",
+      "mammal with fluffy tail",
+      "fast hopping creature"
+    ]
   },
   {
     "word": "race",
-    "grade": "7th-grade"
+    "grade": "7th-grade",
+    "meaning": [
+      "competition of speed between people",
+      "ethnic group of people",
+      "to move rapidly or hurry"
+    ]
   },
   {
     "word": "radio",
-    "grade": "7th-grade"
+    "grade": "7th-grade",
+    "meaning": [
+      "device for listening to broadcasts",
+      "wireless communication system",
+      "entertainment through sound waves"
+    ]
   },
   {
     "word": "railway",
-    "grade": "7th-grade"
+    "grade": "7th-grade",
+    "meaning": [
+      "track system for trains",
+      "transportation network with rails",
+      "path for locomotives to travel"
+    ]
   },
   {
     "word": "rain",
-    "grade": "7th-grade"
+    "grade": "7th-grade",
+    "meaning": [
+      "water falling from clouds",
+      "precipitation from sky",
+      "weather with wet droplets"
+    ]
   },
   {
     "word": "rainy",
-    "grade": "7th-grade"
+    "grade": "7th-grade",
+    "meaning": [
+      "weather with falling rain",
+      "condition of precipitation",
+      "day with continuous rainfall"
+    ]
   },
   {
     "word": "raise",
-    "grade": "7th-grade"
+    "grade": "7th-grade",
+    "meaning": [
+      "to lift or move upward",
+      "to increase in amount or level",
+      "to bring up children"
+    ]
   },
   {
     "word": "reach",
-    "grade": "7th-grade"
+    "grade": "7th-grade",
+    "meaning": [
+      "to stretch out to touch",
+      "to arrive at destination",
+      "to extend to certain point"
+    ]
   },
   {
     "word": "read",
-    "grade": "7th-grade"
+    "grade": "7th-grade",
+    "meaning": [
+      "to look at and understand words",
+      "to study books or documents",
+      "to speak written text aloud"
+    ]
   },
   {
     "word": "real",
-    "grade": "7th-grade"
+    "grade": "7th-grade",
+    "meaning": [
+      "actually existing or happening",
+      "true or factual situation",
+      "not artificial or fake"
+    ]
   },
   {
     "word": "receive",
-    "grade": "7th-grade"
+    "grade": "7th-grade",
+    "meaning": [
+      "to get or obtain something",
+      "to be given something",
+      "to accept delivery of items"
+    ]
   },
   {
     "word": "record",
-    "grade": "7th-grade"
+    "grade": "7th-grade",
+    "meaning": [
+      "to make note of information",
+      "best performance or achievement",
+      "document containing facts"
+    ]
   },
   {
     "word": "red",
-    "grade": "7th-grade"
+    "grade": "7th-grade",
+    "meaning": [
+      "color like blood or fire",
+      "primary color in spectrum",
+      "opposite of green in traffic"
+    ]
   },
   {
     "word": "refuse",
-    "grade": "7th-grade"
+    "grade": "7th-grade",
+    "meaning": [
+      "to decline or reject request",
+      "to say no to something offered",
+      "garbage or waste materials"
+    ]
   },
   {
     "word": "relative",
-    "grade": "7th-grade"
+    "grade": "7th-grade",
+    "meaning": [
+      "member of family or kin",
+      "person connected by blood",
+      "comparison between things"
+    ]
   },
   {
     "word": "repair",
-    "grade": "7th-grade"
+    "grade": "7th-grade",
+    "meaning": [
+      "to fix or restore damaged object",
+      "to mend broken things",
+      "to correct faults or errors"
+    ]
   },
   {
     "word": "repeat",
-    "grade": "7th-grade"
+    "grade": "7th-grade",
+    "meaning": [
+      "to say or do again",
+      "to make happen again",
+      "to practice for learning"
+    ]
   },
   {
     "word": "reply",
-    "grade": "7th-grade"
+    "grade": "7th-grade",
+    "meaning": [
+      "to answer or respond to",
+      "to react to question or message",
+      "response or reaction given"
+    ]
   },
   {
     "word": "report",
-    "grade": "7th-grade"
+    "grade": "7th-grade",
+    "meaning": [
+      "to tell or inform about something",
+      "official account of events",
+      "document containing information"
+    ]
   },
   {
     "word": "rest",
-    "grade": "7th-grade"
+    "grade": "7th-grade",
+    "meaning": [
+      "to relax or take break",
+      "remainder of something left",
+      "to lie down for recovery"
+    ]
   },
   {
     "word": "restaurant",
-    "grade": "7th-grade"
+    "grade": "7th-grade",
+    "meaning": [
+      "place where meals are served",
+      "eating establishment for public",
+      "business selling prepared food"
+    ]
   },
   {
     "word": "return",
-    "grade": "7th-grade"
+    "grade": "7th-grade",
+    "meaning": [
+      "to come or go back",
+      "to give back or refund",
+      "to reply or respond"
+    ]
   },
   {
     "word": "review",
-    "grade": "7th-grade"
+    "grade": "7th-grade",
+    "meaning": [
+      "to examine or inspect again",
+      "critical assessment of work",
+      "to look back on past events"
+    ]
   },
   {
     "word": "rice",
-    "grade": "7th-grade"
+    "grade": "7th-grade",
+    "meaning": [
+      "grain used for food worldwide",
+      "white or brown cereal crop",
+      "staple food in many countries"
+    ]
   },
   {
     "word": "rich",
-    "grade": "7th-grade"
+    "grade": "7th-grade",
+    "meaning": [
+      "having lot of money or wealth",
+      "containing plenty of ingredients",
+      "deep or vivid in color"
+    ]
   },
   {
     "word": "ride",
-    "grade": "7th-grade"
+    "grade": "7th-grade",
+    "meaning": [
+      "to sit on and control vehicle",
+      "to travel on horse or bike",
+      "journey in vehicle or animal"
+    ]
   },
   {
     "word": "right",
-    "grade": "7th-grade"
+    "grade": "7th-grade",
+    "meaning": [
+      "correct or true statement",
+      "direction opposite of left",
+      "moral or legal entitlement"
+    ]
   },
   {
     "word": "ring",
-    "grade": "7th-grade"
+    "grade": "7th-grade",
+    "meaning": [
+      "circular band of precious metal",
+      "sound made by bell",
+      "circle of people or things"
+    ]
   },
   {
     "word": "rise",
-    "grade": "7th-grade"
+    "grade": "7th-grade",
+    "meaning": [
+      "to move upward or ascend",
+      "to get up from lying or sitting",
+      "to increase in value or amount"
+    ]
   },
   {
     "word": "river",
-    "grade": "7th-grade"
+    "grade": "7th-grade",
+    "meaning": [
+      "flowing body of water",
+      "stream running to ocean",
+      "natural channel of water"
+    ]
   },
   {
     "word": "road",
-    "grade": "7th-grade"
+    "grade": "7th-grade",
+    "meaning": [
+      "paved way for vehicles",
+      "path between places",
+      "route for transportation"
+    ]
   },
   {
     "word": "robot",
-    "grade": "7th-grade"
+    "grade": "7th-grade",
+    "meaning": [
+      "machine that can move and act",
+      "automatic device performing tasks",
+      "fictional mechanical person"
+    ]
   },
   {
     "word": "rock",
-    "grade": "7th-grade"
+    "grade": "7th-grade",
+    "meaning": [
+      "hard mineral material",
+      "stone from earth or mountain",
+      "music genre with heavy beat"
+    ]
   },
   {
     "word": "rocket",
-    "grade": "7th-grade"
+    "grade": "7th-grade",
+    "meaning": [
+      "vehicle that flies in space",
+      "fireworks shooting upward",
+      "fast-moving projectile"
+    ]
   },
   {
     "word": "roof",
-    "grade": "7th-grade"
+    "grade": "7th-grade",
+    "meaning": [
+      "top covering of building",
+      "structure protecting from weather",
+      "upper surface of house"
+    ]
   },
   {
     "word": "room",
-    "grade": "7th-grade"
+    "grade": "7th-grade",
+    "meaning": [
+      "enclosed space in building",
+      "area for specific purpose",
+      "space available for use"
+    ]
   },
   {
     "word": "rope",
-    "grade": "7th-grade"
+    "grade": "7th-grade",
+    "meaning": [
+      "thick string made of fibers",
+      "cord used for tying things",
+      "to tie or bind with rope"
+    ]
   },
   {
     "word": "rose",
-    "grade": "7th-grade"
+    "grade": "7th-grade",
+    "meaning": [
+      "red flower with thorns",
+      "fragrant garden plant",
+      "past tense of rise"
+    ]
   },
   {
     "word": "round",
-    "grade": "7th-grade"
+    "grade": "7th-grade",
+    "meaning": [
+      "circular or spherical shape",
+      "series of boxing matches",
+      "to go around in circle"
+    ]
   },
   {
     "word": "row",
-    "grade": "7th-grade"
+    "grade": "7th-grade",
+    "meaning": [
+      "line of things side by side",
+      "argument or fight between people",
+      "to propel boat with oars"
+    ]
   },
   {
     "word": "rubber",
-    "grade": "7th-grade"
+    "grade": "7th-grade",
+    "meaning": [
+      "material that bounces and stretches",
+      "eraser for removing pencil marks",
+      "waterproof material for gloves"
+    ]
   },
   {
     "word": "rude",
-    "grade": "7th-grade"
+    "grade": "7th-grade",
+    "meaning": [
+      "impolite or disrespectful",
+      "not following social rules",
+      "rough or harsh in manner"
+    ]
   },
   {
     "word": "rule",
-    "grade": "7th-grade"
+    "grade": "7th-grade",
+    "meaning": [
+      "official regulation or law",
+      "guideline for behavior",
+      "to govern or control area"
+    ]
   },
   {
     "word": "ruler",
-    "grade": "7th-grade"
+    "grade": "7th-grade",
+    "meaning": [
+      "measuring tool for length",
+      "person who governs country",
+      "straight edge for drawing lines"
+    ]
   },
   {
     "word": "run",
-    "grade": "7th-grade"
+    "grade": "7th-grade",
+    "meaning": [
+      "to move fast on foot",
+      "to operate or function",
+      "to flow like water"
+    ]
   },
   {
     "word": "rush",
-    "grade": "7th-grade"
+    "grade": "7th-grade",
+    "meaning": [
+      "to move quickly in hurry",
+      "sudden movement of people",
+      "feeling of urgency or pressure"
+    ]
   },
   {
     "word": "sad",
-    "grade": "7th-grade"
+    "grade": "7th-grade",
+    "meaning": [
+      "feeling unhappy or sorrowful",
+      "showing grief or disappointment",
+      "opposite of happy or joyful"
+    ]
   },
   {
     "word": "safe",
-    "grade": "7th-grade"
+    "grade": "7th-grade",
+    "meaning": [
+      "not in danger or risk",
+      "protected from harm",
+      "secure or reliable storage box"
+    ]
   },
   {
     "word": "salad",
-    "grade": "7th-grade"
+    "grade": "7th-grade",
+    "meaning": [
+      "mixture of raw vegetables",
+      "cold dish with greens",
+      "healthy food with dressing"
+    ]
   },
   {
     "word": "sale",
-    "grade": "7th-grade"
+    "grade": "7th-grade",
+    "meaning": [
+      "selling of goods or services",
+      "event offering reduced prices",
+      "exchange of items for money"
+    ]
   },
   {
     "word": "salt",
-    "grade": "7th-grade"
+    "grade": "7th-grade",
+    "meaning": [
+      "white seasoning for food",
+      "mineral from sea or ground",
+      "to add flavor to dishes"
+    ]
   },
   {
     "word": "same",
-    "grade": "7th-grade"
+    "grade": "7th-grade",
+    "meaning": [
+      "identical or equal to another",
+      "not different or changed",
+      "used to show similarity"
+    ]
   },
   {
     "word": "sand",
-    "grade": "7th-grade"
+    "grade": "7th-grade",
+    "meaning": [
+      "tiny grains on beach",
+      "fine particles of rock",
+      "material for building or play"
+    ]
   },
   {
     "word": "sandwich",
-    "grade": "7th-grade"
+    "grade": "7th-grade",
+    "meaning": [
+      "food with meat between bread",
+      "snack with filling inside",
+      "lunch item with layers"
+    ]
   },
   {
     "word": "saturday",
-    "grade": "7th-grade"
+    "grade": "7th-grade",
+    "meaning": [
+      "day of week after friday",
+      "weekend day for relaxation",
+      "sixth day of seven-day cycle"
+    ]
   },
   {
     "word": "sausage",
-    "grade": "7th-grade"
+    "grade": "7th-grade",
+    "meaning": [
+      "processed meat in casing",
+      "food made from ground meat",
+      "breakfast item with spices"
+    ]
   },
   {
     "word": "save",
-    "grade": "7th-grade"
+    "grade": "7th-grade",
+    "meaning": [
+      "to rescue from danger",
+      "to store for future use",
+      "to keep money for later"
+    ]
   },
   {
     "word": "say",
-    "grade": "7th-grade"
+    "grade": "7th-grade",
+    "meaning": [
+      "to speak or utter words",
+      "to express in language",
+      "to state or declare information"
+    ]
   },
   {
     "word": "school",
-    "grade": "7th-grade"
+    "grade": "7th-grade",
+    "meaning": [
+      "place where children learn",
+      "educational institution",
+      "group of fish swimming together"
+    ]
   },
   {
     "word": "schoolbag",
-    "grade": "7th-grade"
+    "grade": "7th-grade",
+    "meaning": [
+      "bag for carrying books",
+      "student's backpack for classes",
+      "container for school supplies"
+    ]
   },
   {
     "word": "science",
-    "grade": "7th-grade"
+    "grade": "7th-grade",
+    "meaning": [
+      "study of natural world",
+      "knowledge from experiments",
+      "subject with facts and theories"
+    ]
   },
   {
     "word": "scientist",
-    "grade": "7th-grade"
+    "grade": "7th-grade",
+    "meaning": [
+      "person who studies science",
+      "researcher conducting experiments",
+      "expert in scientific field"
+    ]
   },
   {
     "word": "scissors",
-    "grade": "7th-grade"
+    "grade": "7th-grade",
+    "meaning": [
+      "tool for cutting paper",
+      "instrument with two blades",
+      "sharp device for crafts"
+    ]
   },
   {
     "word": "score",
-    "grade": "7th-grade"
+    "grade": "7th-grade",
+    "meaning": [
+      "points earned in game",
+      "twenty units or items",
+      "to win points or marks"
+    ]
   },
   {
     "word": "screen",
-    "grade": "7th-grade"
+    "grade": "7th-grade",
+    "meaning": [
+      "flat panel displaying images",
+      "cover that blocks insects",
+      "test for selecting candidates"
+    ]
   },
   {
     "word": "sea",
-    "grade": "7th-grade"
+    "grade": "7th-grade",
+    "meaning": [
+      "large body of salt water",
+      "ocean or maritime area",
+      "vast expanse of water"
+    ]
   },
   {
     "word": "search",
-    "grade": "7th-grade"
+    "grade": "7th-grade",
+    "meaning": [
+      "to look for something lost",
+      "to examine carefully",
+      "investigation or quest"
+    ]
   },
   {
     "word": "season",
-    "grade": "7th-grade"
+    "grade": "7th-grade",
+    "meaning": [
+      "time of year with weather",
+      "period for sports or activities",
+      "to add flavor to food"
+    ]
   },
   {
     "word": "seat",
-    "grade": "7th-grade"
+    "grade": "7th-grade",
+    "meaning": [
+      "place to sit in room",
+      "chair or bench for people",
+      "assigned place for passenger"
+    ]
   },
   {
     "word": "second",
-    "grade": "7th-grade"
+    "grade": "7th-grade",
+    "meaning": [
+      "unit of time equal to 60th minute",
+      "one-sixtieth of a minute",
+      "position after first place"
+    ]
   },
   {
     "word": "secret",
-    "grade": "7th-grade"
+    "grade": "7th-grade",
+    "meaning": [
+      "information not known to others",
+      "hidden or concealed thing",
+      "confidential or private matter"
+    ]
   },
   {
     "word": "see",
-    "grade": "7th-grade"
+    "grade": "7th-grade",
+    "meaning": [
+      "to look at or observe",
+      "to understand or realize",
+      "to meet or visit someone"
+    ]
   },
   {
     "word": "seem",
-    "grade": "7th-grade"
+    "grade": "7th-grade",
+    "meaning": [
+      "to appear to be true",
+      "to give impression of being",
+      "used to show likelihood"
+    ]
   },
   {
     "word": "sell",
-    "grade": "7th-grade"
+    "grade": "7th-grade",
+    "meaning": [
+      "to exchange for money",
+      "to offer goods for purchase",
+      "to market products to customers"
+    ]
   },
   {
     "word": "send",
-    "grade": "7th-grade"
+    "grade": "7th-grade",
+    "meaning": [
+      "to cause to go or move",
+      "to mail letter or package",
+      "to transmit message to someone"
+    ]
   },
   {
     "word": "september",
-    "grade": "7th-grade"
+    "grade": "7th-grade",
+    "meaning": [
+      "ninth month of year",
+      "month before october",
+      "fall season month"
+    ]
   },
   {
     "word": "servant",
-    "grade": "7th-grade"
+    "grade": "7th-grade",
+    "meaning": [
+      "person employed to work",
+      "one who serves others",
+      "employee in wealthy household"
+    ]
   },
   {
     "word": "service",
-    "grade": "7th-grade"
+    "grade": "7th-grade",
+    "meaning": [
+      "help or assistance provided",
+      "religious ceremony in church",
+      "work done for others"
+    ]
   },
   {
     "word": "set",
-    "grade": "7th-grade"
+    "grade": "7th-grade",
+    "meaning": [
+      "to put or place something",
+      "collection of things",
+      "ready or prepared state"
+    ]
   },
   {
     "word": "seven",
-    "grade": "7th-grade"
+    "grade": "7th-grade",
+    "meaning": [
+      "number after six",
+      "one more than six",
+      "digit represented as 7"
+    ]
   },
   {
     "word": "seventeen",
-    "grade": "7th-grade"
+    "grade": "7th-grade",
+    "meaning": [
+      "number between sixteen and eighteen",
+      "one less than eighteen",
+      "number represented as 17"
+    ]
   },
   {
     "word": "seventh",
-    "grade": "7th-grade"
+    "grade": "7th-grade",
+    "meaning": [
+      "position of seven in order",
+      "one part when seven equal parts",
+      "ordinal number for seven"
+    ]
   },
   {
     "word": "seventy",
-    "grade": "7th-grade"
+    "grade": "7th-grade",
+    "meaning": [
+      "number seven times ten",
+      "ten less than eighty",
+      "number represented as 70"
+    ]
   },
   {
     "word": "several",
-    "grade": "7th-grade"
+    "grade": "7th-grade",
+    "meaning": [
+      "more than two but not many",
+      "a few different things",
+      "multiple separate items"
+    ]
   },
   {
     "word": "sex",
-    "grade": "7th-grade"
+    "grade": "7th-grade",
+    "meaning": [
+      "male or female gender",
+      "physical activity between adults",
+      "biological distinction of species"
+    ]
   },
   {
     "word": "shake",
-    "grade": "7th-grade"
+    "grade": "7th-grade",
+    "meaning": [
+      "to move back and forth quickly",
+      "to tremble or vibrate",
+      "to mix drinks in container"
+    ]
   },
   {
     "word": "shall",
-    "grade": "7th-grade"
+    "grade": "7th-grade",
+    "meaning": [
+      "used to indicate future action",
+      "to show obligation or duty",
+      "formal way to express intention"
+    ]
   },
   {
     "word": "shame",
-    "grade": "7th-grade"
+    "grade": "7th-grade",
+    "meaning": [
+      "feeling of guilt or regret",
+      "sense of embarrassment",
+      "disgrace or dishonor"
+    ]
   },
   {
     "word": "shape",
-    "grade": "7th-grade"
+    "grade": "7th-grade",
+    "meaning": [
+      "form or outline of object",
+      "geometric figure like circle",
+      "to form or mold something"
+    ]
   },
   {
     "word": "share",
-    "grade": "7th-grade"
+    "grade": "7th-grade",
+    "meaning": [
+      "to divide and give portions",
+      "to have in common with others",
+      "part belonging to person"
+    ]
   },
   {
     "word": "she",
-    "grade": "7th-grade"
+    "grade": "7th-grade",
+    "meaning": [
+      "pronoun for female person",
+      "third person singular feminine",
+      "used to refer to girl or woman"
+    ]
   },
   {
     "word": "sheep",
-    "grade": "7th-grade"
+    "grade": "7th-grade",
+    "meaning": [
+      "farm animal with wool",
+      "mammal that eats grass",
+      "animal raised for meat and wool"
+    ]
   },
   {
     "word": "shelf",
-    "grade": "7th-grade"
+    "grade": "7th-grade",
+    "meaning": [
+      "flat board for storing items",
+      "horizontal support in cabinet",
+      "ledge for placing objects"
+    ]
   },
   {
     "word": "shine",
-    "grade": "7th-grade"
+    "grade": "7th-grade",
+    "meaning": [
+      "to emit bright light",
+      "to polish until bright",
+      "to excel or standout"
+    ]
   },
   {
     "word": "ship",
-    "grade": "7th-grade"
+    "grade": "7th-grade",
+    "meaning": [
+      "large boat for traveling water",
+      "vessel for transporting cargo",
+      "to send goods by sea"
+    ]
   },
   {
     "word": "shirt",
-    "grade": "7th-grade"
+    "grade": "7th-grade",
+    "meaning": [
+      "clothing for upper body",
+      "garment with sleeves",
+      "top worn by men and women"
+    ]
   },
   {
     "word": "shoe",
-    "grade": "7th-grade"
+    "grade": "7th-grade",
+    "meaning": [
+      "footwear for protection",
+      "covering for feet",
+      "item worn on feet for walking"
+    ]
   },
   {
     "word": "shop",
-    "grade": "7th-grade"
+    "grade": "7th-grade",
+    "meaning": [
+      "store where goods are sold",
+      "to go to stores buying",
+      "workplace for mechanic"
+    ]
   },
   {
     "word": "short",
-    "grade": "7th-grade"
+    "grade": "7th-grade",
+    "meaning": [
+      "not long in distance",
+      "small in height or length",
+      "not enough or insufficient"
+    ]
   },
   {
     "word": "should",
-    "grade": "7th-grade"
+    "grade": "7th-grade",
+    "meaning": [
+      "used to show obligation",
+      "past form of shall",
+      "to express advice or suggestion"
+    ]
   },
   {
     "word": "shoulder",
-    "grade": "7th-grade"
+    "grade": "7th-grade",
+    "meaning": [
+      "body part joining arm to neck",
+      "to carry load on back",
+      "responsibility or burden"
+    ]
   },
   {
     "word": "show",
-    "grade": "7th-grade"
+    "grade": "7th-grade",
+    "meaning": [
+      "to display or exhibit",
+      "to demonstrate or prove",
+      "entertainment performance"
+    ]
   },
   {
     "word": "shower",
-    "grade": "7th-grade"
+    "grade": "7th-grade",
+    "meaning": [
+      "fall of rain from sky",
+      "bathroom fixture for washing",
+      "party giving gifts to mother"
+    ]
   },
   {
     "word": "shut",
-    "grade": "7th-grade"
+    "grade": "7th-grade",
+    "meaning": [
+      "to close or block opening",
+      "to stop operating machine",
+      "past tense of shut"
+    ]
   },
   {
     "word": "shy",
-    "grade": "7th-grade"
+    "grade": "7th-grade",
+    "meaning": [
+      "nervous in front of others",
+      "timid or easily frightened",
+      "reluctant to speak publicly"
+    ]
   },
   {
     "word": "sick",
-    "grade": "7th-grade"
+    "grade": "7th-grade",
+    "meaning": [
+      "not healthy or ill",
+      "feeling nausea or vomiting",
+      "disgusted or annoyed with"
+    ]
   },
   {
     "word": "side",
-    "grade": "7th-grade"
+    "grade": "7th-grade",
+    "meaning": [
+      "surface of object or area",
+      "position to left or right",
+      "opinion or aspect of issue"
+    ]
   },
   {
     "word": "sign",
-    "grade": "7th-grade"
+    "grade": "7th-grade",
+    "meaning": [
+      "notice with written message",
+      "gesture showing meaning",
+      "symbol representing concept"
+    ]
   },
   {
     "word": "silence",
-    "grade": "7th-grade"
+    "grade": "7th-grade",
+    "meaning": [
+      "complete absence of sound",
+      "quiet or still atmosphere",
+      "to stop talking or moving"
+    ]
   },
   {
     "word": "silver",
-    "grade": "7th-grade"
+    "grade": "7th-grade",
+    "meaning": [
+      "precious metal that shines",
+      "color like moon or coins",
+      "tableware made from metal"
+    ]
   },
   {
     "word": "simple",
-    "grade": "7th-grade"
+    "grade": "7th-grade",
+    "meaning": [
+      "easy to understand or do",
+      "not complex or elaborate",
+      "basic or uncomplicated"
+    ]
   },
   {
     "word": "since",
-    "grade": "7th-grade"
+    "grade": "7th-grade",
+    "meaning": [
+      "from time in past until now",
+      "because or as a result",
+      "period from stated time"
+    ]
   },
   {
     "word": "sing",
-    "grade": "7th-grade"
+    "grade": "7th-grade",
+    "meaning": [
+      "to make musical sounds",
+      "to vocalize melodies",
+      "to perform song with voice"
+    ]
   },
   {
     "word": "singer",
-    "grade": "7th-grade"
+    "grade": "7th-grade",
+    "meaning": [
+      "person who sings songs",
+      "performer of vocal music",
+      "professional vocalist"
+    ]
   },
   {
     "word": "single",
-    "grade": "7th-grade"
+    "grade": "7th-grade",
+    "meaning": [
+      "only one or lone",
+      "unmarried person",
+      "ticket for one person"
+    ]
   },
   {
     "word": "sink",
-    "grade": "7th-grade"
+    "grade": "7th-grade",
+    "meaning": [
+      "basin for washing hands",
+      "to fall or drop down",
+      "to decrease or fail"
+    ]
   },
   {
     "word": "sir",
-    "grade": "7th-grade"
+    "grade": "7th-grade",
+    "meaning": [
+      "polite address for man",
+      "formal way to address male",
+      "title for knight or teacher"
+    ]
   },
   {
     "word": "sister",
-    "grade": "7th-grade"
+    "grade": "7th-grade",
+    "meaning": [
+      "female sibling or girl",
+      "daughter of same parents",
+      "female member of order"
+    ]
   },
   {
     "word": "sit",
-    "grade": "7th-grade"
+    "grade": "7th-grade",
+    "meaning": [
+      "to rest on seat or chair",
+      "to be positioned on surface",
+      "to ride horse or bicycle"
+    ]
   },
   {
     "word": "six",
-    "grade": "7th-grade"
+    "grade": "7th-grade",
+    "meaning": [
+      "number after five",
+      "half dozen items",
+      "digit represented as 6"
+    ]
   },
   {
     "word": "sixteen",
-    "grade": "7th-grade"
+    "grade": "7th-grade",
+    "meaning": [
+      "number between fifteen and seventeen",
+      "one less than seventeen",
+      "number represented as 16"
+    ]
   },
   {
     "word": "sixth",
-    "grade": "7th-grade"
+    "grade": "7th-grade",
+    "meaning": [
+      "position of six in order",
+      "one of six equal parts",
+      "ordinal number for six"
+    ]
   },
   {
     "word": "sixty",
-    "grade": "7th-grade"
+    "grade": "7th-grade",
+    "meaning": [
+      "number six times ten",
+      "ten less than seventy",
+      "number represented as 60"
+    ]
   },
   {
     "word": "size",
-    "grade": "7th-grade"
+    "grade": "7th-grade",
+    "meaning": [
+      "measurement of dimensions",
+      "amount of space occupied",
+      "large or small extent"
+    ]
   },
   {
     "word": "skate",
-    "grade": "7th-grade"
+    "grade": "7th-grade",
+    "meaning": [
+      "to glide on ice or pavement",
+      "shoes with wheels or blades",
+      "winter sport on ice"
+    ]
   },
   {
     "word": "ski",
-    "grade": "7th-grade"
+    "grade": "7th-grade",
+    "meaning": [
+      "to slide on snow with boards",
+      "equipment for snow sports",
+      "winter activity on mountains"
+    ]
   },
   {
     "word": "skill",
-    "grade": "7th-grade"
+    "grade": "7th-grade",
+    "meaning": [
+      "ability to do something well",
+      "expertise developed through practice",
+      "talent or proficiency"
+    ]
   },
   {
     "word": "skin",
-    "grade": "7th-grade"
+    "grade": "7th-grade",
+    "meaning": [
+      "outer covering of body",
+      "layer protecting from injury",
+      "hide or fur of animal"
+    ]
   },
   {
     "word": "skirt",
-    "grade": "7th-grade"
+    "grade": "7th-grade",
+    "meaning": [
+      "clothing covering waist to knees",
+      "garment worn by women",
+      "bottom part of dress"
+    ]
   },
   {
     "word": "sky",
-    "grade": "7th-grade"
+    "grade": "7th-grade",
+    "meaning": [
+      "blue space above earth",
+      "atmosphere where birds fly",
+      "area with clouds and sun"
+    ]
   },
   {
     "word": "sleep",
-    "grade": "7th-grade"
+    "grade": "7th-grade",
+    "meaning": [
+      "to rest with closed eyes",
+      "natural state of body",
+      "to be unconscious at night"
+    ]
   },
   {
     "word": "slow",
-    "grade": "7th-grade"
+    "grade": "7th-grade",
+    "meaning": [
+      "not fast or rapid",
+      "taking more time to happen",
+      "moving at reduced speed"
+    ]
   },
   {
     "word": "small",
-    "grade": "7th-grade"
+    "grade": "7th-grade",
+    "meaning": [
+      "not big or large",
+      "little in size or amount",
+      "tiny or miniature"
+    ]
   },
   {
     "word": "smart",
-    "grade": "7th-grade"
+    "grade": "7th-grade",
+    "meaning": [
+      "intelligent or clever",
+      "well-dressed and stylish",
+      "quick to understand"
+    ]
   },
   {
     "word": "smell",
-    "grade": "7th-grade"
+    "grade": "7th-grade",
+    "meaning": [
+      "to sense odors with nose",
+      "odor or scent of something",
+      "to give off fragrance"
+    ]
   },
   {
     "word": "smile",
-    "grade": "7th-grade"
+    "grade": "7th-grade",
+    "meaning": [
+      "to show happiness with mouth",
+      "expression of pleasure",
+      "to grin or beam with joy"
+    ]
   },
   {
     "word": "smoke",
-    "grade": "7th-grade"
+    "grade": "7th-grade",
+    "meaning": [
+      "gas from burning materials",
+      "to inhale tobacco fumes",
+      "clouds from fire or chimney"
+    ]
   },
   {
     "word": "snake",
-    "grade": "7th-grade"
+    "grade": "7th-grade",
+    "meaning": [
+      "long reptile without legs",
+      "animal that slithers on ground",
+      "creature feared by many"
+    ]
   },
   {
     "word": "snow",
-    "grade": "7th-grade"
+    "grade": "7th-grade",
+    "meaning": [
+      "white flakes falling in winter",
+      "frozen precipitation from sky",
+      "to fall as white crystals"
+    ]
   },
   {
     "word": "snowy",
-    "grade": "7th-grade"
+    "grade": "7th-grade",
+    "meaning": [
+      "covered with snow",
+      "weather with snowfall",
+      "white with accumulated snow"
+    ]
   },
   {
     "word": "so",
-    "grade": "7th-grade"
+    "grade": "7th-grade",
+    "meaning": [
+      "to such extent or degree",
+      "therefore or as a result",
+      "used to begin sentences"
+    ]
   },
   {
     "word": "soap",
-    "grade": "7th-grade"
+    "grade": "7th-grade",
+    "meaning": [
+      "substance for cleaning body",
+      "material that makes lather",
+      "bar used in bathroom"
+    ]
   },
   {
     "word": "soccer",
-    "grade": "7th-grade"
+    "grade": "7th-grade",
+    "meaning": [
+      "game played with ball and feet",
+      "sport with two competing teams",
+      "popular international game"
+    ]
   },
   {
     "word": "sock",
-    "grade": "7th-grade"
+    "grade": "7th-grade",
+    "meaning": [
+      "clothing for feet",
+      "hosiery worn on foot",
+      "to hit someone hard"
+    ]
   },
   {
     "word": "sofa",
-    "grade": "7th-grade"
+    "grade": "7th-grade",
+    "meaning": [
+      "furniture for sitting",
+      "comfortable couch or lounge",
+      "piece of living room furniture"
+    ]
   },
   {
     "word": "soft",
-    "grade": "7th-grade"
+    "grade": "7th-grade",
+    "meaning": [
+      "not hard or firm",
+      "gentle or quiet in sound",
+      "smooth and pleasant texture"
+    ]
   },
   {
     "word": "soldier",
-    "grade": "7th-grade"
+    "grade": "7th-grade",
+    "meaning": [
+      "person in army or military",
+      "member of armed forces",
+      "fighter for country"
+    ]
   },
   {
     "word": "some",
-    "grade": "7th-grade"
+    "grade": "7th-grade",
+    "meaning": [
+      "unknown amount or number",
+      "part of group or set",
+      "used with plural nouns"
+    ]
   },
   {
     "word": "someone",
-    "grade": "7th-grade"
+    "grade": "7th-grade",
+    "meaning": [
+      "unknown person or individual",
+      "somebody or person",
+      "used to refer to person"
+    ]
   },
   {
     "word": "sometimes",
-    "grade": "7th-grade"
+    "grade": "7th-grade",
+    "meaning": [
+      "occasionally or now and then",
+      "at times but not always",
+      "intermittently or periodically"
+    ]
   },
   {
     "word": "son",
-    "grade": "7th-grade"
+    "grade": "7th-grade",
+    "meaning": [
+      "male child of parents",
+      "boy or man in relation to father",
+      "descendant or heir"
+    ]
   },
   {
     "word": "song",
-    "grade": "7th-grade"
+    "grade": "7th-grade",
+    "meaning": [
+      "musical composition with words",
+      "melody sung by voice",
+      "piece of music for singing"
+    ]
   },
   {
     "word": "soon",
-    "grade": "7th-grade"
+    "grade": "7th-grade",
+    "meaning": [
+      "in short time or quickly",
+      "before long or shortly",
+      "early in near future"
+    ]
   },
   {
     "word": "sorry",
-    "grade": "7th-grade"
+    "grade": "7th-grade",
+    "meaning": [
+      "feeling regret or apology",
+      "sympathetic toward others",
+      "used to express remorse"
+    ]
   },
   {
     "word": "soup",
-    "grade": "7th-grade"
+    "grade": "7th-grade",
+    "meaning": [
+      "liquid food from cooking",
+      "broth with vegetables or meat",
+      "warm meal in bowl"
+    ]
   },
   {
     "word": "south",
-    "grade": "7th-grade"
+    "grade": "7th-grade",
+    "meaning": [
+      "direction opposite of north",
+      "one of four cardinal directions",
+      "region below equator"
+    ]
   },
   {
     "word": "space",
-    "grade": "7th-grade"
+    "grade": "7th-grade",
+    "meaning": [
+      "empty area or room",
+      "universe beyond earth",
+      "distance between objects"
+    ]
   },
   {
     "word": "speak",
-    "grade": "7th-grade"
+    "grade": "7th-grade",
+    "meaning": [
+      "to talk or say words",
+      "to communicate with voice",
+      "to give speech or presentation"
+    ]
   },
   {
     "word": "special",
-    "grade": "7th-grade"
+    "grade": "7th-grade",
+    "meaning": [
+      "different from others",
+      "better or extra good",
+      "made for specific purpose"
+    ]
   },
   {
     "word": "speech",
-    "grade": "7th-grade"
+    "grade": "7th-grade",
+    "meaning": [
+      "formal talk to audience",
+      "ability to talk or communicate",
+      "expression of thoughts in words"
+    ]
   },
   {
     "word": "speed",
-    "grade": "7th-grade"
+    "grade": "7th-grade",
+    "meaning": [
+      "rate of movement or motion",
+      "how fast something travels",
+      "velocity of moving object"
+    ]
   },
   {
     "word": "spell",
-    "grade": "7th-grade"
+    "grade": "7th-grade",
+    "meaning": [
+      "to write letters of word",
+      "period of time doing something",
+      "magic words with power"
+    ]
   },
   {
     "word": "spend",
-    "grade": "7th-grade"
+    "grade": "7th-grade",
+    "meaning": [
+      "to use money to buy",
+      "to pass time in activity",
+      "to consume resources or effort"
+    ]
   },
   {
     "word": "spoon",
-    "grade": "7th-grade"
+    "grade": "7th-grade",
+    "meaning": [
+      "eating utensil with bowl",
+      "kitchen tool for stirring",
+      "curved implement for food"
+    ]
   },
   {
     "word": "sport",
-    "grade": "7th-grade"
+    "grade": "7th-grade",
+    "meaning": [
+      "physical activity or game",
+      "organized competitive event",
+      "recreational outdoor activity"
+    ]
   },
   {
     "word": "spring",
-    "grade": "7th-grade"
+    "grade": "7th-grade",
+    "meaning": [
+      "season after winter",
+      "coiled metal that bounces",
+      "natural water source"
+    ]
   },
   {
     "word": "square",
-    "grade": "7th-grade"
+    "grade": "7th-grade",
+    "meaning": [
+      "shape with four equal sides",
+      "rectangle with equal sides",
+      "public open area in city"
+    ]
   },
   {
     "word": "stairs",
-    "grade": "7th-grade"
+    "grade": "7th-grade",
+    "meaning": [
+      "steps for going up floors",
+      "flight of steps in building",
+      "structure for vertical movement"
+    ]
   },
   {
     "word": "stamp",
-    "grade": "7th-grade"
+    "grade": "7th-grade",
+    "meaning": [
+      "adhesive label for mail",
+      "to step heavily on ground",
+      "official mark of approval"
+    ]
   },
   {
     "word": "stand",
-    "grade": "7th-grade"
+    "grade": "7th-grade",
+    "meaning": [
+      "to be upright on feet",
+      "table or booth for selling",
+      "to tolerate or accept"
+    ]
   },
   {
     "word": "star",
-    "grade": "7th-grade"
+    "grade": "7th-grade",
+    "meaning": [
+      "celestial body in sky",
+      "celebrity or famous person",
+      "symbol shaped like sun"
+    ]
   },
   {
     "word": "state",
-    "grade": "7th-grade"
+    "grade": "7th-grade",
+    "meaning": [
+      "political division of country",
+      "condition or status of things",
+      "to declare or express formally"
+    ]
   },
   {
     "word": "station",
-    "grade": "7th-grade"
+    "grade": "7th-grade",
+    "meaning": [
+      "place where trains stop",
+      "radio or tv broadcasting",
+      "fixed post for duty"
+    ]
   },
   {
     "word": "stay",
-    "grade": "7th-grade"
+    "grade": "7th-grade",
+    "meaning": [
+      "to remain in place",
+      "to continue without change",
+      "to live temporarily somewhere"
+    ]
   },
   {
     "word": "steal",
-    "grade": "7th-grade"
+    "grade": "7th-grade",
+    "meaning": [
+      "to take without permission",
+      "to rob or pilfer items",
+      "to move quietly or sneakily"
+    ]
   },
   {
     "word": "steam",
