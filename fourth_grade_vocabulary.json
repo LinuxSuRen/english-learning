@@ -542,6 +542,7 @@
   {
     "word": "rope",
     "grade": "4th-grade",
+    "unit": "Unit 1",
     "definitions": [
       "A thick cord made from twisted fibers",
       "Strong string used for tying or pulling",
@@ -767,6 +768,7 @@
   {
     "word": "from",
     "grade": "4th-grade",
+    "unit": "Unit 1",
     "definitions": [
       "Indicating the starting point",
       "Used to show origin or source",
@@ -785,6 +787,7 @@
   {
     "word": "swim",
     "grade": "4th-grade",
+    "unit": "Unit 1",
     "definitions": [
       "To move through water using limbs",
       "To propel oneself in liquid",
@@ -803,6 +806,7 @@
   {
     "word": "run",
     "grade": "4th-grade",
+    "unit": "Unit 1",
     "definitions": [
       "To move fast using legs",
       "To operate or function quickly",
@@ -812,6 +816,7 @@
   {
     "word": "read",
     "grade": "4th-grade",
+    "unit": "Unit 2",
     "definitions": [
       "To look at and understand written words",
       "To interpret text aloud or silently",
@@ -866,6 +871,7 @@
   {
     "word": "week",
     "grade": "4th-grade",
+    "unit": "Unit 1",
     "definitions": [
       "A period of seven days",
       "A unit of time measurement",
@@ -920,6 +926,7 @@
   {
     "word": "sunny",
     "grade": "4th-grade",
+    "unit": "Unit 3",
     "definitions": [
       "Bright with sunshine",
       "Clear and illuminated by the sun",
@@ -1163,6 +1170,7 @@
   {
     "word": "football",
     "grade": "4th-grade",
+    "unit": "Unit 1",
     "definitions": [
       "A sport played with an oval ball",
       "A game involving kicking and carrying a ball",
@@ -1181,6 +1189,7 @@
   {
     "word": "collect",
     "grade": "4th-grade",
+    "unit": "Unit 2",
     "definitions": [
       "To gather or accumulate items",
       "To bring things together in one place",
@@ -1604,6 +1613,7 @@
   {
     "word": "music",
     "grade": "4th-grade",
+    "unit": "Unit 2",
     "definitions": [
       "Sounds arranged in a pleasing way",
       "Art form with rhythm and melody",
@@ -1613,6 +1623,7 @@
   {
     "word": "guitar",
     "grade": "4th-grade",
+    "unit": "Unit 2",
     "definitions": [
       "A stringed musical instrument",
       "An instrument played by strumming",
@@ -1631,6 +1642,7 @@
   {
     "word": "drum",
     "grade": "4th-grade",
+    "unit": "Unit 2",
     "definitions": [
       "A percussion instrument struck with sticks",
       "A hollow cylinder with a membrane",
@@ -1685,6 +1697,7 @@
   {
     "word": "these",
     "grade": "4th-grade",
+    "unit": "Unit 2",
     "definitions": [
       "Plural of this, indicating proximity",
       "These items here nearby",
@@ -1703,6 +1716,7 @@
   {
     "word": "paint",
     "grade": "4th-grade",
+    "unit": "Unit 2",
     "definitions": [
       "To apply colored liquid to a surface",
       "To create art with pigments",
