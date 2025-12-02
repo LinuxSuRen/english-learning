@@ -2316,5 +2316,235 @@
     "definitions": [
       "Finished or ended"
     ]
+  },
+  {
+    "word": "warm",
+    "grade": "4th-grade",
+    "unit": "Unit 3",
+    "definitions": [
+      "Having a temperature that is comfortably hot",
+      "Not cold, like the sun on your skin",
+      "A nice temperature for wearing light clothes"
+    ]
+  },
+  {
+    "word": "cool",
+    "grade": "4th-grade",
+    "unit": "Unit 3",
+    "definitions": [
+      "Having a slightly cold temperature",
+      "Nice and refreshing, like a cool drink",
+      "Not hot or warm, a comfortable temperature"
+    ]
+  },
+  {
+    "word": "cold",
+    "grade": "4th-grade",
+    "unit": "Unit 3",
+    "definitions": [
+      "Having a low temperature",
+      "Very chilly, like winter weather",
+      "The opposite of hot, makes you shiver"
+    ]
+  },
+  {
+    "word": "snowy",
+    "grade": "4th-grade",
+    "unit": "Unit 3",
+    "definitions": [
+      "When there is snow falling or on the ground",
+      "Covered with white snowflakes",
+      "Weather with lots of snow"
+    ]
+  },
+  {
+    "word": "weather",
+    "grade": "4th-grade",
+    "unit": "Unit 3",
+    "definitions": [
+      "The conditions outside like sunny, rainy or cloudy",
+      "What it's like outside in terms of temperature and sky",
+      "The state of the atmosphere at a particular time"
+    ]
+  },
+  {
+    "word": "how",
+    "grade": "4th-grade",
+    "unit": "Unit 3",
+    "definitions": [
+      "In what way or manner",
+      "Used to ask questions about doing something",
+      "A word to find out information about something"
+    ]
+  },
+  {
+    "word": "there",
+    "grade": "4th-grade",
+    "unit": "Unit 3",
+    "definitions": [
+      "In that place or position",
+      "Not here, but in another location",
+      "Showing where something is"
+    ]
+  },
+  {
+    "word": "should",
+    "grade": "4th-grade",
+    "unit": "Unit 3",
+    "definitions": [
+      "Used to say what is right or correct to do",
+      "A word that tells what is expected or proper",
+      "Something you need to do or ought to do"
+    ]
+  },
+  {
+    "word": "sometimes",
+    "grade": "4th-grade",
+    "unit": "Unit 3",
+    "definitions": [
+      "Now and then, not always",
+      "Occasionally, not every time",
+      "Happens once in a while but not regularly"
+    ]
+  },
+  {
+    "word": "also",
+    "grade": "4th-grade",
+    "unit": "Unit 3",
+    "definitions": [
+      "In addition to something else",
+      "Too, as well as something else",
+      "Another thing added to a list"
+    ]
+  },
+  {
+    "word": "will",
+    "grade": "4th-grade",
+    "unit": "Unit 3",
+    "definitions": [
+      "Going to happen in the future",
+      "About to do something soon",
+      "Used to talk about things that are going to happen"
+    ]
+  },
+  {
+    "word": "put on",
+    "grade": "4th-grade",
+    "unit": "Unit 3",
+    "definitions": [
+      "To wear clothing or accessories",
+      "To dress yourself with clothes",
+      "To place something on your body"
+    ]
+  },
+  {
+    "word": "museum",
+    "grade": "4th-grade",
+    "unit": "Unit 4",
+    "definitions": [
+      "A building with interesting things to look at",
+      "A place where you can learn and see old or special items",
+      "A building filled with art, history or science displays"
+    ]
+  },
+  {
+    "word": "sports centre",
+    "grade": "4th-grade",
+    "unit": "Unit 4",
+    "definitions": [
+      "A place where people play sports and exercise",
+      "A building with courts and fields for games",
+      "An area with many places to play different sports"
+    ]
+  },
+  {
+    "word": "fine",
+    "grade": "4th-grade",
+    "unit": "Unit 4",
+    "definitions": [
+      "Good, okay or satisfactory",
+      "Not bad, acceptable or decent",
+      "Better or good enough for what is needed"
+    ]
+  },
+  {
+    "word": "too",
+    "grade": "4th-grade",
+    "unit": "Unit 4",
+    "definitions": [
+      "Also or as well",
+      "In addition to others",
+      "Another one added to a group"
+    ]
+  },
+  {
+    "word": "after",
+    "grade": "4th-grade",
+    "unit": "Unit 4",
+    "definitions": [
+      "Following in time or order",
+      "Later than something else",
+      "Comes next or behind something"
+    ]
+  },
+  {
+    "word": "all kinds of",
+    "grade": "4th-grade",
+    "unit": "Unit 4",
+    "definitions": [
+      "Many different types of something",
+      "Various sorts or varieties of things",
+      "Different kinds or sorts of the same thing"
+    ]
+  },
+  {
+    "word": "when",
+    "grade": "4th-grade",
+    "unit": "Unit 4",
+    "definitions": [
+      "At what time or period",
+      "During what moment or situation",
+      "Used to ask about the time of something"
+    ]
+  },
+  {
+    "word": "park",
+    "grade": "4th-grade",
+    "unit": "Unit 4",
+    "definitions": [
+      "A public outdoor area with grass and trees",
+      "A place to play and relax outside",
+      "An open space in a city or town for people to enjoy"
+    ]
+  },
+  {
+    "word": "meat",
+    "grade": "4th-grade",
+    "unit": "Unit 5",
+    "definitions": [
+      "Animal flesh used for food",
+      "The part of animals that people eat",
+      "Food from cows, pigs, chickens and other animals"
+    ]
+  },
+  {
+    "word": "slow",
+    "grade": "4th-grade",
+    "unit": "Unit 5",
+    "definitions": [
+      "Moving or acting without speed",
+      "Not fast, taking more time",
+      "Going at a low speed or rate"
+    ]
+  },
+  {
+    "word": "half",
+    "grade": "4th-grade",
+    "unit": "Unit 6",
+    "definitions": [
+      "One of two equal parts of something",
+      "Fifty percent of something",
+      "One part out of two equal pieces"
+    ]
   }
 ]
