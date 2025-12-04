@@ -1681,5 +1681,685 @@
       "A trip or voyage to a distant location",
       "The process of going somewhere"
     ]
+  },
+  {
+    "word": "suppose",
+    "grade": "8th-grade",
+    "unit": "Unit 1",
+    "definitions": [
+      "To assume something is true without proof",
+      "To believe or think likely",
+      "To expect or anticipate something"
+    ]
+  },
+  {
+    "word": "birthmark",
+    "grade": "8th-grade",
+    "unit": "Unit 1",
+    "definitions": [
+      "A mark on the skin that is present at birth",
+      "A natural discoloration of the skin appearing at birth",
+      "A distinctive spot or marking on the body from birth"
+    ]
+  },
+  {
+    "word": "strawberry",
+    "grade": "8th-grade",
+    "unit": "Unit 1",
+    "definitions": [
+      "A sweet red fruit with a seed-studded surface",
+      "A plant bearing edible red berries",
+      "A bright red fruit that grows close to the ground"
+    ]
+  },
+  {
+    "word": "secretly",
+    "grade": "8th-grade",
+    "unit": "Unit 1",
+    "definitions": [
+      "In a secretive or concealed manner",
+      "Without revealing to others",
+      "Privately or confidentially"
+    ]
+  },
+  {
+    "word": "crowded",
+    "grade": "8th-grade",
+    "unit": "Unit 1",
+    "definitions": [
+      "Filled with many people or things in a limited space",
+      "Overfilled or packed tightly",
+      "Having too many people or objects in one area"
+    ]
+  },
+  {
+    "word": "disaster",
+    "grade": "8th-grade",
+    "unit": "Unit 1",
+    "definitions": [
+      "A sudden event causing great damage or suffering",
+      "A catastrophe or major accident",
+      "An utter failure or ruinous outcome"
+    ]
+  },
+  {
+    "word": "therefore",
+    "grade": "8th-grade",
+    "unit": "Unit 1",
+    "definitions": [
+      "For that reason or purpose",
+      "As a consequence of something",
+      "Accordingly or consequently"
+    ]
+  },
+  {
+    "word": "instead",
+    "grade": "8th-grade",
+    "unit": "Unit 1",
+    "definitions": [
+      "In place of something else",
+      "As an alternative or substitute",
+      "Rather than doing one thing, doing another"
+    ]
+  },
+  {
+    "word": "although",
+    "grade": "8th-grade",
+    "unit": "Unit 1",
+    "definitions": [
+      "Despite the fact that",
+      "Even though something is the case",
+      "In spite of the fact"
+    ]
+  },
+  {
+    "word": "bathroom",
+    "grade": "8th-grade",
+    "unit": "Unit 1",
+    "definitions": [
+      "A room containing a toilet and sink",
+      "A restroom or washroom for personal hygiene",
+      "A private room with facilities for washing"
+    ]
+  },
+  {
+    "word": "truly",
+    "grade": "8th-grade",
+    "unit": "Unit 1",
+    "definitions": [
+      "In a truthful or honest manner",
+      "Genuinely or really",
+      "Without deception or pretense"
+    ]
+  },
+  {
+    "word": "difference",
+    "grade": "8th-grade",
+    "unit": "Unit 1",
+    "definitions": [
+      "The way in which two or more things are unlike",
+      "A disagreement or dispute",
+      "The result of subtracting one number from another"
+    ]
+  },
+  {
+    "word": "wise",
+    "grade": "8th-grade",
+    "unit": "Unit 1",
+    "definitions": [
+      "Having good judgment or knowledge",
+      "Showing deep understanding",
+      "Prudent or sensible in decision-making"
+    ]
+  },
+  {
+    "word": "underline",
+    "grade": "8th-grade",
+    "unit": "Unit 1",
+    "definitions": [
+      "To draw a line beneath a word or phrase",
+      "To emphasize text with a line underneath",
+      "To stress or highlight written material"
+    ]
+  },
+  {
+    "word": "row",
+    "grade": "8th-grade",
+    "unit": "Unit 1",
+    "definitions": [
+      "A line of things arranged horizontally",
+      "A noisy argument or quarrel",
+      "To propel a boat with oars"
+    ]
+  },
+  {
+    "word": "reach",
+    "grade": "8th-grade",
+    "unit": "Unit 1",
+    "definitions": [
+      "To arrive at or come to a destination",
+      "To extend or stretch out a hand",
+      "To achieve or attain a goal"
+    ]
+  },
+  {
+    "word": "height",
+    "grade": "8th-grade",
+    "unit": "Unit 1",
+    "definitions": [
+      "The measurement of how tall something is",
+      "The vertical distance from base to top",
+      "The highest point or level of something"
+    ]
+  },
+  {
+    "word": "willing",
+    "grade": "8th-grade",
+    "unit": "Unit 1",
+    "definitions": [
+      "Ready or eager to do something",
+      "Voluntary rather than forced",
+      "Disposed or consenting to do something"
+    ]
+  },
+  {
+    "word": "literature",
+    "grade": "8th-grade",
+    "unit": "Unit 1",
+    "definitions": [
+      "Written works of fiction, poetry, drama, etc.",
+      "Books and writings of artistic or intellectual value",
+      "The body of published writings in a particular language"
+    ]
+  },
+  {
+    "word": "search",
+    "grade": "8th-grade",
+    "unit": "Unit 1",
+    "definitions": [
+      "To look for something carefully",
+      "To examine systematically to find something",
+      "To seek information through research"
+    ]
+  },
+  {
+    "word": "value",
+    "grade": "8th-grade",
+    "unit": "Unit 1",
+    "definitions": [
+      "The worth or importance of something",
+      "A principle or standard that guides behavior",
+      "The monetary amount assigned to something"
+    ]
+  },
+  {
+    "word": "fair",
+    "grade": "8th-grade",
+    "unit": "Unit 3",
+    "definitions": [
+      "Treating everyone equally without favoritism",
+      "Light in color or complexion",
+      "An organized event with games and entertainment"
+    ]
+  },
+  {
+    "word": "block",
+    "grade": "8th-grade",
+    "unit": "Unit 3",
+    "definitions": [
+      "A large solid piece of material",
+      "A group of buildings surrounded by streets",
+      "To prevent something from moving or happening"
+    ]
+  },
+  {
+    "word": "artificial",
+    "grade": "8th-grade",
+    "unit": "Unit 3",
+    "definitions": [
+      "Made by humans rather than occurring naturally",
+      "Not genuine or authentic",
+      "Created to simulate something natural"
+    ]
+  },
+  {
+    "word": "hook",
+    "grade": "8th-grade",
+    "unit": "Unit 3",
+    "definitions": [
+      "A curved piece of metal for catching or holding things",
+      "To catch something with a hook",
+      "To attract or capture someone's interest"
+    ]
+  },
+  {
+    "word": "cost",
+    "grade": "8th-grade",
+    "unit": "Unit 3",
+    "definitions": [
+      "The amount of money needed to buy something",
+      "To require payment or sacrifice",
+      "To cause someone to lose something"
+    ]
+  },
+  {
+    "word": "lend",
+    "grade": "8th-grade",
+    "unit": "Unit 3",
+    "definitions": [
+      "To give something temporarily to someone",
+      "To allow someone to borrow money",
+      "To grant the use of something with expectation of return"
+    ]
+  },
+  {
+    "word": "printer",
+    "grade": "8th-grade",
+    "unit": "Unit 3",
+    "definitions": [
+      "A machine that produces printed text or images",
+      "A person who prints books or documents",
+      "A device that outputs text or graphics on paper"
+    ]
+  },
+  {
+    "word": "brain",
+    "grade": "8th-grade",
+    "unit": "Unit 3",
+    "definitions": [
+      "The organ inside the head that controls thoughts and feelings",
+      "The center of intelligence and consciousness",
+      "The most important part of an organization or operation"
+    ]
+  },
+  {
+    "word": "signal",
+    "grade": "8th-grade",
+    "unit": "Unit 3",
+    "definitions": [
+      "A sign or gesture used to communicate",
+      "An electrical impulse conveying information",
+      "An indication or warning of something"
+    ]
+  },
+  {
+    "word": "weigh",
+    "grade": "8th-grade",
+    "unit": "Unit 3",
+    "definitions": [
+      "To measure the heaviness of something",
+      "To consider the importance of something",
+      "To have a specified weight"
+    ]
+  },
+  {
+    "word": "kilogram",
+    "grade": "8th-grade",
+    "unit": "Unit 3",
+    "definitions": [
+      "A unit of mass equal to one thousand grams",
+      "The base unit of weight in the metric system",
+      "Approximately the weight of one liter of water"
+    ]
+  },
+  {
+    "word": "fix",
+    "grade": "8th-grade",
+    "unit": "Unit 3",
+    "definitions": [
+      "To repair or mend something that is broken",
+      "To fasten or attach something securely",
+      "To prepare food or drinks"
+    ]
+  },
+  {
+    "word": "invention",
+    "grade": "8th-grade",
+    "unit": "Unit 3",
+    "definitions": [
+      "A new device, method, or process that has been created",
+      "The act of inventing or creating something",
+      "Something invented as a result of creativity"
+    ]
+  },
+  {
+    "word": "download",
+    "grade": "8th-grade",
+    "unit": "Unit 3",
+    "definitions": [
+      "To transfer data from a remote server to a local device",
+      "To copy software or files from the internet",
+      "To receive digital content from online sources"
+    ]
+  },
+  {
+    "word": "apply",
+    "grade": "8th-grade",
+    "unit": "Unit 3",
+    "definitions": [
+      "To put something to use for a particular purpose",
+      "To make a formal request or submission",
+      "To spread or lay something on a surface"
+    ]
+  },
+  {
+    "word": "smart",
+    "grade": "8th-grade",
+    "unit": "Unit 3",
+    "definitions": [
+      "Having or showing intelligence and mental quickness",
+      "Fashionable and stylish in appearance",
+      "Quick to understand and respond effectively"
+    ]
+  },
+  {
+    "word": "machine",
+    "grade": "8th-grade",
+    "unit": "Unit 3",
+    "definitions": [
+      "A device with moving parts that performs work",
+      "A mechanical or electrical apparatus",
+      "A system or organization functioning efficiently"
+    ]
+  },
+  {
+    "word": "warn",
+    "grade": "8th-grade",
+    "unit": "Unit 3",
+    "definitions": [
+      "To inform someone of possible danger or harm",
+      "To advise someone against doing something",
+      "To give notice of impending consequences"
+    ]
+  },
+  {
+    "word": "congratulation",
+    "grade": "8th-grade",
+    "unit": "Unit 3",
+    "definitions": [
+      "An expression of approval and praise",
+      "Words of praise for someone's achievements",
+      "An acknowledgment of success or good fortune"
+    ]
+  },
+  {
+    "word": "advertise",
+    "grade": "8th-grade",
+    "unit": "Unit 3",
+    "definitions": [
+      "To promote products or services publicly",
+      "To make something known to the public",
+      "To announce or praise something openly"
+    ]
+  },
+  {
+    "word": "everyday",
+    "grade": "8th-grade",
+    "unit": "Unit 3",
+    "definitions": [
+      "Daily; occurring each day",
+      "Ordinary or routine in nature",
+      "Common or typical in daily life"
+    ]
+  },
+  {
+    "word": "trouble",
+    "grade": "8th-grade",
+    "unit": "Unit 3",
+    "definitions": [
+      "Difficulty or problems that cause worry",
+      "To cause inconvenience or distress",
+      "To take the effort to do something"
+    ]
+  },
+  {
+    "word": "imaginative",
+    "grade": "8th-grade",
+    "unit": "Unit 3",
+    "definitions": [
+      "Having or showing creativity and originality",
+      "Produced by imagination rather than facts",
+      "Characterized by creative thinking and fantasy"
+    ]
+  },
+  {
+    "word": "completely",
+    "grade": "8th-grade",
+    "unit": "Unit 3",
+    "definitions": [
+      "Totally or entirely without exception",
+      "Fully or absolutely in every respect",
+      "Wholly or altogether without reservation"
+    ]
+  },
+  {
+    "word": "penicillin",
+    "grade": "8th-grade",
+    "unit": "Unit 3",
+    "definitions": [
+      "An antibiotic drug derived from mold",
+      "A medicine used to treat bacterial infections",
+      "The first widely used antibiotic substance"
+    ]
+  },
+  {
+    "word": "unexpected",
+    "grade": "8th-grade",
+    "unit": "Unit 3",
+    "definitions": [
+      "Not anticipated or predicted",
+      "Surprising because it was not foreseen",
+      "Happening without prior expectation"
+    ]
+  },
+  {
+    "word": "ticket",
+    "grade": "8th-grade",
+    "unit": "Unit 3",
+    "definitions": [
+      "A piece of paper allowing entry to an event",
+      "A document showing authorization for travel",
+      "A fine issued for breaking rules or laws"
+    ]
+  },
+  {
+    "word": "quality",
+    "grade": "8th-grade",
+    "unit": "Unit 3",
+    "definitions": [
+      "The standard or characteristic of something",
+      "A feature or attribute that defines something",
+      "Superior or high-grade characteristics"
+    ]
+  },
+  {
+    "word": "widely",
+    "grade": "8th-grade",
+    "unit": "Unit 3",
+    "definitions": [
+      "Over a large area or extent",
+      "To a great degree or extent",
+      "By or among many people or places"
+    ]
+  },
+  {
+    "word": "glue",
+    "grade": "8th-grade",
+    "unit": "Unit 3",
+    "definitions": [
+      "A sticky substance used for joining things",
+      "To join or attach with adhesive material",
+      "A bonding agent for fixing objects together"
+    ]
+  },
+  {
+    "word": "perfect",
+    "grade": "8th-grade",
+    "unit": "Unit 3",
+    "definitions": [
+      "Having no faults or defects",
+      "Complete and thorough in every detail",
+      "Exactly suited for a particular purpose"
+    ]
+  },
+  {
+    "word": "freeze",
+    "grade": "8th-grade",
+    "unit": "Unit 3",
+    "definitions": [
+      "To become solid due to cold temperatures",
+      "To stop moving or talking suddenly",
+      "To preserve food by keeping it very cold"
+    ]
+  },
+  {
+    "word": "ice lolly",
+    "grade": "8th-grade",
+    "unit": "Unit 3",
+    "definitions": [
+      "A frozen dessert on a stick",
+      "A popsicle or ice pop",
+      "A sweet frozen treat for cooling down"
+    ]
+  },
+  {
+    "word": "address",
+    "grade": "8th-grade",
+    "unit": "Unit 3",
+    "definitions": [
+      "The location where someone lives or works",
+      "To speak formally to an audience",
+      "To deal with or direct efforts toward something"
+    ]
+  },
+  {
+    "word": "curiosity",
+    "grade": "8th-grade",
+    "unit": "Unit 3",
+    "definitions": [
+      "A strong desire to know or learn something",
+      "Something that arouses interest or wonder",
+      "The quality of being inquisitive or curious"
+    ]
+  },
+  {
+    "word": "talent",
+    "grade": "8th-grade",
+    "unit": "Unit 3",
+    "definitions": [
+      "Natural aptitude or skill in a particular area",
+      "A person with exceptional abilities",
+      "An innate gift or natural ability"
+    ]
+  },
+  {
+    "word": "passionate",
+    "grade": "8th-grade",
+    "unit": "Unit 3",
+    "definitions": [
+      "Showing intense feelings or enthusiasm",
+      "Driven by strong emotions or beliefs",
+      "Expressing deep conviction or ardor"
+    ]
+  },
+  {
+    "word": "electricity",
+    "grade": "8th-grade",
+    "unit": "Unit 3",
+    "definitions": [
+      "A form of energy resulting from charged particles",
+      "The flow of electrical power or current",
+      "A natural phenomenon involving electric charges"
+    ]
+  },
+  {
+    "word": "experiment",
+    "grade": "8th-grade",
+    "unit": "Unit 3",
+    "definitions": [
+      "A scientific test to study phenomena",
+      "To try something new to see what happens",
+      "A procedure conducted to validate hypotheses"
+    ]
+  },
+  {
+    "word": "lightning",
+    "grade": "8th-grade",
+    "unit": "Unit 3",
+    "definitions": [
+      "A sudden flash of light during storms",
+      "An electrical discharge between clouds",
+      "A brilliant flash accompanied by thunder"
+    ]
+  },
+  {
+    "word": "rod",
+    "grade": "8th-grade",
+    "unit": "Unit 3",
+    "definitions": [
+      "A long thin piece of metal or wood",
+      "A slender bar used for support or leverage",
+      "A measuring unit equal to 5.5 yards"
+    ]
+  },
+  {
+    "word": "pioneer",
+    "grade": "8th-grade",
+    "unit": "Unit 3",
+    "definitions": [
+      "A person who is among the first to explore or settle",
+      "Someone who leads or initiates something new",
+      "A forerunner or innovator in a field"
+    ]
+  },
+  {
+    "word": "exploration",
+    "grade": "8th-grade",
+    "unit": "Unit 3",
+    "definitions": [
+      "The action of traveling to discover new places",
+      "A systematic investigation or study",
+      "The process of examining unfamiliar territory"
+    ]
+  },
+  {
+    "word": "test",
+    "grade": "8th-grade",
+    "unit": "Unit 3",
+    "definitions": [
+      "An examination to assess knowledge or ability",
+      "To evaluate the performance of something",
+      "A procedure for checking quality or reliability"
+    ]
+  },
+  {
+    "word": "despite",
+    "grade": "8th-grade",
+    "unit": "Unit 3",
+    "definitions": [
+      "Without being affected by something",
+      "In spite of; regardless of",
+      "Although or even though"
+    ]
+  },
+  {
+    "word": "failure",
+    "grade": "8th-grade",
+    "unit": "Unit 3",
+    "definitions": [
+      "The lack of success in achieving something",
+      "The act of not performing as expected",
+      "A person or thing that disappoints"
+    ]
+  },
+  {
+    "word": "risk",
+    "grade": "8th-grade",
+    "unit": "Unit 3",
+    "definitions": [
+      "The possibility of harm or loss",
+      "To expose something to potential danger",
+      "A situation involving uncertainty or danger"
+    ]
   }
 ]
