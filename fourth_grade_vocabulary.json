@@ -440,7 +440,8 @@
   },
   {
     "word": "supermarket",
-    "grade": "4th-grade",
+    "grade": "4th-grade-seasson-2",
+    "unit": "Unit 1",
     "definitions": [
       "A large self-service grocery store",
       "A retail market selling food and household goods",
@@ -1199,7 +1200,8 @@
   },
   {
     "word": "between",
-    "grade": "4th-grade",
+    "grade": "4th-grade-seasson-2",
+    "unit": "Unit 1",
     "definitions": [
       "In the space separating two things",
       "Among two or more entities",
@@ -1381,7 +1383,8 @@
   },
   {
     "word": "restaurant",
-    "grade": "4th-grade",
+    "grade": "4th-grade-seasson-2",
+    "unit": "Unit 1",
     "definitions": [
       "A place where people buy meals",
       "An establishment serving food",
@@ -2545,6 +2548,546 @@
       "One of two equal parts of something",
       "Fifty percent of something",
       "One part out of two equal pieces"
+    ]
+  },
+  {
+    "word": "across from",
+    "grade": "4th-grade-seasson-2",
+    "unit": "Unit 1",
+    "definitions": [
+      "on the opposite side of something",
+      "facing something from the other side",
+      "situated directly opposite to"
+    ]
+  },
+  {
+    "word": "next to",
+    "grade": "4th-grade-seasson-2",
+    "unit": "Unit 1",
+    "definitions": [
+      "beside something else",
+      "immediately adjacent to",
+      "located at the side of"
+    ]
+  },
+  {
+    "word": "post office",
+    "grade": "4th-grade-seasson-2",
+    "unit": "Unit 1",
+    "definitions": [
+      "a place where you send letters and packages",
+      "building where postal services are offered",
+      "facility that handles mail delivery"
+    ]
+  },
+  {
+    "word": "bank",
+    "grade": "4th-grade-seasson-2",
+    "unit": "Unit 1",
+    "definitions": [
+      "place where people keep money safely",
+      "financial institution for saving and borrowing money",
+      "building where you can get loans or deposit cash"
+    ]
+  },
+  {
+    "word": "grocery",
+    "grade": "4th-grade-seasson-2",
+    "unit": "Unit 1",
+    "definitions": [
+      "store that sells food and drinks",
+      "shop that sells everyday items like bread and milk",
+      "market where you buy food supplies"
+    ]
+  },
+  {
+    "word": "turn left",
+    "grade": "4th-grade-seasson-2",
+    "unit": "Unit 1",
+    "definitions": [
+      "change direction to go toward the left side",
+      "move in a leftward direction from where you are",
+      "make a left bend while walking or driving"
+    ]
+  },
+  {
+    "word": "turn right",
+    "grade": "4th-grade-seasson-2",
+    "unit": "Unit 1",
+    "definitions": [
+      "change direction to go toward the right side",
+      "move in a rightward direction from where you are",
+      "make a right bend while walking or driving"
+    ]
+  },
+  {
+    "word": "go straight",
+    "grade": "4th-grade-seasson-2",
+    "unit": "Unit 1",
+    "definitions": [
+      "continue moving forward without turning",
+      "walk or drive directly ahead",
+      "proceed in the same direction without changing course"
+    ]
+  },
+  {
+    "word": "crossroads",
+    "grade": "4th-grade-seasson-2",
+    "unit": "Unit 1",
+    "definitions": [
+      "a place where two roads meet and cross each other",
+      "intersection of two or more streets",
+      "point where different paths come together"
+    ]
+  },
+  {
+    "word": "neighbourhood",
+    "grade": "4th-grade-seasson-2",
+    "unit": "Unit 1",
+    "definitions": [
+      "an area where people live near each other",
+      "the district or community around your home",
+      "local area where houses and buildings are close together"
+    ]
+  },
+  {
+    "word": "send",
+    "grade": "4th-grade-seasson-2",
+    "unit": "Unit 1",
+    "definitions": [
+      "cause something to go to a place or person",
+      "mail or deliver something to someone",
+      "make something travel to a destination"
+    ]
+  },
+  {
+    "word": "get",
+    "grade": "4th-grade-seasson-2",
+    "unit": "Unit 1",
+    "definitions": [
+      "receive something from someone",
+      "obtain or gain possession of something",
+      "arrive at a place"
+    ]
+  },
+  {
+    "word": "money",
+    "grade": "4th-grade-seasson-2",
+    "unit": "Unit 1",
+    "definitions": [
+      "coins and paper notes used to buy things",
+      "currency used for trading goods and services",
+      "what people use to pay for items they want"
+    ]
+  },
+  {
+    "word": "toy",
+    "grade": "4th-grade-seasson-2",
+    "unit": "Unit 1",
+    "definitions": [
+      "object for children to play with",
+      "item designed for entertainment and fun",
+      "plaything that brings joy to kids"
+    ]
+  },
+  {
+    "word": "hospital",
+    "grade": "4th-grade-seasson-2",
+    "unit": "Unit 1",
+    "definitions": [
+      "place where sick people go to get better",
+      "medical building where doctors work",
+      "facility where patients receive treatment"
+    ]
+  },
+  {
+    "word": "school",
+    "grade": "4th-grade-seasson-2",
+    "unit": "Unit 1",
+    "definitions": [
+      "place where children go to learn",
+      "building where students study different subjects",
+      "educational institution for teaching and learning"
+    ]
+  },
+  {
+    "word": "ball",
+    "grade": "4th-grade-seasson-2",
+    "unit": "Unit 1",
+    "definitions": [
+      "round object used in games and sports",
+      "spherical toy that bounces when thrown",
+      "round thing you can throw, kick or catch"
+    ]
+  },
+  {
+    "word": "city",
+    "grade": "4th-grade-seasson-2",
+    "unit": "Unit 2",
+    "definitions": [
+      "large town with many buildings and people",
+      "big place where lots of people live and work",
+      "urban area with busy streets and businesses"
+    ]
+  },
+  {
+    "word": "street",
+    "grade": "4th-grade-seasson-2",
+    "unit": "Unit 2",
+    "definitions": [
+      "road in a city or town where cars drive",
+      "public way for walking and vehicles",
+      "paved path between buildings for passage"
+    ]
+  },
+  {
+    "word": "hotel",
+    "grade": "4th-grade-seasson-2",
+    "unit": "Unit 2",
+    "definitions": [
+      "place where travelers can stay and sleep",
+      "building that provides rooms for people away from home",
+      "accommodation for visitors who need a place to rest"
+    ]
+  },
+  {
+    "word": "square",
+    "grade": "4th-grade-seasson-2",
+    "unit": "Unit 2",
+    "definitions": [
+      "open area in a city where people gather",
+      "public space often surrounded by buildings",
+      "wide open place in the center of a town"
+    ]
+  },
+  {
+    "word": "see a film",
+    "grade": "4th-grade-seasson-2",
+    "unit": "Unit 2",
+    "definitions": [
+      "watch a movie at the cinema or on TV",
+      "go to the theater to view a story on screen",
+      "look at moving pictures for entertainment"
+    ]
+  },
+  {
+    "word": "go boating",
+    "grade": "4th-grade-seasson-2",
+    "unit": "Unit 2",
+    "definitions": [
+      "ride or travel in a boat on water",
+      "enjoy time floating on a lake or river",
+      "use a boat for fun or transportation"
+    ]
+  },
+  {
+    "word": "busy",
+    "grade": "4th-grade-seasson-2",
+    "unit": "Unit 2",
+    "definitions": [
+      "having a lot to do with little time",
+      "full of activity and people moving around",
+      "not free because of many tasks or events"
+    ]
+  },
+  {
+    "word": "station",
+    "grade": "4th-grade-seasson-2",
+    "unit": "Unit 2",
+    "definitions": [
+      "place where trains stop for passengers",
+      "building where people wait for public transport",
+      "stop where buses or trains pick up travelers"
+    ]
+  },
+  {
+    "word": "place",
+    "grade": "4th-grade-seasson-2",
+    "unit": "Unit 2",
+    "definitions": [
+      "location or position of something",
+      "area or spot where something happens",
+      "particular space or setting"
+    ]
+  },
+  {
+    "word": "thing",
+    "grade": "4th-grade-seasson-2",
+    "unit": "Unit 2",
+    "definitions": [
+      "object or item that you can see or touch",
+      "something that exists or happens",
+      "any stuff or matter we talk about"
+    ]
+  },
+  {
+    "word": "stay",
+    "grade": "4th-grade-seasson-2",
+    "unit": "Unit 2",
+    "definitions": [
+      "remain in a place for some time",
+      "live somewhere temporarily",
+      "not leave a place"
+    ]
+  },
+  {
+    "word": "star",
+    "grade": "4th-grade-seasson-2",
+    "unit": "Unit 2",
+    "definitions": [
+      "bright point of light in the night sky",
+      "celestial body that gives off light",
+      "shining object seen in the heavens at night"
+    ]
+  },
+  {
+    "word": "king",
+    "grade": "4th-grade-seasson-2",
+    "unit": "Unit 2",
+    "definitions": [
+      "male ruler of a country",
+      "man who leads a kingdom or empire",
+      "monarch who governs a nation"
+    ]
+  },
+  {
+    "word": "central",
+    "grade": "4th-grade-seasson-2",
+    "unit": "Unit 2",
+    "definitions": [
+      "in the middle part of something",
+      "located at the center of a place",
+      "main or most important area"
+    ]
+  },
+  {
+    "word": "take photos",
+    "grade": "4th-grade-seasson-2",
+    "unit": "Unit 2",
+    "definitions": [
+      "use a camera to capture images",
+      "make pictures of people or things",
+      "record moments with a photographic device"
+    ]
+  },
+  {
+    "word": "dream",
+    "grade": "4th-grade-seasson-2",
+    "unit": "Unit 2",
+    "definitions": [
+      "story in your mind while sleeping",
+      "hope or wish for something special",
+      "thoughts and images during sleep"
+    ]
+  },
+  {
+    "word": "sea",
+    "grade": "4th-grade-seasson-2",
+    "unit": "Unit 3",
+    "definitions": [
+      "large area of salt water with waves",
+      "ocean where fish and boats travel",
+      "vast body of water separating lands"
+    ]
+  },
+  {
+    "word": "ski",
+    "grade": "4th-grade-seasson-2",
+    "unit": "Unit 3",
+    "definitions": [
+      "slide on snow using narrow boards on feet",
+      "travel over snow with skis for sport",
+      "glide along snowy slopes for recreation"
+    ]
+  },
+  {
+    "word": "eat seafood",
+    "grade": "4th-grade-seasson-2",
+    "unit": "Unit 3",
+    "definitions": [
+      "consume fish and other ocean creatures",
+      "have meals made from sea animals",
+      "feed on marine life like fish and shrimp"
+    ]
+  },
+  {
+    "word": "row a boat",
+    "grade": "4th-grade-seasson-2",
+    "unit": "Unit 3",
+    "definitions": [
+      "push a boat through water with oars",
+      "move a boat by pulling paddles",
+      "propel a small vessel using blades"
+    ]
+  },
+  {
+    "word": "summer vacation",
+    "grade": "4th-grade-seasson-2",
+    "unit": "Unit 3",
+    "definitions": [
+      "long break from school in hot season",
+      "holiday period when students don't attend classes",
+      "time off from studies during warm months"
+    ]
+  },
+  {
+    "word": "travel",
+    "grade": "4th-grade-seasson-2",
+    "unit": "Unit 3",
+    "definitions": [
+      "go from one place to another",
+      "journey to different locations",
+      "move between distant places for purpose"
+    ]
+  },
+  {
+    "word": "reading",
+    "grade": "4th-grade-seasson-2",
+    "unit": "Unit 4",
+    "definitions": [
+      "activity of looking at and understanding words",
+      "process of studying written materials",
+      "time spent with books or texts for learning"
+    ]
+  },
+  {
+    "word": "skateboarding",
+    "grade": "4th-grade-seasson-2",
+    "unit": "Unit 4",
+    "definitions": [
+      "riding and doing tricks on a skateboard",
+      "moving on wheels while standing on a board",
+      "sport using a board with wheels for rolling"
+    ]
+  },
+  {
+    "word": "singing",
+    "grade": "4th-grade-seasson-2",
+    "unit": "Unit 4",
+    "definitions": [
+      "making musical sounds with your voice",
+      "performing songs by vocalizing words",
+      "using your voice to create melodies"
+    ]
+  },
+  {
+    "word": "dancing",
+    "grade": "4th-grade-seasson-2",
+    "unit": "Unit 4",
+    "definitions": [
+      "moving your body to music rhythmically",
+      "expressing feelings through body movements",
+      "physical activity involving rhythmic motion"
+    ]
+  },
+  {
+    "word": "different",
+    "grade": "4th-grade-seasson-2",
+    "unit": "Unit 4",
+    "definitions": [
+      "not the same as others",
+      "unlike in nature, form, or quality",
+      "varied or distinct from something else"
+    ]
+  },
+  {
+    "word": "catch",
+    "grade": "4th-grade-seasson-2",
+    "unit": "Unit 4",
+    "definitions": [
+      "grab or seize something coming toward you",
+      "capture or get hold of something moving",
+      "intercept and stop something in motion"
+    ]
+  },
+  {
+    "word": "free",
+    "grade": "4th-grade-seasson-2",
+    "unit": "Unit 5",
+    "definitions": [
+      "without cost or payment needed",
+      "available for use at no charge",
+      "not expensive or complimentary"
+    ]
+  },
+  {
+    "word": "never",
+    "grade": "4th-grade-seasson-2",
+    "unit": "Unit 5",
+    "definitions": [
+      "at no time or not ever",
+      "not happening or occurring",
+      "opposite of always; not once"
+    ]
+  },
+  {
+    "word": "Canada",
+    "grade": "4th-grade-seasson-2",
+    "unit": "Unit 6",
+    "definitions": [
+      "country in North America with maple trees",
+      "nation above the United States with cold winters",
+      "land of hockey, maple syrup and friendly people"
+    ]
+  },
+  {
+    "word": "Australia",
+    "grade": "4th-grade-seasson-2",
+    "unit": "Unit 6",
+    "definitions": [
+      "country and continent in the southern hemisphere",
+      "land of kangaroos and koalas down under",
+      "island nation known for unique animals"
+    ]
+  },
+  {
+    "word": "koala",
+    "grade": "4th-grade-seasson-2",
+    "unit": "Unit 6",
+    "definitions": [
+      "Australian animal that looks like a teddy bear",
+      "furry creature that lives in eucalyptus trees",
+      "marsupial that eats leaves and sleeps a lot"
+    ]
+  },
+  {
+    "word": "campfire",
+    "grade": "4th-grade-seasson-2",
+    "unit": "Unit 6",
+    "definitions": [
+      "fire built outdoors for warmth or cooking",
+      "flames made in nature for gathering around",
+      "wood fire at campsites for light and heat"
+    ]
+  },
+  {
+    "word": "cute",
+    "grade": "4th-grade-seasson-2",
+    "unit": "Unit 6",
+    "definitions": [
+      "looking pretty and attractive",
+      "charmingly sweet or endearing",
+      "pleasantly appealing in appearance"
+    ]
+  },
+  {
+    "word": "country",
+    "grade": "4th-grade-seasson-2",
+    "unit": "Unit 6",
+    "definitions": [
+      "nation with its own government and land",
+      "rural area outside cities with farms",
+      "territory ruled by a single authority"
+    ]
+  },
+  {
+    "word": "pretty",
+    "grade": "4th-grade-seasson-2",
+    "unit": "Unit 6",
+    "definitions": [
+      "pleasing to look at or attractive",
+      "beautiful or good-looking in appearance",
+      "nice to see or visually appealing"
     ]
   }
 ]
