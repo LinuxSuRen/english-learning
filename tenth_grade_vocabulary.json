@@ -862,5 +862,689 @@
       "An extremely zealous person",
       "One who is uncompromising in pursuit of their religious, political, or other ideals"
     ]
+  },
+  {
+    "word": "exchange",
+    "grade": "10th-grade",
+    "definitions": [
+      "to give and receive something",
+      "to trade one thing for another",
+      "to communicate by talking to someone"
+    ]
+  },
+  {
+    "word": "senior",
+    "grade": "10th-grade",
+    "definitions": [
+      "older or higher in rank",
+      "a student in the final year of school",
+      "having more experience or authority"
+    ]
+  },
+  {
+    "word": "senior high",
+    "grade": "10th-grade",
+    "definitions": [
+      "the last years of high school education",
+      "school for older teenagers, usually ages 15-18",
+      "secondary education after middle school"
+    ]
+  },
+  {
+    "word": "curious",
+    "grade": "10th-grade",
+    "definitions": [
+      "wanting to know or learn about something",
+      "filled with interest and questions",
+      "strange or unusual in an interesting way"
+    ]
+  },
+  {
+    "word": "impression",
+    "grade": "10th-grade",
+    "definitions": [
+      "a feeling or opinion about someone or something",
+      "an idea or image in your mind",
+      "the mark or effect left by something"
+    ]
+  },
+  {
+    "word": "campus",
+    "grade": "10th-grade",
+    "definitions": [
+      "the buildings and grounds of a university or college",
+      "the area where school buildings are located",
+      "a school or university property including outdoor areas"
+    ]
+  },
+  {
+    "word": "tradition",
+    "grade": "10th-grade",
+    "definitions": [
+      "beliefs or customs passed down through generations",
+      "a long-established custom or belief",
+      "something done the same way for a long time"
+    ]
+  },
+  {
+    "word": "facility",
+    "grade": "10th-grade",
+    "definitions": [
+      "a place or building for a specific purpose",
+      "equipment or services that make life easier",
+      "a feature that provides convenience or service"
+    ]
+  },
+  {
+    "word": "impressive",
+    "grade": "10th-grade",
+    "definitions": [
+      "making you feel admiration or respect",
+      "very good or excellent in quality",
+      "causing a strong feeling of respect"
+    ]
+  },
+  {
+    "word": "moment",
+    "grade": "10th-grade",
+    "definitions": [
+      "a very short period of time",
+      "an important or special point in time",
+      "an instant or brief interval"
+    ]
+  },
+  {
+    "word": "author",
+    "grade": "10th-grade",
+    "definitions": [
+      "a person who writes books or articles",
+      "the creator or originator of something",
+      "a writer of a particular book or text"
+    ]
+  },
+  {
+    "word": "eagerness",
+    "grade": "10th-grade",
+    "definitions": [
+      "keen interest or enthusiasm",
+      "being excited and ready to do something",
+      "strong desire to get or achieve something"
+    ]
+  },
+  {
+    "word": "explore",
+    "grade": "10th-grade",
+    "definitions": [
+      "to travel through a place to learn about it",
+      "to examine or discuss something in detail",
+      "to investigate or discover something new"
+    ]
+  },
+  {
+    "word": "engine",
+    "grade": "10th-grade",
+    "definitions": [
+      "a machine that makes power to move vehicles",
+      "the part of a car that makes it work",
+      "a motor that creates energy for movement"
+    ]
+  },
+  {
+    "word": "insect",
+    "grade": "10th-grade",
+    "definitions": [
+      "a small animal with six legs",
+      "a creature like a bee, ant, or butterfly",
+      "a tiny creature with a segmented body"
+    ]
+  },
+  {
+    "word": "collection",
+    "grade": "10th-grade",
+    "definitions": [
+      "a group of things gathered together",
+      "items kept together because they are alike",
+      "things gathered or brought together in one place"
+    ]
+  },
+  {
+    "word": "organise",
+    "grade": "10th-grade",
+    "definitions": [
+      "to arrange things in a planned way",
+      "to make something neat and orderly",
+      "to plan and prepare for an event"
+    ]
+  },
+  {
+    "word": "nudge",
+    "grade": "10th-grade",
+    "definitions": [
+      "to push someone gently with your elbow",
+      "to encourage someone to do something",
+      "a slight push or prod"
+    ]
+  },
+  {
+    "word": "butterfly",
+    "grade": "10th-grade",
+    "definitions": [
+      "a flying insect with colorful wings",
+      "an insect that starts as a caterpillar",
+      "a beautiful winged creature that flies in gardens"
+    ]
+  },
+  {
+    "word": "breathe",
+    "grade": "10th-grade",
+    "definitions": [
+      "to take air into your lungs",
+      "to inhale and exhale air",
+      "the act of getting oxygen into your body"
+    ]
+  },
+  {
+    "word": "panic",
+    "grade": "10th-grade",
+    "definitions": [
+      "sudden extreme fear or worry",
+      "to feel sudden uncontrollable fear",
+      "a sudden strong feeling of fear"
+    ]
+  },
+  {
+    "word": "in panic",
+    "grade": "10th-grade",
+    "definitions": [
+      "with sudden extreme fear",
+      "acting from sudden uncontrollable terror",
+      "in a state of sudden fright"
+    ]
+  },
+  {
+    "word": "challenge",
+    "grade": "10th-grade",
+    "definitions": [
+      "a difficult task that tests abilities",
+      "to question or doubt something",
+      "to invite someone to compete or fight"
+    ]
+  },
+  {
+    "word": "pressure",
+    "grade": "10th-grade",
+    "definitions": [
+      "force applied over a surface area",
+      "stress from demands or expectations",
+      "the weight or force on something"
+    ]
+  },
+  {
+    "word": "calm",
+    "grade": "10th-grade",
+    "definitions": [
+      "quiet and peaceful without worry",
+      "not excited or nervous",
+      "to make someone relaxed and peaceful"
+    ]
+  },
+  {
+    "word": "description",
+    "grade": "10th-grade",
+    "definitions": [
+      "words that explain what something looks like",
+      "a spoken or written account of something",
+      "details that tell about appearance or features"
+    ]
+  },
+  {
+    "word": "confident",
+    "grade": "10th-grade",
+    "definitions": [
+      "sure about your own abilities",
+      "feeling strong belief in success",
+      "self-assured and not easily frightened"
+    ]
+  },
+  {
+    "word": "poster",
+    "grade": "10th-grade",
+    "definitions": [
+      "a large printed picture or sign",
+      "a notice displayed to advertise something",
+      "a large sheet of paper with pictures or words"
+    ]
+  },
+  {
+    "word": "badminton",
+    "grade": "10th-grade",
+    "definitions": [
+      "a game played with racquets and a shuttlecock",
+      "sport where players hit a birdie over a net",
+      "game played indoors with light racquets"
+    ]
+  },
+  {
+    "word": "drama",
+    "grade": "10th-grade",
+    "definitions": [
+      "a play performed in a theater",
+      "a serious situation with emotions",
+      "the art of acting in plays or movies"
+    ]
+  },
+  {
+    "word": "band",
+    "grade": "10th-grade",
+    "definitions": [
+      "a group of musicians playing instruments",
+      "a strip of material worn around something",
+      "a group that plays music together"
+    ]
+  },
+  {
+    "word": "debate",
+    "grade": "10th-grade",
+    "definitions": [
+      "a discussion with opposing views",
+      "a formal argument or discussion",
+      "to argue for or against something"
+    ]
+  },
+  {
+    "word": "gym",
+    "grade": "10th-grade",
+    "definitions": [
+      "a room or building for physical exercise",
+      "a place with equipment for fitness training",
+      "an indoor area for sports activities"
+    ]
+  },
+  {
+    "word": "piano",
+    "grade": "10th-grade",
+    "definitions": [
+      "a large musical instrument with keys",
+      "instrument you play by pressing black and white keys",
+      "a musical instrument with a keyboard"
+    ]
+  },
+  {
+    "word": "stage",
+    "grade": "10th-grade",
+    "definitions": [
+      "a platform where actors perform",
+      "a raised area for performances",
+      "one step in a process or development"
+    ]
+  },
+  {
+    "word": "photography",
+    "grade": "10th-grade",
+    "definitions": [
+      "the art of taking pictures with a camera",
+      "taking photos as a hobby or profession",
+      "process of capturing images with a camera"
+    ]
+  },
+  {
+    "word": "inner",
+    "grade": "10th-grade",
+    "definitions": [
+      "inside or within something else",
+      "deep inside your feelings or thoughts",
+      "belonging to the inside part"
+    ]
+  },
+  {
+    "word": "argue",
+    "grade": "10th-grade",
+    "definitions": [
+      "to disagree and discuss different opinions",
+      "to give reasons for or against something",
+      "to quarrel or dispute with someone"
+    ]
+  },
+  {
+    "word": "topic",
+    "grade": "10th-grade",
+    "definitions": [
+      "a subject that people talk or write about",
+      "the main idea of a speech or article",
+      "what a conversation or lesson is about"
+    ]
+  },
+  {
+    "word": "sharp",
+    "grade": "10th-grade",
+    "definitions": [
+      "having a thin edge that cuts easily",
+      "quick and sudden in change or movement",
+      "pointed or coming to a fine edge"
+    ]
+  },
+  {
+    "word": "dinosaur",
+    "grade": "10th-grade",
+    "definitions": [
+      "a large prehistoric animal that lived long ago",
+      "an extinct reptile that lived millions of years ago",
+      "a huge ancient animal that once ruled the earth"
+    ]
+  },
+  {
+    "word": "dolphin",
+    "grade": "10th-grade",
+    "definitions": [
+      "a smart sea animal that looks like a fish",
+      "a friendly mammal that lives in oceans",
+      "an intelligent marine animal that jumps and plays"
+    ]
+  },
+  {
+    "word": "intelligent",
+    "grade": "10th-grade",
+    "definitions": [
+      "having the ability to learn and understand",
+      "smart and able to think quickly",
+      "showing quick mental understanding"
+    ]
+  },
+  {
+    "word": "investigate",
+    "grade": "10th-grade",
+    "definitions": [
+      "to examine something carefully",
+      "to look into a matter officially",
+      "to explore or research something thoroughly"
+    ]
+  },
+  {
+    "word": "various",
+    "grade": "10th-grade",
+    "definitions": [
+      "different from each other",
+      "of different kinds or sorts",
+      "consisting of many different types"
+    ]
+  },
+  {
+    "word": "volunteer",
+    "grade": "10th-grade",
+    "definitions": [
+      "to offer to help without payment",
+      "a person who works for free",
+      "to freely join or offer service"
+    ]
+  },
+  {
+    "word": "gain",
+    "grade": "10th-grade",
+    "definitions": [
+      "to get or obtain something wanted",
+      "to increase in amount or degree",
+      "to acquire or achieve something"
+    ]
+  },
+  {
+    "word": "apply",
+    "grade": "10th-grade",
+    "definitions": [
+      "to put something onto something else",
+      "to make a formal request",
+      "to use or put into action"
+    ]
+  },
+  {
+    "word": "schedule",
+    "grade": "10th-grade",
+    "definitions": [
+      "a plan showing when things will happen",
+      "a list of events and times",
+      "to plan or arrange for a time"
+    ]
+  },
+  {
+    "word": "award",
+    "grade": "10th-grade",
+    "definitions": [
+      "a prize given for achievement",
+      "to give something as recognition",
+      "a certificate or trophy for excellence"
+    ]
+  },
+  {
+    "word": "opportunity",
+    "grade": "10th-grade",
+    "definitions": [
+      "a good chance to do something",
+      "a favorable time or situation",
+      "a possibility to improve or advance"
+    ]
+  },
+  {
+    "word": "hint",
+    "grade": "10th-grade",
+    "definitions": [
+      "a small bit of helpful information",
+      "to suggest something indirectly",
+      "a slight suggestion or clue"
+    ]
+  },
+  {
+    "word": "subscribe",
+    "grade": "10th-grade",
+    "definitions": [
+      "to pay money for newspapers or magazines",
+      "to agree or support an idea",
+      "to sign up for a service regularly"
+    ]
+  },
+  {
+    "word": "view",
+    "grade": "10th-grade",
+    "definitions": [
+      "what you can see from a place",
+      "to look at or examine something",
+      "an opinion or way of thinking"
+    ]
+  },
+  {
+    "word": "former",
+    "grade": "10th-grade",
+    "definitions": [
+      "the first of two things mentioned",
+      "previously held position or place",
+      "earlier, previously existed"
+    ]
+  },
+  {
+    "word": "graduate",
+    "grade": "10th-grade",
+    "definitions": [
+      "to complete studies and receive a degree",
+      "a student who has completed school",
+      "to successfully finish a course of study"
+    ]
+  },
+  {
+    "word": "orientation",
+    "grade": "10th-grade",
+    "definitions": [
+      "introduction to a new situation",
+      "training that helps adjust to something new",
+      "process of finding direction or position"
+    ]
+  },
+  {
+    "word": "frightened",
+    "grade": "10th-grade",
+    "definitions": [
+      "afraid or scared of something",
+      "feeling fear or alarm",
+      "made afraid by something scary"
+    ]
+  },
+  {
+    "word": "sight",
+    "grade": "10th-grade",
+    "definitions": [
+      "the ability to see with your eyes",
+      "something worth seeing or visiting",
+      "to catch a glimpse of something"
+    ]
+  },
+  {
+    "word": "figure",
+    "grade": "10th-grade",
+    "definitions": [
+      "a shape or form of something",
+      "a person's body shape or size",
+      "to calculate or think out a problem"
+    ]
+  },
+  {
+    "word": "select",
+    "grade": "10th-grade",
+    "definitions": [
+      "to choose or pick out carefully",
+      "to make a choice from a group",
+      "to pick the best or most suitable"
+    ]
+  },
+  {
+    "word": "particular",
+    "grade": "10th-grade",
+    "definitions": [
+      "especially or specifically chosen",
+      "detail-oriented and demanding",
+      "one specific thing or person"
+    ]
+  },
+  {
+    "word": "rainbow",
+    "grade": "10th-grade",
+    "definitions": [
+      "an arch of colors in the sky after rain",
+      "colors appearing in the sky with sun and rain",
+      "a curved band of colors in the sky"
+    ]
+  },
+  {
+    "word": "neat",
+    "grade": "10th-grade",
+    "definitions": [
+      "tidy and organized in appearance",
+      "clean and orderly",
+      "done with skill and precision"
+    ]
+  },
+  {
+    "word": "specific",
+    "grade": "10th-grade",
+    "definitions": [
+      "clearly stated or identified",
+      "particular or exact",
+      "precise and detailed"
+    ]
+  },
+  {
+    "word": "refer",
+    "grade": "10th-grade",
+    "definitions": [
+      "to direct attention to something",
+      "to consult or look up information",
+      "to mention or allude to something"
+    ]
+  },
+  {
+    "word": "journal",
+    "grade": "10th-grade",
+    "definitions": [
+      "a newspaper or magazine",
+      "a diary where you write daily thoughts",
+      "a record of events or news"
+    ]
+  },
+  {
+    "word": "junior",
+    "grade": "10th-grade",
+    "definitions": [
+      "younger or lower in rank",
+      "a student in the third year of high school",
+      "less experienced or younger"
+    ]
+  },
+  {
+    "word": "struggle",
+    "grade": "10th-grade",
+    "definitions": [
+      "to try hard to achieve something difficult",
+      "to fight or make effort against difficulty",
+      "a hard battle or challenge"
+    ]
+  },
+  {
+    "word": "memorise",
+    "grade": "10th-grade",
+    "definitions": [
+      "to learn something by heart",
+      "to remember information perfectly",
+      "to commit something to memory"
+    ]
+  },
+  {
+    "word": "skateboarding",
+    "grade": "10th-grade",
+    "definitions": [
+      "riding on a skateboard for fun or sport",
+      "moving on wheels on a flat board",
+      "a sport using a skateboard to do tricks"
+    ]
+  },
+  {
+    "word": "forward",
+    "grade": "10th-grade",
+    "definitions": [
+      "toward the front or ahead",
+      "in the direction of progress",
+      "sent to someone for their attention"
+    ]
+  },
+  {
+    "word": "committee",
+    "grade": "10th-grade",
+    "definitions": [
+      "a group chosen to do a specific task",
+      "people appointed for a special purpose",
+      "a group that makes decisions or plans"
+    ]
+  },
+  {
+    "word": "improve",
+    "grade": "10th-grade",
+    "definitions": [
+      "to make something better",
+      "to become better in quality",
+      "to enhance or upgrade"
+    ]
+  },
+  {
+    "word": "rate",
+    "grade": "10th-grade",
+    "definitions": [
+      "the speed or frequency of something",
+      "to judge or evaluate something",
+      "the cost or charge for a service"
+    ]
+  },
+  {
+    "word": "performance",
+    "grade": "10th-grade",
+    "definitions": [
+      "how well someone or something functions",
+      "an act of presenting music or drama",
+      "the execution or accomplishment of work"
+    ]
   }
 ]
