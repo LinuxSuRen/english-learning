@@ -130,15 +130,6 @@
     ]
   },
   {
-    "word": "about",
-    "grade": "7th-grade",
-    "definitions": [
-      "on the subject of; concerning",
-      "approximately",
-      "in various places"
-    ]
-  },
-  {
     "word": "above",
     "grade": "7th-grade",
     "definitions": [
@@ -2353,7 +2344,7 @@
   {
     "word": "dry",
     "grade": "7th-grade",
-    "unit": "Unit 2",
+    "unit": "Unit 1",
     "definitions": [
       "free from moisture or liquid; not wet or sticky",
       "to remove moisture from something by evaporation or absorption",
@@ -2751,7 +2742,7 @@
   {
     "word": "fact",
     "grade": "7th-grade",
-    "unit": "Unit 2",
+    "unit": "Unit 1",
     "definitions": [
       "a thing that is known or proved to be true",
       "a piece of information used as evidence",
@@ -3914,7 +3905,7 @@
   {
     "word": "hers",
     "grade": "7th-grade",
-    "unit": "Unit 2",
+    "unit": "Unit 1",
     "definitions": [
       "belonging to or associated with a female person previously mentioned",
       "used to indicate possession by a female",
@@ -4047,7 +4038,8 @@
   {
     "word": "homework",
     "grade": "7th-grade",
-    "unit": "Unit 2",
+    "label": ["外研社"],
+    "unit": "Unit 1",
     "definitions": [
       "school assignments that are given to students to be completed outside class",
       "tasks or work assigned by a teacher to be done at home",
@@ -4057,7 +4049,8 @@
   {
     "word": "hope",
     "grade": "7th-grade",
-    "unit": "Unit 2",
+    "label": ["外研社"],
+    "unit": "Unit 1",
     "definitions": [
       "a feeling of expectation and desire for a particular thing to happen",
       "to want something to happen or be the case",
@@ -8711,7 +8704,8 @@
   {
     "word": "storm",
     "grade": "7th-grade",
-    "unit": "Unit 2",
+    "label": ["外研社"],
+    "unit": "Unit 1",
     "definitions": [
       "a violent disturbance of the atmosphere with strong winds and usually rain, thunder, lightning, or snow",
       "to attack or assault someone or something violently",
@@ -9003,7 +8997,8 @@
   {
     "word": "task",
     "grade": "7th-grade",
-    "unit": "Unit 2",
+    "label": ["外研社"],
+    "unit": "Unit 1",
     "definitions": [
       "a piece of work to be done or undertaken",
       "to assign a task to someone",
@@ -9358,7 +9353,8 @@
   {
     "word": "thought",
     "grade": "7th-grade",
-    "unit": "Unit 2",
+    "label": ["外研社"],
+    "unit": "Unit 1",
     "definitions": [
       "an idea or opinion produced by thinking or occurring suddenly in the mind",
       "the past tense and past participle of 'think'",
@@ -9386,7 +9382,8 @@
   {
     "word": "through",
     "grade": "7th-grade",
-    "unit": "Unit 2",
+    "label": ["外研社"],
+    "unit": "Unit 1",
     "definitions": [
       "moving in one side and out of the other side of something",
       "from beginning to end of an experience or activity",
@@ -10389,7 +10386,8 @@
   {
     "word": "wide",
     "grade": "7th-grade",
-    "unit": "Unit 2",
+    "label": ["外研社"],
+    "unit": "Unit 1",
     "definitions": [
       "measuring a large distance from side to side",
       "extending far or broadly in space or scope",
@@ -10435,7 +10433,8 @@
   {
     "word": "wind",
     "grade": "7th-grade",
-    "unit": "Unit 2",
+    "label": ["外研社"],
+    "unit": "Unit 1",
     "definitions": [
       "the movement of air caused by pressure differences in the atmosphere",
       "to turn or twist something repeatedly",
@@ -10981,7 +10980,7 @@
   {
     "word": "meaning",
     "grade": "7th-grade",
-    "unit": "Unit 2",
+    "unit": "Unit 1",
     "definitions": [
       "the idea or significance of something"
     ]
@@ -10997,7 +10996,7 @@
   {
     "word": "need",
     "grade": "7th-grade",
-    "unit": "Unit 2",
+    "unit": "Unit 1",
     "definitions": [
       "to require something"
     ]
@@ -11005,7 +11004,7 @@
   {
     "word": "remember",
     "grade": "7th-grade",
-    "unit": "Unit 2",
+    "unit": "Unit 1",
     "definitions": [
       "to recall something from memory"
     ]
@@ -11013,7 +11012,8 @@
   {
     "word": "really",
     "grade": "7th-grade",
-    "unit": "Unit 2",
+    "label": ["外研社"],
+    "unit": "Unit 1",
     "definitions": [
       "truly; genuinely"
     ]
@@ -11021,7 +11021,8 @@
   {
     "word": "important",
     "grade": "7th-grade",
-    "unit": "Unit 2",
+    "label": ["外研社"],
+    "unit": "Unit 1",
     "definitions": [
       "having great significance or value"
     ]
@@ -11029,7 +11030,8 @@
   {
     "word": "plan",
     "grade": "7th-grade",
-    "unit": "Unit 2",
+    "label": ["外研社"],
+    "unit": "Unit 1",
     "definitions": [
       "to make arrangements for something in advance"
     ]
@@ -11037,7 +11039,8 @@
   {
     "word": "problem",
     "grade": "7th-grade",
-    "unit": "Unit 2",
+    "label": ["外研社"],
+    "unit": "Unit 1",
     "definitions": [
       "a difficult situation or question that needs to be solved"
     ]
@@ -11045,7 +11048,8 @@
   {
     "word": "project",
     "grade": "7th-grade",
-    "unit": "Unit 2",
+    "label": ["外研社"],
+    "unit": "Unit 1",
     "definitions": [
       "a planned piece of work, especially one involving research or creativity"
     ]
@@ -11053,7 +11057,8 @@
   {
     "word": "advice",
     "grade": "7th-grade",
-    "unit": "Unit 2",
+    "label": ["外研社"],
+    "unit": "Unit 1",
     "definitions": [
       "recommendation or guidance about what to do"
     ]
@@ -11061,7 +11066,8 @@
   {
     "word": "journey",
     "grade": "7th-grade",
-    "unit": "Unit 2",
+    "label": ["外研社"],
+    "unit": "Unit 1",
     "definitions": [
       "a trip or travel from one place to another"
     ]
@@ -11069,7 +11075,8 @@
   {
     "word": "something",
     "grade": "7th-grade",
-    "unit": "Unit 2",
+    "label": ["外研社"],
+    "unit": "Unit 1",
     "definitions": [
       "an unspecified thing or object"
     ]
@@ -11077,7 +11084,8 @@
   {
     "word": "life",
     "grade": "7th-grade",
-    "unit": "Unit 2",
+    "label": ["外研社"],
+    "unit": "Unit 1",
     "definitions": [
       "the condition of being alive"
     ]
@@ -11085,7 +11093,8 @@
   {
     "word": "primary school",
     "grade": "7th-grade",
-    "unit": "Unit 2",
+    "label": ["外研社"],
+    "unit": "Unit 1",
     "definitions": [
       "a school for children before they go to secondary school"
     ]
@@ -11093,7 +11102,8 @@
   {
     "word": "pool",
     "grade": "7th-grade",
-    "unit": "Unit 2",
+    "label": ["外研社"],
+    "unit": "Unit 1",
     "definitions": [
       "a body of water used for swimming"
     ]
@@ -11101,7 +11111,8 @@
   {
     "word": "protect",
     "grade": "7th-grade",
-    "unit": "Unit 2",
+    "label": ["外研社"],
+    "unit": "Unit 1",
     "definitions": [
       "to keep safe from harm or danger"
     ]
@@ -11109,7 +11120,8 @@
   {
     "word": "sail",
     "grade": "7th-grade",
-    "unit": "Unit 2",
+    "label": ["外研社"],
+    "unit": "Unit 1",
     "definitions": [
       "to move a boat across water using sails"
     ]
@@ -11117,7 +11129,8 @@
   {
     "word": "towards",
     "grade": "7th-grade",
-    "unit": "Unit 2",
+    "label": ["外研社"],
+    "unit": "Unit 1",
     "definitions": [
       "in the direction of"
     ]
@@ -12017,6 +12030,7 @@
   {
     "word": "amazing",
     "grade": "7th-grade",
+    "label": ["外研社"],
     "unit": "Unit 6",
     "definitions": [
       "Causing great surprise or wonder",
@@ -12277,6 +12291,7 @@
   {
     "word": "theme",
     "grade": "7th-grade-season-2",
+    "label": ["外研社"],
     "unit": "Unit 1",
     "meaning": [
       "the main subject or idea in a piece of writing",
@@ -12287,6 +12302,7 @@
   {
     "word": "agree",
     "grade": "7th-grade-season-2",
+    "label": ["外研社"],
     "unit": "Unit 2",
     "meaning": [
       "to have the same opinion as someone",
@@ -12297,6 +12313,7 @@
   {
     "word": "paragraph",
     "grade": "7th-grade-season-2",
+    "label": ["外研社"],
     "unit": "Unit 2",
     "meaning": [
       "a group of sentences about the same thing",
@@ -12307,6 +12324,7 @@
   {
     "word": "relate",
     "grade": "7th-grade-season-2",
+    "label": ["外研社"],
     "unit": "Unit 2",
     "meaning": [
       "to tell a story or describe something",
@@ -12317,6 +12335,7 @@
   {
     "word": "experience",
     "grade": "7th-grade-season-2",
+    "label": ["外研社"],
     "unit": "Unit 2",
     "meaning": [
       "something that happens to you or something you do",
@@ -12327,6 +12346,7 @@
   {
     "word": "topic",
     "grade": "7th-grade-season-2",
+    "label": ["外研社"],
     "unit": "Unit 2",
     "meaning": [
       "a subject that people talk or write about",
@@ -12337,6 +12357,7 @@
   {
     "word": "grammar",
     "grade": "7th-grade-season-2",
+    "label": ["外研社"],
     "unit": "Unit 2",
     "meaning": [
       "the rules for putting words together in a language",
@@ -12347,6 +12368,7 @@
   {
     "word": "dragon",
     "grade": "7th-grade-season-2",
+    "label": ["外研社"],
     "unit": "Unit 2",
     "meaning": [
       "a large imaginary animal that looks like a lizard with wings",
@@ -12357,6 +12379,7 @@
   {
     "word": "bath",
     "grade": "7th-grade-season-2",
+    "label": ["外研社"],
     "unit": "Unit 2",
     "meaning": [
       "a place where you wash your body with water",
@@ -12367,6 +12390,7 @@
   {
     "word": "basket",
     "grade": "7th-grade-season-2",
+    "label": ["外研社"],
     "unit": "Unit 2",
     "meaning": [
       "a container made of woven materials",
@@ -12377,6 +12401,7 @@
   {
     "word": "princess",
     "grade": "7th-grade-season-2",
+    "label": ["外研社"],
     "unit": "Unit 2",
     "meaning": [
       "a daughter of a king or queen",
@@ -12387,6 +12412,7 @@
   {
     "word": "survey",
     "grade": "7th-grade-season-2",
+    "label": ["外研社"],
     "unit": "Unit 2",
     "meaning": [
       "a set of questions given to collect information",
@@ -12397,6 +12423,7 @@
   {
     "word": "presentation",
     "grade": "7th-grade-season-2",
+    "label": ["外研社"],
     "unit": "Unit 2",
     "meaning": [
       "a talk given to an audience about a particular topic",
@@ -12407,6 +12434,7 @@
   {
     "word": "positive",
     "grade": "7th-grade-season-2",
+    "label": ["外研社"],
     "unit": "Unit 2",
     "meaning": [
       "thinking good thoughts and expecting good results",
@@ -12417,6 +12445,7 @@
   {
     "word": "wave",
     "grade": "7th-grade-season-2",
+    "label": ["外研社"],
     "unit": "Unit 2",
     "meaning": [
       "a moving curve on the surface of water",
@@ -12427,6 +12456,7 @@
   {
     "word": "himself",
     "grade": "7th-grade-season-2",
+    "label": ["外研社"],
     "unit": "Unit 2",
     "meaning": [
       "used when a man does something alone without help",
@@ -12437,6 +12467,7 @@
   {
     "word": "finally",
     "grade": "7th-grade-season-2",
+    "label": ["外研社"],
     "unit": "Unit 2",
     "meaning": [
       "at the end of a period of time",
@@ -12447,6 +12478,7 @@
   {
     "word": "barber",
     "grade": "7th-grade-season-2",
+    "label": ["外研社"],
     "unit": "Unit 2",
     "meaning": [
       "a person who cuts men's hair",
@@ -12457,6 +12489,7 @@
   {
     "word": "customer",
     "grade": "7th-grade-season-2",
+    "label": ["外研社"],
     "unit": "Unit 2",
     "meaning": [
       "a person who buys goods or services",
@@ -12467,6 +12500,7 @@
   {
     "word": "surprised",
     "grade": "7th-grade-season-2",
+    "label": ["外研社"],
     "unit": "Unit 2",
     "meaning": [
       "feeling amazed or shocked by something unexpected",
@@ -12477,6 +12511,7 @@
   {
     "word": "cancer",
     "grade": "7th-grade-season-2",
+    "label": ["外研社"],
     "unit": "Unit 2",
     "meaning": [
       "a serious disease where bad cells grow in the body",
@@ -12487,6 +12522,7 @@
   {
     "word": "wig",
     "grade": "7th-grade-season-2",
+    "label": ["外研社"],
     "unit": "Unit 2",
     "meaning": [
       "a covering for the head made of artificial hair",
