@@ -9,15 +9,6 @@
     ]
   },
   {
-    "word": "pencil",
-    "grade": "3rd-grade",
-    "definitions": [
-      "A thin stick used for writing or drawing",
-      "A writing tool made of wood with graphite inside",
-      "An instrument for making marks on paper"
-    ]
-  },
-  {
     "word": "pencil-case",
     "grade": "3rd-grade",
     "definitions": [
@@ -645,6 +636,357 @@
       "An aircraft with fixed wings",
       "A vehicle that flies through the air",
       "A means of air transportation"
+    ]
+  },{
+    "word": "happy",
+    "grade": "3rd-grade",
+    "label": ["沪教版"],
+    "unit": "Unit 1",
+    "definitions": [
+      "Feeling or showing pleasure orjoy",
+      "Satisfied with life or things",
+      "Injoyment or contentment"
+    ]
+  }, {
+    "word": "sad",
+    "grade": "3rd-grade",
+    "label": ["沪教版"],
+    "unit": "Unit 1",
+    "definitions": [
+      "Feeling or showing sorrow",
+      "Unhappy or downhearted",
+      "Causing feelings of unhappiness"
+    ]
+  }, {
+    "word": "angry",
+    "grade": "3rd-grade",
+    "label": ["沪教版"],
+    "unit": "Unit 1",
+    "definitions": [
+      "Feeling or showing strong displeasure",
+      "Mad or furious about something",
+      "Having a strong feeling of annoyance"
+    ]
+  }, {
+    "word": "tired",
+    "grade": "3rd-grade",
+    "label": ["沪教版"],
+    "unit": "Unit 1",
+    "definitions": [
+      "Feeling or showing tiredness",
+      "Exhausted or worn out",
+      "Having a feeling of being worn out"
+    ]
+  }, {
+    "word": "boy",
+    "grade": "3rd-grade",
+    "label": ["沪教版"],
+    "unit": "Unit 1",
+    "definitions": [
+      "A young man",
+      "A male child",
+      "A young person"
+    ]
+  }, {
+    "word": "girl",
+    "grade": "3rd-grade",
+    "label": ["沪教版"],
+    "unit": "Unit 1",
+    "definitions": [
+      "A young woman",
+      "A female child",
+      "A young person"
+    ]
+  }, {
+    "word": "I",
+    "grade": "3rd-grade",
+    "label": ["沪教版"],
+    "unit": "Unit 1",
+    "definitions": [
+      "The first person singular",
+      "The person who is doing the talking",
+      "The subject of the sentence"
+    ]
+  }, {
+    "word": "am",
+    "grade": "3rd-grade",
+    "label": ["沪教版"],
+    "unit": "Unit 1",
+    "definitions": [
+      "Used to express the present tense",
+      "Used to express the present tense",
+      "Used to express the present tense"
+    ]
+  }, {
+    "word": "cold",
+    "grade": "3rd-grade",
+    "label": ["沪教版"],
+    "unit": "Unit 1",
+    "definitions": [
+      "Feeling or showing a low temperature",
+      "Not warm or hot",
+      "Having a low temperature"
+    ]
+  }, {
+    "word": "ok",
+    "grade": "3rd-grade",
+    "label": ["沪教版"],
+    "unit": "Unit 1",
+    "definitions": [
+      "Used to say that something is fine",
+      "Used to say that something is fine",
+      "Used to say that something is fine"
+    ]
+  }, {
+    "word": "find",
+    "grade": "3rd-grade",
+    "label": ["沪教版"],
+    "unit": "Unit 1",
+    "definitions": [
+      "To discover or recognize something",
+      "To find something",
+      "To discover something"
+    ]
+  }, {
+    "word": "pencil",
+    "grade": "3rd-grade",
+    "label": ["沪教版"],
+    "unit": "Unit 1",
+    "definitions": [
+      "A writing instrument",
+      "A small writing tool",
+      "A writing implement"
+    ]
+  }, {
+    "word": "too",
+    "grade": "3rd-grade",
+    "label": ["沪教版"],
+    "unit": "Unit 1",
+    "definitions": [
+      "Used to show that something is more than expected"
+    ]
+  }, {
+    "word": "well",
+    "grade": "3rd-grade",
+    "label": ["沪教版"],
+    "unit": "Unit 1",
+    "definitions": [
+      "In a good state",
+      "In a good condition",
+      "In a good position"
+    ]
+  }, {
+    "word": "now",
+    "grade": "3rd-grade",
+    "label": ["沪教版"],
+    "unit": "Unit 1",
+    "definitions": [
+      "Right now",
+      "At the present time"
+    ]
+  }, {
+    "word": "look at the blackboard",
+    "grade": "3rd-grade",
+    "label": ["沪教版"],
+    "unit": "Unit 1",
+    "definitions": [
+      "To look at something on a board"
+    ]
+  }, {
+    "word": "Good morning",
+    "grade": "3rd-grade",
+    "label": ["沪教版"],
+    "unit": "Unit 1",
+    "definitions": [
+      "A formal greeting"
+    ]
+  }, {
+    "word": "How are you",
+    "grade": "3rd-grade",
+    "label": ["沪教版"],
+    "unit": "Unit 1",
+    "definitions": [
+      "A question to ask someone"
+    ]
+  }, {
+    "word": "Not so good",
+    "grade": "3rd-grade",
+    "label": ["沪教版"],
+    "unit": "Unit 1",
+    "definitions": [
+      "Not very well"
+    ]
+  }, {
+    "word": "Let’s close the window",
+    "grade": "3rd-grade",
+    "label": ["沪教版"],
+    "unit": "Unit 1",
+    "definitions": [
+      "To ask someone to do something"
+    ]
+  }, {
+    "word": "Fine, thank you",
+    "grade": "3rd-grade",
+    "label": ["沪教版"],
+    "unit": "Unit 1",
+    "definitions": [
+      "Used to say that something is fine"
+    ]
+  }, {
+    "word": "grandfather",
+    "grade": "3rd-grade",
+    "label": ["沪教版"],
+    "unit": "Unit 2",
+    "definitions": [
+      "A man who is the father of a man"
+    ]
+  }, {
+    "word": "grandmother",
+    "grade": "3rd-grade",
+    "label": ["沪教版"],
+    "unit": "Unit 2",
+    "definitions": [
+      "A woman who is the mother of a woman"
+    ]
+  }, {
+    "word": "father",
+    "grade": "3rd-grade",
+    "label": ["沪教版"],
+    "unit": "Unit 2",
+    "definitions": [
+      "A man who is the father of a child"
+    ]
+  }, {
+    "word": "mother",
+    "grade": "3rd-grade",
+    "label": ["沪教版"],
+    "unit": "Unit 2",
+    "definitions": [
+      "A woman who is the mother of a child"
+    ]
+  }, {
+    "word": "sister",
+    "grade": "3rd-grade",
+    "label": ["沪教版"],
+    "unit": "Unit 2",
+    "definitions": [
+      "A woman or man who is the sister of a child"
+    ]
+  }, {
+    "word": "brother",
+    "grade": "3rd-grade",
+    "label": ["沪教版"],
+    "unit": "Unit 2",
+    "definitions": [
+      "A man or woman who is the brother of a child"
+    ]
+  }, {
+    "word": "me",
+    "grade": "3rd-grade",
+    "label": ["沪教版"],
+    "unit": "Unit 2",
+    "definitions": [
+      "The first person singular",
+      "The person who is doing the talking",
+      "The subject of the sentence"
+    ]
+  }, {
+    "word": "family",
+    "grade": "3rd-grade",
+    "label": ["沪教版"],
+    "unit": "Unit 2",
+    "definitions": [
+      "A group of people who live together"
+    ]
+  }, {
+    "word": "my",
+    "grade": "3rd-grade",
+    "label": ["沪教版"],
+    "unit": "Unit 2",
+    "definitions": [
+      "Used to show that something belongs to the person who is talking"
+    ]
+  }, {
+    "word": "name",
+    "grade": "3rd-grade",
+    "label": ["沪教版"],
+    "unit": "Unit 2",
+    "definitions": [
+      "The written or printed representation of a person’s identity"
+    ]
+  }, {
+    "word": "is",
+    "grade": "3rd-grade",
+    "label": ["沪教版"],
+    "unit": "Unit 2",
+    "definitions": [
+      "Used to express the present tense"
+    ]
+  }, {
+    "word": "this",
+    "grade": "3rd-grade",
+    "label": ["沪教版"],
+    "unit": "Unit 2",
+    "definitions": [
+      "Used to refer to the thing that is being talked about"
+    ]
+  }, {
+    "word": "and",
+    "grade": "3rd-grade",
+    "label": ["沪教版"],
+    "unit": "Unit 2",
+    "definitions": [
+      "Used to connect words or phrases"
+    ]
+  }, {
+    "word": "she",
+    "grade": "3rd-grade",
+    "label": ["沪教版"],
+    "unit": "Unit 2",
+    "definitions": [
+      "The second person singular",
+      "A woman"
+    ]
+  }, {
+    "word": "he",
+    "grade": "3rd-grade",
+    "label": ["沪教版"],
+    "unit": "Unit 2",
+    "definitions": [
+      "The first person singular",
+      "A man"
+    ]
+  }, {
+    "word": "who",
+    "grade": "3rd-grade",
+    "label": ["沪教版"],
+    "unit": "Unit 2",
+    "definitions": [
+      "Used to ask for the identity of a person"
+    ]
+  }, {
+    "word": "twin",
+    "grade": "3rd-grade",
+    "label": ["沪教版"],
+    "unit": "Unit 2",
+    "definitions": [
+      "A person who shares the same birth mother"
+    ]
+  }, {
+    "word": "big",
+    "grade": "3rd-grade",
+    "label": ["沪教版"],
+    "unit": "Unit 2",
+    "definitions": [
+      "Large in size"
+    ]
+  }, {
+    "word": "family tree",
+    "grade": "3rd-grade",
+    "label": ["沪教版"],
+    "unit": "Unit 2",
+    "definitions": [
+      "A diagram showing the family relationships of a person"
     ]
   }
 ]
