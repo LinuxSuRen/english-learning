@@ -4090,5 +4090,668 @@
       "the mood or feeling in a place or situation",
       "a distinctive quality or ambiance associated with a place"
     ]
+  },
+  ,
+  {
+    "word": "charity",
+    "phonetic": "/ˈtʃærɪti/",
+    "grade": "10th-grade",
+    "unit": "Unit 5",
+    "label": ["外研社"],
+    "definitions": [
+      "an organization that provides help to people in need",
+      "generosity and willingness to donate money or assistance to others",
+      "a benevolent institution or fund for aiding the poor and needy"
+    ]
+  },
+  {
+    "word": "monarch",
+    "phonetic": "/ˈmɒnək/",
+    "grade": "10th-grade",
+    "unit": "Unit 5",
+    "label": ["外研社"],
+    "definitions": [
+      "a sovereign head of state, especially a king or queen",
+      "a ruler of a kingdom or empire",
+      "an insect that feeds on milkweed plants as a caterpillar"
+    ]
+  },
+  {
+    "word": "monarch butterfly",
+    "grade": "10th-grade",
+    "unit": "Unit 5",
+    "label": ["外研社"],
+    "definitions": [
+      "a large orange and black butterfly known for its long migrations",
+      "a species of butterfly famous for traveling thousands of miles annually",
+      "a butterfly with distinctive orange and black wings that migrates to Mexico"
+    ]
+  },
+  {
+    "word": "atlantic",
+    "phonetic": "/ətˈlæntɪk/",
+    "grade": "10th-grade",
+    "unit": "Unit 5",
+    "label": ["外研社"],
+    "definitions": [
+      "relating to the Atlantic Ocean",
+      "situated near or crossing the Atlantic Ocean",
+      "characteristic of the ocean between Europe, Africa, and the Americas"
+    ]
+  },
+  {
+    "word": "whale",
+    "phonetic": "/weɪl/",
+    "grade": "10th-grade",
+    "unit": "Unit 5",
+    "label": ["外研社"],
+    "definitions": [
+      "a very large marine mammal that breathes air and lives in oceans",
+      "a giant sea creature that is actually a mammal rather than a fish",
+      "a massive aquatic mammal that communicates through complex songs"
+    ]
+  },
+  {
+    "word": "annual",
+    "phonetic": "/ˈænjuəl/",
+    "grade": "10th-grade",
+    "unit": "Unit 5",
+    "label": ["外研社"],
+    "definitions": [
+      "occurring once every year",
+      "calculated over a year",
+      "a plant that completes its life cycle in one growing season"
+    ]
+  },
+  {
+    "word": "migration",
+    "phonetic": "/maɪˈɡreɪʃ(ə)n/",
+    "grade": "10th-grade",
+    "unit": "Unit 5",
+    "label": ["外研社"],
+    "definitions": [
+      "the seasonal movement of animals from one region to another",
+      "the process of moving from one place to another, especially periodically",
+      "a shift of population from one area to another for various reasons"
+    ]
+  },
+  {
+    "word": "migrate",
+    "phonetic": "/maɪˈɡreɪt/",
+    "grade": "10th-grade",
+    "unit": "Unit 5",
+    "label": ["外研社"],
+    "definitions": [
+      "to move from one region to another, especially seasonally",
+      "to travel from one habitat to another in a regular pattern",
+      "to relocate permanently or temporarily to a new area"
+    ]
+  },
+  {
+    "word": "seek",
+    "phonetic": "/siːk/",
+    "grade": "10th-grade",
+    "unit": "Unit 5",
+    "label": ["外研社"],
+    "definitions": [
+      "to attempt to find or obtain something",
+      "to search for or look for something",
+      "to pursue or strive to achieve something"
+    ]
+  },
+  {
+    "word": "professor",
+    "phonetic": "/prəˈfesə/",
+    "grade": "10th-grade",
+    "unit": "Unit 5",
+    "label": ["外研社"],
+    "definitions": [
+      "a teacher of the highest rank at a college or university",
+      "an expert in a particular field of study",
+      "a person holding a senior academic position at a university"
+    ]
+  },
+  {
+    "word": "measure",
+    "phonetic": "/ˈmeʒə/",
+    "grade": "10th-grade",
+    "unit": "Unit 5",
+    "label": ["外研社"],
+    "definitions": [
+      "to ascertain the size, amount, or degree of something",
+      "to determine the dimensions or capacity of something",
+      "to evaluate or judge the extent or value of something"
+    ]
+  },
+  {
+    "word": "position",
+    "phonetic": "/pəˈzɪʃ(ə)n/",
+    "grade": "10th-grade",
+    "unit": "Unit 5",
+    "label": ["外研社"],
+    "definitions": [
+      "a place or location where someone or something is",
+      "a particular way of sitting, standing, or lying down",
+      "an opinion or stance on a particular issue"
+    ]
+  },
+  {
+    "word": "determine",
+    "phonetic": "/dɪˈtɜːmɪn/",
+    "grade": "10th-grade",
+    "unit": "Unit 5",
+    "label": ["外研社"],
+    "definitions": [
+      "to establish or ascertain something exactly",
+      "to settle or decide something conclusively",
+      "to have a decisive influence on the nature or outcome of something"
+    ]
+  },
+  {
+    "word": "eventually",
+    "phonetic": "/ɪˈventʃuəli/",
+    "grade": "10th-grade",
+    "unit": "Unit 5",
+    "label": ["外研社"],
+    "definitions": [
+      "in the end, especially after a long delay or process",
+      "finally, after a period of time or sequence of events",
+      "at some point in the future, though not immediately"
+    ]
+  },
+  {
+    "word": "solution",
+    "phonetic": "/səˈluːʃ(ə)n/",
+    "grade": "10th-grade",
+    "unit": "Unit 5",
+    "label": ["外研社"],
+    "definitions": [
+      "a means of solving a problem or dealing with a difficult situation",
+      "a liquid mixture in which one substance is dissolved in another",
+      "the answer to or resolution of a puzzle, dilemma, or complex issue"
+    ]
+  },
+  {
+    "word": "mystery",
+    "phonetic": "/ˈmɪst(ə)ri/",
+    "grade": "10th-grade",
+    "unit": "Unit 5",
+    "label": ["外研社"],
+    "definitions": [
+      "something that is difficult or impossible to understand or explain",
+      "a crime or puzzle that is to be solved",
+      "a religious truth that one can know only by revelation"
+    ]
+  },
+  {
+    "word": "amazing",
+    "phonetic": "/əˈmeɪzɪŋ/",
+    "grade": "10th-grade",
+    "unit": "Unit 5",
+    "label": ["外研社"],
+    "definitions": [
+      "causing great surprise or wonder; astonishing",
+      "extremely impressive or remarkable",
+      "incredibly good or extraordinary in quality or performance"
+    ]
+  },
+  {
+    "word": "crash",
+    "phonetic": "/kræʃ/",
+    "grade": "10th-grade",
+    "unit": "Unit 5",
+    "label": ["外研社"],
+    "definitions": [
+      "to fall or strike something with force and make a loud noise",
+      "to decrease rapidly in value or amount",
+      "to be involved in a serious vehicle accident"
+    ]
+  },
+  {
+    "word": "per cent",
+    "grade": "10th-grade",
+    "unit": "Unit 5",
+    "label": ["外研社"],
+    "definitions": [
+      "one part in every hundred",
+      "a proportion expressed as a fraction of 100",
+      "a way of expressing a number as a fraction of 100"
+    ]
+  },
+  {
+    "word": "destroy",
+    "phonetic": "/dɪˈstrɔɪ/",
+    "grade": "10th-grade",
+    "unit": "Unit 5",
+    "label": ["外研社"],
+    "definitions": [
+      "to put an end to the existence of something by damaging or attacking it",
+      "to ruin or spoil something completely",
+      "to demolish or wreck something beyond repair"
+    ]
+  },
+  {
+    "word": "chemical",
+    "phonetic": "/ˈkemɪk(ə)l/",
+    "grade": "10th-grade",
+    "unit": "Unit 5",
+    "label": ["外研社"],
+    "definitions": [
+      "relating to or derived from chemistry",
+      "a substance produced by or used in a chemical process",
+      "any basic substance or compound used in scientific experiments"
+    ]
+  },
+  {
+    "word": "caterpillar",
+    "phonetic": "/ˈkætəˌpɪlə/",
+    "grade": "10th-grade",
+    "unit": "Unit 5",
+    "label": ["外研社"],
+    "definitions": [
+      "the larval stage of butterflies and moths",
+      "a worm-like insect with many legs that feeds on plants",
+      "a soft-bodied insect that transforms into a butterfly or moth"
+    ]
+  },
+  {
+    "word": "creature",
+    "phonetic": "/ˈkriːtʃə/",
+    "grade": "10th-grade",
+    "unit": "Unit 5",
+    "label": ["外研社"],
+    "definitions": [
+      "a living being, especially an animal",
+      "an organism that can move and respond to external stimuli",
+      "any animate being that is not a plant or human"
+    ]
+  },
+  {
+    "word": "survive",
+    "phonetic": "/səˈvaɪv/",
+    "grade": "10th-grade",
+    "unit": "Unit 5",
+    "label": ["外研社"],
+    "definitions": [
+      "to continue to live or exist, especially in spite of danger or hardship",
+      "to remain alive after a dangerous event or period",
+      "to endure or outlive a difficult situation"
+    ]
+  },
+  {
+    "word": "effect",
+    "phonetic": "/ɪˈfekt/",
+    "grade": "10th-grade",
+    "unit": "Unit 5",
+    "label": ["外研社"],
+    "definitions": [
+      "a change that is caused by something else",
+      "the result or consequence of an action or event",
+      "an impression or influence produced by something"
+    ]
+  },
+  {
+    "word": "flow chart",
+    "grade": "10th-grade",
+    "unit": "Unit 5",
+    "label": ["外研社"],
+    "definitions": [
+      "a diagram that represents a workflow or process",
+      "a graphical representation showing the steps of a process in sequence",
+      "a schematic illustration of a sequence of operations or algorithms"
+    ]
+  },
+  {
+    "word": "accommodation",
+    "phonetic": "/əˌkɒməˈdeɪʃ(ə)n/",
+    "grade": "10th-grade",
+    "unit": "Unit 5",
+    "label": ["外研社"],
+    "definitions": [
+      "lodging or housing for travelers or guests",
+      "a place where someone can stay or live temporarily",
+      "the adjustment or modification of something to meet specific needs"
+    ]
+  },
+  {
+    "word": "idiom",
+    "phonetic": "/ˈɪdiəm/",
+    "grade": "10th-grade",
+    "unit": "Unit 5",
+    "label": ["外研社"],
+    "definitions": [
+      "a group of words established by usage as having a meaning not deducible from those of the individual words",
+      "a phrase or expression whose meaning cannot be understood from the literal definition of the words",
+      "a form of expression that is peculiar to a language or dialect"
+    ]
+  },
+  {
+    "word": "kill two birds with one stone",
+    "grade": "10th-grade",
+    "unit": "Unit 5",
+    "label": ["外研社"],
+    "definitions": [
+      "to accomplish two different things with a single action",
+      "to achieve two aims at the same time efficiently",
+      "to solve two problems with one solution"
+    ]
+  },
+  {
+    "word": "when the cat's away",
+    "grade": "10th-grade",
+    "unit": "Unit 5",
+    "label": ["外研社"],
+    "definitions": [
+      "referring to the tendency for subordinates to misbehave when their supervisor is absent",
+      "people tend to relax rules or behave more freely when authority figures are not present",
+      "a situation where people take advantage when those in charge are not around"
+    ]
+  },
+  {
+    "word": "hold your horses",
+    "grade": "10th-grade",
+    "unit": "Unit 5",
+    "label": ["外研社"],
+    "definitions": [
+      "wait a moment; be patient before acting",
+      "to pause or slow down before taking action",
+      "to restrain oneself from rushing into something"
+    ]
+  },
+  {
+    "word": "rain cats and dogs",
+    "grade": "10th-grade",
+    "unit": "Unit 5",
+    "label": ["外研社"],
+    "definitions": [
+      "to rain very heavily",
+      "describing precipitation that falls with great intensity",
+      "a heavy downpour of rain"
+    ]
+  },
+  {
+    "word": "authority",
+    "phonetic": "/ɔːˈθɒrɪti/",
+    "grade": "10th-grade",
+    "unit": "Unit 5",
+    "label": ["外研社"],
+    "definitions": [
+      "the power or right to give orders, make decisions, or take action",
+      "official permission or jurisdiction granted to an individual or organization",
+      "an expert source of information or advice in a particular field"
+    ]
+  },
+  {
+    "word": "source",
+    "phonetic": "/sɔːs/",
+    "grade": "10th-grade",
+    "unit": "Unit 5",
+    "label": ["外研社"],
+    "definitions": [
+      "a place, person, or thing from which something comes or can be obtained",
+      "the origin or starting point of something",
+      "an informant or guide who provides information"
+    ]
+  },
+  {
+    "word": "found",
+    "phonetic": "/faʊnd/",
+    "grade": "10th-grade",
+    "unit": "Unit 5",
+    "label": ["外研社"],
+    "definitions": [
+      "to establish or set up an institution or organization",
+      "to create or originate something that continues after its initial creation",
+      "to provide the basis or foundation for something"
+    ]
+  },
+  {
+    "word": "photographer",
+    "phonetic": "/fəˈtɒɡrəfə/",
+    "grade": "10th-grade",
+    "unit": "Unit 5",
+    "label": ["外研社"],
+    "definitions": [
+      "a person who takes photographs professionally or as a hobby",
+      "someone who captures images using a camera",
+      "an artist who uses photography as their medium"
+    ]
+  },
+  {
+    "word": "button",
+    "phonetic": "/ˈbʌtn/",
+    "grade": "10th-grade",
+    "unit": "Unit 5",
+    "label": ["外研社"],
+    "definitions": [
+      "a small disk or knob sewn onto clothing to fasten it by slipping through a buttonhole",
+      "a switch or control on a device that activates a function when pressed",
+      "to fasten or secure with buttons"
+    ]
+  },
+  {
+    "word": "recover",
+    "phonetic": "/rɪˈkʌvə/",
+    "grade": "10th-grade",
+    "unit": "Unit 5",
+    "label": ["外研社"],
+    "definitions": [
+      "to regain possession or control of something lost or stolen",
+      "to return to a normal state of health, mind, or strength",
+      "to make up for a loss or deficit"
+    ]
+  },
+  {
+    "word": "shock",
+    "phonetic": "/ʃɒk/",
+    "grade": "10th-grade",
+    "unit": "Unit 5",
+    "label": ["外研社"],
+    "definitions": [
+      "a sudden and disturbing event that affects someone emotionally",
+      "a feeling of surprise and upset caused by something unexpected",
+      "to cause someone to feel surprised and disturbed"
+    ]
+  },
+  {
+    "word": "element",
+    "phonetic": "/ˈelɪmənt/",
+    "grade": "10th-grade",
+    "unit": "Unit 5",
+    "label": ["外研社"],
+    "definitions": [
+      "a fundamental or essential part of something",
+      "a substance composed of atoms with the same atomic number",
+      "a distinct feature or characteristic of a situation"
+    ]
+  },
+  {
+    "word": "the elements",
+    "grade": "10th-grade",
+    "unit": "Unit 5",
+    "label": ["外研社"],
+    "definitions": [
+      "the weather, especially harsh weather conditions",
+      "natural forces such as wind, rain, and cold",
+      "the basic conditions of outdoor weather"
+    ]
+  },
+  {
+    "word": "brave the elements",
+    "grade": "10th-grade",
+    "unit": "Unit 5",
+    "label": ["外研社"],
+    "definitions": [
+      "to face harsh weather conditions without protection",
+      "to endure exposure to severe weather bravely",
+      "to venture outdoors despite adverse weather conditions"
+    ]
+  },
+  {
+    "word": "encounter",
+    "phonetic": "/ɪnˈkaʊntə/",
+    "grade": "10th-grade",
+    "unit": "Unit 5",
+    "label": ["外研社"],
+    "definitions": [
+      "to meet someone or something unexpectedly or casually",
+      "to come across or experience something, typically unexpectedly",
+      "to face or deal with a problem or challenge"
+    ]
+  },
+  {
+    "word": "variety",
+    "phonetic": "/vəˈraɪəti/",
+    "grade": "10th-grade",
+    "unit": "Unit 5",
+    "label": ["外研社"],
+    "definitions": [
+      "the quality or state of having different forms or types",
+      "a diverse range or assortment of things",
+      "the presence of differences or distinctions within a group"
+    ]
+  },
+  {
+    "word": "per",
+    "phonetic": "/pə/",
+    "grade": "10th-grade",
+    "unit": "Unit 5",
+    "label": ["外研社"],
+    "definitions": [
+      "for each; for every",
+      "by means of; through",
+      "according to; as indicated by"
+    ]
+  },
+  {
+    "word": "path",
+    "phonetic": "/pɑːθ/",
+    "grade": "10th-grade",
+    "unit": "Unit 5",
+    "label": ["外研社"],
+    "definitions": [
+      "a way or track laid down for walking or made by continual treading",
+      "a course of action or direction in life",
+      "a route or way between two locations"
+    ]
+  },
+  {
+    "word": "breathtaking",
+    "phonetic": "/ˈbreθˌteɪkɪŋ/",
+    "grade": "10th-grade",
+    "unit": "Unit 5",
+    "label": ["外研社"],
+    "definitions": [
+      "extremely exciting or impressive; amazing",
+      "so remarkable as to take one's breath away",
+      "astonishingly beautiful or stunning"
+    ]
+  },
+  {
+    "word": "eagle",
+    "phonetic": "/ˈiːɡ(ə)l/",
+    "grade": "10th-grade",
+    "unit": "Unit 5",
+    "label": ["外研社"],
+    "definitions": [
+      "a large bird of prey with a massive hooked bill and keen eyesight",
+      "a national symbol of the United States",
+      "any of various large diurnal birds of prey noted for their strength and keen vision"
+    ]
+  },
+  {
+    "word": "concentrate",
+    "phonetic": "/ˈkɒns(ə)ntreɪt/",
+    "grade": "10th-grade",
+    "unit": "Unit 5",
+    "label": ["外研社"],
+    "definitions": [
+      "to focus all one's attention or mental effort on something",
+      "to make one's thoughts or attention less scattered",
+      "to direct one's efforts or attention on a particular object or activity"
+    ]
+  },
+  {
+    "word": "freeze",
+    "phonetic": "/friːz/",
+    "grade": "10th-grade",
+    "unit": "Unit 5",
+    "label": ["外研社"],
+    "definitions": [
+      "to become or cause to become solid due to cold",
+      "to stop moving or talking suddenly and completely",
+      "to feel extremely cold or to make something very cold"
+    ]
+  },
+  {
+    "word": "stare",
+    "phonetic": "/steə/",
+    "grade": "10th-grade",
+    "unit": "Unit 5",
+    "label": ["外研社"],
+    "definitions": [
+      "to look fixedly or vacantly at someone or something",
+      "to gaze steadily or intently at something",
+      "to look at something with eyes wide open, typically in amazement or wonder"
+    ]
+  },
+  {
+    "word": "capture",
+    "phonetic": "/ˈkæptʃə/",
+    "grade": "10th-grade",
+    "unit": "Unit 5",
+    "label": ["外研社"],
+    "definitions": [
+      "to seize and take control of something by force",
+      "to record or express something vividly in words or images",
+      "to succeed in attracting and retaining someone's attention or interest"
+    ]
+  },
+  {
+    "word": "image",
+    "phonetic": "/ˈɪmɪdʒ/",
+    "grade": "10th-grade",
+    "unit": "Unit 5",
+    "label": ["外研社"],
+    "definitions": [
+      "a representation of the external form of a person or thing",
+      "a photograph or picture of someone or something",
+      "a mental representation of someone or something"
+    ]
+  },
+  {
+    "word": "after all",
+    "grade": "10th-grade",
+    "unit": "Unit 5",
+    "label": ["外研社"],
+    "definitions": [
+      "used to indicate that a circumstance or fact makes one reconsider a statement or belief",
+      "considering the circumstances or facts",
+      "in spite of everything; nevertheless"
+    ]
+  },
+  {
+    "word": "reaction",
+    "phonetic": "/riˈækʃ(ə)n/",
+    "grade": "10th-grade",
+    "unit": "Unit 5",
+    "label": ["外研社"],
+    "definitions": [
+      "an action performed in response to a stimulus or situation",
+      "a person's emotional or behavioral response to something",
+      "the way someone behaves or feels in response to an event or experience"
+    ]
+  },
+  {
+    "word": "file",
+    "phonetic": "/faɪl/",
+    "grade": "10th-grade",
+    "unit": "Unit 5",
+    "label": ["外研社"],
+    "definitions": [
+      "a folder or box for holding loose papers together",
+      "a collection of documents or records stored together",
+      "to arrange papers or documents in a systematic way"
+    ]
   }
 ]
