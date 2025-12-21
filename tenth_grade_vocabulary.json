@@ -1634,69 +1634,742 @@
     ]
   },
   {
-    "word": "skateboarding",
+    "word": "title",
+    "phonetic": "/ˈtaɪtl/",
     "grade": "10th-grade",
-    "unit": "Unit 1",
+    "unit": "Unit 2",
     "label": ["外研社"],
     "definitions": [
-      "riding on a skateboard for fun or sport",
-      "moving on wheels on a flat board",
-      "a sport using a skateboard to do tricks"
+      "a heading or caption accompanying a picture or diagram",
+      "a name given to a book, play, piece of music, etc.",
+      "a name or heading that describes or labels something"
     ]
   },
   {
-    "word": "forward",
+    "word": "pine",
+    "phonetic": "/paɪn/",
     "grade": "10th-grade",
-    "unit": "Unit 1",
+    "unit": "Unit 2",
     "label": ["外研社"],
     "definitions": [
-      "toward the front or ahead",
-      "in the direction of progress",
-      "sent to someone for their attention"
+      "an evergreen coniferous tree with needle-shaped leaves",
+      "to yearn intensely for something desired",
+      "to lose vigor or decline in health"
     ]
   },
   {
-    "word": "committee",
+    "word": "pineapple",
+    "phonetic": "/ˈpaɪnæp(ə)l/",
     "grade": "10th-grade",
-    "unit": "Unit 1",
+    "unit": "Unit 2",
     "label": ["外研社"],
     "definitions": [
-      "a group chosen to do a specific task",
-      "people appointed for a special purpose",
-      "a group that makes decisions or plans"
+      "a tropical fruit consisting of a tough, spiky exterior and sweet, juicy interior",
+      "the plant that bears this fruit",
+      "something resembling a pineapple in appearance or taste"
     ]
   },
   {
-    "word": "improve",
+    "word": "ham",
+    "phonetic": "/hæm/",
     "grade": "10th-grade",
-    "unit": "Unit 1",
+    "unit": "Unit 2",
     "label": ["外研社"],
     "definitions": [
-      "to make something better",
-      "to become better in quality",
-      "to enhance or upgrade"
+      "the upper part of a pig's leg, salted and dried for food",
+      "an actor who performs with exaggerated dramatic gestures",
+      "to overact or perform in an exaggerated manner"
     ]
   },
   {
-    "word": "rate",
+    "word": "eggplant",
+    "phonetic": "/ˈeɡplɑːnt/",
     "grade": "10th-grade",
-    "unit": "Unit 1",
+    "unit": "Unit 2",
     "label": ["外研社"],
     "definitions": [
-      "the speed or frequency of something",
-      "to judge or evaluate something",
-      "the cost or charge for a service"
+      "a glossy purple edible fruit of tropical Asian origin",
+      "the plant that bears this fruit",
+      "a dark purple color resembling the fruit"
     ]
   },
   {
-    "word": "performance",
+    "word": "sculpt",
+    "phonetic": "/skʌlpt/",
     "grade": "10th-grade",
-    "unit": "Unit 1",
+    "unit": "Unit 2",
     "label": ["外研社"],
     "definitions": [
-      "how well someone or something functions",
-      "an act of presenting music or drama",
-      "the execution or accomplishment of work"
+      "to carve or shape a material into a desired form",
+      "to create a three-dimensional artwork by cutting or modeling",
+      "to form or fashion something carefully"
+    ]
+  },
+  {
+    "word": "sculpture",
+    "phonetic": "/ˈskʌlptʃə/",
+    "grade": "10th-grade",
+    "unit": "Unit 2",
+    "label": ["外研社"],
+    "definitions": [
+      "a three-dimensional artwork created by carving, modeling, or casting",
+      "the art of creating figures or designs in three dimensions",
+      "a statue or carved object made by a sculptor"
+    ]
+  },
+  {
+    "word": "seasick",
+    "phonetic": "/ˈsiːˌsɪk/",
+    "grade": "10th-grade",
+    "unit": "Unit 2",
+    "label": ["外研社"],
+    "definitions": [
+      "experiencing nausea and dizziness due to motion on water",
+      "affected by motion sickness while traveling on a boat or ship",
+      "feeling ill from the rocking motion of ocean waves"
+    ]
+  },
+  {
+    "word": "airsick",
+    "phonetic": "/ˈeəˌsɪk/",
+    "grade": "10th-grade",
+    "unit": "Unit 2",
+    "label": ["外研社"],
+    "definitions": [
+      "experiencing nausea and discomfort during flight",
+      "affected by motion sickness while traveling in an aircraft",
+      "feeling dizzy and nauseous due to airplane turbulence"
+    ]
+  },
+  {
+    "word": "carsick",
+    "phonetic": "/ˈkɑːˌsɪk/",
+    "grade": "10th-grade",
+    "unit": "Unit 2",
+    "label": ["外研社"],
+    "definitions": [
+      "experiencing motion sickness while riding in a car",
+      "feeling nauseous and uncomfortable during a road trip",
+      "affected by dizziness caused by vehicle movement"
+    ]
+  },
+  {
+    "word": "homesick",
+    "phonetic": "/ˈhəʊmˌsɪk/",
+    "grade": "10th-grade",
+    "unit": "Unit 2",
+    "label": ["外研社"],
+    "definitions": [
+      "feeling sadness and longing for home and family",
+      "missing familiar places and people from one's home",
+      "experiencing emotional distress from being away from home"
+    ]
+  },
+  {
+    "word": "opposing",
+    "phonetic": "/əˈpəʊzɪŋ/",
+    "grade": "10th-grade",
+    "unit": "Unit 2",
+    "label": ["外研社"],
+    "definitions": [
+      "being in conflict or disagreement with something else",
+      "standing or positioned on the opposite side",
+      "expressing dissent or resistance to an idea or proposal"
+    ]
+  },
+  {
+    "word": "behavior",
+    "phonetic": "/bɪˈheɪvjə/",
+    "grade": "10th-grade",
+    "unit": "Unit 2",
+    "label": ["外研社"],
+    "definitions": [
+      "the way a person or animal acts or conducts themselves",
+      "observable actions of a person in response to stimuli",
+      "patterns of conduct that characterize an individual or group"
+    ]
+  },
+  {
+    "word": "confusing",
+    "phonetic": "/kənˈfjuːzɪŋ/",
+    "grade": "10th-grade",
+    "unit": "Unit 2",
+    "label": ["外研社"],
+    "definitions": [
+      "causing bewilderment or difficulty in understanding",
+      "lacking clarity or coherence, making comprehension difficult",
+      "tending to perplex or puzzle someone"
+    ]
+  },
+  {
+    "word": "capitalized",
+    "phonetic": "/ˈkæpɪtlaɪzd/",
+    "grade": "10th-grade",
+    "unit": "Unit 2",
+    "label": ["外研社"],
+    "definitions": [
+      "written with the first letter of a word in uppercase",
+      "converted to the monetary value or profit of an asset",
+      "expressed in terms of capital letters or financial value"
+    ]
+  },
+  {
+    "word": "unique",
+    "phonetic": "/juːˈniːk/",
+    "grade": "10th-grade",
+    "unit": "Unit 2",
+    "label": ["外研社"],
+    "definitions": [
+      "being the only one of its kind; unlike anything else",
+      "remarkably distinctive or exceptional in character",
+      "having no like or equal; unparalleled"
+    ]
+  },
+  {
+    "word": "burn up",
+    "grade": "10th-grade",
+    "unit": "Unit 2",
+    "label": ["外研社"],
+    "definitions": [
+      "to be consumed by fire or heat",
+      "to destroy something completely by fire",
+      "to become extremely hot or inflamed"
+    ]
+  },
+  {
+    "word": "burn down",
+    "grade": "10th-grade",
+    "unit": "Unit 2",
+    "label": ["外研社"],
+    "definitions": [
+      "to be destroyed by fire, typically a building or structure",
+      "to consume a structure completely with flames",
+      "to reduce something to ashes through fire"
+    ]
+  },
+  {
+    "word": "alarm",
+    "phonetic": "/əˈlɑːm/",
+    "grade": "10th-grade",
+    "unit": "Unit 2",
+    "label": ["外研社"],
+    "definitions": [
+      "a device that emits a loud sound to warn of danger or an emergency",
+      "a feeling of anxiety or fear about a threatening situation",
+      "to cause someone to feel frightened or concerned"
+    ]
+  },
+  {
+    "word": "reflect",
+    "phonetic": "/rɪˈflekt/",
+    "grade": "10th-grade",
+    "unit": "Unit 2",
+    "label": ["外研社"],
+    "definitions": [
+      "to show or display something as an image or likeness",
+      "to think deeply or seriously about something",
+      "to bounce back light, sound, or heat from a surface"
+    ]
+  },
+  {
+    "word": "creativity",
+    "phonetic": "/ˌkriːeɪˈtɪvɪti/",
+    "grade": "10th-grade",
+    "unit": "Unit 2",
+    "label": ["外研社"],
+    "definitions": [
+      "the use of imagination or original ideas to create something",
+      "the ability to produce or imagine something new and valuable",
+      "innovative thinking that leads to original solutions"
+    ]
+  },
+  {
+    "word": "visible",
+    "phonetic": "/ˈvɪzɪb(ə)l/",
+    "grade": "10th-grade",
+    "unit": "Unit 2",
+    "label": ["外研社"],
+    "definitions": [
+      "able to be seen or perceived by the eye",
+      "obvious or noticeable to others",
+      "capable of being detected or observed"
+    ]
+  },
+  {
+    "word": "wind up",
+    "grade": "10th-grade",
+    "unit": "Unit 2",
+    "label": ["外研社"],
+    "definitions": [
+      "to tighten a spring mechanism by turning a key or knob",
+      "to bring something to a conclusion or end",
+      "to result in a particular outcome or situation"
+    ]
+  },
+  {
+    "word": "creative",
+    "phonetic": "/kriˈeɪtɪv/",
+    "grade": "10th-grade",
+    "unit": "Unit 2",
+    "label": ["外研社"],
+    "definitions": [
+      "having the ability to create or invent new things",
+      "characterized by originality and imagination",
+      "relating to or involving the use of imagination or innovation"
+    ]
+  },
+  {
+    "word": "type",
+    "phonetic": "/taɪp/",
+    "grade": "10th-grade",
+    "unit": "Unit 2",
+    "label": ["外研社"],
+    "definitions": [
+      "a category or classification of people or things with shared characteristics",
+      "to write on a keyboard or typewriter",
+      "a particular form or variety of something"
+    ]
+  },
+  {
+    "word": "subway",
+    "phonetic": "/ˈsʌbweɪ/",
+    "grade": "10th-grade",
+    "unit": "Unit 2",
+    "label": ["外研社"],
+    "definitions": [
+      "an underground railway system in a city",
+      "a pedestrian tunnel under a road or railway",
+      "a passage beneath the surface of a street for pedestrians"
+    ]
+  },
+  {
+    "word": "highway",
+    "phonetic": "/ˈhaɪweɪ/",
+    "grade": "10th-grade",
+    "unit": "Unit 2",
+    "label": ["外研社"],
+    "definitions": [
+      "a main road connecting towns and cities",
+      "a public road especially designed for fast traffic",
+      "a major route for transportation between cities"
+    ]
+  },
+  {
+    "word": "motorway",
+    "phonetic": "/ˈməʊtəweɪ/",
+    "grade": "10th-grade",
+    "unit": "Unit 2",
+    "label": ["外研社"],
+    "definitions": [
+      "a long, wide road designed for fast-moving traffic",
+      "a major highway with multiple lanes and controlled access",
+      "a high-speed road restricted to motor vehicles"
+    ]
+  },
+  {
+    "word": "gas",
+    "phonetic": "/ɡæs/",
+    "grade": "10th-grade",
+    "unit": "Unit 2",
+    "label": ["外研社"],
+    "definitions": [
+      "a fuel in liquid form used especially for cars",
+      "a state of matter that expands to fill its container",
+      "a substance in the gaseous state, especially oxygen or hydrogen"
+    ]
+  },
+  {
+    "word": "petrol",
+    "phonetic": "/ˈpetrəl/",
+    "grade": "10th-grade",
+    "unit": "Unit 2",
+    "label": ["外研社"],
+    "definitions": [
+      "a fuel derived from petroleum used in internal combustion engines",
+      "gasoline used to power motor vehicles",
+      "a volatile liquid hydrocarbon mixture used as fuel"
+    ]
+  },
+  {
+    "word": "apartment",
+    "phonetic": "/əˈpɑːtmənt/",
+    "grade": "10th-grade",
+    "unit": "Unit 2",
+    "label": ["外研社"],
+    "definitions": [
+      "a suite of rooms for living in, usually on one floor of a building",
+      "a residential unit in a building with separate living quarters",
+      "a set of rooms for living in, typically on one level"
+    ]
+  },
+  {
+    "word": "flat",
+    "phonetic": "/flæt/",
+    "grade": "10th-grade",
+    "unit": "Unit 2",
+    "label": ["外研社"],
+    "definitions": [
+      "a set of rooms for living in, especially on one floor of a building",
+      "an apartment, particularly in British English",
+      "a level of a building that contains living accommodation"
+    ]
+  },
+  {
+    "word": "elevator",
+    "phonetic": "/ˈelɪveɪtə/",
+    "grade": "10th-grade",
+    "unit": "Unit 2",
+    "label": ["外研社"],
+    "definitions": [
+      "a platform or compartment housed in a shaft for raising and lowering people",
+      "a mechanical device for moving people between floors of a building",
+      "a vertical transport equipment that moves people or goods up and down"
+    ]
+  },
+  {
+    "word": "context",
+    "phonetic": "/ˈkɒntekst/",
+    "grade": "10th-grade",
+    "unit": "Unit 2",
+    "label": ["外研社"],
+    "definitions": [
+      "the circumstances that form the setting for an event or idea",
+      "the words surrounding a particular phrase that determine its meaning",
+      "the situation within which something exists or occurs"
+    ]
+  },
+  {
+    "word": "addition",
+    "phonetic": "/əˈdɪʃ(ə)n/",
+    "grade": "10th-grade",
+    "unit": "Unit 2",
+    "label": ["外研社"],
+    "definitions": [
+      "the process of adding one number to another",
+      "something that is added to something else",
+      "the act or process of joining or adding things together"
+    ]
+  },
+  {
+    "word": "forum",
+    "phonetic": "/ˈfɔːrəm/",
+    "grade": "10th-grade",
+    "unit": "Unit 2",
+    "label": ["外研社"],
+    "definitions": [
+      "a place, meeting, or medium where ideas and views on a topic are exchanged",
+      "an online discussion site where users post messages about topics",
+      "a public square or marketplace used for meetings and discussions"
+    ]
+  },
+  {
+    "word": "resource",
+    "phonetic": "/rɪˈzɔːs/",
+    "grade": "10th-grade",
+    "unit": "Unit 2",
+    "label": ["外研社"],
+    "definitions": [
+      "a stock or supply of materials or assets that can be drawn on",
+      "a source of information or assistance that can be used",
+      "available means that can be used for achieving a purpose"
+    ]
+  },
+  {
+    "word": "misadventure",
+    "phonetic": "/ˌmɪsədˈventʃə/",
+    "grade": "10th-grade",
+    "unit": "Unit 2",
+    "label": ["外研社"],
+    "definitions": [
+      "an unfortunate incident or accident",
+      "a mishap or unlucky occurrence resulting in harm",
+      "an unlucky or dangerous experience"
+    ]
+  },
+  {
+    "word": "remind",
+    "phonetic": "/rɪˈmaɪnd/",
+    "grade": "10th-grade",
+    "unit": "Unit 2",
+    "label": ["外研社"],
+    "definitions": [
+      "to cause someone to remember something",
+      "to make someone think of something similar",
+      "to prompt someone to do something they might forget"
+    ]
+  },
+  {
+    "word": "rather",
+    "phonetic": "/ˈrɑːðə/",
+    "grade": "10th-grade",
+    "unit": "Unit 2",
+    "label": ["外研社"],
+    "definitions": [
+      "to a fairly high degree or extent",
+      "more accurately or more exactly",
+      "used to indicate preference or as a substitute for something else"
+    ]
+  },
+  {
+    "word": "comment",
+    "phonetic": "/ˈkɒment/",
+    "grade": "10th-grade",
+    "unit": "Unit 2",
+    "label": ["外研社"],
+    "definitions": [
+      "a verbal or written remark expressing an opinion",
+      "to make a remark or statement about something",
+      "an observation or opinion offered in speech or writing"
+    ]
+  },
+  {
+    "word": "frog",
+    "phonetic": "/frɒɡ/",
+    "grade": "10th-grade",
+    "unit": "Unit 2",
+    "label": ["外研社"],
+    "definitions": [
+      "a tailless amphibian with long hind legs for jumping",
+      "a small green or brown amphibian that lives near water",
+      "an aquatic amphibian that undergoes metamorphosis from tadpole"
+    ]
+  },
+  {
+    "word": "throat",
+    "phonetic": "/θrəʊt/",
+    "grade": "10th-grade",
+    "unit": "Unit 2",
+    "label": ["外研社"],
+    "definitions": [
+      "the passage in the neck through which food and air pass",
+      "the front part of the neck below the chin",
+      "the opening in the neck that connects the mouth to the esophagus"
+    ]
+  },
+  {
+    "word": "have a frog in one's throat",
+    "grade": "10th-grade",
+    "unit": "Unit 2",
+    "label": ["外研社"],
+    "definitions": [
+      "to have difficulty speaking because of a sore throat",
+      "to speak with a hoarse voice due to throat irritation",
+      "to experience temporary loss of voice from throat discomfort"
+    ]
+  },
+  {
+    "word": "downtown",
+    "phonetic": "/ˌdaʊnˈtaʊn/",
+    "grade": "10th-grade",
+    "unit": "Unit 2",
+    "label": ["外研社"],
+    "definitions": [
+      "the central or main business district of a city",
+      "the commercial center of a town or city",
+      "the area of a city where businesses and shops are concentrated"
+    ]
+  },
+  {
+    "word": "boot",
+    "phonetic": "/buːt/",
+    "grade": "10th-grade",
+    "unit": "Unit 2",
+    "label": ["外研社"],
+    "definitions": [
+      "a type of footwear that covers the foot and ankle",
+      "a protective covering for the foot extending above the ankle",
+      "a sturdy shoe that covers the whole foot and part of the leg"
+    ]
+  },
+  {
+    "word": "entrance",
+    "phonetic": "/ˈentrəns/",
+    "grade": "10th-grade",
+    "unit": "Unit 2",
+    "label": ["外研社"],
+    "definitions": [
+      "the point or means of access to a place",
+      "a door, gate, or passage allowing entry to a building",
+      "the act of entering or going into a place"
+    ]
+  },
+  {
+    "word": "section",
+    "phonetic": "/ˈsekʃ(ə)n/",
+    "grade": "10th-grade",
+    "unit": "Unit 2",
+    "label": ["外研社"],
+    "definitions": [
+      "a distinct part of something larger",
+      "a subdivision of a written work or document",
+      "an area or portion that is separated from others"
+    ]
+  },
+  {
+    "word": "exit",
+    "phonetic": "/ˈeɡzɪt/",
+    "grade": "10th-grade",
+    "unit": "Unit 2",
+    "label": ["外研社"],
+    "definitions": [
+      "a way out of a building, room, or vehicle",
+      "a door or passage used to leave a place",
+      "the action of going out of or leaving a place"
+    ]
+  },
+  {
+    "word": "actually",
+    "phonetic": "/ˈæktʃuəli/",
+    "grade": "10th-grade",
+    "unit": "Unit 2",
+    "label": ["外研社"],
+    "definitions": [
+      "as opposed to what is expected or supposed",
+      "in fact or in reality",
+      "used to emphasize the truth or accuracy of a statement"
+    ]
+  },
+  {
+    "word": "downstairs",
+    "phonetic": "/ˌdaʊnˈsteəz/",
+    "grade": "10th-grade",
+    "unit": "Unit 2",
+    "label": ["外研社"],
+    "definitions": [
+      "on or at a lower floor of a building",
+      "toward or on the ground floor or a lower level",
+      "in a downward direction within a building"
+    ]
+  },
+  {
+    "word": "wicked",
+    "phonetic": "/ˈwɪkɪd/",
+    "grade": "10th-grade",
+    "unit": "Unit 2",
+    "label": ["外研社"],
+    "definitions": [
+      "evil or morally wrong in principle or practice",
+      "deliberately harmful or malicious in intent",
+      "excellent or wonderful (informal usage)"
+    ]
+  },
+  {
+    "word": "odd",
+    "phonetic": "/ɒd/",
+    "grade": "10th-grade",
+    "unit": "Unit 2",
+    "label": ["外研社"],
+    "definitions": [
+      "different from what is usual or expected; strange",
+      "not divisible by two evenly",
+      "left over after the rest has been used or dealt with"
+    ]
+  },
+  {
+    "word": "negative",
+    "phonetic": "/ˈneɡətɪv/",
+    "grade": "10th-grade",
+    "unit": "Unit 2",
+    "label": ["外研社"],
+    "definitions": [
+      "expressing or showing disapproval or pessimism",
+      "having a value less than zero in mathematics",
+      "denying or contradicting a statement or proposition"
+    ]
+  },
+  {
+    "word": "positive",
+    "phonetic": "/ˈpɒzɪtɪv/",
+    "grade": "10th-grade",
+    "unit": "Unit 2",
+    "label": ["外研社"],
+    "definitions": [
+      "showing confidence or optimism about the future",
+      "indicating the presence of a substance or condition",
+      "greater than zero in mathematical terms"
+    ]
+  },
+  {
+    "word": "error",
+    "phonetic": "/ˈerə/",
+    "grade": "10th-grade",
+    "unit": "Unit 2",
+    "label": ["外研社"],
+    "definitions": [
+      "a mistake or incorrect action or calculation",
+      "a deviation from accuracy or correctness",
+      "a false belief or wrong judgment"
+    ]
+  },
+  {
+    "word": "intend",
+    "phonetic": "/ɪnˈtend/",
+    "grade": "10th-grade",
+    "unit": "Unit 2",
+    "label": ["外研社"],
+    "definitions": [
+      "to have a plan or purpose in mind",
+      "to mean or plan to do something",
+      "to aim or direct one's efforts toward achieving something"
+    ]
+  },
+  {
+    "word": "informal",
+    "phonetic": "/ɪnˈfɔːm(ə)l/",
+    "grade": "10th-grade",
+    "unit": "Unit 2",
+    "label": ["外研社"],
+    "definitions": [
+      "relaxed and casual in style or manner",
+      "not following conventional or official standards",
+      "suitable for ordinary situations rather than formal occasions"
+    ]
+  },
+  {
+    "word": "recognise",
+    "phonetic": "/ˈrekəɡnaɪz/",
+    "grade": "10th-grade",
+    "unit": "Unit 2",
+    "label": ["外研社"],
+    "definitions": [
+      "to identify someone or something from having encountered them before",
+      "to acknowledge the existence or validity of something",
+      "to perceive or detect something familiar"
+    ]
+  },
+  {
+    "word": "base",
+    "phonetic": "/beɪs/",
+    "grade": "10th-grade",
+    "unit": "Unit 2",
+    "label": ["外研社"],
+    "definitions": [
+      "to establish something on a particular foundation or principle",
+      "to use something as a foundation for development or justification",
+      "to form the starting point or foundation of something"
+    ]
+  },
+  {
+    "word": "aware",
+    "phonetic": "/əˈweə/",
+    "grade": "10th-grade",
+    "unit": "Unit 2",
+    "label": ["外研社"],
+    "definitions": [
+      "having knowledge or perception of a situation or fact",
+      "conscious of and paying attention to something",
+      "realizing and understanding a particular situation"
+    ]
+  },
+  {
+    "word": "be aware of",
+    "grade": "10th-grade",
+    "unit": "Unit 2",
+    "label": ["外研社"],
+    "definitions": [
+      "to know or realize that something exists or is happening",
+      "to have knowledge or understanding of something",
+      "to perceive or recognize the presence of something"
     ]
   }
 ]
