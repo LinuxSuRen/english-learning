@@ -3221,5 +3221,874 @@
       "in fact or reality; truly",
       "used to confirm or agree with a previous statement"
     ]
+  },
+  {
+    "word": "forever",
+    "phonetic": "/fərˈevə/",
+    "grade": "10th-grade",
+    "unit": "Unit 4",
+    "label": ["外研社"],
+    "definitions": [
+      "for all future time; eternally",
+      "continuously or endlessly into the future",
+      "always and at all times; perpetually"
+    ]
+  },
+  {
+    "word": "familiar",
+    "phonetic": "/fəˈmɪliə/",
+    "grade": "10th-grade",
+    "unit": "Unit 4",
+    "label": ["外研社"],
+    "definitions": [
+      "well known from long or close association",
+      "recognized or easily recognized from previous experience",
+      "having knowledge or experience of something"
+    ]
+  },
+  {
+    "word": "adventure",
+    "phonetic": "/ədˈventʃə/",
+    "grade": "10th-grade",
+    "unit": "Unit 4",
+    "label": ["外研社"],
+    "definitions": [
+      "an exciting or unusual experience or activity",
+      "a bold, usually risky undertaking; a hazardous action",
+      "an enterprise involving danger, risk, and uncertainty"
+    ]
+  },
+  {
+    "word": "prefer",
+    "phonetic": "/prɪˈfɜː/",
+    "grade": "10th-grade",
+    "unit": "Unit 4",
+    "label": ["外研社"],
+    "definitions": [
+      "to like one thing or person better than another",
+      "to choose or favor something over other alternatives",
+      "to have a greater liking for something compared to something else"
+    ]
+  },
+  {
+    "word": "click",
+    "phonetic": "/klɪk/",
+    "grade": "10th-grade",
+    "unit": "Unit 4",
+    "label": ["外研社"],
+    "definitions": [
+      "to press a button on a computer mouse to select something",
+      "to make or cause to make a short, sharp sound",
+      "to suddenly become clear or understood"
+    ]
+  },
+  {
+    "word": "lose track of",
+    "grade": "10th-grade",
+    "unit": "Unit 4",
+    "label": ["外研社"],
+    "definitions": [
+      "to stop being aware of someone or something's situation",
+      "to no longer know what is happening with someone or something",
+      "to be unable to follow or monitor the progress or status of something"
+    ]
+  },
+  {
+    "word": "deliver",
+    "phonetic": "/dɪˈlɪvə/",
+    "grade": "10th-grade",
+    "unit": "Unit 4",
+    "label": ["外研社"],
+    "definitions": [
+      "to take goods, letters, or packages to a particular destination",
+      "to give a speech or perform in front of an audience",
+      "to make something available or achieve a desired result"
+    ]
+  },
+  {
+    "word": "thanks to",
+    "grade": "10th-grade",
+    "unit": "Unit 4",
+    "label": ["外研社"],
+    "definitions": [
+      "because of someone or something; due to",
+      "as a result of something, typically something positive",
+      "with gratitude or appreciation for someone's contribution"
+    ]
+  },
+  {
+    "word": "advance",
+    "phonetic": "/ədˈvɑːns/",
+    "grade": "10th-grade",
+    "unit": "Unit 4",
+    "label": ["外研社"],
+    "definitions": [
+      "forward movement or motion; progression",
+      "an improvement or development in knowledge or technique",
+      "to move forward in position or time"
+    ]
+  },
+  {
+    "word": "significantly",
+    "phonetic": "/sɪɡˈnɪfɪkəntli/",
+    "grade": "10th-grade",
+    "unit": "Unit 4",
+    "label": ["外研社"],
+    "definitions": [
+      "to a great extent or degree; considerably",
+      "in a way that is worthy of attention or important",
+      "in a notable or substantial manner"
+    ]
+  },
+  {
+    "word": "social media",
+    "grade": "10th-grade",
+    "unit": "Unit 4",
+    "label": ["外研社"],
+    "definitions": [
+      "websites and applications that enable users to create and share content",
+      "online platforms that allow people to interact and exchange information",
+      "digital technologies that facilitate social networking and communication"
+    ]
+  },
+  {
+    "word": "maintain",
+    "phonetic": "/meɪnˈteɪn/",
+    "grade": "10th-grade",
+    "unit": "Unit 4",
+    "label": ["外研社"],
+    "definitions": [
+      "to keep something in good condition or working order",
+      "to continue to have or do something regularly",
+      "to assert or affirm something as true or correct"
+    ]
+  },
+  {
+    "word": "wi-fi",
+    "phonetic": "/ˈwaɪ faɪ/",
+    "grade": "10th-grade",
+    "unit": "Unit 4",
+    "label": ["外研社"],
+    "definitions": [
+      "a wireless network technology that allows devices to connect to the internet",
+      "wireless networking technology enabling high-speed internet access",
+      "a system for connecting electronic devices to a local area network wirelessly"
+    ]
+  },
+  {
+    "word": "digital",
+    "phonetic": "/ˈdɪdʒɪtl/",
+    "grade": "10th-grade",
+    "unit": "Unit 4",
+    "label": ["外研社"],
+    "definitions": [
+      "relating to or using computer technology that processes information",
+      "expressed in the form of discrete numerical values",
+      "pertaining to electronic devices that process data in binary code"
+    ]
+  },
+  {
+    "word": "enable",
+    "phonetic": "/ɪˈneɪb(ə)l/",
+    "grade": "10th-grade",
+    "unit": "Unit 4",
+    "label": ["外研社"],
+    "definitions": [
+      "to make someone able to do something; to give someone the means or opportunity",
+      "to provide the necessary conditions for something to happen",
+      "to empower or authorize someone to take action"
+    ]
+  },
+  {
+    "word": "unusual",
+    "phonetic": "/ʌnˈjuːʒuəl/",
+    "grade": "10th-grade",
+    "unit": "Unit 4",
+    "label": ["外研社"],
+    "definitions": [
+      "not habitually or commonly occurring or done",
+      "different from what is typical or normal",
+      "exceptional or remarkable in nature or degree"
+    ]
+  },
+  {
+    "word": "site",
+    "phonetic": "/saɪt/",
+    "grade": "10th-grade",
+    "unit": "Unit 4",
+    "label": ["外研社"],
+    "definitions": [
+      "a location or place, especially for construction or events",
+      "a website on the internet",
+      "an area where something is situated or can be built"
+    ]
+  },
+  {
+    "word": "tend",
+    "phonetic": "/tend/",
+    "grade": "10th-grade",
+    "unit": "Unit 4",
+    "label": ["外研社"],
+    "definitions": [
+      "to be likely to behave in a particular way or have a certain characteristic",
+      "to regularly care for someone who is sick, elderly, or in need",
+      "to move in a specified direction or manner"
+    ]
+  },
+  {
+    "word": "update",
+    "phonetic": "/ˈʌpdeɪt/",
+    "grade": "10th-grade",
+    "unit": "Unit 4",
+    "label": ["外研社"],
+    "definitions": [
+      "to make something more modern or current with new information",
+      "the latest news or information about a situation",
+      "to provide someone with the most recent information"
+    ]
+  },
+  {
+    "word": "saying",
+    "phonetic": "/ˈseɪ-ɪŋ/",
+    "grade": "10th-grade",
+    "unit": "Unit 4",
+    "label": ["外研社"],
+    "definitions": [
+      "a short, memorable phrase that expresses wisdom or truth",
+      "a traditional phrase or proverb that offers advice",
+      "a pithy expression that conveys practical knowledge"
+    ]
+  },
+  {
+    "word": "criminal",
+    "phonetic": "/ˈkrɪmɪn(ə)l/",
+    "grade": "10th-grade",
+    "unit": "Unit 4",
+    "label": ["外研社"],
+    "definitions": [
+      "a person who has committed a crime or offense",
+      "relating to illegal activities or crimes",
+      "morally wrong or evil in nature or character"
+    ]
+  },
+  {
+    "word": "bathwater",
+    "phonetic": "/ˈbɑːθˌwɔːtə/",
+    "grade": "10th-grade",
+    "unit": "Unit 4",
+    "label": ["外研社"],
+    "definitions": [
+      "water used for bathing or washing the body",
+      "water that has been heated for use in a bathtub",
+      "used bath water, typically considered waste water"
+    ]
+  },
+  {
+    "word": "throw the baby out with the bathwater",
+    "grade": "10th-grade",
+    "unit": "Unit 4",
+    "label": ["外研社"],
+    "definitions": [
+      "to discard something valuable along with something unwanted",
+      "to get rid of good things when trying to eliminate bad things",
+      "to reject everything indiscriminately when only part is undesirable"
+    ]
+  },
+  {
+    "word": "acquire",
+    "phonetic": "/əˈkwaɪə/",
+    "grade": "10th-grade",
+    "unit": "Unit 4",
+    "label": ["外研社"],
+    "definitions": [
+      "to gain or obtain something through one's own efforts or actions",
+      "to come into possession or ownership of something",
+      "to develop or learn a skill or habit over time"
+    ]
+  },
+  {
+    "word": "goods",
+    "phonetic": "/ɡʊdz/",
+    "grade": "10th-grade",
+    "unit": "Unit 4",
+    "label": ["外研社"],
+    "definitions": [
+      "items that are produced to be sold or traded",
+      "personal possessions or belongings",
+      "merchandise or products available for purchase"
+    ]
+  },
+  {
+    "word": "prove",
+    "phonetic": "/pruːv/",
+    "grade": "10th-grade",
+    "unit": "Unit 4",
+    "label": ["外研社"],
+    "definitions": [
+      "to demonstrate the truth or existence of something by evidence",
+      "to show or establish something conclusively",
+      "to test or try the truth or validity of something"
+    ]
+  },
+  {
+    "word": "illustrate",
+    "phonetic": "/ˈɪləstreɪt/",
+    "grade": "10th-grade",
+    "unit": "Unit 4",
+    "label": ["外研社"],
+    "definitions": [
+      "to explain or make something clear by using examples or diagrams",
+      "to provide pictures or drawings for a book or publication",
+      "to serve as an example or illustration of something"
+    ]
+  },
+  {
+    "word": "diagram",
+    "phonetic": "/ˈdaɪəɡræm/",
+    "grade": "10th-grade",
+    "unit": "Unit 4",
+    "label": ["外研社"],
+    "definitions": [
+      "a simplified drawing showing the appearance or structure of something",
+      "a graphical representation of relationships between parts",
+      "a chart or plan that explains or clarifies information"
+    ]
+  },
+  {
+    "word": "inspiring",
+    "phonetic": "/ɪnˈspaɪərɪŋ/",
+    "grade": "10th-grade",
+    "unit": "Unit 4",
+    "label": ["外研社"],
+    "definitions": [
+      "filling someone with the urge or ability to do or feel something",
+      "motivating or encouraging someone to achieve goals",
+      "stimulating or awakening creative or intellectual activity"
+    ]
+  },
+  {
+    "word": "teenager",
+    "phonetic": "/ˈtiːneɪdʒə/",
+    "grade": "10th-grade",
+    "unit": "Unit 4",
+    "label": ["外研社"],
+    "definitions": [
+      "a person aged between 13 and 19 years old",
+      "a young person in their teenage years",
+      "an adolescent transitioning from childhood to adulthood"
+    ]
+  },
+  {
+    "word": "pour",
+    "phonetic": "/pɔː/",
+    "grade": "10th-grade",
+    "unit": "Unit 4",
+    "label": ["外研社"],
+    "definitions": [
+      "to cause liquid to flow from a container",
+      "to move or fall rapidly in a continuous stream",
+      "to give or provide something abundantly"
+    ]
+  },
+  {
+    "word": "pot",
+    "phonetic": "/pɒt/",
+    "grade": "10th-grade",
+    "unit": "Unit 4",
+    "label": ["外研社"],
+    "definitions": [
+      "a container, typically made of clay or metal, used for cooking",
+      "a vessel for storing or cooking food",
+      "a small container for plants"
+    ]
+  },
+  {
+    "word": "gram",
+    "phonetic": "/ɡræm/",
+    "grade": "10th-grade",
+    "unit": "Unit 4",
+    "label": ["外研社"],
+    "definitions": [
+      "a metric unit of mass equal to one-thousandth of a kilogram",
+      "a unit for measuring weight in the metric system",
+      "one-thousandth of a kilogram in the International System of Units"
+    ]
+  },
+  {
+    "word": "pack",
+    "phonetic": "/pæk/",
+    "grade": "10th-grade",
+    "unit": "Unit 4",
+    "label": ["外研社"],
+    "definitions": [
+      "a small cardboard container filled with product for sale",
+      "to put items into containers or bags for storage or transport",
+      "a group of animals or people acting together"
+    ]
+  },
+  {
+    "word": "comfort",
+    "phonetic": "/ˈkʌmfət/",
+    "grade": "10th-grade",
+    "unit": "Unit 4",
+    "label": ["外研社"],
+    "definitions": [
+      "a feeling of physical ease and relaxation",
+      "something that provides consolation or solace",
+      "to give emotional support or reassurance"
+    ]
+  },
+  {
+    "word": "patience",
+    "phonetic": "/ˈpeɪʃ(ə)ns/",
+    "grade": "10th-grade",
+    "unit": "Unit 4",
+    "label": ["外研社"],
+    "definitions": [
+      "the capacity to accept or tolerate delay, problems, or suffering",
+      "the ability to remain calm and not become annoyed",
+      "perseverance in the face of frustration or difficulty"
+    ]
+  },
+  {
+    "word": "passion",
+    "phonetic": "/ˈpæʃ(ə)n/",
+    "grade": "10th-grade",
+    "unit": "Unit 4",
+    "label": ["外研社"],
+    "definitions": [
+      "strong and intense emotion or feeling",
+      "a strong liking or enthusiasm for something",
+      "intense sexual desire or attraction"
+    ]
+  },
+  {
+    "word": "generosity",
+    "phonetic": "/ˌdʒenəˈrɒsɪti/",
+    "grade": "10th-grade",
+    "unit": "Unit 4",
+    "label": ["外研社"],
+    "definitions": [
+      "the quality of being kind and generous",
+      "willingness to give more than is expected or required",
+      "liberality in giving gifts or money to others"
+    ]
+  },
+  {
+    "word": "slice",
+    "phonetic": "/slaɪs/",
+    "grade": "10th-grade",
+    "unit": "Unit 4",
+    "label": ["外研社"],
+    "definitions": [
+      "a thin flat piece cut from something",
+      "to cut something into thin flat pieces",
+      "a portion or share of something larger"
+    ]
+  },
+  {
+    "word": "humour",
+    "phonetic": "/ˈhjuːmə/",
+    "grade": "10th-grade",
+    "unit": "Unit 4",
+    "label": ["外研社"],
+    "definitions": [
+      "the ability to be amusing or comic",
+      "a mood or state of mind; spirit",
+      "the quality of being funny or amusing"
+    ]
+  },
+  {
+    "word": "quality",
+    "phonetic": "/ˈkwɒlɪti/",
+    "grade": "10th-grade",
+    "unit": "Unit 4",
+    "label": ["外研社"],
+    "definitions": [
+      "a distinctive attribute or characteristic of something",
+      "the standard of something compared to others of the same type",
+      "a characteristic or trait that someone or something possesses"
+    ]
+  },
+  {
+    "word": "anxious",
+    "phonetic": "/ˈæŋkʃəs/",
+    "grade": "10th-grade",
+    "unit": "Unit 4",
+    "label": ["外研社"],
+    "definitions": [
+      "feeling worried, nervous, or uneasy about something",
+      "eagerly desirous or concerned about something",
+      "characterized by excessive uneasiness and apprehension"
+    ]
+  },
+  {
+    "word": "postpone",
+    "phonetic": "/pəʊsˈpəʊn/",
+    "grade": "10th-grade",
+    "unit": "Unit 4",
+    "label": ["外研社"],
+    "definitions": [
+      "to delay or defer something until a later time",
+      "to put off or reschedule an event or appointment",
+      "to move to a later date or time"
+    ]
+  },
+  {
+    "word": "distance",
+    "phonetic": "/ˈdɪstəns/",
+    "grade": "10th-grade",
+    "unit": "Unit 4",
+    "label": ["外研社"],
+    "definitions": [
+      "the amount of space between two places or things",
+      "to keep oneself apart from someone or something emotionally",
+      "an area or stretch of space between two points"
+    ]
+  },
+  {
+    "word": "ordinary",
+    "phonetic": "/ˈɔːd(ə)nəri/",
+    "grade": "10th-grade",
+    "unit": "Unit 4",
+    "label": ["外研社"],
+    "definitions": [
+      "normal or common; not exceptional or special",
+      "of a usual or familiar kind; everyday",
+      "lacking distinctive or special characteristics"
+    ]
+  },
+  {
+    "word": "scar",
+    "phonetic": "/skɑː/",
+    "grade": "10th-grade",
+    "unit": "Unit 4",
+    "label": ["外研社"],
+    "definitions": [
+      "a mark left on the skin after a wound has healed",
+      "to cause a lasting psychological or emotional injury",
+      "a permanent reminder of a traumatic experience"
+    ]
+  },
+  {
+    "word": "dine",
+    "phonetic": "/daɪn/",
+    "grade": "10th-grade",
+    "unit": "Unit 4",
+    "label": ["外研社"],
+    "definitions": [
+      "to eat dinner or have a meal, especially in the evening",
+      "to eat in a formal or leisurely manner",
+      "to take a meal, typically in a restaurant or at someone's home"
+    ]
+  },
+  {
+    "word": "chum",
+    "phonetic": "/tʃʌm/",
+    "grade": "10th-grade",
+    "unit": "Unit 4",
+    "label": ["外研社"],
+    "definitions": [
+      "a close friend or companion",
+      "to spend time with someone as a friend",
+      "a buddy or pal, especially a male friend"
+    ]
+  },
+  {
+    "word": "chap",
+    "phonetic": "/tʃæp/",
+    "grade": "10th-grade",
+    "unit": "Unit 4",
+    "label": ["外研社"],
+    "definitions": [
+      "a man or fellow, often used informally or familiarly",
+      "a guy or bloke, especially in British English",
+      "an informal term for a male person"
+    ]
+  },
+  {
+    "word": "fortune",
+    "phonetic": "/ˈfɔːtʃ(ə)n/",
+    "grade": "10th-grade",
+    "unit": "Unit 4",
+    "label": ["外研社"],
+    "definitions": [
+      "a large amount of money; wealth",
+      "chance or luck, especially regarded as determining one's circumstances",
+      "success or prosperity, especially in business"
+    ]
+  },
+  {
+    "word": "make one's fortune",
+    "grade": "10th-grade",
+    "unit": "Unit 4",
+    "label": ["外研社"],
+    "definitions": [
+      "to become wealthy or successful in business",
+      "to accumulate a large amount of money or wealth",
+      "to achieve financial success and prosperity"
+    ]
+  },
+  {
+    "word": "drag",
+    "phonetic": "/dræɡ/",
+    "grade": "10th-grade",
+    "unit": "Unit 4",
+    "label": ["外研社"],
+    "definitions": [
+      "to pull something along the ground or surface",
+      "to move something with effort or difficulty",
+      "to proceed tediously or with reluctance"
+    ]
+  },
+  {
+    "word": "ought to",
+    "grade": "10th-grade",
+    "unit": "Unit 4",
+    "label": ["外研社"],
+    "definitions": [
+      "used to indicate moral obligation or duty",
+      "should do something as a matter of propriety",
+      "expected or advisable to do something"
+    ]
+  },
+  {
+    "word": "destiny",
+    "phonetic": "/ˈdestɪni/",
+    "grade": "10th-grade",
+    "unit": "Unit 4",
+    "label": ["外研社"],
+    "definitions": [
+      "the predetermined course of events; fate",
+      "the ultimate purpose or aim for which someone or something exists",
+      "the events that will necessarily happen to someone in the future"
+    ]
+  },
+  {
+    "word": "correspond",
+    "phonetic": "/ˌkɒrɪˈspɒnd/",
+    "grade": "10th-grade",
+    "unit": "Unit 4",
+    "label": ["外研社"],
+    "definitions": [
+      "to communicate by exchanging letters or messages",
+      "to be equivalent or similar in nature or effect",
+      "to be in agreement or conformity with something else"
+    ]
+  },
+  {
+    "word": "proposition",
+    "phonetic": "/ˌprɒpəˈzɪʃ(ə)n/",
+    "grade": "10th-grade",
+    "unit": "Unit 4",
+    "label": ["外研社"],
+    "definitions": [
+      "a business venture or enterprise, especially a risky one",
+      "a suggestion or proposal for consideration",
+      "a statement that expresses a judgment or opinion"
+    ]
+  },
+  {
+    "word": "hustle",
+    "phonetic": "/ˈhʌs(ə)l/",
+    "grade": "10th-grade",
+    "unit": "Unit 4",
+    "label": ["外研社"],
+    "definitions": [
+      "to work energetically and with determination",
+      "to pressure someone into buying something",
+      "to move or act with urgency or haste"
+    ]
+  },
+  {
+    "word": "staunch",
+    "phonetic": "/stɔːntʃ/",
+    "grade": "10th-grade",
+    "unit": "Unit 4",
+    "label": ["外研社"],
+    "definitions": [
+      "loyal and committed to a principle, cause, or person",
+      "firm and unwavering in support or loyalty",
+      "steadfast and reliable in friendship or allegiance"
+    ]
+  },
+  {
+    "word": "partner",
+    "phonetic": "/ˈpɑːtnə/",
+    "grade": "10th-grade",
+    "unit": "Unit 4",
+    "label": ["外研社"],
+    "definitions": [
+      "a person who takes part in an activity with one or more others",
+      "a spouse or romantic companion",
+      "a business associate or collaborator"
+    ]
+  },
+  {
+    "word": "turn up",
+    "grade": "10th-grade",
+    "unit": "Unit 4",
+    "label": ["外研社"],
+    "definitions": [
+      "to appear or arrive, especially unexpectedly",
+      "to increase the volume or intensity of something",
+      "to fold the edge of a garment or fabric outward"
+    ]
+  },
+  {
+    "word": "excerpt",
+    "phonetic": "/ˈeksɜːpt/",
+    "grade": "10th-grade",
+    "unit": "Unit 4",
+    "label": ["外研社"],
+    "definitions": [
+      "a short extract or passage taken from a book or text",
+      "a passage selected from a longer work",
+      "a sample or fragment taken from a larger piece of writing"
+    ]
+  },
+  {
+    "word": "appointed",
+    "phonetic": "/əˈpɔɪntɪd/",
+    "grade": "10th-grade",
+    "unit": "Unit 4",
+    "label": ["外研社"],
+    "definitions": [
+      "selected or designated for a specific role or purpose",
+      "scheduled or arranged for a particular time or event",
+      "assigned to a position or duty by authority"
+    ]
+  },
+  {
+    "word": "strike",
+    "phonetic": "/straɪk/",
+    "grade": "10th-grade",
+    "unit": "Unit 4",
+    "label": ["外研社"],
+    "definitions": [
+      "to hit something forcefully with a weapon or hand",
+      "to ignite a match by rubbing it against a rough surface",
+      "to refuse to work as a form of organized protest"
+    ]
+  },
+  {
+    "word": "cigar",
+    "phonetic": "/sɪˈɡɑː/",
+    "grade": "10th-grade",
+    "unit": "Unit 4",
+    "label": ["外研社"],
+    "definitions": [
+      "a cylinder of tobacco rolled in tobacco leaf for smoking",
+      "a tightly rolled bundle of tobacco leaves smoked without a filter",
+      "a premium tobacco product typically enjoyed by adults"
+    ]
+  },
+  {
+    "word": "plain",
+    "phonetic": "/pleɪn/",
+    "grade": "10th-grade",
+    "unit": "Unit 4",
+    "label": ["外研社"],
+    "definitions": [
+      "simple or basic in appearance or design",
+      "clear and obvious; evident",
+      "an extensive area of flat land with few trees"
+    ]
+  },
+  {
+    "word": "scene",
+    "phonetic": "/siːn/",
+    "grade": "10th-grade",
+    "unit": "Unit 4",
+    "label": ["外研社"],
+    "definitions": [
+      "a view or prospect, typically of attractive countryside",
+      "a part of a play or film in which events occur in a specific setting",
+      "an incident or situation, especially one that is emotional or confrontational"
+    ]
+  },
+  {
+    "word": "bitterly",
+    "phonetic": "/ˈbɪtəli/",
+    "grade": "10th-grade",
+    "unit": "Unit 4",
+    "label": ["外研社"],
+    "definitions": [
+      "in a harsh, painful, or resentful manner",
+      "extremely or severely, especially in reference to cold weather",
+      "with intense anger, disappointment, or regret"
+    ]
+  },
+  {
+    "word": "ashamed",
+    "phonetic": "/əˈʃeɪmd/",
+    "grade": "10th-grade",
+    "unit": "Unit 4",
+    "label": ["外研社"],
+    "definitions": [
+      "embarrassed or guilty because of one's actions or character",
+      "feeling shame or dishonor due to something done or not done",
+      "experiencing a painful feeling of humiliation or regret"
+    ]
+  },
+  {
+    "word": "unfold",
+    "phonetic": "/ʌnˈfəʊld/",
+    "grade": "10th-grade",
+    "unit": "Unit 4",
+    "label": ["外研社"],
+    "definitions": [
+      "to open out or spread from a folded position",
+      "to gradually develop or reveal itself over time",
+      "to become known or revealed through disclosure"
+    ]
+  },
+  {
+    "word": "location",
+    "phonetic": "/ləʊˈkeɪʃ(ə)n/",
+    "grade": "10th-grade",
+    "unit": "Unit 4",
+    "label": ["外研社"],
+    "definitions": [
+      "a particular place or position",
+      "the place where something is situated or occurs",
+      "a point or area identified by specific coordinates"
+    ]
+  },
+  {
+    "word": "surroundings",
+    "phonetic": "/səˈraʊndɪŋz/",
+    "grade": "10th-grade",
+    "unit": "Unit 4",
+    "label": ["外研社"],
+    "definitions": [
+      "the conditions and objects by which one is surrounded",
+      "the physical environment or setting in which something exists",
+      "the area or neighborhood around a particular place"
+    ]
+  },
+  {
+    "word": "personality",
+    "phonetic": "/ˌpɜːsəˈnælɪti/",
+    "grade": "10th-grade",
+    "unit": "Unit 4",
+    "label": ["外研社"],
+    "definitions": [
+      "the combination of characteristics or qualities that form an individual",
+      "the quality of being a person; personal identity",
+      "a person's unique patterns of thought, feeling, and behavior"
+    ]
+  },
+  {
+    "word": "atmosphere",
+    "phonetic": "/ˈætməsfɪə/",
+    "grade": "10th-grade",
+    "unit": "Unit 4",
+    "label": ["外研社"],
+    "definitions": [
+      "the envelope of gases surrounding the earth or another planet",
+      "the mood or feeling in a place or situation",
+      "a distinctive quality or ambiance associated with a place"
+    ]
   }
 ]
