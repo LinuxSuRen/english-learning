@@ -2371,5 +2371,855 @@
       "to have knowledge or understanding of something",
       "to perceive or recognize the presence of something"
     ]
+  },
+  {
+    "word": "character",
+    "phonetic": "/ˈkærɪktə/",
+    "grade": "10th-grade",
+    "unit": "Unit 3",
+    "label": ["外研社"],
+    "definitions": [
+      "a person in a story, play, movie, or other narrative",
+      "the mental and moral qualities distinctive to an individual",
+      "a symbol used in writing or printing to represent a sound or value"
+    ]
+  },
+  {
+    "word": "approach",
+    "phonetic": "/əˈprəʊtʃ/",
+    "grade": "10th-grade",
+    "unit": "Unit 3",
+    "label": ["外研社"],
+    "definitions": [
+      "to move nearer to something or someone in distance or time",
+      "to deal with or handle a situation in a particular way",
+      "to come closer in space, time, or degree"
+    ]
+  },
+  {
+    "word": "chat",
+    "phonetic": "/tʃæt/",
+    "grade": "10th-grade",
+    "unit": "Unit 3",
+    "label": ["外研社"],
+    "definitions": [
+      "to talk in a friendly, informal way about things that are not serious",
+      "to engage in casual conversation for social purposes",
+      "to exchange messages informally, especially online"
+    ]
+  },
+  {
+    "word": "focus",
+    "phonetic": "/ˈfəʊkəs/",
+    "grade": "10th-grade",
+    "unit": "Unit 3",
+    "label": ["外研社"],
+    "definitions": [
+      "to concentrate attention or effort on something specific",
+      "the center point of interest or activity",
+      "to adjust a lens or device to make an image clear"
+    ]
+  },
+  {
+    "word": "career",
+    "phonetic": "/kəˈrɪə/",
+    "grade": "10th-grade",
+    "unit": "Unit 3",
+    "label": ["外研社"],
+    "definitions": [
+      "a profession or occupation chosen as one's life's work",
+      "a person's journey through learning, work, and other aspects of life",
+      "progress or advancement in one's professional life"
+    ]
+  },
+  {
+    "word": "lawyer",
+    "phonetic": "/ˈlɔːjə/",
+    "grade": "10th-grade",
+    "unit": "Unit 3",
+    "label": ["外研社"],
+    "definitions": [
+      "a person who practices or studies law, especially as a profession",
+      "a legal practitioner qualified to represent clients in court",
+      "someone who gives legal advice and assistance"
+    ]
+  },
+  {
+    "word": "assume",
+    "phonetic": "/əˈsjuːm/",
+    "grade": "10th-grade",
+    "unit": "Unit 3",
+    "label": ["外研社"],
+    "definitions": [
+      "to accept something as true without proof or evidence",
+      "to take on or begin to exercise a duty or responsibility",
+      "to suppose that something is the case"
+    ]
+  },
+  {
+    "word": "respect",
+    "phonetic": "/rɪˈspekt/",
+    "grade": "10th-grade",
+    "unit": "Unit 3",
+    "label": ["外研社"],
+    "definitions": [
+      "to feel admiration for someone because of their qualities or achievements",
+      "to show consideration for someone's feelings or rights",
+      "to hold or regard someone or something in high esteem"
+    ]
+  },
+  {
+    "word": "studio",
+    "phonetic": "/ˈstjuːdiəʊ/",
+    "grade": "10th-grade",
+    "unit": "Unit 3",
+    "label": ["外研社"],
+    "definitions": [
+      "a room where artists, photographers, or performers work",
+      "a facility for recording music or producing films and television programs",
+      "an apartment or room used for artistic work or teaching"
+    ]
+  },
+  {
+    "word": "court",
+    "phonetic": "/kɔːt/",
+    "grade": "10th-grade",
+    "unit": "Unit 3",
+    "label": ["外研社"],
+    "definitions": [
+      "a tribunal presided over by a judge to hear legal cases",
+      "an open area marked for ball games like tennis or basketball",
+      "a royal household headed by a sovereign"
+    ]
+  },
+  {
+    "word": "ignore",
+    "phonetic": "/ɪɡˈnɔː/",
+    "grade": "10th-grade",
+    "unit": "Unit 3",
+    "label": ["外研社"],
+    "definitions": [
+      "to pay no attention to something or someone intentionally",
+      "to disregard or fail to consider something important",
+      "to treat something as unimportant or irrelevant"
+    ]
+  },
+  {
+    "word": "professional",
+    "phonetic": "/prəˈfeʃ(ə)nəl/",
+    "grade": "10th-grade",
+    "unit": "Unit 3",
+    "label": ["外研社"],
+    "definitions": [
+      "relating to a paid occupation rather than an amateur pursuit",
+      "characterized by expert knowledge and competence",
+      "performed or produced according to the standards of a profession"
+    ]
+  },
+  {
+    "word": "suit",
+    "phonetic": "/suːt/",
+    "grade": "10th-grade",
+    "unit": "Unit 3",
+    "label": ["外研社"],
+    "definitions": [
+      "to be appropriate or proper for a particular person or thing",
+      "to match or coordinate with something else in appearance",
+      "to meet the needs or requirements of someone"
+    ]
+  },
+  {
+    "word": "talent",
+    "phonetic": "/ˈtælənt/",
+    "grade": "10th-grade",
+    "unit": "Unit 3",
+    "label": ["外研社"],
+    "definitions": [
+      "a natural aptitude or skill for something",
+      "an innate gift or ability to do something well",
+      "a person or persons with exceptional creative or intellectual abilities"
+    ]
+  },
+  {
+    "word": "option",
+    "phonetic": "/ˈɒpʃ(ə)n/",
+    "grade": "10th-grade",
+    "unit": "Unit 3",
+    "label": ["外研社"],
+    "definitions": [
+      "a thing that is or may be chosen",
+      "the ability or right to choose among alternatives",
+      "a course of action or strategy available to someone"
+    ]
+  },
+  {
+    "word": "sigh",
+    "phonetic": "/saɪ/",
+    "grade": "10th-grade",
+    "unit": "Unit 3",
+    "label": ["外研社"],
+    "definitions": [
+      "to emit a deep audible breath expressing sadness, relief, tiredness, etc.",
+      "to utter a sound expressing resignation or grief",
+      "to breathe deeply and heavily with emotion"
+    ]
+  },
+  {
+    "word": "curtain",
+    "phonetic": "/ˈkɜːtn/",
+    "grade": "10th-grade",
+    "unit": "Unit 3",
+    "label": ["外研社"],
+    "definitions": [
+      "a piece of fabric hung to cover a window or divide a room",
+      "a hanging drape used to conceal something from view",
+      "the ornamental cloth backdrop used on stages"
+    ]
+  },
+  {
+    "word": "generation",
+    "phonetic": "/ˌdʒenəˈreɪʃ(ə)n/",
+    "grade": "10th-grade",
+    "unit": "Unit 3",
+    "label": ["外研社"],
+    "definitions": [
+      "all the people born and living at about the same time",
+      "a stage in the continuing process of reproduction",
+      "the production of offspring or successors"
+    ]
+  },
+  {
+    "word": "gap",
+    "phonetic": "/ɡæp/",
+    "grade": "10th-grade",
+    "unit": "Unit 3",
+    "label": ["外研社"],
+    "definitions": [
+      "a break or hole in an object or between two objects",
+      "a difference or disparity between things that should be connected",
+      "an interval or opening between two things"
+    ]
+  },
+  {
+    "word": "currently",
+    "phonetic": "/ˈkʌrəntli/",
+    "grade": "10th-grade",
+    "unit": "Unit 3",
+    "label": ["外研社"],
+    "definitions": [
+      "at the present time or moment",
+      "at this time; now",
+      "presently; during the current period"
+    ]
+  },
+  {
+    "word": "regularly",
+    "phonetic": "/ˈreɡjʊləli/",
+    "grade": "10th-grade",
+    "unit": "Unit 3",
+    "label": ["外研社"],
+    "definitions": [
+      "at fixed intervals; often or repeatedly",
+      "according to a consistent pattern or schedule",
+      "in a uniform or consistent manner"
+    ]
+  },
+  {
+    "word": "responsible",
+    "phonetic": "/rɪˈspɒnsɪb(ə)l/",
+    "grade": "10th-grade",
+    "unit": "Unit 3",
+    "label": ["外研社"],
+    "definitions": [
+      "accountable for something within one's power or control",
+      "liable to be called to account for one's actions",
+      "worthy of trust or belief; reliable"
+    ]
+  },
+  {
+    "word": "memory",
+    "phonetic": "/ˈmem(ə)ri/",
+    "grade": "10th-grade",
+    "unit": "Unit 3",
+    "label": ["外研社"],
+    "definitions": [
+      "the faculty by which the mind stores and remembers information",
+      "something remembered from the past",
+      "the recollection of a past experience or information"
+    ]
+  },
+  {
+    "word": "nowadays",
+    "phonetic": "/ˈnaʊədeɪz/",
+    "grade": "10th-grade",
+    "unit": "Unit 3",
+    "label": ["外研社"],
+    "definitions": [
+      "in these modern times; currently",
+      "at the present time; today",
+      "in contrast to the past; in recent times"
+    ]
+  },
+  {
+    "word": "jaw",
+    "phonetic": "/dʒɔː/",
+    "grade": "10th-grade",
+    "unit": "Unit 3",
+    "label": ["外研社"],
+    "definitions": [
+      "the bone forming the upper or lower part of the mouth",
+      "the mouth or oral cavity",
+      "to chatter or talk persistently, especially in a scolding manner"
+    ]
+  },
+  {
+    "word": "beard",
+    "phonetic": "/bɪəd/",
+    "grade": "10th-grade",
+    "unit": "Unit 3",
+    "label": ["外研社"],
+    "definitions": [
+      "hair growing on the chin, cheeks, and lower lip of men",
+      "a growth of hair on the lower part of a man's face",
+      "to defy or confront boldly"
+    ]
+  },
+  {
+    "word": "skin",
+    "phonetic": "/skɪn/",
+    "grade": "10th-grade",
+    "unit": "Unit 3",
+    "label": ["外研社"],
+    "definitions": [
+      "the outer covering of the body of a person or animal",
+      "the fleshy outer covering of fruit or vegetables",
+      "to shed or remove the skin from something"
+    ]
+  },
+  {
+    "word": "jogging",
+    "phonetic": "/ˈdʒɒɡɪŋ/",
+    "grade": "10th-grade",
+    "unit": "Unit 3",
+    "label": ["外研社"],
+    "definitions": [
+      "the activity of running at a steady, gentle pace as a form of exercise",
+      "a form of aerobic exercise involving steady, rhythmic running",
+      "running slowly and steadily for fitness or pleasure"
+    ]
+  },
+  {
+    "word": "slim",
+    "phonetic": "/slɪm/",
+    "grade": "10th-grade",
+    "unit": "Unit 3",
+    "label": ["外研社"],
+    "definitions": [
+      "attractively thin in a neat, small way",
+      "having little flesh on the body; lean",
+      "to make or become smaller or narrower"
+    ]
+  },
+  {
+    "word": "cheek",
+    "phonetic": "/tʃiːk/",
+    "grade": "10th-grade",
+    "unit": "Unit 3",
+    "label": ["外研社"],
+    "definitions": [
+      "either side of the face below the eyes and beside the mouth",
+      "a disrespectful or impudent reply or act",
+      "to kiss someone on the cheek as a greeting or affection"
+    ]
+  },
+  {
+    "word": "nation",
+    "phonetic": "/ˈneɪʃ(ə)n/",
+    "grade": "10th-grade",
+    "unit": "Unit 3",
+    "label": ["外研社"],
+    "definitions": [
+      "a large body of people united by common descent, history, culture, or language",
+      "a country considered as a political entity",
+      "a community of people occupying a definite territory"
+    ]
+  },
+  {
+    "word": "aim",
+    "phonetic": "/eɪm/",
+    "grade": "10th-grade",
+    "unit": "Unit 3",
+    "label": ["外研社"],
+    "definitions": [
+      "to point or direct something at a target",
+      "to intend or plan to achieve something",
+      "to direct effort toward achieving a goal"
+    ]
+  },
+  {
+    "word": "issue",
+    "phonetic": "/ˈɪʃuː/",
+    "grade": "10th-grade",
+    "unit": "Unit 3",
+    "label": ["外研社"],
+    "definitions": [
+      "a topic or problem for discussion or debate",
+      "a matter that is in dispute or causes concern",
+      "to distribute or supply something officially"
+    ]
+  },
+  {
+    "word": "theme",
+    "phonetic": "/θiːm/",
+    "grade": "10th-grade",
+    "unit": "Unit 3",
+    "label": ["外研社"],
+    "definitions": [
+      "the subject or topic of a discourse or creative work",
+      "a melody or melodic phrase that characterizes a composition",
+      "a unifying idea or motif in literature or art"
+    ]
+  },
+  {
+    "word": "observe",
+    "phonetic": "/əbˈzɜːv/",
+    "grade": "10th-grade",
+    "unit": "Unit 3",
+    "label": ["外研社"],
+    "definitions": [
+      "to celebrate or honor a day or event with ceremony",
+      "to watch carefully and attentively",
+      "to notice or perceive something significant"
+    ]
+  },
+  {
+    "word": "range",
+    "phonetic": "/reɪndʒ/",
+    "grade": "10th-grade",
+    "unit": "Unit 3",
+    "label": ["外研社"],
+    "definitions": [
+      "a series of things in a line or row",
+      "the area of variation between upper and lower limits",
+      "to extend or stretch in a particular direction"
+    ]
+  },
+  {
+    "word": "event",
+    "phonetic": "/ɪˈvent/",
+    "grade": "10th-grade",
+    "unit": "Unit 3",
+    "label": ["外研社"],
+    "definitions": [
+      "a planned public or social occasion",
+      "something that happens, especially something important",
+      "a competition or activity forming part of a sports program"
+    ]
+  },
+  {
+    "word": "apologise",
+    "phonetic": "/əˈpɒlədʒaɪz/",
+    "grade": "10th-grade",
+    "unit": "Unit 3",
+    "label": ["外研社"],
+    "definitions": [
+      "to express regret or remorse for wrongdoing",
+      "to say that one is sorry for hurting someone",
+      "to make an acknowledgment of fault or failure"
+    ]
+  },
+  {
+    "word": "stress",
+    "phonetic": "/stres/",
+    "grade": "10th-grade",
+    "unit": "Unit 3",
+    "label": ["外研社"],
+    "definitions": [
+      "the emphasis placed on a syllable or word in pronunciation",
+      "physical or mental tension resulting from demanding circumstances",
+      "to emphasize or highlight the importance of something"
+    ]
+  },
+  {
+    "word": "impact",
+    "phonetic": "/ˈɪmpækt/",
+    "grade": "10th-grade",
+    "unit": "Unit 3",
+    "label": ["外研社"],
+    "definitions": [
+      "a marked effect or influence on someone or something",
+      "the force or energy produced when two bodies collide",
+      "to have a strong effect on someone or something"
+    ]
+  },
+  {
+    "word": "strength",
+    "phonetic": "/streŋθ/",
+    "grade": "10th-grade",
+    "unit": "Unit 3",
+    "label": ["外研社"],
+    "definitions": [
+      "the quality or state of being physically strong",
+      "the degree of intensity or concentration of a force",
+      "an attribute or quality that provides advantage"
+    ]
+  },
+  {
+    "word": "admire",
+    "phonetic": "/ədˈmaɪə/",
+    "grade": "10th-grade",
+    "unit": "Unit 3",
+    "label": ["外研社"],
+    "definitions": [
+      "to regard with respect or approval",
+      "to look at something with pleasure or interest",
+      "to express appreciation for someone's qualities or achievements"
+    ]
+  },
+  {
+    "word": "judge",
+    "phonetic": "/dʒʌdʒ/",
+    "grade": "10th-grade",
+    "unit": "Unit 3",
+    "label": ["外研社"],
+    "definitions": [
+      "to form an opinion or conclusion about something",
+      "to estimate the value or assess the qualities of something",
+      "to make a formal decision in a court of law"
+    ]
+  },
+  {
+    "word": "settle",
+    "phonetic": "/ˈsetl/",
+    "grade": "10th-grade",
+    "unit": "Unit 3",
+    "label": ["外研社"],
+    "definitions": [
+      "to reach a resolution or agreement ending a dispute",
+      "to become quiet or calm after agitation",
+      "to establish a home or community in a new place"
+    ]
+  },
+  {
+    "word": "settle for",
+    "grade": "10th-grade",
+    "unit": "Unit 3",
+    "label": ["外研社"],
+    "definitions": [
+      "to accept something less satisfactory because you cannot have what you want",
+      "to make do with a lesser option due to constraints",
+      "to compromise by accepting a less desirable alternative"
+    ]
+  },
+  {
+    "word": "triathlon",
+    "phonetic": "/traɪˈæθlən/",
+    "grade": "10th-grade",
+    "unit": "Unit 3",
+    "label": ["外研社"],
+    "definitions": [
+      "a multi-sport race involving swimming, cycling, and running in immediate succession",
+      "an athletic competition consisting of three consecutive events",
+      "a challenging endurance sport combining three disciplines"
+    ]
+  },
+  {
+    "word": "series",
+    "phonetic": "/ˈsɪəriːz/",
+    "grade": "10th-grade",
+    "unit": "Unit 3",
+    "label": ["外研社"],
+    "definitions": [
+      "a number of events or items of the same kind coming one after another",
+      "a sequence of related things or episodes",
+      "a group of related works or publications"
+    ]
+  },
+  {
+    "word": "in the lead",
+    "grade": "10th-grade",
+    "unit": "Unit 3",
+    "label": ["外研社"],
+    "definitions": [
+      "ahead of others in a race or competition",
+      "occupying the first position in a contest or race",
+      "being in the foremost position or place"
+    ]
+  },
+  {
+    "word": "onto",
+    "phonetic": "/ˈɒntə/",
+    "grade": "10th-grade",
+    "unit": "Unit 3",
+    "label": ["外研社"],
+    "definitions": [
+      "moving to a location on the surface of something",
+      "to a position on or upon something else",
+      "in the direction of and landing on or against something"
+    ]
+  },
+  {
+    "word": "track",
+    "phonetic": "/træk/",
+    "grade": "10th-grade",
+    "unit": "Unit 3",
+    "label": ["外研社"],
+    "definitions": [
+      "a rough path or trail across countryside",
+      "a metal rail for trains to run on",
+      "a circular path for running or racing events"
+    ]
+  },
+  {
+    "word": "media",
+    "phonetic": "/ˈmiːdiə/",
+    "grade": "10th-grade",
+    "unit": "Unit 3",
+    "label": ["外研社"],
+    "definitions": [
+      "the main means of mass communication",
+      "newspapers, television, radio, and the internet collectively",
+      "organizations that report news and information to the public"
+    ]
+  },
+  {
+    "word": "obviously",
+    "phonetic": "/ˈɒbviəsli/",
+    "grade": "10th-grade",
+    "unit": "Unit 3",
+    "label": ["外研社"],
+    "definitions": [
+      "in a way that is easily seen or understood",
+      "clearly and evidently without need for explanation",
+      "without doubt or question; certainly"
+    ]
+  },
+  {
+    "word": "feature",
+    "phonetic": "/ˈfiːtʃə/",
+    "grade": "10th-grade",
+    "unit": "Unit 3",
+    "label": ["外研社"],
+    "definitions": [
+      "a distinctive characteristic or quality of something",
+      "a special article or program presenting a person or thing",
+      "to have as a prominent attribute or aspect"
+    ]
+  },
+  {
+    "word": "typically",
+    "phonetic": "/ˈtɪpɪkli/",
+    "grade": "10th-grade",
+    "unit": "Unit 3",
+    "label": ["外研社"],
+    "definitions": [
+      "in a way that is representative of a type or group",
+      "characteristically or habitually",
+      "as is usual or expected; normally"
+    ]
+  },
+  {
+    "word": "individual",
+    "phonetic": "/ˌɪndɪˈvɪdʒuəl/",
+    "grade": "10th-grade",
+    "unit": "Unit 3",
+    "label": ["外研社"],
+    "definitions": [
+      "a single human being or person",
+      "distinct and separate from others",
+      "relating to a single person rather than a group"
+    ]
+  },
+  {
+    "word": "style",
+    "phonetic": "/staɪl/",
+    "grade": "10th-grade",
+    "unit": "Unit 3",
+    "label": ["外研社"],
+    "definitions": [
+      "a distinctive fashion or manner of expression",
+      "the design or appearance of something",
+      "a particular way of doing or performing something"
+    ]
+  },
+  {
+    "word": "extra",
+    "phonetic": "/ˈekstrə/",
+    "grade": "10th-grade",
+    "unit": "Unit 3",
+    "label": ["外研社"],
+    "definitions": [
+      "additional to what is usual or expected",
+      "more than what is needed or required",
+      "added to a regular amount or size"
+    ]
+  },
+  {
+    "word": "detail",
+    "phonetic": "/ˈdiːteɪl/",
+    "grade": "10th-grade",
+    "unit": "Unit 3",
+    "label": ["外研社"],
+    "definitions": [
+      "an individual feature or item",
+      "a small particular of interest or importance",
+      "to describe or narrate in depth"
+    ]
+  },
+  {
+    "word": "contain",
+    "phonetic": "/kənˈteɪn/",
+    "grade": "10th-grade",
+    "unit": "Unit 3",
+    "label": ["外研社"],
+    "definitions": [
+      "to have or hold something within",
+      "to keep or restrain something within limits",
+      "to comprise or consist of particular elements"
+    ]
+  },
+  {
+    "word": "summary",
+    "phonetic": "/ˈsʌməri/",
+    "grade": "10th-grade",
+    "unit": "Unit 3",
+    "label": ["外研社"],
+    "definitions": [
+      "a brief statement of the main points of something",
+      "a condensed version of a longer text or presentation",
+      "an abstract or abridgment of a discourse"
+    ]
+  },
+  {
+    "word": "powerful",
+    "phonetic": "/ˈpaʊəf(ə)l/",
+    "grade": "10th-grade",
+    "unit": "Unit 3",
+    "label": ["外研社"],
+    "definitions": [
+      "having great strength, influence, or effect",
+      "possessing or exhibiting power",
+      "capable of producing a strong impression or effect"
+    ]
+  },
+  {
+    "word": "despite",
+    "phonetic": "/dɪˈspaɪt/",
+    "grade": "10th-grade",
+    "unit": "Unit 3",
+    "label": ["外研社"],
+    "definitions": [
+      "without being affected by something",
+      "in spite of; regardless of",
+      "even though; notwithstanding"
+    ]
+  },
+  {
+    "word": "throughout",
+    "phonetic": "/θruːˈaʊt/",
+    "grade": "10th-grade",
+    "unit": "Unit 3",
+    "label": ["外研社"],
+    "definitions": [
+      "in every part of a place or period of time",
+      "from beginning to end of a period",
+      "in all areas or divisions; everywhere"
+    ]
+  },
+  {
+    "word": "entire",
+    "phonetic": "/ɪnˈtaɪə/",
+    "grade": "10th-grade",
+    "unit": "Unit 3",
+    "label": ["外研社"],
+    "definitions": [
+      "whole or complete in extent or degree",
+      "constituting the full quantity or extent; total",
+      "without limitation or exception; full"
+    ]
+  },
+  {
+    "word": "enormously",
+    "phonetic": "/ɪˈnɔːməsli/",
+    "grade": "10th-grade",
+    "unit": "Unit 3",
+    "label": ["外研社"],
+    "definitions": [
+      "to a very great extent or degree",
+      "extremely; exceptionally; vastly",
+      "in a manner that exceeds normal proportions"
+    ]
+  },
+  {
+    "word": "million",
+    "phonetic": "/ˈmɪljən/",
+    "grade": "10th-grade",
+    "unit": "Unit 3",
+    "label": ["外研社"],
+    "definitions": [
+      "the number equivalent to ten hundred thousand",
+      "a very large number of people or things",
+      "a numeral representing 1,000,000 units"
+    ]
+  },
+  {
+    "word": "disqualify",
+    "phonetic": "/dɪsˈkwɒlɪfaɪ/",
+    "grade": "10th-grade",
+    "unit": "Unit 3",
+    "label": ["外研社"],
+    "definitions": [
+      "to declare someone ineligible to compete in a contest",
+      "to prevent someone from holding office or privilege",
+      "to make someone unfit or unsuitable for something"
+    ]
+  },
+  {
+    "word": "athlete",
+    "phonetic": "/ˈæθliːt/",
+    "grade": "10th-grade",
+    "unit": "Unit 3",
+    "label": ["外研社"],
+    "definitions": [
+      "a person trained or gifted in exercises or sports",
+      "a competitor in sports or games requiring physical skill",
+      "someone who participates in athletics competitions"
+    ]
+  },
+  {
+    "word": "medal",
+    "phonetic": "/ˈmedl/",
+    "grade": "10th-grade",
+    "unit": "Unit 3",
+    "label": ["外研社"],
+    "definitions": [
+      "a metal disc given as an award for achievement",
+      "a coin-like token commemorating an event or person",
+      "an award earned for courage or merit"
+    ]
+  },
+  {
+    "word": "somehow",
+    "phonetic": "/ˈsʌmhaʊ/",
+    "grade": "10th-grade",
+    "unit": "Unit 3",
+    "label": ["外研社"],
+    "definitions": [
+      "in some way or manner, though unspecified",
+      "by some means, although how is unclear",
+      "for some reason or other"
+    ]
+  },
+  {
+    "word": "indeed",
+    "phonetic": "/ɪnˈdiːd/",
+    "grade": "10th-grade",
+    "unit": "Unit 3",
+    "label": ["外研社"],
+    "definitions": [
+      "used to emphasize the truth or certainty of a statement",
+      "in fact or reality; truly",
+      "used to confirm or agree with a previous statement"
+    ]
   }
 ]
