@@ -867,6 +867,7 @@
     "word": "exchange",
     "grade": "10th-grade",
     "unit": "Unit 1",
+    "label": ["外研社"],
     "definitions": [
       "to give and receive something",
       "to trade one thing for another",
@@ -877,6 +878,7 @@
     "word": "senior",
     "grade": "10th-grade",
     "unit": "Unit 1",
+    "label": ["外研社"],
     "definitions": [
       "older or higher in rank",
       "a student in the final year of school",
@@ -887,6 +889,7 @@
     "word": "senior high",
     "grade": "10th-grade",
     "unit": "Unit 1",
+    "label": ["外研社"],
     "definitions": [
       "the last years of high school education",
       "school for older teenagers, usually ages 15-18",
@@ -897,6 +900,7 @@
     "word": "curious",
     "grade": "10th-grade",
     "unit": "Unit 1",
+    "label": ["外研社"],
     "definitions": [
       "wanting to know or learn about something",
       "filled with interest and questions",
@@ -907,6 +911,7 @@
     "word": "impression",
     "grade": "10th-grade",
     "unit": "Unit 1",
+    "label": ["外研社"],
     "definitions": [
       "a feeling or opinion about someone or something",
       "an idea or image in your mind",
@@ -917,6 +922,7 @@
     "word": "campus",
     "grade": "10th-grade",
     "unit": "Unit 1",
+    "label": ["外研社"],
     "definitions": [
       "the buildings and grounds of a university or college",
       "the area where school buildings are located",
@@ -927,6 +933,7 @@
     "word": "tradition",
     "grade": "10th-grade",
     "unit": "Unit 1",
+    "label": ["外研社"],
     "definitions": [
       "beliefs or customs passed down through generations",
       "a long-established custom or belief",
@@ -937,6 +944,7 @@
     "word": "facility",
     "grade": "10th-grade",
     "unit": "Unit 1",
+    "label": ["外研社"],
     "definitions": [
       "a place or building for a specific purpose",
       "equipment or services that make life easier",
@@ -947,6 +955,7 @@
     "word": "impressive",
     "grade": "10th-grade",
     "unit": "Unit 1",
+    "label": ["外研社"],
     "definitions": [
       "making you feel admiration or respect",
       "very good or excellent in quality",
@@ -957,6 +966,7 @@
     "word": "moment",
     "grade": "10th-grade",
     "unit": "Unit 1",
+    "label": ["外研社"],
     "definitions": [
       "a very short period of time",
       "an important or special point in time",
@@ -967,6 +977,7 @@
     "word": "author",
     "grade": "10th-grade",
     "unit": "Unit 1",
+    "label": ["外研社"],
     "definitions": [
       "a person who writes books or articles",
       "the creator or originator of something",
@@ -977,6 +988,7 @@
     "word": "eagerness",
     "grade": "10th-grade",
     "unit": "Unit 1",
+    "label": ["外研社"],
     "definitions": [
       "keen interest or enthusiasm",
       "being excited and ready to do something",
@@ -987,6 +999,7 @@
     "word": "explore",
     "grade": "10th-grade",
     "unit": "Unit 1",
+    "label": ["外研社"],
     "definitions": [
       "to travel through a place to learn about it",
       "to examine or discuss something in detail",
@@ -997,6 +1010,7 @@
     "word": "engine",
     "grade": "10th-grade",
     "unit": "Unit 1",
+    "label": ["外研社"],
     "definitions": [
       "a machine that makes power to move vehicles",
       "the part of a car that makes it work",
@@ -1007,6 +1021,7 @@
     "word": "insect",
     "grade": "10th-grade",
     "unit": "Unit 1",
+    "label": ["外研社"],
     "definitions": [
       "a small animal with six legs",
       "a creature like a bee, ant, or butterfly",
@@ -1017,6 +1032,7 @@
     "word": "collection",
     "grade": "10th-grade",
     "unit": "Unit 1",
+    "label": ["外研社"],
     "definitions": [
       "a group of things gathered together",
       "items kept together because they are alike",
@@ -1027,6 +1043,7 @@
     "word": "organise",
     "grade": "10th-grade",
     "unit": "Unit 1",
+    "label": ["外研社"],
     "definitions": [
       "to arrange things in a planned way",
       "to make something neat and orderly",
@@ -1037,6 +1054,7 @@
     "word": "nudge",
     "grade": "10th-grade",
     "unit": "Unit 1",
+    "label": ["外研社"],
     "definitions": [
       "to push someone gently with your elbow",
       "to encourage someone to do something",
@@ -1047,6 +1065,7 @@
     "word": "butterfly",
     "grade": "10th-grade",
     "unit": "Unit 1",
+    "label": ["外研社"],
     "definitions": [
       "a flying insect with colorful wings",
       "an insect that starts as a caterpillar",
@@ -1057,6 +1076,7 @@
     "word": "breathe",
     "grade": "10th-grade",
     "unit": "Unit 1",
+    "label": ["外研社"],
     "definitions": [
       "to take air into your lungs",
       "to inhale and exhale air",
@@ -1067,6 +1087,7 @@
     "word": "panic",
     "grade": "10th-grade",
     "unit": "Unit 1",
+    "label": ["外研社"],
     "definitions": [
       "sudden extreme fear or worry",
       "to feel sudden uncontrollable fear",
@@ -1077,6 +1098,7 @@
     "word": "in panic",
     "grade": "10th-grade",
     "unit": "Unit 1",
+    "label": ["外研社"],
     "definitions": [
       "with sudden extreme fear",
       "acting from sudden uncontrollable terror",
@@ -1087,6 +1109,7 @@
     "word": "challenge",
     "grade": "10th-grade",
     "unit": "Unit 1",
+    "label": ["外研社"],
     "definitions": [
       "a difficult task that tests abilities",
       "to question or doubt something",
@@ -1097,6 +1120,7 @@
     "word": "pressure",
     "grade": "10th-grade",
     "unit": "Unit 1",
+    "label": ["外研社"],
     "definitions": [
       "force applied over a surface area",
       "stress from demands or expectations",
@@ -1107,6 +1131,7 @@
     "word": "calm",
     "grade": "10th-grade",
     "unit": "Unit 1",
+    "label": ["外研社"],
     "definitions": [
       "quiet and peaceful without worry",
       "not excited or nervous",
@@ -1117,6 +1142,7 @@
     "word": "description",
     "grade": "10th-grade",
     "unit": "Unit 1",
+    "label": ["外研社"],
     "definitions": [
       "words that explain what something looks like",
       "a spoken or written account of something",
@@ -1127,6 +1153,7 @@
     "word": "confident",
     "grade": "10th-grade",
     "unit": "Unit 1",
+    "label": ["外研社"],
     "definitions": [
       "sure about your own abilities",
       "feeling strong belief in success",
@@ -1137,6 +1164,7 @@
     "word": "poster",
     "grade": "10th-grade",
     "unit": "Unit 1",
+    "label": ["外研社"],
     "definitions": [
       "a large printed picture or sign",
       "a notice displayed to advertise something",
@@ -1147,6 +1175,7 @@
     "word": "badminton",
     "grade": "10th-grade",
     "unit": "Unit 1",
+    "label": ["外研社"],
     "definitions": [
       "a game played with racquets and a shuttlecock",
       "sport where players hit a birdie over a net",
@@ -1157,6 +1186,7 @@
     "word": "drama",
     "grade": "10th-grade",
     "unit": "Unit 1",
+    "label": ["外研社"],
     "definitions": [
       "a play performed in a theater",
       "a serious situation with emotions",
@@ -1167,6 +1197,7 @@
     "word": "band",
     "grade": "10th-grade",
     "unit": "Unit 1",
+    "label": ["外研社"],
     "definitions": [
       "a group of musicians playing instruments",
       "a strip of material worn around something",
@@ -1177,6 +1208,7 @@
     "word": "debate",
     "grade": "10th-grade",
     "unit": "Unit 1",
+    "label": ["外研社"],
     "definitions": [
       "a discussion with opposing views",
       "a formal argument or discussion",
@@ -1187,6 +1219,7 @@
     "word": "gym",
     "grade": "10th-grade",
     "unit": "Unit 1",
+    "label": ["外研社"],
     "definitions": [
       "a room or building for physical exercise",
       "a place with equipment for fitness training",
@@ -1197,6 +1230,7 @@
     "word": "piano",
     "grade": "10th-grade",
     "unit": "Unit 1",
+    "label": ["外研社"],
     "definitions": [
       "a large musical instrument with keys",
       "instrument you play by pressing black and white keys",
@@ -1207,6 +1241,7 @@
     "word": "stage",
     "grade": "10th-grade",
     "unit": "Unit 1",
+    "label": ["外研社"],
     "definitions": [
       "a platform where actors perform",
       "a raised area for performances",
@@ -1217,6 +1252,7 @@
     "word": "photography",
     "grade": "10th-grade",
     "unit": "Unit 1",
+    "label": ["外研社"],
     "definitions": [
       "the art of taking pictures with a camera",
       "taking photos as a hobby or profession",
@@ -1227,6 +1263,7 @@
     "word": "inner",
     "grade": "10th-grade",
     "unit": "Unit 1",
+    "label": ["外研社"],
     "definitions": [
       "inside or within something else",
       "deep inside your feelings or thoughts",
@@ -1237,6 +1274,7 @@
     "word": "argue",
     "grade": "10th-grade",
     "unit": "Unit 1",
+    "label": ["外研社"],
     "definitions": [
       "to disagree and discuss different opinions",
       "to give reasons for or against something",
@@ -1247,6 +1285,7 @@
     "word": "topic",
     "grade": "10th-grade",
     "unit": "Unit 1",
+    "label": ["外研社"],
     "definitions": [
       "a subject that people talk or write about",
       "the main idea of a speech or article",
@@ -1257,6 +1296,7 @@
     "word": "sharp",
     "grade": "10th-grade",
     "unit": "Unit 1",
+    "label": ["外研社"],
     "definitions": [
       "having a thin edge that cuts easily",
       "quick and sudden in change or movement",
@@ -1267,6 +1307,7 @@
     "word": "dinosaur",
     "grade": "10th-grade",
     "unit": "Unit 1",
+    "label": ["外研社"],
     "definitions": [
       "a large prehistoric animal that lived long ago",
       "an extinct reptile that lived millions of years ago",
@@ -1277,6 +1318,7 @@
     "word": "dolphin",
     "grade": "10th-grade",
     "unit": "Unit 1",
+    "label": ["外研社"],
     "definitions": [
       "a smart sea animal that looks like a fish",
       "a friendly mammal that lives in oceans",
@@ -1287,6 +1329,7 @@
     "word": "intelligent",
     "grade": "10th-grade",
     "unit": "Unit 1",
+    "label": ["外研社"],
     "definitions": [
       "having the ability to learn and understand",
       "smart and able to think quickly",
@@ -1297,6 +1340,7 @@
     "word": "investigate",
     "grade": "10th-grade",
     "unit": "Unit 1",
+    "label": ["外研社"],
     "definitions": [
       "to examine something carefully",
       "to look into a matter officially",
@@ -1307,6 +1351,7 @@
     "word": "various",
     "grade": "10th-grade",
     "unit": "Unit 1",
+    "label": ["外研社"],
     "definitions": [
       "different from each other",
       "of different kinds or sorts",
@@ -1317,6 +1362,7 @@
     "word": "volunteer",
     "grade": "10th-grade",
     "unit": "Unit 1",
+    "label": ["外研社"],
     "definitions": [
       "to offer to help without payment",
       "a person who works for free",
@@ -1327,6 +1373,7 @@
     "word": "gain",
     "grade": "10th-grade",
     "unit": "Unit 1",
+    "label": ["外研社"],
     "definitions": [
       "to get or obtain something wanted",
       "to increase in amount or degree",
@@ -1337,6 +1384,7 @@
     "word": "apply",
     "grade": "10th-grade",
     "unit": "Unit 1",
+    "label": ["外研社"],
     "definitions": [
       "to put something onto something else",
       "to make a formal request",
@@ -1347,6 +1395,7 @@
     "word": "schedule",
     "grade": "10th-grade",
     "unit": "Unit 1",
+    "label": ["外研社"],
     "definitions": [
       "a plan showing when things will happen",
       "a list of events and times",
@@ -1357,6 +1406,7 @@
     "word": "award",
     "grade": "10th-grade",
     "unit": "Unit 1",
+    "label": ["外研社"],
     "definitions": [
       "a prize given for achievement",
       "to give something as recognition",
@@ -1367,6 +1417,7 @@
     "word": "opportunity",
     "grade": "10th-grade",
     "unit": "Unit 1",
+    "label": ["外研社"],
     "definitions": [
       "a good chance to do something",
       "a favorable time or situation",
@@ -1377,6 +1428,7 @@
     "word": "hint",
     "grade": "10th-grade",
     "unit": "Unit 1",
+    "label": ["外研社"],
     "definitions": [
       "a small bit of helpful information",
       "to suggest something indirectly",
@@ -1387,6 +1439,7 @@
     "word": "subscribe",
     "grade": "10th-grade",
     "unit": "Unit 1",
+    "label": ["外研社"],
     "definitions": [
       "to pay money for newspapers or magazines",
       "to agree or support an idea",
@@ -1397,6 +1450,7 @@
     "word": "view",
     "grade": "10th-grade",
     "unit": "Unit 1",
+    "label": ["外研社"],
     "definitions": [
       "what you can see from a place",
       "to look at or examine something",
@@ -1407,6 +1461,7 @@
     "word": "former",
     "grade": "10th-grade",
     "unit": "Unit 1",
+    "label": ["外研社"],
     "definitions": [
       "the first of two things mentioned",
       "previously held position or place",
@@ -1417,6 +1472,7 @@
     "word": "graduate",
     "grade": "10th-grade",
     "unit": "Unit 1",
+    "label": ["外研社"],
     "definitions": [
       "to complete studies and receive a degree",
       "a student who has completed school",
@@ -1427,6 +1483,7 @@
     "word": "orientation",
     "grade": "10th-grade",
     "unit": "Unit 1",
+    "label": ["外研社"],
     "definitions": [
       "introduction to a new situation",
       "training that helps adjust to something new",
@@ -1437,6 +1494,7 @@
     "word": "frightened",
     "grade": "10th-grade",
     "unit": "Unit 1",
+    "label": ["外研社"],
     "definitions": [
       "afraid or scared of something",
       "feeling fear or alarm",
@@ -1447,6 +1505,7 @@
     "word": "sight",
     "grade": "10th-grade",
     "unit": "Unit 1",
+    "label": ["外研社"],
     "definitions": [
       "the ability to see with your eyes",
       "something worth seeing or visiting",
@@ -1457,6 +1516,7 @@
     "word": "figure",
     "grade": "10th-grade",
     "unit": "Unit 1",
+    "label": ["外研社"],
     "definitions": [
       "a shape or form of something",
       "a person's body shape or size",
@@ -1467,6 +1527,7 @@
     "word": "select",
     "grade": "10th-grade",
     "unit": "Unit 1",
+    "label": ["外研社"],
     "definitions": [
       "to choose or pick out carefully",
       "to make a choice from a group",
@@ -1477,6 +1538,7 @@
     "word": "particular",
     "grade": "10th-grade",
     "unit": "Unit 1",
+    "label": ["外研社"],
     "definitions": [
       "especially or specifically chosen",
       "detail-oriented and demanding",
@@ -1487,6 +1549,7 @@
     "word": "rainbow",
     "grade": "10th-grade",
     "unit": "Unit 1",
+    "label": ["外研社"],
     "definitions": [
       "an arch of colors in the sky after rain",
       "colors appearing in the sky with sun and rain",
@@ -1497,6 +1560,7 @@
     "word": "neat",
     "grade": "10th-grade",
     "unit": "Unit 1",
+    "label": ["外研社"],
     "definitions": [
       "tidy and organized in appearance",
       "clean and orderly",
@@ -1507,6 +1571,7 @@
     "word": "specific",
     "grade": "10th-grade",
     "unit": "Unit 1",
+    "label": ["外研社"],
     "definitions": [
       "clearly stated or identified",
       "particular or exact",
@@ -1517,6 +1582,7 @@
     "word": "refer",
     "grade": "10th-grade",
     "unit": "Unit 1",
+    "label": ["外研社"],
     "definitions": [
       "to direct attention to something",
       "to consult or look up information",
@@ -1527,6 +1593,7 @@
     "word": "journal",
     "grade": "10th-grade",
     "unit": "Unit 1",
+    "label": ["外研社"],
     "definitions": [
       "a newspaper or magazine",
       "a diary where you write daily thoughts",
@@ -1537,6 +1604,7 @@
     "word": "junior",
     "grade": "10th-grade",
     "unit": "Unit 1",
+    "label": ["外研社"],
     "definitions": [
       "younger or lower in rank",
       "a student in the third year of high school",
@@ -1547,6 +1615,7 @@
     "word": "struggle",
     "grade": "10th-grade",
     "unit": "Unit 1",
+    "label": ["外研社"],
     "definitions": [
       "to try hard to achieve something difficult",
       "to fight or make effort against difficulty",
@@ -1557,6 +1626,7 @@
     "word": "memorise",
     "grade": "10th-grade",
     "unit": "Unit 1",
+    "label": ["外研社"],
     "definitions": [
       "to learn something by heart",
       "to remember information perfectly",
@@ -1567,6 +1637,7 @@
     "word": "skateboarding",
     "grade": "10th-grade",
     "unit": "Unit 1",
+    "label": ["外研社"],
     "definitions": [
       "riding on a skateboard for fun or sport",
       "moving on wheels on a flat board",
@@ -1577,6 +1648,7 @@
     "word": "forward",
     "grade": "10th-grade",
     "unit": "Unit 1",
+    "label": ["外研社"],
     "definitions": [
       "toward the front or ahead",
       "in the direction of progress",
@@ -1587,6 +1659,7 @@
     "word": "committee",
     "grade": "10th-grade",
     "unit": "Unit 1",
+    "label": ["外研社"],
     "definitions": [
       "a group chosen to do a specific task",
       "people appointed for a special purpose",
@@ -1597,6 +1670,7 @@
     "word": "improve",
     "grade": "10th-grade",
     "unit": "Unit 1",
+    "label": ["外研社"],
     "definitions": [
       "to make something better",
       "to become better in quality",
@@ -1607,6 +1681,7 @@
     "word": "rate",
     "grade": "10th-grade",
     "unit": "Unit 1",
+    "label": ["外研社"],
     "definitions": [
       "the speed or frequency of something",
       "to judge or evaluate something",
@@ -1617,6 +1692,7 @@
     "word": "performance",
     "grade": "10th-grade",
     "unit": "Unit 1",
+    "label": ["外研社"],
     "definitions": [
       "how well someone or something functions",
       "an act of presenting music or drama",
