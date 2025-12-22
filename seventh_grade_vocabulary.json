@@ -98,16 +98,6 @@
     ]
   },
   {
-    "word": "to",
-    "grade": "7th-grade",
-    "definitions": [
-      "towards",
-      "until",
-      "in order to",
-      "for the purpose of"
-    ]
-  },
-  {
     "word": "was",
     "grade": "7th-grade",
     "definitions": [
@@ -1684,15 +1674,6 @@
     ]
   },
   {
-    "word": "common",
-    "grade": "7th-grade",
-    "definitions": [
-      "occurring or found frequently; usual",
-      "shared by or among all people or nations",
-      "ordinary or unremarkable; not special"
-    ]
-  },
-  {
     "word": "company",
     "grade": "7th-grade",
     "definitions": [
@@ -2090,15 +2071,6 @@
     ]
   },
   {
-    "word": "deep",
-    "grade": "7th-grade",
-    "definitions": [
-      "extending far down from the top or surface",
-      "intense or strong in feeling or effect",
-      "profound or meaningful in thought or meaning"
-    ]
-  },
-  {
     "word": "delicious",
     "grade": "7th-grade",
     "definitions": [
@@ -2114,15 +2086,6 @@
       "a division of a large organization such as a store or government",
       "a branch of learning or instruction at a school or university",
       "a section of a larger entity with specific responsibilities"
-    ]
-  },
-  {
-    "word": "describe",
-    "grade": "7th-grade",
-    "definitions": [
-      "to give an account in words of something or someone",
-      "to represent or characterize something in speech or writing",
-      "to explain or detail the characteristics of something"
     ]
   },
   {
@@ -4943,15 +4906,6 @@
     ]
   },
   {
-    "word": "less",
-    "grade": "7th-grade",
-    "meaning": [
-      "smaller amount of something",
-      "not as much or not as many",
-      "lower in degree or extent"
-    ]
-  },
-  {
     "word": "lesson",
     "grade": "7th-grade",
     "meaning": [
@@ -4979,30 +4933,12 @@
     ]
   },
   {
-    "word": "level",
-    "grade": "7th-grade",
-    "meaning": [
-      "flat and even surface with no slopes",
-      "position on scale of achievement",
-      "stage of difficulty in a game"
-    ]
-  },
-  {
     "word": "library",
     "grade": "7th-grade",
     "meaning": [
       "building with many books to read or borrow",
       "place where you can study quietly",
       "collection of books and other materials"
-    ]
-  },
-  {
-    "word": "lie",
-    "grade": "7th-grade",
-    "meaning": [
-      "to say something that is not true",
-      "to be in a resting position on a surface",
-      "to tell an untruth to someone"
     ]
   },
   {
@@ -9278,15 +9214,6 @@
     ]
   },
   {
-    "word": "sky",
-    "grade": "7th-grade",
-    "meaning": [
-      "blue space above earth",
-      "atmosphere where birds fly",
-      "area with clouds and sun"
-    ]
-  },
-  {
     "word": "sleep",
     "grade": "7th-grade",
     "meaning": [
@@ -9873,15 +9800,6 @@
     ],
     "label": [
       "外研社"
-    ]
-  },
-  {
-    "word": "suggest",
-    "grade": "7th-grade",
-    "definitions": [
-      "to put forward for consideration or action",
-      "to cause someone to think or believe something",
-      "to recommend or advise something indirectly"
     ]
   },
   {
@@ -10928,15 +10846,6 @@
     ]
   },
   {
-    "word": "until",
-    "grade": "7th-grade",
-    "definitions": [
-      "up to the time of or before a particular event or action",
-      "used to indicate the duration of a situation or activity",
-      "as far as; to the extent or degree of"
-    ]
-  },
-  {
     "word": "up",
     "grade": "7th-grade",
     "definitions": [
@@ -11572,15 +11481,6 @@
       "to feel curious or doubtful about something",
       "to admire something with surprise or awe",
       "a feeling of curiosity or admiration"
-    ]
-  },
-  {
-    "word": "wood",
-    "grade": "7th-grade",
-    "definitions": [
-      "the hard fibrous material that forms the main substance of the trunk or branches of a tree",
-      "a forest or area covered with trees",
-      "to add wood or fuel to a fire"
     ]
   },
   {
@@ -12994,6 +12894,19 @@
     ]
   },
   {
+    "word": "national",
+    "grade": "7th-grade-season-2",
+    "unit": "Unit 5",
+    "label": [
+      "外研社"
+    ],
+    "meaning": [
+      "国家的",
+      "relating to a nation or country",
+      "maintained by or involving the whole nation"
+    ]
+  },
+  {
     "word": "pigeon",
     "grade": "7th-grade",
     "unit": "Unit 6",
@@ -14012,6 +13925,833 @@
     ]
   },
   {
+    "word": "airport",
+    "grade": "7th-grade-season-2",
+    "unit": "Unit 6",
+    "label": [
+      "外研社"
+    ],
+    "meaning": [
+      "a place where aircraft land and take off",
+      "a complex of runways and buildings for the take-off, landing, and maintenance of civil aircraft, with facilities for passengers",
+      "a place where aircraft regularly land and take off"
+    ]
+  },
+  {
+    "word": "burn",
+    "grade": "7th-grade-season-2",
+    "unit": "Unit 6",
+    "label": [
+      "外研社"
+    ],
+    "meaning": [
+      "（使）（身体部位）灼痛，（使）火辣辣地痛",
+      "to cause pain or discomfort, especially in a part of the body",
+      "to feel a stinging or burning sensation"
+    ]
+  },
+  {
+    "word": "expect",
+    "grade": "7th-grade-season-2",
+    "unit": "Unit 6",
+    "label": [
+      "外研社"
+    ],
+    "meaning": [
+      "预料，预期，预计",
+      "to regard something as likely to happen",
+      "to anticipate or look forward to something"
+    ]
+  },
+  {
+    "word": "deep",
+    "grade": "7th-grade-season-2",
+    "unit": "Unit 6",
+    "label": [
+      "外研社"
+    ],
+    "meaning": [
+      "（呼吸或叹息）深深的",
+      "extending far down from the top or surface",
+      "profound or intense in feeling or thought"
+    ]
+  },
+  {
+    "word": "lemon",
+    "grade": "7th-grade-season-2",
+    "unit": "Unit 6",
+    "label": [
+      "外研社"
+    ],
+    "meaning": [
+      "柠檬",
+      "a yellow citrus fruit with a thick rind and acidic juice",
+      "a distinctive yellow colored fruit that is sour to taste"
+    ]
+  },
+  {
+    "word": "reply",
+    "grade": "7th-grade-season-2",
+    "unit": "Unit 6",
+    "label": [
+      "外研社"
+    ],
+    "meaning": [
+      "回答，答复",
+      "to respond to a question or statement",
+      "to answer or react to something that has been said or written"
+    ]
+  },
+  {
+    "word": "mouthful",
+    "grade": "7th-grade-season-2",
+    "unit": "Unit 6",
+    "label": [
+      "外研社"
+    ],
+    "meaning": [
+      "（食物或饮料的）一口，一满口",
+      "the amount of food or drink that can be taken into the mouth at one time",
+      "a quantity of food or liquid equal to what the mouth can hold"
+    ]
+  },
+  {
+    "word": "surprisingly",
+    "grade": "7th-grade-season-2",
+    "unit": "Unit 6",
+    "label": [
+      "外研社"
+    ],
+    "meaning": [
+      "惊人地，使人吃惊地，出人意料地",
+      "in a surprising manner",
+      "unexpectedly or astonishingly"
+    ]
+  },
+  {
+    "word": "mask",
+    "grade": "7th-grade-season-2",
+    "unit": "Unit 6",
+    "label": [
+      "外研社"
+    ],
+    "meaning": [
+      "假面具，假面",
+      "a covering for all or part of the face",
+      "a disguise used to hide one's identity"
+    ]
+  },
+  {
+    "word": "normal",
+    "grade": "7th-grade-season-2",
+    "unit": "Unit 6",
+    "label": [
+      "外研社"
+    ],
+    "meaning": [
+      "正常的",
+      "conforming to a standard or usual pattern",
+      "regular, ordinary, or typical in character"
+    ]
+  },
+  {
+    "word": "ancient",
+    "grade": "7th-grade-season-2",
+    "unit": "Unit 6",
+    "label": [
+      "外研社"
+    ],
+    "meaning": [
+      "古代的",
+      "belonging to the very distant past and no longer in use",
+      "of or from a long time ago, having lasted for a very long time"
+    ]
+  },
+  {
+    "word": "further",
+    "grade": "7th-grade-season-2",
+    "unit": "Unit 6",
+    "label": [
+      "外研社"
+    ],
+    "meaning": [
+      "更远",
+      "at or to a more distant point or stage",
+      "additional or extra in extent or degree"
+    ]
+  },
+  {
+    "word": "look forward to",
+    "grade": "7th-grade-season-2",
+    "unit": "Unit 6",
+    "label": [
+      "外研社"
+    ],
+    "meaning": [
+      "（兴奋地）期待，盼望",
+      "to feel excited about something that is going to happen",
+      "to anticipate something with pleasure"
+    ]
+  },
+  {
+    "word": "general",
+    "grade": "7th-grade-season-2",
+    "unit": "Unit 6",
+    "label": [
+      "外研社"
+    ],
+    "meaning": [
+      "大体的，大致的",
+      "affecting or concerning most or all people involved",
+      "without detailed specification or analysis"
+    ]
+  },
+  {
+    "word": "in general",
+    "grade": "7th-grade-season-2",
+    "unit": "Unit 6",
+    "label": [
+      "外研社"
+    ],
+    "meaning": [
+      "通常，一般情况下；普遍地，总的说来",
+      "usually; as a rule",
+      "without distinction of one or another"
+    ]
+  },
+  {
+    "word": "curious",
+    "grade": "7th-grade-season-2",
+    "unit": "Unit 6",
+    "label": [
+      "外研社"
+    ],
+    "meaning": [
+      "好奇的，好打听的",
+      "eager to know or learn something",
+      "having a desire to learn or know more about something"
+    ]
+  },
+  {
+    "word": "cultural",
+    "grade": "7th-grade-season-2",
+    "unit": "Unit 6",
+    "label": [
+      "外研社"
+    ],
+    "meaning": [
+      "文化的；文化上的",
+      "relating to the ideas, customs, and social behaviour of a society",
+      "connected with the cultivation of the mind or intellect"
+    ]
+  },
+  {
+    "word": "main",
+    "grade": "7th-grade-season-2",
+    "unit": "Unit 6",
+    "label": [
+      "外研社"
+    ],
+    "meaning": [
+      "最大的，最重要的",
+      "chief in size, extent, or importance",
+      "principal or most important"
+    ]
+  },
+  {
+    "word": "prefer",
+    "grade": "7th-grade-season-2",
+    "unit": "Unit 6",
+    "label": [
+      "外研社"
+    ],
+    "meaning": [
+      "更喜欢",
+      "to like one thing or person better than another",
+      "to choose or favor one alternative over another"
+    ]
+  },
+  {
+    "word": "interest",
+    "grade": "7th-grade-season-2",
+    "unit": "Unit 6",
+    "label": [
+      "外研社"
+    ],
+    "meaning": [
+      "吸引力",
+      "the power of attracting or holding one's attention",
+      "a quality that excites curiosity or holds the attention"
+    ]
+  },
+  {
+    "word": "places of interest",
+    "grade": "7th-grade-season-2",
+    "unit": "Unit 6",
+    "label": [
+      "外研社"
+    ],
+    "meaning": [
+      "名胜",
+      "famous or notable locations that attract tourists or visitors",
+      "sites that are worth visiting because of their beauty or historical importance"
+    ]
+  },
+  {
+    "word": "hotel",
+    "grade": "7th-grade-season-2",
+    "unit": "Unit 6",
+    "label": [
+      "外研社"
+    ],
+    "meaning": [
+      "宾馆，酒店",
+      "an establishment providing accommodation and meals for travelers",
+      "a building where people pay to stay and eat meals"
+    ]
+  },
+  {
+    "word": "comfortable",
+    "grade": "7th-grade-season-2",
+    "unit": "Unit 6",
+    "label": [
+      "外研社"
+    ],
+    "meaning": [
+      "舒适的，令人舒服的",
+      "providing physical ease and relaxation",
+      "free from pain, anxiety, or stress"
+    ]
+  },
+  {
+    "word": "postcard",
+    "grade": "7th-grade-season-2",
+    "unit": "Unit 6",
+    "label": [
+      "外研社"
+    ],
+    "meaning": [
+      "明信片",
+      "a card for sending by post without an envelope, typically having a picture on one side",
+      "a card for sending messages by mail, usually with a picture"
+    ]
+  },
+  {
+    "word": "waterfall",
+    "grade": "7th-grade-season-2",
+    "unit": "Unit 6",
+    "label": [
+      "外研社"
+    ],
+    "meaning": [
+      "瀑布",
+      "a cascade of water falling from a height",
+      "water that flows over a cliff or rocky ledge into a pool below"
+    ]
+  },
+  {
+    "word": "south",
+    "grade": "7th-grade-season-2",
+    "unit": "Unit 6",
+    "label": [
+      "外研社"
+    ],
+    "meaning": [
+      "在南方的",
+      "situated in or oriented toward the south",
+      "facing or located in the direction of the southern part"
+    ]
+  },
+  {
+    "word": "powerful",
+    "grade": "7th-grade-season-2",
+    "unit": "Unit 6",
+    "label": [
+      "外研社"
+    ],
+    "meaning": [
+      "猛烈的，有力的",
+      "having great power or strength",
+      "capable of producing great effects or changes"
+    ]
+  },
+  {
+    "word": "thunder",
+    "grade": "7th-grade-season-2",
+    "unit": "Unit 6",
+    "label": [
+      "外研社"
+    ],
+    "meaning": [
+      "雷声",
+      "the loud sound heard during a storm that is caused by lightning",
+      "the sound produced during electrical storms"
+    ]
+  },
+  {
+    "word": "painting",
+    "grade": "7th-grade-season-2",
+    "unit": "Unit 6",
+    "label": [
+      "外研社"
+    ],
+    "meaning": [
+      "绘画（作品）",
+      "a work of art produced by applying paint to a surface",
+      "the art or practice of applying paint to a surface"
+    ]
+  },
+  {
+    "word": "roller coaster",
+    "grade": "7th-grade-season-2",
+    "unit": "Unit 6",
+    "label": [
+      "外研社"
+    ],
+    "meaning": [
+      "过山车，云霄飞车",
+      "a fast-moving train-like ride with steep inclines and sharp turns",
+      "an amusement ride with cars that travel along a twisting elevated track"
+    ]
+  },
+  {
+    "word": "huge",
+    "grade": "7th-grade-season-2",
+    "unit": "Unit 6",
+    "label": [
+      "外研社"
+    ],
+    "meaning": [
+      "巨大的，庞大的；极大量的",
+      "extremely large in size or amount",
+      "immense or enormous in scale or extent"
+    ]
+  },
+  {
+    "word": "ant",
+    "grade": "7th-grade-season-2",
+    "unit": "Unit 6",
+    "label": [
+      "外研社"
+    ],
+    "meaning": [
+      "蚂蚁",
+      "a small insect that lives in colonies and works in groups",
+      "a tiny social insect that typically lives underground"
+    ]
+  },
+  {
+    "word": "beauty",
+    "grade": "7th-grade-season-2",
+    "unit": "Unit 6",
+    "label": [
+      "外研社"
+    ],
+    "meaning": [
+      "美，美丽，漂亮",
+      "a combination of qualities that pleases the aesthetic senses",
+      "the quality present in a thing or person that gives intense pleasure"
+    ]
+  },
+  {
+    "word": "discuss",
+    "grade": "7th-grade-season-2",
+    "unit": "Unit 6",
+    "label": [
+      "外研社"
+    ],
+    "meaning": [
+      "商讨，谈论，讨论",
+      "to talk about a topic with another person or group",
+      "to converse or deliberate about a subject"
+    ]
+  },
+  {
+    "word": "accept",
+    "grade": "7th-grade-season-2",
+    "unit": "Unit 6",
+    "label": [
+      "外研社"
+    ],
+    "meaning": [
+      "接受；同意做",
+      "to take something that is offered willingly",
+      "to agree to receive or undertake something"
+    ]
+  },
+  {
+    "word": "award",
+    "grade": "7th-grade-season-2",
+    "unit": "Unit 6",
+    "label": [
+      "外研社"
+    ],
+    "meaning": [
+      "奖，奖赏；奖品；奖金",
+      "a prize or certificate given in recognition of merit",
+      "something given to a person or group in recognition of their excellence"
+    ]
+  },
+  {
+    "word": "traffic",
+    "grade": "7th-grade-season-2",
+    "unit": "Unit 6",
+    "label": [
+      "外研社"
+    ],
+    "meaning": [
+      "路上行驶的车辆，交通",
+      "vehicles moving along roads or streets",
+      "the amount of vehicles or people moving along a route"
+    ]
+  },
+  {
+    "word": "unexplored",
+    "grade": "7th-grade-season-2",
+    "unit": "Unit 6",
+    "label": [
+      "外研社"
+    ],
+    "meaning": [
+      "（地方）未曾探索的，未经勘察的",
+      "not yet explored or discovered",
+      "unknown or unfamiliar because no one has been there before"
+    ]
+  },
+  {
+    "word": "seriously",
+    "grade": "7th-grade-season-2",
+    "unit": "Unit 6",
+    "label": [
+      "外研社"
+    ],
+    "meaning": [
+      "严重地，非常",
+      "in a serious manner; gravely",
+      "to a considerable extent or degree"
+    ]
+  },
+  {
+    "word": "achieve",
+    "grade": "7th-grade-season-2",
+    "unit": "Unit 6",
+    "label": [
+      "外研社"
+    ],
+    "meaning": [
+      "实现；（尤指经过努力）取得，达到",
+      "to successfully bring about or reach a desired objective",
+      "to accomplish a goal or purpose by effort"
+    ]
+  },
+  {
+    "word": "geographical",
+    "grade": "7th-grade-season-2",
+    "unit": "Unit 6",
+    "label": [
+      "外研社"
+    ],
+    "meaning": [
+      "地理的；地理学的",
+      "relating to the study of the Earth's physical features",
+      "concerned with the characteristics and phenomena of the Earth's surface"
+    ]
+  },
+  {
+    "word": "discovery",
+    "grade": "7th-grade-season-2",
+    "unit": "Unit 6",
+    "label": [
+      "外研社"
+    ],
+    "meaning": [
+      "被发现的事实（事物）",
+      "the action or process of finding or learning about something",
+      "the act of finding something previously unknown"
+    ]
+  },
+  {
+    "word": "peak",
+    "grade": "7th-grade-season-2",
+    "unit": "Unit 6",
+    "label": [
+      "外研社"
+    ],
+    "meaning": [
+      "山顶，山峰；山，山岳",
+      "the pointed top of a mountain",
+      "the highest point of something"
+    ]
+  },
+  {
+    "word": "truth",
+    "grade": "7th-grade-season-2",
+    "unit": "Unit 6",
+    "label": [
+      "外研社"
+    ],
+    "meaning": [
+      "事实，真相，实情",
+      "the quality or state of being true",
+      "a fact or belief that is accepted as true"
+    ]
+  },
+  {
+    "word": "climb",
+    "grade": "7th-grade-season-2",
+    "unit": "Unit 6",
+    "label": [
+      "外研社"
+    ],
+    "meaning": [
+      "爬（山），登（山）",
+      "to go up or ascend something, especially a mountain",
+      "to move upward using hands and feet"
+    ]
+  },
+  {
+    "word": "pot",
+    "grade": "7th-grade-season-2",
+    "unit": "Unit 3",
+    "label": [
+      "外研社"
+    ],
+    "meaning": [
+      "a container used for cooking or storing food",
+      "to cook food in boiling water",
+      "a marijuana cigarette or pipe"
+    ]
+  },
+  {
+    "word": "onion",
+    "grade": "7th-grade-season-2",
+    "unit": "Unit 3",
+    "label": [
+      "外研社"
+    ],
+    "meaning": [
+      "a round vegetable with layers and strong smell",
+      "a bulb vegetable that makes you cry when cut",
+      "a pungent bulbous plant used in cooking"
+    ]
+  },
+  {
+    "word": "pancake",
+    "grade": "7th-grade-season-2",
+    "unit": "Unit 3",
+    "label": [
+      "外研社"
+    ],
+    "meaning": [
+      "a flat cake cooked on a griddle or frying pan",
+      "a thin flat breakfast food made from batter",
+      "a round flat cake that is fried in a pan"
+    ]
+  },
+  {
+    "word": "golden",
+    "grade": "7th-grade-season-2",
+    "unit": "Unit 3",
+    "label": [
+      "外研社"
+    ],
+    "meaning": [
+      "having the color of gold or yellow",
+      "made of or relating to gold",
+      "very favorable or successful"
+    ]
+  },
+  {
+    "word": "plate",
+    "grade": "7th-grade-season-2",
+    "unit": "Unit 3",
+    "label": [
+      "外研社"
+    ],
+    "meaning": [
+      "a flat dish used for serving food",
+      "a flat piece of metal or glass",
+      "to cover or coat something with metal"
+    ]
+  },
+  {
+    "word": "loud",
+    "grade": "7th-grade-season-2",
+    "unit": "Unit 3",
+    "label": [
+      "外研社"
+    ],
+    "meaning": [
+      "making much noise or sound",
+      "easily heard or very clear",
+      "obvious or blatant in behavior or appearance"
+    ]
+  },
+  {
+    "word": "heat",
+    "grade": "7th-grade-season-2",
+    "unit": "Unit 3",
+    "label": [
+      "外研社"
+    ],
+    "meaning": [
+      "the temperature or energy that makes things hot",
+      "to make something hot or warm",
+      "intense emotional state or passion"
+    ]
+  },
+  {
+    "word": "firm",
+    "grade": "7th-grade-season-2",
+    "unit": "Unit 3",
+    "label": [
+      "外研社"
+    ],
+    "meaning": [
+      "hard, solid, or rigid in structure or form",
+      "not soft or yielding when touched",
+      "having a strong unwavering belief or purpose"
+    ]
+  },
+  {
+    "word": "recipe",
+    "grade": "7th-grade-season-2",
+    "unit": "Unit 3",
+    "label": [
+      "外研社"
+    ],
+    "meaning": [
+      "instructions for preparing a particular dish",
+      "a set of directions for making something",
+      "formula or method for achieving a result"
+    ]
+  },
+  {
+    "word": "ingredient",
+    "grade": "7th-grade-season-2",
+    "unit": "Unit 3",
+    "label": [
+      "外研社"
+    ],
+    "meaning": [
+      "a component part of a mixture or dish",
+      "any food item used in cooking",
+      "a constituent element of something"
+    ]
+  },
+  {
+    "word": "step",
+    "grade": "7th-grade-season-2",
+    "unit": "Unit 3",
+    "label": [
+      "外研社"
+    ],
+    "meaning": [
+      "a movement made by lifting one foot and putting it down",
+      "one of a series of actions in a process",
+      "a stair or platform in a staircase"
+    ]
+  },
+  {
+    "word": "diet",
+    "grade": "7th-grade-season-2",
+    "unit": "Unit 3",
+    "label": ["外研社"],
+    "meaning": [
+      "the kinds of food that a person habitually eats",
+      "a special course of food for health reasons",
+      "to restrict one's food intake for weight loss"
+    ]
+  },
+  {
+    "word": "restaurant",
+    "grade": "7th-grade-season-2",
+    "unit": "Unit 3",
+    "label": ["外研社"],
+    "meaning": [
+      "a place where people pay to sit and eat meals",
+      "an establishment that serves prepared food",
+      "a business that provides dining services"
+    ]
+  },
+  {
+    "word": "salad",
+    "grade": "7th-grade-season-2",
+    "unit": "Unit 3",
+    "label": ["外研社"],
+    "meaning": [
+      "a dish consisting of mixed vegetables or fruits",
+      "raw greens served as a side dish",
+      "a mixture of various foods served cold"
+    ]
+  },
+  {
+    "word": "hamburger",
+    "grade": "7th-grade-season-2",
+    "unit": "Unit 3",
+    "label": ["外研社"],
+    "meaning": [
+      "a sandwich consisting of a cooked patty in a bun",
+      "a ground beef patty served on a bread roll",
+      "a popular fast food item with meat and vegetables"
+    ]
+  },
+  {
+    "word": "snack",
+    "grade": "7th-grade-season-2",
+    "unit": "Unit 3",
+    "label": ["外研社"],
+    "meaning": [
+      "a small amount of food eaten between meals",
+      "to eat small amounts of food casually",
+      "a light informal meal or refreshment"
+    ]
+  },
+  {
+    "word": "chip",
+    "grade": "7th-grade-season-2",
+    "unit": "Unit 3",
+    "label": ["外研社"],
+    "meaning": [
+      "a small piece broken off from something",
+      "a thin crisp slice of potato fried in oil",
+      "a small electronic component in circuits"
+    ]
+  },
+  {
+    "word": "dangerous",
+    "grade": "7th-grade-season-2",
+    "unit": "Unit 3",
+    "label": ["外研社"],
+    "meaning": [
+      "involving risk or threat of harm",
+      "unsafe or likely to cause damage",
+      "posing a hazard or peril to safety"
+    ]
+  },
+  {
+    "word": "border",
+    "grade": "7th-grade-season-2",
+    "unit": "Unit 3",
+    "label": ["外研社"],
+    "meaning": [
+      "the edge or boundary of something",
+      "a line separating two political areas",
+      "to approach or come close to something"
+    ]
+  },
+  {
+    "word": "Western",
+    "grade": "7th-grade-season-2",
+    "unit": "Unit 3",
+    "label": ["外研社"],
+    "meaning": [
+      "relating to the nations of Europe and America",
+      "pertaining to the American Old West",
+      "characteristic of western culture or lifestyle"
+    ]
+  },
+  {
     "word": "dessert",
     "grade": "7th-grade-season-2",
     "unit": "Unit 3",
@@ -14508,7 +15248,7 @@
   },
   {
     "word": "plateau",
-    "grade": "7th-grade",
+    "grade": "7th-grade-season-2",
     "unit": "Unit 5",
     "label": [
       "外研社"
@@ -14521,7 +15261,7 @@
   },
   {
     "word": "cloud",
-    "grade": "7th-grade",
+    "grade": "7th-grade-season-2",
     "unit": "Unit 5",
     "label": [
       "外研社"
@@ -14534,7 +15274,7 @@
   },
   {
     "word": "soft",
-    "grade": "7th-grade",
+    "grade": "7th-grade-season-2",
     "unit": "Unit 5",
     "label": [
       "外研社"
@@ -14547,7 +15287,7 @@
   },
   {
     "word": "brightly",
-    "grade": "7th-grade",
+    "grade": "7th-grade-season-2",
     "unit": "Unit 5",
     "label": [
       "外研社"
@@ -14560,7 +15300,7 @@
   },
   {
     "word": "lotus",
-    "grade": "7th-grade",
+    "grade": "7th-grade-season-2",
     "unit": "Unit 5",
     "label": [
       "外研社"
@@ -14573,7 +15313,7 @@
   },
   {
     "word": "sky",
-    "grade": "7th-grade",
+    "grade": "7th-grade-season-2",
     "unit": "Unit 5",
     "label": [
       "外研社"
@@ -14586,7 +15326,7 @@
   },
   {
     "word": "calm",
-    "grade": "7th-grade",
+    "grade": "7th-grade-season-2",
     "unit": "Unit 5",
     "label": [
       "外研社"
@@ -14599,7 +15339,7 @@
   },
   {
     "word": "above",
-    "grade": "7th-grade",
+    "grade": "7th-grade-season-2",
     "unit": "Unit 5",
     "label": [
       "外研社"
@@ -14612,7 +15352,7 @@
   },
   {
     "word": "express",
-    "grade": "7th-grade",
+    "grade": "7th-grade-season-2",
     "unit": "Unit 5",
     "label": [
       "外研社"
@@ -14625,7 +15365,7 @@
   },
   {
     "word": "grassland",
-    "grade": "7th-grade",
+    "grade": "7th-grade-season-2",
     "unit": "Unit 5",
     "label": [
       "外研社"
@@ -14638,7 +15378,7 @@
   },
   {
     "word": "field",
-    "grade": "7th-grade",
+    "grade": "7th-grade-season-2",
     "unit": "Unit 5",
     "label": [
       "外研社"
@@ -14651,7 +15391,7 @@
   },
   {
     "word": "few",
-    "grade": "7th-grade",
+    "grade": "7th-grade-season-2",
     "unit": "Unit 5",
     "label": [
       "外研社"
@@ -14664,7 +15404,7 @@
   },
   {
     "word": "present",
-    "grade": "7th-grade",
+    "grade": "7th-grade-season-2",
     "unit": "Unit 5",
     "label": [
       "外研社"
@@ -14677,7 +15417,7 @@
   },
   {
     "word": "likely",
-    "grade": "7th-grade",
+    "grade": "7th-grade-season-2",
     "unit": "Unit 5",
     "label": [
       "外研社"
@@ -14690,7 +15430,7 @@
   },
   {
     "word": "local",
-    "grade": "7th-grade",
+    "grade": "7th-grade-season-2",
     "unit": "Unit 5",
     "label": [
       "外研社"
@@ -14703,7 +15443,7 @@
   },
   {
     "word": "designer",
-    "grade": "7th-grade",
+    "grade": "7th-grade-season-2",
     "unit": "Unit 5",
     "label": [
       "外研社"
@@ -14716,189 +15456,175 @@
   },
   {
     "word": "guide",
-    "grade": "7th-grade",
+    "grade": "7th-grade-season-2",
     "unit": "Unit 5",
     "label": [
       "外研社"
     ],
     "meaning": [
-      "指南，指南手册",
       "a book or document that gives information or instructions",
       "a person who leads or directs others"
     ]
   },
   {
     "word": "describe",
-    "grade": "7th-grade",
+    "grade": "7th-grade-season-2",
     "unit": "Unit 5",
     "label": [
       "外研社"
     ],
     "meaning": [
-      "描述，描写",
       "to give an account in words of someone or something",
       "to represent or characterize something in speech or writing"
     ]
   },
   {
     "word": "landscape",
-    "grade": "7th-grade",
+    "grade": "7th-grade-season-2",
     "unit": "Unit 5",
     "label": [
       "外研社"
     ],
     "meaning": [
-      "（陆上的）风景，景致，景色",
       "the visible features of an area of countryside",
       "a picture representing natural scenery"
     ]
   },
   {
     "word": "common",
-    "grade": "7th-grade",
+    "grade": "7th-grade-season-2",
     "unit": "Unit 5",
     "label": [
       "外研社"
     ],
     "meaning": [
-      "常见的，普遍的",
       "occurring frequently or widely",
       "shared by or among all people"
     ]
   },
   {
     "word": "Mount",
-    "grade": "7th-grade",
+    "grade": "7th-grade-season-2",
     "unit": "Unit 5",
     "label": [
       "外研社"
     ],
     "meaning": [
-      "（书面缩写为Mt）（用作山名的一部分）...... 山，...... 峰",
       "(used in the names of mountains) a mountain",
       "to climb or ascend a hill or mountain"
     ]
   },
   {
     "word": "tide",
-    "grade": "7th-grade",
+    "grade": "7th-grade-season-2",
     "unit": "Unit 5",
     "label": [
       "外研社"
     ],
     "meaning": [
-      "海潮，潮汐",
       "the rise and fall of sea levels caused by the moon's gravity",
       "a particular trend or current of events or opinion"
     ]
   },
   {
     "word": "exhibition",
-    "grade": "7th-grade",
+    "grade": "7th-grade-season-2",
     "unit": "Unit 5",
     "label": [
       "外研社"
     ],
     "meaning": [
-      "展览（会）",
       "a public display of art, products, or skills",
       "an organized event showcasing works or items of interest"
     ]
   },
   {
     "word": "tour",
-    "grade": "7th-grade",
+    "grade": "7th-grade-season-2",
     "unit": "Unit 5",
     "label": [
       "外研社"
     ],
     "meaning": [
-      "参观，游览",
       "a journey through multiple places for entertainment or education",
       "to make a guided visit to places of interest"
     ]
   },
   {
     "word": "pound",
-    "grade": "7th-grade",
+    "grade": "7th-grade-season-2",
     "unit": "Unit 5",
     "label": [
       "外研社"
     ],
     "meaning": [
-      "英镑",
       "the unit of currency in the UK",
       "to hit or strike something heavily and repeatedly"
     ]
   },
   {
     "word": "lungfish",
-    "grade": "7th-grade",
+    "grade": "7th-grade-season-2",
     "unit": "Unit 5",
     "label": [
       "外研社"
     ],
     "meaning": [
-      "肺鱼",
       "a fish that can breathe air and survive in dry conditions",
       "a primitive fish with both gills and lung-like organs"
     ]
   },
   {
     "word": "lung",
-    "grade": "7th-grade",
+    "grade": "7th-grade-season-2",
     "unit": "Unit 5",
     "label": [
       "外研社"
     ],
     "meaning": [
-      "肺",
       "each of the pair of organs in the chest used for breathing",
       "a respiratory organ for gas exchange"
     ]
   },
   {
     "word": "scientist",
-    "grade": "7th-grade",
+    "grade": "7th-grade-season-2",
     "unit": "Unit 5",
     "label": [
       "外研社"
     ],
     "meaning": [
-      "科学家",
       "a person who studies or practices science",
       "one who engages in scientific research or experimentation"
     ]
   },
   {
     "word": "behaviour",
-    "grade": "7th-grade",
+    "grade": "7th-grade-season-2",
     "unit": "Unit 5",
     "label": [
       "外研社"
     ],
     "meaning": [
-      "行为，举止",
       "the way a person or animal acts or conducts themselves",
       "actions or reactions under given circumstances"
     ]
   },
   {
     "word": "develop",
-    "grade": "7th-grade",
+    "grade": "7th-grade-season-2",
     "unit": "Unit 5",
     "label": [
       "外研社"
     ],
     "meaning": [
-      "（使）成长，（使）发展",
       "to grow or cause to grow and become more mature",
       "to make or create something gradually"
     ]
   },
   {
     "word": "land",
-    "grade": "7th-grade",
+    "grade": "7th-grade-season-2",
     "unit": "Unit 5",
     "label": [
       "外研社"
@@ -14911,7 +15637,7 @@
   },
   {
     "word": "aloud",
-    "grade": "7th-grade",
+    "grade": "7th-grade-season-2",
     "unit": "Unit 5",
     "label": [
       "外研社"
@@ -14924,158 +15650,138 @@
   },
   {
     "word": "salty",
-    "grade": "7th-grade",
+    "grade": "7th-grade-season-2",
     "unit": "Unit 5",
     "label": [
       "外研社"
     ],
     "meaning": [
-      "咸的，含盐的",
       "tasting of salt or having salt in it",
       "containing or resembling salt water"
     ]
   },
   {
     "word": "lie",
-    "grade": "7th-grade",
+    "grade": "7th-grade-season-2",
     "unit": "Unit 5",
     "label": [
       "外研社"
     ],
     "meaning": [
-      "躺，平卧",
       "to be in a resting position on a surface",
       "to recline or be positioned horizontally"
     ]
   },
   {
     "word": "surface",
-    "grade": "7th-grade",
+    "grade": "7th-grade-season-2",
     "unit": "Unit 5",
     "label": [
       "外研社"
     ],
     "meaning": [
-      "表面，面",
       "the outside or top part of something",
       "the uppermost layer or face of an object"
     ]
   },
   {
     "word": "level",
-    "grade": "7th-grade",
+    "grade": "7th-grade-season-2",
     "unit": "Unit 5",
     "label": [
       "外研社"
     ],
     "meaning": [
-      "水平高度；相对高度",
       "a position on a scale of intensity or amount",
       "a particular standard or quality of performance"
     ]
   },
   {
     "word": "less",
-    "grade": "7th-grade",
+    "grade": "7th-grade-season-2",
     "unit": "Unit 5",
     "label": [
       "外研社"
     ],
     "meaning": [
-      "不那么多，更（较）少",
       "a smaller amount of something",
       "not as much or not as many"
     ]
   },
   {
     "word": "suggest",
-    "grade": "7th-grade",
+    "grade": "7th-grade-season-2",
     "unit": "Unit 5",
     "label": [
       "外研社"
     ],
     "meaning": [
-      "暗示，暗指",
       "to mention an idea or plan for consideration",
       "to recommend something indirectly"
     ]
   },
   {
     "word": "such as",
-    "grade": "7th-grade",
+    "grade": "7th-grade-season-2",
     "unit": "Unit 5",
     "label": [
       "外研社"
     ],
     "meaning": [
-      "像，诸如，例如",
       "used to introduce examples or list items",
       "for example or instance"
     ]
   },
   {
     "word": "snake",
-    "grade": "7th-grade",
+    "grade": "7th-grade-season-2",
     "unit": "Unit 5",
     "label": [
       "外研社"
     ],
     "meaning": [
-      "蛇",
       "a limbless reptile with a long body and forked tongue",
-      "a creature that moves by wriggling"
+      "a creature that moves by wriggling",
+      "a long-tailed animal with a long tongue"
     ]
   },
   {
     "word": "wood",
-    "grade": "7th-grade",
+    "grade": "7th-grade-season-2",
     "unit": "Unit 5",
     "label": [
       "外研社"
     ],
     "meaning": [
-      "木头；木材，木料",
       "the hard fibrous material that forms the trunk of trees",
-      "a dense forested area"
+      "a dense forested area",
+      "a thick, dense forest"
     ]
   },
   {
     "word": "disappear",
-    "grade": "7th-grade",
+    "grade": "7th-grade-season-2",
     "unit": "Unit 5",
     "label": [
       "外研社"
     ],
     "meaning": [
-      "消失，不见",
       "to cease to be visible or present",
-      "to become impossible to see or find"
+      "to become impossible to see or find",
+      "to disappear"
     ]
   },
   {
     "word": "glacier",
-    "grade": "7th-grade",
+    "grade": "7th-grade-season-2",
     "unit": "Unit 5",
     "label": [
       "外研社"
     ],
     "meaning": [
-      "冰川",
       "a slowly moving mass of ice",
+      "a large body of ice formed from snow",
       "a large body of ice formed from snow"
-    ]
-  },
-  {
-    "word": "national",
-    "grade": "7th-grade",
-    "unit": "Unit 5",
-    "label": [
-      "外研社"
-    ],
-    "meaning": [
-      "国家的",
-      "relating to a nation or country",
-      "maintained by or involving the whole nation"
     ]
   }
 ]
