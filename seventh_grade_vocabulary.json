@@ -603,15 +603,6 @@
     ]
   },
   {
-    "word": "beef",
-    "grade": "7th-grade",
-    "definitions": [
-      "the flesh of a cow or bull used as food",
-      "to complain or protest about something",
-      "meat from cattle, often ground or cut into steaks or roasts"
-    ]
-  },
-  {
     "word": "before",
     "grade": "7th-grade",
     "definitions": [
@@ -12688,6 +12679,929 @@
       "a covering for the head made of artificial hair",
       "fake hair that people wear for fashion or fun",
       "headwear made from synthetic or real hair"
+    ]
+  },
+  {
+    "word": "delicious",
+    "grade": "7th-grade-season-2",
+    "unit": "Unit 3",
+    "label": ["外研社"],
+    "meaning": [
+      "tasting very good or pleasant",
+      "extremely enjoyable or satisfying",
+      "having a pleasant smell or taste"
+    ]
+  },
+  {
+    "word": "certain",
+    "grade": "7th-grade-season-2",
+    "unit": "Unit 3",
+    "label": ["外研社"],
+    "meaning": [
+      "known for sure or able to be relied on",
+      "specific but not named or identified",
+      "having confidence or feeling sure about something"
+    ]
+  },
+  {
+    "word": "mine",
+    "grade": "7th-grade-season-2",
+    "unit": "Unit 3",
+    "label": ["外研社"],
+    "meaning": [
+      "a large hole dug in the ground to obtain minerals",
+      "an explosive device buried in the ground",
+      "belonging to me or associated with me personally"
+    ]
+  },
+  {
+    "word": "beef",
+    "grade": "7th-grade-season-2",
+    "unit": "Unit 3",
+    "label": ["外研社"],
+    "meaning": [
+      "the flesh of a cow used as food",
+      "to complain or protest about something",
+      "to criticize or express dissatisfaction"
+    ]
+  },
+  {
+    "word": "carrot",
+    "grade": "7th-grade-season-2",
+    "unit": "Unit 3",
+    "label": ["外研社"],
+    "meaning": [
+      "an orange root vegetable that grows underground",
+      "a tapered orange vegetable eaten cooked or raw",
+      "a long thin orange vegetable with green leaves"
+    ]
+  },
+  {
+    "word": "mutton",
+    "grade": "7th-grade-season-2",
+    "unit": "Unit 3",
+    "label": ["外研社"],
+    "meaning": [
+      "the flesh of a sheep used as food",
+      "meat from an adult sheep",
+      "the meat of a sheep, especially when mature"
+    ]
+  },
+  {
+    "word": "fat",
+    "grade": "7th-grade-season-2",
+    "unit": "Unit 3",
+    "label": ["外研社"],
+    "meaning": [
+      "having a lot of excess flesh or thickness",
+      "oily or greasy substance in the body or food",
+      "thick and heavy in consistency or texture"
+    ]
+  },
+  {
+    "word": "hen",
+    "grade": "7th-grade-season-2",
+    "unit": "Unit 3",
+    "label": ["外研社"],
+    "meaning": [
+      "a female chicken, especially one kept for eggs",
+      "a woman, sometimes used informally or humorously",
+      "a female bird, especially a domestic chicken"
+    ]
+  },
+  {
+    "word": "pot",
+    "grade": "7th-grade-season-2",
+    "unit": "Unit 3",
+    "label": ["外研社"],
+    "meaning": [
+      "a container used for cooking or storing food",
+      "to cook food in boiling water",
+      "a marijuana cigarette or pipe"
+    ]
+  },
+  {
+    "word": "onion",
+    "grade": "7th-grade-season-2",
+    "unit": "Unit 3",
+    "label": ["外研社"],
+    "meaning": [
+      "a round vegetable with layers and strong smell",
+      "a bulb vegetable that makes you cry when cut",
+      "a pungent bulbous plant used in cooking"
+    ]
+  },
+  {
+    "word": "pancake",
+    "grade": "7th-grade-season-2",
+    "unit": "Unit 3",
+    "label": ["外研社"],
+    "meaning": [
+      "a flat cake cooked on a griddle or frying pan",
+      "a thin flat breakfast food made from batter",
+      "a round flat cake that is fried in a pan"
+    ]
+  },
+  {
+    "word": "until",
+    "grade": "7th-grade-season-2",
+    "unit": "Unit 3",
+    "label": ["外研社"],
+    "meaning": [
+      "up to the time when something happens",
+      "before a particular time or event",
+      "continuing to happen before a specified time"
+    ]
+  },
+  {
+    "word": "golden",
+    "grade": "7th-grade-season-2",
+    "unit": "Unit 3",
+    "label": ["外研社"],
+    "meaning": [
+      "having the color of gold or yellow",
+      "made of or relating to gold",
+      "very favorable or successful"
+    ]
+  },
+  {
+    "word": "plate",
+    "grade": "7th-grade-season-2",
+    "unit": "Unit 3",
+    "label": ["外研社"],
+    "meaning": [
+      "a flat dish used for serving food",
+      "a flat piece of metal or glass",
+      "to cover or coat something with metal"
+    ]
+  },
+  {
+    "word": "loud",
+    "grade": "7th-grade-season-2",
+    "unit": "Unit 3",
+    "label": ["外研社"],
+    "meaning": [
+      "making much noise or sound",
+      "easily heard or very clear",
+      "obvious or blatant in behavior or appearance"
+    ]
+  },
+  {
+    "word": "heat",
+    "grade": "7th-grade-season-2",
+    "unit": "Unit 3",
+    "label": ["外研社"],
+    "meaning": [
+      "the temperature or energy that makes things hot",
+      "to make something hot or warm",
+      "intense emotional state or passion"
+    ]
+  },
+  {
+    "word": "firm",
+    "grade": "7th-grade-season-2",
+    "unit": "Unit 3",
+    "label": ["外研社"],
+    "meaning": [
+      "hard, solid, or rigid in structure or form",
+      "not soft or yielding when touched",
+      "having a strong unwavering belief or purpose"
+    ]
+  },
+  {
+    "word": "recipe",
+    "grade": "7th-grade-season-2",
+    "unit": "Unit 3",
+    "label": ["外研社"],
+    "meaning": [
+      "instructions for preparing a particular dish",
+      "a set of directions for making something",
+      "formula or method for achieving a result"
+    ]
+  },
+  {
+    "word": "ingredient",
+    "grade": "7th-grade-season-2",
+    "unit": "Unit 3",
+    "label": ["外研社"],
+    "meaning": [
+      "a component part of a mixture or dish",
+      "any food item used in cooking",
+      "a constituent element of something"
+    ]
+  },
+  {
+    "word": "step",
+    "grade": "7th-grade-season-2",
+    "unit": "Unit 3",
+    "label": ["外研社"],
+    "meaning": [
+      "a movement made by lifting one foot and putting it down",
+      "one of a series of actions in a process",
+      "a stair or platform in a staircase"
+    ]
+  },
+  {
+    "word": "diet",
+    "grade": "7th-grade-season-2",
+    "unit": "Unit 3",
+    "meaning": [
+      "the kinds of food that a person habitually eats",
+      "a special course of food for health reasons",
+      "to restrict one's food intake for weight loss"
+    ]
+  },
+  {
+    "word": "restaurant",
+    "grade": "7th-grade-season-2",
+    "unit": "Unit 3",
+    "meaning": [
+      "a place where people pay to sit and eat meals",
+      "an establishment that serves prepared food",
+      "a business that provides dining services"
+    ]
+  },
+  {
+    "word": "salad",
+    "grade": "7th-grade-season-2",
+    "unit": "Unit 3",
+    "meaning": [
+      "a dish consisting of mixed vegetables or fruits",
+      "raw greens served as a side dish",
+      "a mixture of various foods served cold"
+    ]
+  },
+  {
+    "word": "hamburger",
+    "grade": "7th-grade-season-2",
+    "unit": "Unit 3",
+    "meaning": [
+      "a sandwich consisting of a cooked patty in a bun",
+      "a ground beef patty served on a bread roll",
+      "a popular fast food item with meat and vegetables"
+    ]
+  },
+  {
+    "word": "snack",
+    "grade": "7th-grade-season-2",
+    "unit": "Unit 3",
+    "meaning": [
+      "a small amount of food eaten between meals",
+      "to eat small amounts of food casually",
+      "a light informal meal or refreshment"
+    ]
+  },
+  {
+    "word": "chip",
+    "grade": "7th-grade-season-2",
+    "unit": "Unit 3",
+    "meaning": [
+      "a small piece broken off from something",
+      "a thin crisp slice of potato fried in oil",
+      "a small electronic component in circuits"
+    ]
+  },
+  {
+    "word": "dangerous",
+    "grade": "7th-grade-season-2",
+    "unit": "Unit 3",
+    "meaning": [
+      "involving risk or threat of harm",
+      "unsafe or likely to cause damage",
+      "posing a hazard or peril to safety"
+    ]
+  },
+  {
+    "word": "border",
+    "grade": "7th-grade-season-2",
+    "unit": "Unit 3",
+    "meaning": [
+      "the edge or boundary of something",
+      "a line separating two political areas",
+      "to approach or come close to something"
+    ]
+  },
+  {
+    "word": "Western",
+    "grade": "7th-grade-season-2",
+    "unit": "Unit 3",
+    "meaning": [
+      "relating to the nations of Europe and America",
+      "pertaining to the American Old West",
+      "characteristic of western culture or lifestyle"
+    ]
+  },
+  {
+    "word": "dessert",
+    "grade": "7th-grade-season-2",
+    "unit": "Unit 3",
+    "meaning": [
+      "sweet course eaten at the end of a meal",
+      "a dish served after the main course",
+      "sweet food served as a final course"
+    ]
+  },
+  {
+    "word": "actually",
+    "grade": "7th-grade-season-2",
+    "unit": "Unit 3",
+    "meaning": [
+      "in fact or reality, despite what might be expected",
+      "used to emphasize truth or confirm a fact",
+      "really or genuinely, as opposed to apparently"
+    ]
+  },
+  {
+    "word": "dynasty",
+    "grade": "7th-grade-season-2",
+    "unit": "Unit 3",
+    "meaning": [
+      "a line of hereditary rulers of a country",
+      "a sequence of powerful rulers from same family",
+      "a period of rule by a particular family"
+    ]
+  },
+  {
+    "word": "store",
+    "grade": "7th-grade-season-2",
+    "unit": "Unit 3",
+    "meaning": [
+      "to keep or put away for future use",
+      "to accumulate or gather for later consumption",
+      "to preserve or maintain something safely"
+    ]
+  },
+  {
+    "word": "mean",
+    "grade": "7th-grade-season-2",
+    "unit": "Unit 3",
+    "meaning": [
+      "to intend to express or convey",
+      "to result in or lead to a particular outcome",
+      "to have a specified intention or purpose"
+    ]
+  },
+  {
+    "word": "modern",
+    "grade": "7th-grade-season-2",
+    "unit": "Unit 3",
+    "meaning": [
+      "relating to the present or recent times",
+      "new or updated in style or design",
+      "characteristic of current times or trends"
+    ]
+  },
+  {
+    "word": "folk",
+    "grade": "7th-grade-season-2",
+    "unit": "Unit 3",
+    "meaning": [
+      "traditional beliefs and customs of a community",
+      "people in general or a specific group",
+      "music or art of traditional culture"
+    ]
+  },
+  {
+    "word": "tale",
+    "grade": "7th-grade-season-2",
+    "unit": "Unit 3",
+    "meaning": [
+      "a story, especially one that is invented or fictitious",
+      "an account of events, either true or fictional",
+      "a narrative or recital of happenings"
+    ]
+  },
+  {
+    "word": "emperor",
+    "grade": "7th-grade-season-2",
+    "unit": "Unit 3",
+    "meaning": [
+      "a male sovereign ruling an empire",
+      "the supreme ruler in some monarchies",
+      "a person who exercises supreme authority"
+    ]
+  },
+  {
+    "word": "porridge",
+    "grade": "7th-grade-season-2",
+    "unit": "Unit 3",
+    "meaning": [
+      "a breakfast dish made from oats boiled in water or milk",
+      "a thick mixture of grain cooked in liquid",
+      "a hot cereal made by boiling oats or other grains"
+    ]
+  },
+  {
+    "word": "sweet",
+    "grade": "7th-grade-season-2",
+    "unit": "Unit 3",
+    "meaning": [
+      "having a pleasant taste characteristic of sugar",
+      "pleasing or gratifying to the mind or feelings",
+      "a dessert or treat that tastes sugary"
+    ]
+  },
+  {
+    "word": "plain",
+    "grade": "7th-grade-season-2",
+    "unit": "Unit 3",
+    "meaning": [
+      "not decorated or elaborate in appearance",
+      "clear and straightforward in style or meaning",
+      "an extensive area of flat land with few trees"
+    ]
+  },
+  {
+    "word": "menu",
+    "grade": "7th-grade-season-2",
+    "unit": "Unit 3",
+    "meaning": [
+      "a list of dishes available at a restaurant",
+      "a set of options or choices presented to a user",
+      "the selection of food offered by an establishment"
+    ]
+  },
+  {
+    "word": "medicine",
+    "grade": "7th-grade-season-2",
+    "unit": "Unit 3",
+    "meaning": [
+      "a substance used to treat illness or injury",
+      "the science or practice of diagnosing disease",
+      "a drug or treatment prescribed by a doctor"
+    ]
+  },
+  {
+    "word": "than",
+    "grade": "7th-grade-season-2",
+    "unit": "Unit 3",
+    "meaning": [
+      "used to introduce the second element in a comparison",
+      "connecting word for contrasting quantities or qualities",
+      "follows comparative adjectives and adverbs"
+    ]
+  },
+  {
+    "word": "pill",
+    "grade": "7th-grade-season-2",
+    "unit": "Unit 3",
+    "meaning": [
+      "a small round tablet taken as medicine",
+      "a capsule or tablet containing drugs",
+      "to form something into a rounded shape"
+    ]
+  },
+  {
+    "word": "remain",
+    "grade": "7th-grade-season-2",
+    "unit": "Unit 3",
+    "meaning": [
+      "to continue to exist or stay in a place",
+      "to be left after others have gone or been removed",
+      "to stay behind or not depart"
+    ]
+  },
+  {
+    "word": "another",
+    "grade": "7th-grade-season-2",
+    "unit": "Unit 3",
+    "meaning": [
+      "one more or an additional item or person",
+      "different from the one previously mentioned",
+      "used to refer to a different or additional example"
+    ]
+  },
+  {
+    "word": "connection",
+    "grade": "7th-grade-season-2",
+    "unit": "Unit 3",
+    "meaning": [
+      "a relationship between two or more things",
+      "the act of linking or joining together",
+      "a relationship based on kinship or common interest"
+    ]
+  },
+  {
+    "word": "prove",
+    "grade": "7th-grade-season-2",
+    "unit": "Unit 3",
+    "meaning": [
+      "to demonstrate the truth or existence of something",
+      "to show or establish something conclusively",
+      "to test or evaluate the validity of something"
+    ]
+  },
+  {
+    "word": "similar",
+    "grade": "7th-grade-season-2",
+    "unit": "Unit 3",
+    "meaning": [
+      "resembling or having qualities in common",
+      "almost the same but not exactly identical",
+      "bearing resemblance to something else"
+    ]
+  },
+  {
+    "word": "special",
+    "grade": "7th-grade-season-2",
+    "unit": "Unit 3",
+    "meaning": [
+      "better, greater, or otherwise different from usual",
+      "set aside for a particular purpose or use",
+      "distinctive or unique in character"
+    ]
+  },
+  {
+    "word": "order",
+    "grade": "7th-grade-season-2",
+    "unit": "Unit 3",
+    "meaning": [
+      "the arrangement or sequence of things",
+      "to give a command or request to someone",
+      "to request food or goods from a restaurant or shop"
+    ]
+  },
+  {
+    "word": "pie",
+    "grade": "7th-grade-season-2",
+    "unit": "Unit 3",
+    "meaning": [
+      "a baked dish with pastry crust and filling",
+      "a dessert made with pastry and sweet filling",
+      "a dish with meat and vegetables in pastry"
+    ]
+  },
+  {
+    "word": "sandwich",
+    "grade": "7th-grade-season-2",
+    "unit": "Unit 3",
+    "meaning": [
+      "two slices of bread with food between them",
+      "to put something between two other things",
+      "a food item consisting of ingredients between bread"
+    ]
+  },
+  {
+    "word": "circle",
+    "grade": "7th-grade-season-2",
+    "unit": "Unit 3",
+    "meaning": [
+      "a round plane figure with all points equidistant",
+      "to move around something in a circular path",
+      "to enclose something by drawing a ring around it"
+    ]
+  },
+  {
+    "word": "scramble",
+    "grade": "7th-grade-season-2",
+    "unit": "Unit 3",
+    "meaning": [
+      "to move hurriedly with quick irregular movements",
+      "to cook eggs by stirring them while heating",
+      "to climb or crawl up something steep or rough"
+    ]
+  },
+  {
+    "word": "slice",
+    "grade": "7th-grade-season-2",
+    "unit": "Unit 3",
+    "meaning": [
+      "a thin flat piece cut from something",
+      "to cut something into thin flat pieces",
+      "a portion or share of something larger"
+    ]
+  },
+  {
+    "word": "beat",
+    "grade": "7th-grade-season-2",
+    "unit": "Unit 3",
+    "meaning": [
+      "to strike repeatedly or hit hard",
+      "to mix ingredients vigorously with a whisk or mixer",
+      "to defeat someone in a game or competition"
+    ]
+  },
+  {
+    "word": "add",
+    "grade": "7th-grade-season-2",
+    "unit": "Unit 3",
+    "meaning": [
+      "to join or combine something with another",
+      "to increase the number or amount of something",
+      "to put in or include something extra"
+    ]
+  },
+  {
+    "word": "salt",
+    "grade": "7th-grade-season-2",
+    "unit": "Unit 3",
+    "meaning": [
+      "a white crystalline substance used to flavor food",
+      "to add salt to food for seasoning",
+      "a compound of sodium and chlorine used in cooking"
+    ]
+  },
+  {
+    "word": "pepper",
+    "grade": "7th-grade-season-2",
+    "unit": "Unit 3",
+    "meaning": [
+      "a pungent spice made from peppercorns",
+      "to sprinkle pepper on food for seasoning",
+      "a spicy powder used to flavor dishes"
+    ]
+  },
+  {
+    "word": "oil",
+    "grade": "7th-grade-season-2",
+    "unit": "Unit 3",
+    "meaning": [
+      "a viscous liquid used as fuel or lubricant",
+      "to apply oil to something to prevent sticking",
+      "a greasy substance derived from plants or petroleum"
+    ]
+  },
+  {
+    "word": "pan",
+    "grade": "7th-grade-season-2",
+    "unit": "Unit 3",
+    "meaning": [
+      "a cooking vessel with a handle and often a lid",
+      "to criticize someone harshly or angrily",
+      "a shallow metallic container used for cooking"
+    ]
+  },
+  {
+    "word": "mixture",
+    "grade": "7th-grade-season-2",
+    "unit": "Unit 3",
+    "meaning": [
+      "a combination of different substances or elements",
+      "the result of combining two or more things",
+      "a blend or compound of various components"
+    ]
+  },
+  {
+    "word": "stir",
+    "grade": "7th-grade-season-2",
+    "unit": "Unit 3",
+    "meaning": [
+      "to move a spoon or implement around in a liquid",
+      "to cause movement or activity in a place",
+      "to mix ingredients by rotating a utensil"
+    ]
+  },
+  {
+    "word": "suffer",
+    "grade": "7th-grade-season-2",
+    "unit": "Unit 3",
+    "meaning": [
+      "to experience pain, illness, or injury",
+      "to undergo hardship or distress",
+      "to be subjected to or endure something unpleasant"
+    ]
+  },
+  {
+    "word": "stomach",
+    "grade": "7th-grade-season-2",
+    "unit": "Unit 3",
+    "meaning": [
+      "the organ in the body that digests food",
+      "to tolerate or accept something unpleasant",
+      "the belly or abdominal area of the body"
+    ]
+  },
+  {
+    "word": "totally",
+    "grade": "7th-grade-season-2",
+    "unit": "Unit 3",
+    "meaning": [
+      "completely or entirely without exception",
+      "to the greatest possible extent or degree",
+      "absolutely or altogether in every respect"
+    ]
+  },
+  {
+    "word": "Iranian",
+    "grade": "7th-grade-season-2",
+    "unit": "Unit 3",
+    "meaning": [
+      "relating to Iran or its people or language",
+      "a native or inhabitant of Iran",
+      "pertaining to the culture or citizens of Iran"
+    ]
+  },
+  {
+    "word": "flat",
+    "grade": "7th-grade-season-2",
+    "unit": "Unit 3",
+    "meaning": [
+      "having a level surface or base without curves",
+      "an apartment or set of rooms on one floor",
+      "compressed or pressed down in shape"
+    ]
+  },
+  {
+    "word": "stone",
+    "grade": "7th-grade-season-2",
+    "unit": "Unit 3",
+    "meaning": [
+      "a hard mineral material found in the ground",
+      "a piece of rock or mineral substance",
+      "to throw stones at something or someone"
+    ]
+  },
+  {
+    "word": "symbol",
+    "grade": "7th-grade-season-2",
+    "unit": "Unit 3",
+    "meaning": [
+      "a sign or mark representing something else",
+      "an object or image used to represent an idea",
+      "a thing that stands for or suggests something abstract"
+    ]
+  },
+  {
+    "word": "American",
+    "grade": "7th-grade-season-2",
+    "unit": "Unit 3",
+    "meaning": [
+      "relating to the United States of America",
+      "a native or inhabitant of the United States",
+      "characteristic of American culture or society"
+    ]
+  },
+  {
+    "word": "twin",
+    "grade": "7th-grade-season-2",
+    "unit": "Unit 3",
+    "meaning": [
+      "one of two children born at the same time",
+      "very similar or closely matched to another",
+      "occurring in pairs or having two of the same kind"
+    ]
+  },
+  {
+    "word": "bridge",
+    "grade": "7th-grade-season-2",
+    "unit": "Unit 3",
+    "meaning": [
+      "a structure spanning a river or road for crossing",
+      "to connect two things or places together",
+      "a device that connects different networks or systems"
+    ]
+  }
+]
+  {
+    "word": "slice",
+    "grade": "7th-grade-season-2",
+    "unit": "Unit 2",
+    "meaning": [
+      "片，薄片，切片"
+    ]
+  },
+  {
+    "word": "beat",
+    "grade": "7th-grade-season-2",
+    "unit": "Unit 2",
+    "meaning": [
+      "搅拌，搅打"
+    ]
+  },
+  {
+    "word": "add",
+    "grade": "7th-grade-season-2",
+    "unit": "Unit 2",
+    "meaning": [
+      "添加，增加"
+    ]
+  },
+  {
+    "word": "salt",
+    "grade": "7th-grade-season-2",
+    "unit": "Unit 2",
+    "meaning": [
+      "盐，食盐"
+    ]
+  },
+  {
+    "word": "pepper",
+    "grade": "7th-grade-season-2",
+    "unit": "Unit 2",
+    "meaning": [
+      "胡椒粉"
+    ]
+  },
+  {
+    "word": "oil",
+    "grade": "7th-grade-season-2",
+    "unit": "Unit 2",
+    "meaning": [
+      "植物油，动物油"
+    ]
+  },
+  {
+    "word": "pan",
+    "grade": "7th-grade-season-2",
+    "unit": "Unit 2",
+    "meaning": [
+      "（长柄有盖的）锅，平底锅"
+    ]
+  },
+  {
+    "word": "mixture",
+    "grade": "7th-grade-season-2",
+    "unit": "Unit 2",
+    "meaning": [
+      "（尤指烹饪中的）混合液，混合料"
+    ]
+  },
+  {
+    "word": "stir",
+    "grade": "7th-grade-season-2",
+    "unit": "Unit 2",
+    "meaning": [
+      "搅，搅拌，搅动"
+    ]
+  },
+  {
+    "word": "suffer",
+    "grade": "7th-grade-season-2",
+    "unit": "Unit 2",
+    "meaning": [
+      "（身体或精神上）受苦，遭受（痛苦）"
+    ]
+  },
+  {
+    "word": "stomach",
+    "grade": "7th-grade-season-2",
+    "unit": "Unit 2",
+    "meaning": [
+      "胃"
+    ]
+  },
+  {
+    "word": "totally",
+    "grade": "7th-grade-season-2",
+    "unit": "Unit 2",
+    "meaning": [
+      "完全地，彻底地"
+    ]
+  },
+  {
+    "word": "Iranian",
+    "grade": "7th-grade-season-2",
+    "unit": "Unit 2",
+    "meaning": [
+      "伊朗人"
+    ]
+  },
+  {
+    "word": "flat",
+    "grade": "7th-grade-season-2",
+    "unit": "Unit 2",
+    "meaning": [
+      "平的，平坦的"
+    ]
+  },
+  {
+    "word": "stone",
+    "grade": "7th-grade-season-2",
+    "unit": "Unit 2",
+    "meaning": [
+      "石块，石子"
+    ]
+  },
+  {
+    "word": "symbol",
+    "grade": "7th-grade-season-2",
+    "unit": "Unit 2",
+    "meaning": [
+      "代表性人物（事物）"
+    ]
+  },
+  {
+    "word": "American",
+    "grade": "7th-grade-season-2",
+    "unit": "Unit 2",
+    "meaning": [
+      "美国的；美国人的"
+    ]
+  },
+  {
+    "word": "twin",
+    "grade": "7th-grade-season-2",
+    "unit": "Unit 2",
+    "meaning": [
+      "双胞胎之一的"
+    ]
+  },
+  {
+    "word": "bridge",
+    "grade": "7th-grade-season-2",
+    "unit": "Unit 2",
+    "meaning": [
+      "（事物之间的）桥梁，纽带"
     ]
   }
 ]
