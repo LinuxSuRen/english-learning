@@ -3,13 +3,20 @@ const path = require('path');
 
 /**
  * 合并JSON词汇文件
- * @param {string} sourceJson - 源JSON字符串（数组格式）
+ * @param {string} sourceJson - 源JSON字符串或源JSON文件路径（数组格式）
  * @param {string} targetFile - 目标JSON文件路径
  */
 function mergeVocabularyFiles(sourceJson, targetFile) {
   try {
-    // 解析源JSON字符串和读取目标文件
-    const sourceData = JSON.parse(sourceJson);
+    // 判断sourceJson是否为文件路径
+    let sourceData;
+    if (fs.existsSync(sourceJson)) {
+      // 如果是存在的文件路径，则读取文件内容
+      sourceData = JSON.parse(fs.readFileSync(sourceJson, 'utf8'));
+    } else {
+      // 否则作为JSON字符串处理
+      sourceData = JSON.parse(sourceJson);
+    }
     const targetData = JSON.parse(fs.readFileSync(targetFile, 'utf8'));
 
     // 创建目标文件中词汇的映射，用于快速查找
@@ -70,7 +77,9 @@ function mergeVocabularyFiles(sourceJson, targetFile) {
 function main() {
   if (process.argv.length !== 4) {
     console.log('使用方法: node merge_json.js \'[源JSON数组字符串]\' <目标文件路径>');
-    console.log('示例: node merge_json.js \'[{"word":"test","meaning":["测试"]}]\' ./target.json');
+    console.log('或: node merge_json.js <源JSON文件路径> <目标文件路径>');
+    console.log('示例1: node merge_json.js \'[{"word":"test","meaning":["测试"]}]\' ./target.json');
+    console.log('示例2: node merge_json.js ./source.json ./target.json');
     return;
   }
 
