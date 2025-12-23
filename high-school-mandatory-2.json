@@ -4033,5 +4033,857 @@
       "seasoning made from cooking meat",
       "liquid sauce made from meat"
     ]
+  },
+  {
+    "word": "shark",
+    "phonetic": "/ʃɑːk/",
+    "grade": "high-school-mandatory-2",
+    "unit": "Unit 6",
+    "label": [
+      "外研社"
+    ],
+    "definitions": [
+      "a large fish with sharp teeth",
+      "a sea creature with a pointed fin",
+      "a predatory marine animal"
+    ]
+  },
+  {
+    "word": "scare",
+    "phonetic": "/skeə/",
+    "grade": "high-school-mandatory-2",
+    "unit": "Unit 6",
+    "label": [
+      "外研社"
+    ],
+    "definitions": [
+      "to frighten someone",
+      "to cause fear",
+      "to make someone afraid"
+    ]
+  },
+  {
+    "word": "due to",
+    "grade": "high-school-mandatory-2",
+    "unit": "Unit 6",
+    "label": [
+      "外研社"
+    ],
+    "definitions": [
+      "because of",
+      "as a result of",
+      "owing to"
+    ]
+  },
+  {
+    "word": "fin",
+    "phonetic": "/fɪn/",
+    "grade": "high-school-mandatory-2",
+    "unit": "Unit 6",
+    "label": [
+      "外研社"
+    ],
+    "definitions": [
+      "a limb for swimming",
+      "a flat appendage used for locomotion",
+      "a structure for propelling through water"
+    ]
+  },
+  {
+    "word": "dive",
+    "phonetic": "/daɪv/",
+    "grade": "high-school-mandatory-2",
+    "unit": "Unit 6",
+    "label": [
+      "外研社"
+    ],
+    "definitions": [
+      "to plunge into water",
+      "to go underwater",
+      "to descend into water"
+    ]
+  },
+  {
+    "word": "target",
+    "phonetic": "/ˈtɑːɡɪt/",
+    "grade": "high-school-mandatory-2",
+    "unit": "Unit 6",
+    "label": [
+      "外研社"
+    ],
+    "definitions": [
+      "to aim at",
+      "to direct efforts toward",
+      "to make something a goal"
+    ]
+  },
+  {
+    "word": "fortunately",
+    "phonetic": "/ˈfɔːtʃ(ə)nətli/",
+    "grade": "high-school-mandatory-2",
+    "unit": "Unit 6",
+    "label": [
+      "外研社"
+    ],
+    "definitions": [
+      "luckily",
+      "by good fortune",
+      "in a fortunate manner"
+    ]
+  },
+  {
+    "word": "extinction",
+    "phonetic": "/ɪkˈstɪŋkʃ(ə)n/",
+    "grade": "high-school-mandatory-2",
+    "unit": "Unit 6",
+    "label": [
+      "外研社"
+    ],
+    "definitions": [
+      "the process of dying out",
+      "the state of no longer existing",
+      "the termination of existence"
+    ]
+  },
+  {
+    "word": "attitude",
+    "phonetic": "/ˈætɪtjuːd/",
+    "grade": "high-school-mandatory-2",
+    "unit": "Unit 6",
+    "label": [
+      "外研社"
+    ],
+    "definitions": [
+      "a person's perspective",
+      "a way of thinking about something",
+      "a person's mental position"
+    ]
+  },
+  {
+    "word": "devote",
+    "phonetic": "/dɪˈvəʊt/",
+    "grade": "high-school-mandatory-2",
+    "unit": "Unit 6",
+    "label": [
+      "外研社"
+    ],
+    "definitions": [
+      "to dedicate time to",
+      "to commit oneself to",
+      "to allocate resources to"
+    ]
+  },
+  {
+    "word": "ocean",
+    "phonetic": "/ˈəʊʃ(ə)n/",
+    "grade": "high-school-mandatory-2",
+    "unit": "Unit 6",
+    "label": [
+      "外研社"
+    ],
+    "definitions": [
+      "a large body of salt water",
+      "a vast sea",
+      "a major water body"
+    ]
+  },
+  {
+    "word": "highlight",
+    "phonetic": "/ˈhaɪlaɪt/",
+    "grade": "high-school-mandatory-2",
+    "unit": "Unit 6",
+    "label": [
+      "外研社"
+    ],
+    "definitions": [
+      "to emphasize",
+      "to make prominent",
+      "to draw attention to"
+    ]
+  },
+  {
+    "word": "cruelty",
+    "phonetic": "/ˈkruːəlti/",
+    "grade": "high-school-mandatory-2",
+    "unit": "Unit 6",
+    "label": [
+      "外研社"
+    ],
+    "definitions": [
+      "the quality of being cruel",
+      "inhumanity",
+      "harsh treatment"
+    ]
+  },
+  {
+    "word": "hunting",
+    "phonetic": "/ˈhʌntɪŋ/",
+    "grade": "high-school-mandatory-2",
+    "unit": "Unit 6",
+    "label": [
+      "外研社"
+    ],
+    "definitions": [
+      "the pursuit of animals",
+      "the act of chasing prey",
+      "the activity of tracking game"
+    ]
+  },
+  {
+    "word": "presentation",
+    "phonetic": "/ˌprez(ə)nˈteɪʃ(ə)n/",
+    "grade": "high-school-mandatory-2",
+    "unit": "Unit 6",
+    "label": [
+      "外研社"
+    ],
+    "definitions": [
+      "a formal display",
+      "an act of showing information",
+      "a demonstration of ideas"
+    ]
+  },
+  {
+    "word": "reserve",
+    "phonetic": "/rɪˈzɜːv/",
+    "grade": "high-school-mandatory-2",
+    "unit": "Unit 6",
+    "label": [
+      "外研社"
+    ],
+    "definitions": [
+      "to set aside",
+      "to keep for later",
+      "to preserve for future use"
+    ]
+  },
+  {
+    "word": "staff",
+    "phonetic": "/stɑːf/",
+    "grade": "high-school-mandatory-2",
+    "unit": "Unit 6",
+    "label": [
+      "外研社"
+    ],
+    "definitions": [
+      "employees of an organization",
+      "personnel",
+      "workers"
+    ]
+  },
+  {
+    "word": "establish",
+    "phonetic": "/ɪˈstæblɪʃ/",
+    "grade": "high-school-mandatory-2",
+    "unit": "Unit 6",
+    "label": [
+      "外研社"
+    ],
+    "definitions": [
+      "to set up",
+      "to create",
+      "to found"
+    ]
+  },
+  {
+    "word": "damage",
+    "phonetic": "/ˈdæmɪdʒ/",
+    "grade": "high-school-mandatory-2",
+    "unit": "Unit 6",
+    "label": [
+      "外研社"
+    ],
+    "definitions": [
+      "to harm",
+      "to impair",
+      "to cause harm to"
+    ]
+  },
+  {
+    "word": "drought",
+    "phonetic": "/draʊt/",
+    "grade": "high-school-mandatory-2",
+    "unit": "Unit 6",
+    "label": [
+      "外研社"
+    ],
+    "definitions": [
+      "a period of dry weather",
+      "lack of rainfall",
+      "water shortage"
+    ]
+  },
+  {
+    "word": "flood",
+    "phonetic": "/flʌd/",
+    "grade": "high-school-mandatory-2",
+    "unit": "Unit 6",
+    "label": [
+      "外研社"
+    ],
+    "definitions": [
+      "an overflow of water",
+      "an excessive amount",
+      "a large quantity"
+    ]
+  },
+  {
+    "word": "affect",
+    "phonetic": "/əˈfekt/",
+    "grade": "high-school-mandatory-2",
+    "unit": "Unit 6",
+    "label": [
+      "外研社"
+    ],
+    "definitions": [
+      "to influence",
+      "to have an impact on",
+      "to produce a change in"
+    ]
+  },
+  {
+    "word": "supply",
+    "phonetic": "/səˈplaɪ/",
+    "grade": "high-school-mandatory-2",
+    "unit": "Unit 6",
+    "label": [
+      "外研社"
+    ],
+    "definitions": [
+      "to provide",
+      "to make available",
+      "to furnish"
+    ]
+  },
+  {
+    "word": "restore",
+    "phonetic": "/rɪˈstɔː/",
+    "grade": "high-school-mandatory-2",
+    "unit": "Unit 6",
+    "label": [
+      "外研社"
+    ],
+    "definitions": [
+      "to bring back",
+      "to return to original state",
+      "to recover"
+    ]
+  },
+  {
+    "word": "adopt",
+    "phonetic": "/əˈdɒpt/",
+    "grade": "high-school-mandatory-2",
+    "unit": "Unit 6",
+    "label": [
+      "外研社"
+    ],
+    "definitions": [
+      "to take up",
+      "to accept",
+      "to implement"
+    ]
+  },
+  {
+    "word": "sustainable",
+    "phonetic": "/səˈsteɪnəb(ə)l/",
+    "grade": "high-school-mandatory-2",
+    "unit": "Unit 6",
+    "label": [
+      "外研社"
+    ],
+    "definitions": [
+      "able to continue over time",
+      "environmentally responsible",
+      "maintainable"
+    ]
+  },
+  {
+    "word": "bulb",
+    "phonetic": "/bʌlb/",
+    "grade": "high-school-mandatory-2",
+    "unit": "Unit 6",
+    "label": [
+      "外研社"
+    ],
+    "definitions": [
+      "an electric light source",
+      "a glass device that produces light",
+      "a lamp"
+    ]
+  },
+  {
+    "word": "renewable",
+    "phonetic": "/rɪˈnjuːəb(ə)l/",
+    "grade": "high-school-mandatory-2",
+    "unit": "Unit 6",
+    "label": [
+      "外研社"
+    ],
+    "definitions": [
+      "able to be replenished",
+      "capable of regeneration",
+      "self-replenishing"
+    ]
+  },
+  {
+    "word": "carbon",
+    "phonetic": "/ˈkɑːbən/",
+    "grade": "high-school-mandatory-2",
+    "unit": "Unit 6",
+    "label": [
+      "外研社"
+    ],
+    "definitions": [
+      "a chemical element",
+      "an element forming organic compounds",
+      "a nonmetallic element"
+    ]
+  },
+  {
+    "word": "greenhouse",
+    "phonetic": "/ˈɡriːnhaʊs/",
+    "grade": "high-school-mandatory-2",
+    "unit": "Unit 6",
+    "label": [
+      "外研社"
+    ],
+    "definitions": [
+      "a glass building for plants",
+      "a structure for growing plants",
+      "a building for cultivating plants"
+    ]
+  },
+  {
+    "word": "reusable",
+    "phonetic": "/riːˈjuːzəb(ə)l/",
+    "grade": "high-school-mandatory-2",
+    "unit": "Unit 6",
+    "label": [
+      "外研社"
+    ],
+    "definitions": [
+      "able to be used again",
+      "capable of multiple uses",
+      "recyclable"
+    ]
+  },
+  {
+    "word": "brochure",
+    "phonetic": "/ˈbrəʊʃə/",
+    "grade": "high-school-mandatory-2",
+    "unit": "Unit 6",
+    "label": [
+      "外研社"
+    ],
+    "definitions": [
+      "a small pamphlet",
+      "an informational leaflet",
+      "a promotional publication"
+    ]
+  },
+  {
+    "word": "reduce",
+    "phonetic": "/rɪˈdjuːs/",
+    "grade": "high-school-mandatory-2",
+    "unit": "Unit 6",
+    "label": [
+      "外研社"
+    ],
+    "definitions": [
+      "to make smaller",
+      "to decrease",
+      "to diminish"
+    ]
+  },
+  {
+    "word": "solar",
+    "phonetic": "/ˈsəʊlə/",
+    "grade": "high-school-mandatory-2",
+    "unit": "Unit 6",
+    "label": [
+      "外研社"
+    ],
+    "definitions": [
+      "relating to the sun",
+      "powered by sunlight",
+      "using solar energy"
+    ]
+  },
+  {
+    "word": "release",
+    "phonetic": "/rɪˈliːs/",
+    "grade": "high-school-mandatory-2",
+    "unit": "Unit 6",
+    "label": [
+      "外研社"
+    ],
+    "definitions": [
+      "to let out",
+      "to emit",
+      "to discharge"
+    ]
+  },
+  {
+    "word": "smog",
+    "phonetic": "/smɒɡ/",
+    "grade": "high-school-mandatory-2",
+    "unit": "Unit 6",
+    "label": [
+      "外研社"
+    ],
+    "definitions": [
+      "polluted air",
+      "fog mixed with smoke",
+      "harmful atmospheric mixture"
+    ]
+  },
+  {
+    "word": "fog",
+    "phonetic": "/fɒɡ/",
+    "grade": "high-school-mandatory-2",
+    "unit": "Unit 6",
+    "label": [
+      "外研社"
+    ],
+    "definitions": [
+      "a cloud near the ground",
+      "a mist",
+      "a condition reducing visibility"
+    ]
+  },
+  {
+    "word": "severe",
+    "phonetic": "/sɪˈvɪə/",
+    "grade": "high-school-mandatory-2",
+    "unit": "Unit 6",
+    "label": [
+      "外研社"
+    ],
+    "definitions": [
+      "very serious",
+      "intense",
+      "harsh"
+    ]
+  },
+  {
+    "word": "infection",
+    "phonetic": "/ɪnˈfekʃ(ə)n/",
+    "grade": "high-school-mandatory-2",
+    "unit": "Unit 6",
+    "label": [
+      "外研社"
+    ],
+    "definitions": [
+      "the process of infecting",
+      "a disease caused by microorganisms",
+      "the invasion of an organism by pathogens"
+    ]
+  },
+  {
+    "word": "lecture",
+    "phonetic": "/ˈlektʃə/",
+    "grade": "high-school-mandatory-2",
+    "unit": "Unit 6",
+    "label": [
+      "外研社"
+    ],
+    "definitions": [
+      "a formal presentation",
+      "an academic talk",
+      "an educational discourse"
+    ]
+  },
+  {
+    "word": "permission",
+    "phonetic": "/pəˈmɪʃ(ə)n/",
+    "grade": "high-school-mandatory-2",
+    "unit": "Unit 6",
+    "label": [
+      "外研社"
+    ],
+    "definitions": [
+      "authorization",
+      "consent",
+      "approval"
+    ]
+  },
+  {
+    "word": "slide",
+    "phonetic": "/slaɪd/",
+    "grade": "high-school-mandatory-2",
+    "unit": "Unit 6",
+    "label": [
+      "外研社"
+    ],
+    "definitions": [
+      "a visual presentation item",
+      "a projected image",
+      "a transparent picture"
+    ]
+  },
+  {
+    "word": "majority",
+    "phonetic": "/məˈdʒɒrəti/",
+    "grade": "high-school-mandatory-2",
+    "unit": "Unit 6",
+    "label": [
+      "外研社"
+    ],
+    "definitions": [
+      "the greater number",
+      "more than half",
+      "the larger portion"
+    ]
+  },
+  {
+    "word": "false",
+    "phonetic": "/fɔːls/",
+    "grade": "high-school-mandatory-2",
+    "unit": "Unit 6",
+    "label": [
+      "外研社"
+    ],
+    "definitions": [
+      "not true",
+      "incorrect",
+      "untrue"
+    ]
+  },
+  {
+    "word": "amount",
+    "phonetic": "/əˈmaʊnt/",
+    "grade": "high-school-mandatory-2",
+    "unit": "Unit 6",
+    "label": [
+      "外研社"
+    ],
+    "definitions": [
+      "a quantity",
+      "a sum",
+      "a number"
+    ]
+  },
+  {
+    "word": "device",
+    "phonetic": "/dɪˈvaɪs/",
+    "grade": "high-school-mandatory-2",
+    "unit": "Unit 6",
+    "label": [
+      "外研社"
+    ],
+    "definitions": [
+      "a piece of equipment",
+      "a tool",
+      "an instrument"
+    ]
+  },
+  {
+    "word": "stand-by",
+    "phonetic": "/ˈstændbaɪ/",
+    "grade": "high-school-mandatory-2",
+    "unit": "Unit 6",
+    "label": [
+      "外研社"
+    ],
+    "definitions": [
+      "on standby",
+      "in reserve",
+      "available for use"
+    ]
+  },
+  {
+    "word": "mode",
+    "phonetic": "/məʊd/",
+    "grade": "high-school-mandatory-2",
+    "unit": "Unit 6",
+    "label": [
+      "外研社"
+    ],
+    "definitions": [
+      "a manner of operation",
+      "a state of functioning",
+      "a setting"
+    ]
+  },
+  {
+    "word": "electricity",
+    "phonetic": "/ɪˌlekˈtrɪsɪti/",
+    "grade": "high-school-mandatory-2",
+    "unit": "Unit 6",
+    "label": [
+      "外研社"
+    ],
+    "definitions": [
+      "a form of energy",
+      "the flow of electric charge",
+      "power supplied as electric current"
+    ]
+  },
+  {
+    "word": "leak",
+    "phonetic": "/liːk/",
+    "grade": "high-school-mandatory-2",
+    "unit": "Unit 6",
+    "label": [
+      "外研社"
+    ],
+    "definitions": [
+      "to allow to flow out",
+      "to escape",
+      "to permit passage"
+    ]
+  },
+  {
+    "word": "appliance",
+    "phonetic": "/əˈplaɪəns/",
+    "grade": "high-school-mandatory-2",
+    "unit": "Unit 6",
+    "label": [
+      "外研社"
+    ],
+    "definitions": [
+      "a household device",
+      "a piece of equipment",
+      "a utility device"
+    ]
+  },
+  {
+    "word": "remove",
+    "phonetic": "/rɪˈmuːv/",
+    "grade": "high-school-mandatory-2",
+    "unit": "Unit 6",
+    "label": [
+      "外研社"
+    ],
+    "definitions": [
+      "to take away",
+      "to eliminate",
+      "to get rid of"
+    ]
+  },
+  {
+    "word": "plug",
+    "phonetic": "/plʌɡ/",
+    "grade": "high-school-mandatory-2",
+    "unit": "Unit 6",
+    "label": [
+      "外研社"
+    ],
+    "definitions": [
+      "an electrical connector",
+      "a device for connecting",
+      "an electrical fitting"
+    ]
+  },
+  {
+    "word": "take... into account",
+    "grade": "high-school-mandatory-2",
+    "unit": "Unit 6",
+    "label": [
+      "外研社"
+    ],
+    "definitions": [
+      "to consider",
+      "to take into consideration",
+      "to factor in"
+    ]
+  },
+  {
+    "word": "litre",
+    "phonetic": "/ˈliːtə/",
+    "grade": "high-school-mandatory-2",
+    "unit": "Unit 6",
+    "label": [
+      "外研社"
+    ],
+    "definitions": [
+      "a metric unit of volume",
+      "a measure of liquid capacity",
+      "a unit of measurement"
+    ]
+  },
+  {
+    "word": "campaign",
+    "phonetic": "/kæmˈpeɪn/",
+    "grade": "high-school-mandatory-2",
+    "unit": "Unit 6",
+    "label": [
+      "外研社"
+    ],
+    "definitions": [
+      "a series of activities",
+      "an organized effort",
+      "a coordinated set of actions"
+    ]
+  },
+  {
+    "word": "urge",
+    "phonetic": "/ɜːdʒ/",
+    "grade": "high-school-mandatory-2",
+    "unit": "Unit 6",
+    "label": [
+      "外研社"
+    ],
+    "definitions": [
+      "to strongly recommend",
+      "to advocate",
+      "to press for action"
+    ]
+  },
+  {
+    "word": "canteen",
+    "phonetic": "/kænˈtiːn/",
+    "grade": "high-school-mandatory-2",
+    "unit": "Unit 6",
+    "label": [
+      "外研社"
+    ],
+    "definitions": [
+      "a cafeteria",
+      "a dining area",
+      "a place serving food"
+    ]
+  },
+  {
+    "word": "concerned",
+    "phonetic": "/kənˈsɜːnd/",
+    "grade": "high-school-mandatory-2",
+    "unit": "Unit 6",
+    "label": [
+      "外研社"
+    ],
+    "definitions": [
+      "worried",
+      "anxious",
+      "showing care"
+    ]
+  },
+  {
+    "word": "contribute",
+    "phonetic": "/kənˈtrɪbjuːt/",
+    "grade": "high-school-mandatory-2",
+    "unit": "Unit 6",
+    "label": [
+      "外研社"
+    ],
+    "definitions": [
+      "to give",
+      "to add to",
+      "to cause to happen"
+    ]
+  },
+  {
+    "word": "average",
+    "phonetic": "/ˈæv(ə)rɪdʒ/",
+    "grade": "high-school-mandatory-2",
+    "unit": "Unit 6",
+    "label": [
+      "外研社"
+    ],
+    "definitions": [
+      "typical",
+      "usual",
+      "mean amount"
+    ]
   }
 ]
