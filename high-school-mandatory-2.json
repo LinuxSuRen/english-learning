@@ -1049,5 +1049,871 @@
     "definitions": [
       "洋葱（头）"
     ]
+  },
+  {
+    "word": "honour",
+    "phonetic": "/ˈɒnə/",
+    "grade": "high-school-mandatory-2",
+    "unit": "Unit 2",
+    "label": [
+      "外研社"
+    ],
+    "definitions": [
+      "to respect or show respect for",
+      "to give special recognition to",
+      "to fulfill a commitment or obligation"
+    ]
+  },
+  {
+    "word": "dragon",
+    "phonetic": "/ˈdræɡən/",
+    "grade": "high-school-mandatory-2",
+    "unit": "Unit 2",
+    "label": [
+      "外研社"
+    ],
+    "definitions": [
+      "a large imaginary creature with wings and the ability to breathe fire",
+      "a fierce or terrible person",
+      "a symbol of evil in Western cultures"
+    ]
+  },
+  {
+    "word": "lunar",
+    "phonetic": "/ˈluːnə/",
+    "grade": "high-school-mandatory-2",
+    "unit": "Unit 2",
+    "label": [
+      "外研社"
+    ],
+    "definitions": [
+      "relating to the Moon",
+      "happening or measured by months",
+      "resembling the Moon in shape"
+    ]
+  },
+  {
+    "word": "poet",
+    "phonetic": "/ˈpəʊɪt/",
+    "grade": "high-school-mandatory-2",
+    "unit": "Unit 2",
+    "label": [
+      "外研社"
+    ],
+    "definitions": [
+      "a person who writes poems",
+      "a creative writer who expresses feelings and ideas in verse",
+      "one skilled in the writing of poetry"
+    ]
+  },
+  {
+    "word": "harvest",
+    "phonetic": "/ˈhɑːvɪst/",
+    "grade": "high-school-mandatory-2",
+    "unit": "Unit 2",
+    "label": [
+      "外研社"
+    ],
+    "definitions": [
+      "the time when crops are gathered",
+      "the amount of crops gathered",
+      "to gather crops from the fields"
+    ]
+  },
+  {
+    "word": "decoration",
+    "phonetic": "/ˌdekəˈreɪʃ(ə)n/",
+    "grade": "high-school-mandatory-2",
+    "unit": "Unit 2",
+    "label": [
+      "外研社"
+    ],
+    "definitions": [
+      "an object used to make a place or thing look more attractive",
+      "the act of decorating or making something more attractive",
+      "ornamental details or features"
+    ]
+  },
+  {
+    "word": "freedom",
+    "phonetic": "/ˈfriːdəm/",
+    "grade": "high-school-mandatory-2",
+    "unit": "Unit 2",
+    "label": [
+      "外研社"
+    ],
+    "definitions": [
+      "the right to act, speak, or think as you want",
+      "the absence of constraints or limitations",
+      "independence from slavery or imprisonment"
+    ]
+  },
+  {
+    "word": "participate",
+    "phonetic": "/pɑːˈtɪsɪpeɪt/",
+    "grade": "high-school-mandatory-2",
+    "unit": "Unit 2",
+    "label": [
+      "外研社"
+    ],
+    "definitions": [
+      "to take part in an activity or event",
+      "to become involved in something",
+      "to share or contribute to a group activity"
+    ]
+  },
+  {
+    "word": "vote",
+    "phonetic": "/vəʊt/",
+    "grade": "high-school-mandatory-2",
+    "unit": "Unit 2",
+    "label": [
+      "外研社"
+    ],
+    "definitions": [
+      "to give your opinion or choice in a formal election",
+      "to express a decision or choice formally",
+      "to support a proposal or candidate by ballot"
+    ]
+  },
+  {
+    "word": "regardless",
+    "phonetic": "/rɪˈɡɑːdləs/",
+    "grade": "high-school-mandatory-2",
+    "unit": "Unit 2",
+    "label": [
+      "外研社"
+    ],
+    "definitions": [
+      "without being affected by something",
+      "in spite of everything",
+      "not taking notice of certain conditions"
+    ]
+  },
+  {
+    "word": "inequality",
+    "phonetic": "/ˌɪnɪˈkwɒləti/",
+    "grade": "high-school-mandatory-2",
+    "unit": "Unit 2",
+    "label": [
+      "外研社"
+    ],
+    "definitions": [
+      "the condition of being unequal in status, opportunity, or circumstances",
+      "lack of equality or uniformity",
+      "disparity in distribution of resources or opportunities"
+    ]
+  },
+  {
+    "word": "fantasy",
+    "phonetic": "/ˈfæntəsi/",
+    "grade": "high-school-mandatory-2",
+    "unit": "Unit 2",
+    "label": [
+      "外研社"
+    ],
+    "definitions": [
+      "the faculty or activity of imagining things, especially things that are impossible or improbable",
+      "a genre of imaginative fiction involving magic and adventure",
+      "a product of the imagination that does not correspond to reality"
+    ]
+  },
+  {
+    "word": "novel",
+    "phonetic": "/ˈnɒv(ə)l/",
+    "grade": "high-school-mandatory-2",
+    "unit": "Unit 2",
+    "label": [
+      "外研社"
+    ],
+    "definitions": [
+      "a long written story about imaginary characters and events",
+      "a book-length fictional prose narrative",
+      "something new, original, or innovative"
+    ]
+  },
+  {
+    "word": "limitless",
+    "phonetic": "/ˈlɪmɪtləs/",
+    "grade": "high-school-mandatory-2",
+    "unit": "Unit 2",
+    "label": [
+      "外研社"
+    ],
+    "definitions": [
+      "having no limits or boundaries",
+      "unlimited in extent or size",
+      "seemingly infinite"
+    ]
+  },
+  {
+    "word": "regard",
+    "phonetic": "/rɪˈɡɑːd/",
+    "grade": "high-school-mandatory-2",
+    "unit": "Unit 2",
+    "label": [
+      "外研社"
+    ],
+    "definitions": [
+      "to consider or think of in a particular way",
+      "to look at attentively",
+      "to pay attention to"
+    ]
+  },
+  {
+    "word": "regard... as...",
+    "grade": "high-school-mandatory-2",
+    "unit": "Unit 2",
+    "label": [
+      "外研社"
+    ],
+    "definitions": [
+      "to consider someone or something as a particular role or type",
+      "to think of in a specified way",
+      "to view as having certain qualities"
+    ]
+  },
+  {
+    "word": "literature",
+    "phonetic": "/ˈlɪt(ə)rətʃə/",
+    "grade": "high-school-mandatory-2",
+    "unit": "Unit 2",
+    "label": [
+      "外研社"
+    ],
+    "definitions": [
+      "written works, especially those considered of superior or lasting artistic merit",
+      "books and other texts as a subject of study",
+      "the body of written works of a country or period"
+    ]
+  },
+  {
+    "word": "envelope",
+    "phonetic": "/ˈenvələʊp/",
+    "grade": "high-school-mandatory-2",
+    "unit": "Unit 2",
+    "label": [
+      "外研社"
+    ],
+    "definitions": [
+      "a flat paper container for a letter",
+      "something that envelops or surrounds",
+      "the maximum operating limitations of an aircraft"
+    ]
+  },
+  {
+    "word": "pole",
+    "phonetic": "/pəʊl/",
+    "grade": "high-school-mandatory-2",
+    "unit": "Unit 2",
+    "label": [
+      "外研社"
+    ],
+    "definitions": [
+      "each of the two points on the earth's surface at which the axis of rotation meets the globe",
+      "a long thin piece of wood, metal, or plastic",
+      "one of two opposing points of view or characteristics"
+    ]
+  },
+  {
+    "word": "handwritten",
+    "phonetic": "/ˌhændˈrɪtn/",
+    "grade": "high-school-mandatory-2",
+    "unit": "Unit 2",
+    "label": [
+      "外研社"
+    ],
+    "definitions": [
+      "written by hand rather than typed or printed",
+      "done or made using the hands",
+      "marked by personal involvement"
+    ]
+  },
+  {
+    "word": "regular",
+    "phonetic": "/ˈreɡjʊlə/",
+    "grade": "high-school-mandatory-2",
+    "unit": "Unit 2",
+    "label": [
+      "外研社"
+    ],
+    "definitions": [
+      "happening or doing something often or at uniform intervals",
+      "following a uniform or established pattern",
+      "normal or standard in nature"
+    ]
+  },
+  {
+    "word": "polar",
+    "phonetic": "/ˈpəʊlə/",
+    "grade": "high-school-mandatory-2",
+    "unit": "Unit 2",
+    "label": [
+      "外研社"
+    ],
+    "definitions": [
+      "relating to the poles of the earth",
+      "located at or near the North or South Pole",
+      "of or at the poles of a sphere"
+    ]
+  },
+  {
+    "word": "roof",
+    "phonetic": "/ruːf/",
+    "grade": "high-school-mandatory-2",
+    "unit": "Unit 2",
+    "label": [
+      "外研社"
+    ],
+    "definitions": [
+      "the top covering of a building or vehicle",
+      "the upper boundary of a space",
+      "a place of shelter"
+    ]
+  },
+  {
+    "word": "complain",
+    "phonetic": "/kəmˈpleɪn/",
+    "grade": "high-school-mandatory-2",
+    "unit": "Unit 2",
+    "label": [
+      "外研社"
+    ],
+    "definitions": [
+      "to say that you are annoyed, not satisfied, or unhappy about something",
+      "to express grief, pain, or dissatisfaction",
+      "to make a formal accusation"
+    ]
+  },
+  {
+    "word": "warning",
+    "phonetic": "/ˈwɔːnɪŋ/",
+    "grade": "high-school-mandatory-2",
+    "unit": "Unit 2",
+    "label": [
+      "外研社"
+    ],
+    "definitions": [
+      "a statement or event that warns of a danger",
+      "the action of warning someone",
+      "a sign of a potential problem"
+    ]
+  },
+  {
+    "word": "starving",
+    "phonetic": "/ˈstɑːvɪŋ/",
+    "grade": "high-school-mandatory-2",
+    "unit": "Unit 2",
+    "label": [
+      "外研社"
+    ],
+    "definitions": [
+      "extremely hungry",
+      "suffering from lack of food",
+      "needing something very much"
+    ]
+  },
+  {
+    "word": "indicate",
+    "phonetic": "/ˈɪndɪkeɪt/",
+    "grade": "high-school-mandatory-2",
+    "unit": "Unit 2",
+    "label": [
+      "外研社"
+    ],
+    "definitions": [
+      "to point out or make known",
+      "to show or demonstrate",
+      "to suggest or imply"
+    ]
+  },
+  {
+    "word": "request",
+    "phonetic": "/rɪˈkwest/",
+    "grade": "high-school-mandatory-2",
+    "unit": "Unit 2",
+    "label": [
+      "外研社"
+    ],
+    "definitions": [
+      "to politely or formally ask for something",
+      "to make a request",
+      "to express a desire for something"
+    ]
+  },
+  {
+    "word": "fancy",
+    "phonetic": "/ˈfænsi/",
+    "grade": "high-school-mandatory-2",
+    "unit": "Unit 2",
+    "label": [
+      "外研社"
+    ],
+    "definitions": [
+      "elaborate or complicated",
+      "attracting fancy or attention",
+      "inclined to something"
+    ]
+  },
+  {
+    "word": "fancy dress",
+    "grade": "high-school-mandatory-2",
+    "unit": "Unit 2",
+    "label": [
+      "外研社"
+    ],
+    "definitions": [
+      "costume worn at a party or event",
+      "clothes worn to represent a character or theme",
+      "elaborate clothing worn for special occasions"
+    ]
+  },
+  {
+    "word": "guy",
+    "phonetic": "/ɡaɪ/",
+    "grade": "high-school-mandatory-2",
+    "unit": "Unit 2",
+    "label": [
+      "外研社"
+    ],
+    "definitions": [
+      "a man or youth",
+      "a person (used in addressing a man)",
+      "a person of a particular kind"
+    ]
+  },
+  {
+    "word": "wave",
+    "phonetic": "/weɪv/",
+    "grade": "high-school-mandatory-2",
+    "unit": "Unit 2",
+    "label": [
+      "外研社"
+    ],
+    "definitions": [
+      "to move one's hand to and fro as a greeting",
+      "to cause to move in a wavelike motion",
+      "to signal with a waving motion"
+    ]
+  },
+  {
+    "word": "lantern",
+    "phonetic": "/ˈlæntən/",
+    "grade": "high-school-mandatory-2",
+    "unit": "Unit 2",
+    "label": [
+      "外研社"
+    ],
+    "definitions": [
+      "a portable case with transparent glass panels for holding a light",
+      "a light suspended in a case of glass panels",
+      "a device for giving light"
+    ]
+  },
+  {
+    "word": "dessert",
+    "phonetic": "/dɪˈzɜːt/",
+    "grade": "high-school-mandatory-2",
+    "unit": "Unit 2",
+    "label": [
+      "外研社"
+    ],
+    "definitions": [
+      "the sweet course that concludes a meal",
+      "a dish served as the last course of a meal",
+      "sweet food eaten at the end of a meal"
+    ]
+  },
+  {
+    "word": "attract",
+    "phonetic": "/əˈtrækt/",
+    "grade": "high-school-mandatory-2",
+    "unit": "Unit 2",
+    "label": [
+      "外研社"
+    ],
+    "definitions": [
+      "to cause to come or to move toward",
+      "to hold the attention or interest of",
+      "to cause to direct interest toward"
+    ]
+  },
+  {
+    "word": "firework",
+    "phonetic": "/ˈfaɪəwɜːk/",
+    "grade": "high-school-mandatory-2",
+    "unit": "Unit 2",
+    "label": [
+      "外研社"
+    ],
+    "definitions": [
+      "a device that produces a spectacular display of light and sound when ignited",
+      "a rocket or other device used in celebrations",
+      "a colorful display produced by fireworks"
+    ]
+  },
+  {
+    "word": "decorate",
+    "phonetic": "/ˈdekəreɪt/",
+    "grade": "high-school-mandatory-2",
+    "unit": "Unit 2",
+    "label": [
+      "外研社"
+    ],
+    "definitions": [
+      "to make something look more attractive by adding things",
+      "to furnish with decorations",
+      "to add ornaments to"
+    ]
+  },
+  {
+    "word": "riddle",
+    "phonetic": "/ˈrɪdl/",
+    "grade": "high-school-mandatory-2",
+    "unit": "Unit 2",
+    "label": [
+      "外研社"
+    ],
+    "definitions": [
+      "a question phrased in a way that requires ingenuity to guess its answer",
+      "a problem or puzzle framed for solution",
+      "something puzzling or confusing"
+    ]
+  },
+  {
+    "word": "competition",
+    "phonetic": "/ˌkɒmpɪˈtɪʃ(ə)n/",
+    "grade": "high-school-mandatory-2",
+    "unit": "Unit 2",
+    "label": [
+      "外研社"
+    ],
+    "definitions": [
+      "an event where people compete against each other",
+      "the activity of competing against others",
+      "a situation where people or companies compete"
+    ]
+  },
+  {
+    "word": "formal",
+    "phonetic": "/ˈfɔːm(ə)l/",
+    "grade": "high-school-mandatory-2",
+    "unit": "Unit 2",
+    "label": [
+      "外研社"
+    ],
+    "definitions": [
+      "done in accordance with convention or etiquette",
+      "following a prescribed or standardized procedure",
+      "relating to language used in formal situations"
+    ]
+  },
+  {
+    "word": "host",
+    "phonetic": "/həʊst/",
+    "grade": "high-school-mandatory-2",
+    "unit": "Unit 2",
+    "label": [
+      "外研社"
+    ],
+    "definitions": [
+      "a person who receives or entertains guests",
+      "a person who supervises or conducts a program",
+      "the principal person or organization"
+    ]
+  },
+  {
+    "word": "occasion",
+    "phonetic": "/əˈkeɪʒ(ə)n/",
+    "grade": "high-school-mandatory-2",
+    "unit": "Unit 2",
+    "label": [
+      "外研社"
+    ],
+    "definitions": [
+      "a particular time when something happens",
+      "a special event or celebration",
+      "a reason or justification for something"
+    ]
+  },
+  {
+    "word": "editor",
+    "phonetic": "/ˈedɪtə/",
+    "grade": "high-school-mandatory-2",
+    "unit": "Unit 2",
+    "label": [
+      "外研社"
+    ],
+    "definitions": [
+      "a person who edits books, magazines, or other publications",
+      "a person responsible for the content of a publication",
+      "one who prepares material for publication"
+    ]
+  },
+  {
+    "word": "embrace",
+    "phonetic": "/ɪmˈbreɪs/",
+    "grade": "high-school-mandatory-2",
+    "unit": "Unit 2",
+    "label": [
+      "外研社"
+    ],
+    "definitions": [
+      "to accept or support something willingly",
+      "to include or contain",
+      "to hold someone closely in one's arms"
+    ]
+  },
+  {
+    "word": "admit",
+    "phonetic": "/ədˈmɪt/",
+    "grade": "high-school-mandatory-2",
+    "unit": "Unit 2",
+    "label": [
+      "外研社"
+    ],
+    "definitions": [
+      "to confess or acknowledge",
+      "to allow to enter",
+      "to recognize the truth of"
+    ]
+  },
+  {
+    "word": "effort",
+    "phonetic": "/ˈefət/",
+    "grade": "high-school-mandatory-2",
+    "unit": "Unit 2",
+    "label": [
+      "外研社"
+    ],
+    "definitions": [
+      "a vigorous attempt",
+      "physical or mental exertion",
+      "the work required to achieve something"
+    ]
+  },
+  {
+    "word": "loss",
+    "phonetic": "/lɒs/",
+    "grade": "high-school-mandatory-2",
+    "unit": "Unit 2",
+    "label": [
+      "外研社"
+    ],
+    "definitions": [
+      "the fact of losing something",
+      "the process of losing someone or something",
+      "the state of no longer having something"
+    ]
+  },
+  {
+    "word": "eve",
+    "phonetic": "/iːv/",
+    "grade": "high-school-mandatory-2",
+    "unit": "Unit 2",
+    "label": [
+      "外研社"
+    ],
+    "definitions": [
+      "the day or evening before an important day",
+      "the period immediately before an event",
+      "the time just before a significant occurrence"
+    ]
+  },
+  {
+    "word": "software",
+    "phonetic": "/ˈsɒftweə/",
+    "grade": "high-school-mandatory-2",
+    "unit": "Unit 2",
+    "label": [
+      "外研社"
+    ],
+    "definitions": [
+      "programs and other operating information used by a computer",
+      "the programs used to operate a computer",
+      "instructions that tell a computer what to do"
+    ]
+  },
+  {
+    "word": "adult",
+    "phonetic": "/ˈædʌlt/",
+    "grade": "high-school-mandatory-2",
+    "unit": "Unit 2",
+    "label": [
+      "外研社"
+    ],
+    "definitions": [
+      "a fully grown person",
+      "a mature person",
+      "a person who has reached full physical maturity"
+    ]
+  },
+  {
+    "word": "token",
+    "phonetic": "/ˈtəʊkən/",
+    "grade": "high-school-mandatory-2",
+    "unit": "Unit 2",
+    "label": [
+      "外研社"
+    ],
+    "definitions": [
+      "a thing that represents or symbolizes something else",
+      "a sign of something",
+      "a voucher or coin used as currency in specific contexts"
+    ]
+  },
+  {
+    "word": "process",
+    "phonetic": "/ˈprəʊses/",
+    "grade": "high-school-mandatory-2",
+    "unit": "Unit 2",
+    "label": [
+      "外研社"
+    ],
+    "definitions": [
+      "a series of actions that lead to a particular result",
+      "a naturally occurring series of changes",
+      "a method of doing something"
+    ]
+  },
+  {
+    "word": "retired",
+    "phonetic": "/rɪˈtaɪəd/",
+    "grade": "high-school-mandatory-2",
+    "unit": "Unit 2",
+    "label": [
+      "外研社"
+    ],
+    "definitions": [
+      "having withdrawn from employment",
+      "no longer working",
+      "in a state of seclusion or privacy"
+    ]
+  },
+  {
+    "word": "exist",
+    "phonetic": "/ɪɡˈzɪst/",
+    "grade": "high-school-mandatory-2",
+    "unit": "Unit 2",
+    "label": [
+      "外研社"
+    ],
+    "definitions": [
+      "to have actual being",
+      "to be real",
+      "to continue to live"
+    ]
+  },
+  {
+    "word": "overseas",
+    "phonetic": "/ˌəʊvəˈsiːz/",
+    "grade": "high-school-mandatory-2",
+    "unit": "Unit 2",
+    "label": [
+      "外研社"
+    ],
+    "definitions": [
+      "in or to a foreign country across the sea",
+      "situated beyond the sea",
+      "relating to foreign countries"
+    ]
+  },
+  {
+    "word": "global",
+    "phonetic": "/ˈɡləʊb(ə)l/",
+    "grade": "high-school-mandatory-2",
+    "unit": "Unit 2",
+    "label": [
+      "外研社"
+    ],
+    "definitions": [
+      "relating to the whole world",
+      "worldwide in scope",
+      "comprehensive"
+    ]
+  },
+  {
+    "word": "citizen",
+    "phonetic": "/ˈsɪtɪz(ə)n/",
+    "grade": "high-school-mandatory-2",
+    "unit": "Unit 2",
+    "label": [
+      "外研社"
+    ],
+    "definitions": [
+      "a legally recognized member of a country",
+      "a person who lives in a particular place",
+      "an active and participating member of a community"
+    ]
+  },
+  {
+    "word": "nationality",
+    "phonetic": "/ˌnæʃəˈnæləti/",
+    "grade": "high-school-mandatory-2",
+    "unit": "Unit 2",
+    "label": [
+      "外研社"
+    ],
+    "definitions": [
+      "the status of belonging to a particular country",
+      "a person's legal relationship to a nation",
+      "the fact of belonging to a particular nation"
+    ]
+  },
+  {
+    "word": "audience",
+    "phonetic": "/ˈɔːdiəns/",
+    "grade": "high-school-mandatory-2",
+    "unit": "Unit 2",
+    "label": [
+      "外研社"
+    ],
+    "definitions": [
+      "a group of people listening to or watching a performance",
+      "the people who read or watch something",
+      "a gathering of spectators or listeners"
+    ]
+  },
+  {
+    "word": "interact",
+    "phonetic": "/ˌɪntərˈækt/",
+    "grade": "high-school-mandatory-2",
+    "unit": "Unit 2",
+    "label": [
+      "外研社"
+    ],
+    "definitions": [
+      "to communicate with others",
+      "to act upon each other",
+      "to operate together"
+    ]
+  },
+  {
+    "word": "joy",
+    "phonetic": "/dʒɔɪ/",
+    "grade": "high-school-mandatory-2",
+    "unit": "Unit 2",
+    "label": [
+      "外研社"
+    ],
+    "definitions": [
+      "a feeling of great happiness",
+      "delight or pleasure",
+      "a source of delight"
+    ]
+  },
+  {
+    "word": "phenomenon",
+    "phonetic": "/fɪˈnɒmɪnən/",
+    "grade": "high-school-mandatory-2",
+    "unit": "Unit 2",
+    "label": [
+      "外研社"
+    ],
+    "definitions": [
+      "a fact or situation that is observed to exist",
+      "an observable event",
+      "a remarkable person or thing"
+    ]
   }
 ]
