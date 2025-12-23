@@ -3516,5 +3516,522 @@
       "lack or deficiency",
       "non-existence"
     ]
+  },
+  {
+    "word": "destination",
+    "phonetic": "/ˌdestɪˈneɪʃ(ə)n/",
+    "grade": "high-school-mandatory-2",
+    "unit": "Unit 5",
+    "label": [
+      "外研社"
+    ],
+    "definitions": [
+      "a place to which someone or something is going",
+      "the end point of a journey",
+      "the place someone is traveling to"
+    ]
+  },
+  {
+    "word": "gallery",
+    "phonetic": "/ˈɡæləri/",
+    "grade": "high-school-mandatory-2",
+    "unit": "Unit 5",
+    "label": [
+      "外研社"
+    ],
+    "definitions": [
+      "a room or building where art is displayed",
+      "a place for exhibiting paintings or sculptures",
+      "a space for showing artistic works"
+    ]
+  },
+  {
+    "word": "indigenous",
+    "phonetic": "/ɪnˈdɪdʒ(ə)nəs/",
+    "grade": "high-school-mandatory-2",
+    "unit": "Unit 5",
+    "label": [
+      "外研社"
+    ],
+    "definitions": [
+      "originating in a specific region",
+      "native to a particular area",
+      "occurring naturally in a place"
+    ]
+  },
+  {
+    "word": "kangaroo",
+    "phonetic": "/ˌkæŋɡəˈruː/",
+    "grade": "high-school-mandatory-2",
+    "unit": "Unit 5",
+    "label": [
+      "外研社"
+    ],
+    "definitions": [
+      "a large Australian mammal that hops",
+      "a marsupial with powerful hind legs",
+      "a native Australian animal that carries young in a pouch"
+    ]
+  },
+  {
+    "word": "crocodile",
+    "phonetic": "/ˈkrɒkədaɪl/",
+    "grade": "high-school-mandatory-2",
+    "unit": "Unit 5",
+    "label": [
+      "外研社"
+    ],
+    "definitions": [
+      "a large reptile with long jaws",
+      "a semiaquatic predator",
+      "a carnivorous reptile"
+    ]
+  },
+  {
+    "word": "quest",
+    "phonetic": "/kwest/",
+    "grade": "high-school-mandatory-2",
+    "unit": "Unit 5",
+    "label": [
+      "外研社"
+    ],
+    "definitions": [
+      "a long search for something",
+      "a prolonged pursuit",
+      "a mission to find something"
+    ]
+  },
+  {
+    "word": "quit",
+    "phonetic": "/kwɪt/",
+    "grade": "high-school-mandatory-2",
+    "unit": "Unit 5",
+    "label": [
+      "外研社"
+    ],
+    "definitions": [
+      "to leave a job or position",
+      "to resign from",
+      "to depart from"
+    ]
+  },
+  {
+    "word": "profession",
+    "phonetic": "/prəˈfeʃ(ə)n/",
+    "grade": "high-school-mandatory-2",
+    "unit": "Unit 5",
+    "label": [
+      "外研社"
+    ],
+    "definitions": [
+      "a paid occupation requiring specialized training",
+      "a career that needs advanced education",
+      "a vocation needing professional qualifications"
+    ]
+  },
+  {
+    "word": "previous",
+    "phonetic": "/ˈpriːviəs/",
+    "grade": "high-school-mandatory-2",
+    "unit": "Unit 5",
+    "label": [
+      "外研社"
+    ],
+    "definitions": [
+      "existing or occurring before",
+      "prior to",
+      "earlier than"
+    ]
+  },
+  {
+    "word": "route",
+    "phonetic": "/ruːt/",
+    "grade": "high-school-mandatory-2",
+    "unit": "Unit 5",
+    "label": [
+      "外研社"
+    ],
+    "definitions": [
+      "a line or course taken",
+      "a way or path",
+      "a course of travel"
+    ]
+  },
+  {
+    "word": "aboard",
+    "phonetic": "/əˈbɔːd/",
+    "grade": "high-school-mandatory-2",
+    "unit": "Unit 5",
+    "label": [
+      "外研社"
+    ],
+    "definitions": [
+      "on or in a vehicle",
+      "on board",
+      "in or into a ship, train, or aircraft"
+    ]
+  },
+  {
+    "word": "landscape",
+    "phonetic": "/ˈlændskeɪp/",
+    "grade": "high-school-mandatory-2",
+    "unit": "Unit 5",
+    "label": [
+      "外研社"
+    ],
+    "definitions": [
+      "the visible features of an area",
+      "scenery of a region",
+      "the natural environment of an area"
+    ]
+  },
+  {
+    "word": "dramatic",
+    "phonetic": "/drəˈmætɪk/",
+    "grade": "high-school-mandatory-2",
+    "unit": "Unit 5",
+    "label": [
+      "外研社"
+    ],
+    "definitions": [
+      "sensational or exciting",
+      "striking in appearance",
+      "having a strong impact"
+    ]
+  },
+  {
+    "word": "hike",
+    "phonetic": "/haɪk/",
+    "grade": "high-school-mandatory-2",
+    "unit": "Unit 5",
+    "label": [
+      "外研社"
+    ],
+    "definitions": [
+      "to walk a long distance",
+      "to go for a long walk",
+      "to take a long walk especially in the countryside"
+    ]
+  },
+  {
+    "word": "volcano",
+    "phonetic": "/vɒlˈkeɪnəʊ/",
+    "grade": "high-school-mandatory-2",
+    "unit": "Unit 5",
+    "label": [
+      "外研社"
+    ],
+    "definitions": [
+      "a mountain with lava",
+      "an opening in the earth's surface",
+      "a mountain that erupts"
+    ]
+  },
+  {
+    "word": "embassy",
+    "phonetic": "/ˈembəsi/",
+    "grade": "high-school-mandatory-2",
+    "unit": "Unit 5",
+    "label": [
+      "外研社"
+    ],
+    "definitions": [
+      "the diplomatic mission of a country",
+      "the official residence of an ambassador",
+      "the building where diplomatic representatives work"
+    ]
+  },
+  {
+    "word": "visa",
+    "phonetic": "/ˈviːzə/",
+    "grade": "high-school-mandatory-2",
+    "unit": "Unit 5",
+    "label": [
+      "外研社"
+    ],
+    "definitions": [
+      "an endorsement allowing entry",
+      "official permission to enter a country",
+      "a document permitting travel"
+    ]
+  },
+  {
+    "word": "budget",
+    "phonetic": "/ˈbʌdʒɪt/",
+    "grade": "high-school-mandatory-2",
+    "unit": "Unit 5",
+    "label": [
+      "外研社"
+    ],
+    "definitions": [
+      "a plan for spending money",
+      "a financial plan",
+      "an estimate of income and expenses"
+    ]
+  },
+  {
+    "word": "chain",
+    "phonetic": "/tʃeɪn/",
+    "grade": "high-school-mandatory-2",
+    "unit": "Unit 5",
+    "label": [
+      "外研社"
+    ],
+    "definitions": [
+      "a series of linked units",
+      "a group of stores owned by the same company",
+      "a sequence of connected stores"
+    ]
+  },
+  {
+    "word": "transfer",
+    "phonetic": "/ˈtrænsfɜː/",
+    "grade": "high-school-mandatory-2",
+    "unit": "Unit 5",
+    "label": [
+      "外研社"
+    ],
+    "definitions": [
+      "to move from one to another",
+      "to change transportation",
+      "to switch from one vehicle to another"
+    ]
+  },
+  {
+    "word": "luggage",
+    "phonetic": "/ˈlʌɡɪdʒ/",
+    "grade": "high-school-mandatory-2",
+    "unit": "Unit 5",
+    "label": [
+      "外研社"
+    ],
+    "definitions": [
+      "bags and cases for traveling",
+      "personal belongings carried while traveling",
+      "traveling equipment"
+    ]
+  },
+  {
+    "word": "currency",
+    "phonetic": "/ˈkʌrənsi/",
+    "grade": "high-school-mandatory-2",
+    "unit": "Unit 5",
+    "label": [
+      "外研社"
+    ],
+    "definitions": [
+      "a system of money in general use",
+      "medium of exchange",
+      "money in a particular country"
+    ]
+  },
+  {
+    "word": "credit",
+    "phonetic": "/ˈkredɪt/",
+    "grade": "high-school-mandatory-2",
+    "unit": "Unit 5",
+    "label": [
+      "外研社"
+    ],
+    "definitions": [
+      "deferred payment",
+      "money lent",
+      "financial trust"
+    ]
+  },
+  {
+    "word": "credit card",
+    "grade": "high-school-mandatory-2",
+    "unit": "Unit 5",
+    "label": [
+      "外研社"
+    ],
+    "definitions": [
+      "a card allowing purchases on credit",
+      "a plastic card for deferred payment",
+      "a card enabling purchases without immediate payment"
+    ]
+  },
+  {
+    "word": "souvenir",
+    "phonetic": "/ˌsuːvəˈnɪə/",
+    "grade": "high-school-mandatory-2",
+    "unit": "Unit 5",
+    "label": [
+      "外研社"
+    ],
+    "definitions": [
+      "a keepsake from a place",
+      "a memento of a visit",
+      "a reminder of a place or event"
+    ]
+  },
+  {
+    "word": "cash",
+    "phonetic": "/kæʃ/",
+    "grade": "high-school-mandatory-2",
+    "unit": "Unit 5",
+    "label": [
+      "外研社"
+    ],
+    "definitions": [
+      "money in coins or notes",
+      "physical money",
+      "immediate payment in money"
+    ]
+  },
+  {
+    "word": "flight",
+    "phonetic": "/flaɪt/",
+    "grade": "high-school-mandatory-2",
+    "unit": "Unit 5",
+    "label": [
+      "外研社"
+    ],
+    "definitions": [
+      "a journey by air",
+      "a scheduled airplane trip",
+      "an aircraft journey"
+    ]
+  },
+  {
+    "word": "remote",
+    "phonetic": "/rɪˈməʊt/",
+    "grade": "high-school-mandatory-2",
+    "unit": "Unit 5",
+    "label": [
+      "外研社"
+    ],
+    "definitions": [
+      "distant in space or time",
+      "far away",
+      "isolated"
+    ]
+  },
+  {
+    "word": "engage",
+    "phonetic": "/ɪnˈɡeɪdʒ/",
+    "grade": "high-school-mandatory-2",
+    "unit": "Unit 5",
+    "label": [
+      "外研社"
+    ],
+    "definitions": [
+      "to participate in",
+      "to take part in",
+      "to become involved in"
+    ]
+  },
+  {
+    "word": "café",
+    "phonetic": "/ˈkæfeɪ/",
+    "grade": "high-school-mandatory-2",
+    "unit": "Unit 5",
+    "label": [
+      "外研社"
+    ],
+    "definitions": [
+      "a small restaurant",
+      "a place serving coffee and light refreshments",
+      "a casual dining establishment"
+    ]
+  },
+  {
+    "word": "soccer",
+    "phonetic": "/ˈsɒkə/",
+    "grade": "high-school-mandatory-2",
+    "unit": "Unit 5",
+    "label": [
+      "外研社"
+    ],
+    "definitions": [
+      "a sport played with a ball",
+      "a game played with eleven players per side",
+      "football played with feet"
+    ]
+  },
+  {
+    "word": "continent",
+    "phonetic": "/ˈkɒntɪnənt/",
+    "grade": "high-school-mandatory-2",
+    "unit": "Unit 5",
+    "label": [
+      "外研社"
+    ],
+    "definitions": [
+      "a large landmass",
+      "one of the main land areas of the earth",
+      "a major geographical region"
+    ]
+  },
+  {
+    "word": "vehicle",
+    "phonetic": "/ˈviːɪk(ə)l/",
+    "grade": "high-school-mandatory-2",
+    "unit": "Unit 5",
+    "label": [
+      "外研社"
+    ],
+    "definitions": [
+      "a means of transport",
+      "a device for carrying people or goods",
+      "a mobile machine"
+    ]
+  },
+  {
+    "word": "deer",
+    "phonetic": "/dɪə/",
+    "grade": "high-school-mandatory-2",
+    "unit": "Unit 5",
+    "label": [
+      "外研社"
+    ],
+    "definitions": [
+      "a hoofed mammal",
+      "a four-legged animal with antlers",
+      "a wild animal with pointed ears"
+    ]
+  },
+  {
+    "word": "mass",
+    "phonetic": "/mæs/",
+    "grade": "high-school-mandatory-2",
+    "unit": "Unit 5",
+    "label": [
+      "外研社"
+    ],
+    "definitions": [
+      "a large amount",
+      "a large body of matter",
+      "a considerable quantity"
+    ]
+  },
+  {
+    "word": "poutine",
+    "phonetic": "/puːˈtɪn/",
+    "grade": "high-school-mandatory-2",
+    "unit": "Unit 5",
+    "label": [
+      "外研社"
+    ],
+    "definitions": [
+      "a Canadian dish with fries",
+      "french fries with cheese and gravy",
+      "a Canadian food with potatoes"
+    ]
+  },
+  {
+    "word": "gravy",
+    "phonetic": "/ˈɡreɪvi/",
+    "grade": "high-school-mandatory-2",
+    "unit": "Unit 5",
+    "label": [
+      "外研社"
+    ],
+    "definitions": [
+      "a sauce made from meat juices",
+      "seasoning made from cooking meat",
+      "liquid sauce made from meat"
+    ]
   }
 ]
