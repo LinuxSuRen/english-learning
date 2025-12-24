@@ -1968,5 +1968,576 @@
       "a process",
       "a method"
     ]
+  },
+  {
+    "word": "greet",
+    "phonetic": "/ɡriːt/",
+    "grade": "high-school-mandatory-3",
+    "unit": "Unit 3",
+    "label": [
+      "外研社"
+    ],
+    "definitions": [
+      "to welcome or acknowledge",
+      "to say hello to",
+      "to address someone"
+    ]
+  },
+  {
+    "word": "broadcast",
+    "phonetic": "/ˈbrɔːdkɑːst/",
+    "grade": "high-school-mandatory-3",
+    "unit": "Unit 3",
+    "label": [
+      "外研社"
+    ],
+    "definitions": [
+      "a radio or television program",
+      "a transmission",
+      "a public communication"
+    ]
+  },
+  {
+    "word": "stair",
+    "phonetic": "/steə/",
+    "grade": "high-school-mandatory-3",
+    "unit": "Unit 3",
+    "label": [
+      "外研社"
+    ],
+    "definitions": [
+      "a step in a staircase",
+      "a platform for ascending",
+      "a raised surface for walking"
+    ]
+  },
+  {
+    "word": "load",
+    "phonetic": "/ləʊd/",
+    "grade": "high-school-mandatory-3",
+    "unit": "Unit 3",
+    "label": [
+      "外研社"
+    ],
+    "definitions": [
+      "an amount of something",
+      "a burden",
+      "a quantity"
+    ]
+  },
+  {
+    "word": "get a load of...",
+    "grade": "high-school-mandatory-3",
+    "unit": "Unit 3",
+    "label": [
+      "外研社"
+    ],
+    "definitions": [
+      "to look at something with surprise",
+      "to pay attention",
+      "to observe carefully"
+    ]
+  },
+  {
+    "word": "battle",
+    "phonetic": "/ˈbætl/",
+    "grade": "high-school-mandatory-3",
+    "unit": "Unit 3",
+    "label": [
+      "外研社"
+    ],
+    "definitions": [
+      "a fight",
+      "a combat",
+      "a conflict"
+    ]
+  },
+  {
+    "word": "fold",
+    "phonetic": "/fəʊld/",
+    "grade": "high-school-mandatory-3",
+    "unit": "Unit 3",
+    "label": [
+      "外研社"
+    ],
+    "definitions": [
+      "to bend",
+      "to crease",
+      "to double over"
+    ]
+  },
+  {
+    "word": "sculptor",
+    "phonetic": "/ˈskʌlptə/",
+    "grade": "high-school-mandatory-3",
+    "unit": "Unit 3",
+    "label": [
+      "外研社"
+    ],
+    "definitions": [
+      "an artist who carves sculptures",
+      "a creator of three-dimensional art",
+      "one who shapes materials into art"
+    ]
+  },
+  {
+    "word": "portrait",
+    "phonetic": "/ˈpɔːtrɪt/",
+    "grade": "high-school-mandatory-3",
+    "unit": "Unit 3",
+    "label": [
+      "外研社"
+    ],
+    "definitions": [
+      "a representation of a person",
+      "a picture of someone",
+      "a depiction of an individual"
+    ]
+  },
+  {
+    "word": "selfie",
+    "phonetic": "/ˈselfi/",
+    "grade": "high-school-mandatory-3",
+    "unit": "Unit 3",
+    "label": [
+      "外研社"
+    ],
+    "definitions": [
+      "a photograph of oneself",
+      "a self-portrait photo",
+      "a picture taken of oneself"
+    ]
+  },
+  {
+    "word": "exhibition",
+    "phonetic": "/ˌeksɪˈbɪʃ(ə)n/",
+    "grade": "high-school-mandatory-3",
+    "unit": "Unit 3",
+    "label": [
+      "外研社"
+    ],
+    "definitions": [
+      "a public display",
+      "a showing of works",
+      "a presentation"
+    ]
+  },
+  {
+    "word": "neighbourhood",
+    "phonetic": "/ˈneɪbəhʊd/",
+    "grade": "high-school-mandatory-3",
+    "unit": "Unit 3",
+    "label": [
+      "外研社"
+    ],
+    "definitions": [
+      "a residential area",
+      "a community",
+      "a district"
+    ]
+  },
+  {
+    "word": "embroidery",
+    "phonetic": "/ɪmˈbrɔɪd(ə)ri/",
+    "grade": "high-school-mandatory-3",
+    "unit": "Unit 3",
+    "label": [
+      "外研社"
+    ],
+    "definitions": [
+      "decorative needlework",
+      "ornamental stitching",
+      "decorative fabric art"
+    ]
+  },
+  {
+    "word": "seal",
+    "phonetic": "/siːl/",
+    "grade": "high-school-mandatory-3",
+    "unit": "Unit 3",
+    "label": [
+      "外研社"
+    ],
+    "definitions": [
+      "a device for making impressions",
+      "a stamp",
+      "a device for authentication"
+    ]
+  },
+  {
+    "word": "seal cutting",
+    "grade": "high-school-mandatory-3",
+    "unit": "Unit 3",
+    "label": [
+      "外研社"
+    ],
+    "definitions": [
+      "the art of carving seals",
+      "a traditional Chinese art form",
+      "the practice of creating stamps"
+    ]
+  },
+  {
+    "word": "calligraphy",
+    "phonetic": "/kəˈlɪɡrəfi/",
+    "grade": "high-school-mandatory-3",
+    "unit": "Unit 3",
+    "label": [
+      "外研社"
+    ],
+    "definitions": [
+      "the art of beautiful writing",
+      "decorative handwriting",
+      "elegant penmanship"
+    ]
+  },
+  {
+    "word": "porcelain",
+    "phonetic": "/ˈpɔːslɪn/",
+    "grade": "high-school-mandatory-3",
+    "unit": "Unit 3",
+    "label": [
+      "外研社"
+    ],
+    "definitions": [
+      "a type of ceramic",
+      "fine white pottery",
+      "a translucent material"
+    ]
+  },
+  {
+    "word": "demonstrate",
+    "phonetic": "/ˈdemənstreɪt/",
+    "grade": "high-school-mandatory-3",
+    "unit": "Unit 3",
+    "label": [
+      "外研社"
+    ],
+    "definitions": [
+      "to show",
+      "to exhibit",
+      "to prove"
+    ]
+  },
+  {
+    "word": "vividly",
+    "phonetic": "/ˈvɪvɪdli/",
+    "grade": "high-school-mandatory-3",
+    "unit": "Unit 3",
+    "label": [
+      "外研社"
+    ],
+    "definitions": [
+      "in a lifelike manner",
+      "in a bright way",
+      "with liveliness"
+    ]
+  },
+  {
+    "word": "needle",
+    "phonetic": "/ˈniːdl/",
+    "grade": "high-school-mandatory-3",
+    "unit": "Unit 3",
+    "label": [
+      "外研社"
+    ],
+    "definitions": [
+      "a thin pointed tool",
+      "a sharp instrument",
+      "a device for sewing"
+    ]
+  },
+  {
+    "word": "elegant",
+    "phonetic": "/ˈelɪɡənt/",
+    "grade": "high-school-mandatory-3",
+    "unit": "Unit 3",
+    "label": [
+      "外研社"
+    ],
+    "definitions": [
+      "graceful",
+      "refined",
+      "stylish"
+    ]
+  },
+  {
+    "word": "carve",
+    "phonetic": "/kɑːv/",
+    "grade": "high-school-mandatory-3",
+    "unit": "Unit 3",
+    "label": [
+      "外研社"
+    ],
+    "definitions": [
+      "to cut",
+      "to sculpt",
+      "to shape with a tool"
+    ]
+  },
+  {
+    "word": "contemporary",
+    "phonetic": "/kənˈtemp(ə)rəri/",
+    "grade": "high-school-mandatory-3",
+    "unit": "Unit 3",
+    "label": [
+      "外研社"
+    ],
+    "definitions": [
+      "modern",
+      "current",
+      "present-day"
+    ]
+  },
+  {
+    "word": "cigarette",
+    "phonetic": "/ˌsɪɡəˈret/",
+    "grade": "high-school-mandatory-3",
+    "unit": "Unit 3",
+    "label": [
+      "外研社"
+    ],
+    "definitions": [
+      "a tobacco product",
+      "a rolled tobacco",
+      "a smoking implement"
+    ]
+  },
+  {
+    "word": "lack",
+    "phonetic": "/læk/",
+    "grade": "high-school-mandatory-3",
+    "unit": "Unit 3",
+    "label": [
+      "外研社"
+    ],
+    "definitions": [
+      "to be without",
+      "to be deficient in",
+      "to be missing"
+    ]
+  },
+  {
+    "word": "stimulate",
+    "phonetic": "/ˈstɪmjʊleɪt/",
+    "grade": "high-school-mandatory-3",
+    "unit": "Unit 3",
+    "label": [
+      "外研社"
+    ],
+    "definitions": [
+      "to encourage",
+      "to promote",
+      "to incite"
+    ]
+  },
+  {
+    "word": "magnificent",
+    "phonetic": "/mæɡˈnɪfɪs(ə)nt/",
+    "grade": "high-school-mandatory-3",
+    "unit": "Unit 3",
+    "label": [
+      "外研社"
+    ],
+    "definitions": [
+      "impressive",
+      "grand",
+      "splendid"
+    ]
+  },
+  {
+    "word": "bare",
+    "phonetic": "/beə/",
+    "grade": "high-school-mandatory-3",
+    "unit": "Unit 3",
+    "label": [
+      "外研社"
+    ],
+    "definitions": [
+      "to uncover",
+      "to reveal",
+      "to expose"
+    ]
+  },
+  {
+    "word": "hoof",
+    "phonetic": "/huːf/",
+    "grade": "high-school-mandatory-3",
+    "unit": "Unit 3",
+    "label": [
+      "外研社"
+    ],
+    "definitions": [
+      "the foot of an animal",
+      "the tip of a leg",
+      "the terminal part of a leg"
+    ]
+  },
+  {
+    "word": "wine",
+    "phonetic": "/waɪn/",
+    "grade": "high-school-mandatory-3",
+    "unit": "Unit 3",
+    "label": [
+      "外研社"
+    ],
+    "definitions": [
+      "an alcoholic beverage",
+      "fermented grape juice",
+      "an alcoholic drink"
+    ]
+  },
+  {
+    "word": "dirt",
+    "phonetic": "/dɜːt/",
+    "grade": "high-school-mandatory-3",
+    "unit": "Unit 3",
+    "label": [
+      "外研社"
+    ],
+    "definitions": [
+      "soil",
+      "dust",
+      "earth"
+    ]
+  },
+  {
+    "word": "sponsor",
+    "phonetic": "/ˈspɒnsə/",
+    "grade": "high-school-mandatory-3",
+    "unit": "Unit 3",
+    "label": [
+      "外研社"
+    ],
+    "definitions": [
+      "to support financially",
+      "to fund",
+      "to back financially"
+    ]
+  },
+  {
+    "word": "emperor",
+    "phonetic": "/ˈemp(ə)rə/",
+    "grade": "high-school-mandatory-3",
+    "unit": "Unit 3",
+    "label": [
+      "外研社"
+    ],
+    "definitions": [
+      "a sovereign ruler",
+      "a supreme monarch",
+      "a chief ruler"
+    ]
+  },
+  {
+    "word": "fond",
+    "phonetic": "/fɒnd/",
+    "grade": "high-school-mandatory-3",
+    "unit": "Unit 3",
+    "label": [
+      "外研社"
+    ],
+    "definitions": [
+      "affectionate",
+      "loving",
+      "tender"
+    ]
+  },
+  {
+    "word": "be fond of...",
+    "grade": "high-school-mandatory-3",
+    "unit": "Unit 3",
+    "label": [
+      "外研社"
+    ],
+    "definitions": [
+      "to like",
+      "to have affection for",
+      "to be attached to"
+    ]
+  },
+  {
+    "word": "frequent",
+    "phonetic": "/ˈfriːkwənt/",
+    "grade": "high-school-mandatory-3",
+    "unit": "Unit 3",
+    "label": [
+      "外研社"
+    ],
+    "definitions": [
+      "happening often",
+      "regular",
+      "recurring"
+    ]
+  },
+  {
+    "word": "majesty",
+    "phonetic": "/ˈmædʒɪsti/",
+    "grade": "high-school-mandatory-3",
+    "unit": "Unit 3",
+    "label": [
+      "外研社"
+    ],
+    "definitions": [
+      "royal dignity",
+      "noble bearing",
+      "imperial authority"
+    ]
+  },
+  {
+    "word": "gallop",
+    "phonetic": "/ˈɡæləp/",
+    "grade": "high-school-mandatory-3",
+    "unit": "Unit 3",
+    "label": [
+      "外研社"
+    ],
+    "definitions": [
+      "to run fast",
+      "to move rapidly",
+      "to ride at full speed"
+    ]
+  },
+  {
+    "word": "vase",
+    "phonetic": "/vɑːz/",
+    "grade": "high-school-mandatory-3",
+    "unit": "Unit 3",
+    "label": [
+      "外研社"
+    ],
+    "definitions": [
+      "an ornamental container",
+      "a decorative vessel",
+      "a flower holder"
+    ]
+  },
+  {
+    "word": "mostly",
+    "phonetic": "/ˈməʊstli/",
+    "grade": "high-school-mandatory-3",
+    "unit": "Unit 3",
+    "label": [
+      "外研社"
+    ],
+    "definitions": [
+      "for the most part",
+      "chiefly",
+      "mainly"
+    ]
+  },
+  {
+    "word": "shade",
+    "phonetic": "/ʃeɪd/",
+    "grade": "high-school-mandatory-3",
+    "unit": "Unit 3",
+    "label": [
+      "外研社"
+    ],
+    "definitions": [
+      "a degree of color",
+      "a tint",
+      "a hue"
+    ]
   }
 ]
