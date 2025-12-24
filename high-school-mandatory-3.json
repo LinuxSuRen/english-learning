@@ -2539,5 +2539,828 @@
       "a tint",
       "a hue"
     ]
+  },
+  {
+    "word": "initial",
+    "phonetic": "/ɪˈnɪʃ(ə)l/",
+    "grade": "high-school-mandatory-3",
+    "unit": "Unit 5",
+    "label": [
+      "外研社"
+    ],
+    "definitions": [
+      "starting",
+      "beginning",
+      "first"
+    ]
+  },
+  {
+    "word": "thus",
+    "phonetic": "/ðʌs/",
+    "grade": "high-school-mandatory-3",
+    "unit": "Unit 5",
+    "label": [
+      "外研社"
+    ],
+    "definitions": [
+      "therefore",
+      "consequently",
+      "as a result"
+    ]
+  },
+  {
+    "word": "zone",
+    "phonetic": "/zəʊn/",
+    "grade": "high-school-mandatory-3",
+    "unit": "Unit 5",
+    "label": [
+      "外研社"
+    ],
+    "definitions": [
+      "an area",
+      "a region",
+      "a district"
+    ]
+  },
+  {
+    "word": "oxygen",
+    "phonetic": "/ˈɒksɪdʒ(ə)n/",
+    "grade": "high-school-mandatory-3",
+    "unit": "Unit 5",
+    "label": [
+      "外研社"
+    ],
+    "definitions": [
+      "a chemical element",
+      "a gas necessary for breathing",
+      "a vital element for life"
+    ]
+  },
+  {
+    "word": "border",
+    "phonetic": "/ˈbɔːdə/",
+    "grade": "high-school-mandatory-3",
+    "unit": "Unit 5",
+    "label": [
+      "外研社"
+    ],
+    "definitions": [
+      "a dividing line",
+      "a boundary",
+      "an edge"
+    ]
+  },
+  {
+    "word": "confirm",
+    "phonetic": "/kənˈfɜːm/",
+    "grade": "high-school-mandatory-3",
+    "unit": "Unit 5",
+    "label": [
+      "外研社"
+    ],
+    "definitions": [
+      "to verify",
+      "to validate",
+      "to establish"
+    ]
+  },
+  {
+    "word": "crowd",
+    "phonetic": "/kraʊd/",
+    "grade": "high-school-mandatory-3",
+    "unit": "Unit 5",
+    "label": [
+      "外研社"
+    ],
+    "definitions": [
+      "a large group of people",
+      "a gathering",
+      "a throng"
+    ]
+  },
+  {
+    "word": "sheer",
+    "phonetic": "/ʃɪə/",
+    "grade": "high-school-mandatory-3",
+    "unit": "Unit 5",
+    "label": [
+      "外研社"
+    ],
+    "definitions": [
+      "absolute",
+      "complete",
+      "pure"
+    ]
+  },
+  {
+    "word": "bring... into focus",
+    "grade": "high-school-mandatory-3",
+    "unit": "Unit 5",
+    "label": [
+      "外研社"
+    ],
+    "definitions": [
+      "to make something clear",
+      "to highlight",
+      "to emphasize"
+    ]
+  },
+  {
+    "word": "attempt",
+    "phonetic": "/əˈtempt/",
+    "grade": "high-school-mandatory-3",
+    "unit": "Unit 5",
+    "label": [
+      "外研社"
+    ],
+    "definitions": [
+      "an effort",
+      "a try",
+      "a trial"
+    ]
+  },
+  {
+    "word": "failure",
+    "phonetic": "/ˈfeɪljə/",
+    "grade": "high-school-mandatory-3",
+    "unit": "Unit 5",
+    "label": [
+      "外研社"
+    ],
+    "definitions": [
+      "lack of success",
+      "a lack of achievement",
+      "an unsuccessful outcome"
+    ]
+  },
+  {
+    "word": "psychologist",
+    "phonetic": "/saɪˈkɒlədʒɪst/",
+    "grade": "high-school-mandatory-3",
+    "unit": "Unit 5",
+    "label": [
+      "外研社"
+    ],
+    "definitions": [
+      "a professional studying the mind",
+      "an expert in psychology",
+      "a mental health specialist"
+    ]
+  },
+  {
+    "word": "thrill",
+    "phonetic": "/θrɪl/",
+    "grade": "high-school-mandatory-3",
+    "unit": "Unit 5",
+    "label": [
+      "外研社"
+    ],
+    "definitions": [
+      "excitement",
+      "a feeling of pleasure",
+      "a rush of emotion"
+    ]
+  },
+  {
+    "word": "port",
+    "phonetic": "/pɔːt/",
+    "grade": "high-school-mandatory-3",
+    "unit": "Unit 5",
+    "label": [
+      "外研社"
+    ],
+    "definitions": [
+      "a harbor",
+      "a place for ships",
+      "a docking area"
+    ]
+  },
+  {
+    "word": "unaware",
+    "phonetic": "/ˌʌnəˈweə/",
+    "grade": "high-school-mandatory-3",
+    "unit": "Unit 5",
+    "label": [
+      "外研社"
+    ],
+    "definitions": [
+      "not knowing",
+      "not conscious of",
+      "ignorant of"
+    ]
+  },
+  {
+    "word": "alcohol",
+    "phonetic": "/ˈælkəhɒl/",
+    "grade": "high-school-mandatory-3",
+    "unit": "Unit 5",
+    "label": [
+      "外研社"
+    ],
+    "definitions": [
+      "a substance causing intoxication",
+      "a liquid substance",
+      "a fermented drink"
+    ]
+  },
+  {
+    "word": "bandage",
+    "phonetic": "/ˈbændɪdʒ/",
+    "grade": "high-school-mandatory-3",
+    "unit": "Unit 5",
+    "label": [
+      "外研社"
+    ],
+    "definitions": [
+      "a strip for wrapping wounds",
+      "a medical wrap",
+      "a covering for cuts"
+    ]
+  },
+  {
+    "word": "plaster",
+    "phonetic": "/ˈplɑːstə/",
+    "grade": "high-school-mandatory-3",
+    "unit": "Unit 5",
+    "label": [
+      "外研社"
+    ],
+    "definitions": [
+      "a sticky strip for cuts",
+      "a medical adhesive strip",
+      "a small wound covering"
+    ]
+  },
+  {
+    "word": "thermometer",
+    "phonetic": "/θəˈmɒmɪtə/",
+    "grade": "high-school-mandatory-3",
+    "unit": "Unit 5",
+    "label": [
+      "外研社"
+    ],
+    "definitions": [
+      "a device for measuring temperature",
+      "a temperature measuring instrument",
+      "a heat measuring tool"
+    ]
+  },
+  {
+    "word": "rubber",
+    "phonetic": "/ˈrʌbə/",
+    "grade": "high-school-mandatory-3",
+    "unit": "Unit 5",
+    "label": [
+      "外研社"
+    ],
+    "definitions": [
+      "a flexible material",
+      "an elastic substance",
+      "a synthetic material"
+    ]
+  },
+  {
+    "word": "cotton",
+    "phonetic": "/ˈkɒtn/",
+    "grade": "high-school-mandatory-3",
+    "unit": "Unit 5",
+    "label": [
+      "外研社"
+    ],
+    "definitions": [
+      "a soft fabric material",
+      "a textile fiber",
+      "a natural fiber"
+    ]
+  },
+  {
+    "word": "wool",
+    "phonetic": "/wʊl/",
+    "grade": "high-school-mandatory-3",
+    "unit": "Unit 5",
+    "label": [
+      "外研社"
+    ],
+    "definitions": [
+      "a soft fabric from sheep",
+      "a textile material",
+      "a warm fiber"
+    ]
+  },
+  {
+    "word": "cotton wool",
+    "grade": "high-school-mandatory-3",
+    "unit": "Unit 5",
+    "label": [
+      "外研社"
+    ],
+    "definitions": [
+      "medical cotton",
+      "absorbent cotton",
+      "sterile cotton"
+    ]
+  },
+  {
+    "word": "guideline",
+    "phonetic": "/ˈɡaɪdlaɪn/",
+    "grade": "high-school-mandatory-3",
+    "unit": "Unit 5",
+    "label": [
+      "外研社"
+    ],
+    "definitions": [
+      "a rule or principle",
+      "a standard to follow",
+      "a recommended practice"
+    ]
+  },
+  {
+    "word": "cloth",
+    "phonetic": "/klɒθ/",
+    "grade": "high-school-mandatory-3",
+    "unit": "Unit 5",
+    "label": [
+      "外研社"
+    ],
+    "definitions": [
+      "a fabric material",
+      "a woven material",
+      "a textile"
+    ]
+  },
+  {
+    "word": "bleeding",
+    "phonetic": "/ˈbliːdɪŋ/",
+    "grade": "high-school-mandatory-3",
+    "unit": "Unit 5",
+    "label": [
+      "外研社"
+    ],
+    "definitions": [
+      "the flow of blood",
+      "the discharge of blood",
+      "hemorrhaging"
+    ]
+  },
+  {
+    "word": "liquid",
+    "phonetic": "/ˈlɪkwɪd/",
+    "grade": "high-school-mandatory-3",
+    "unit": "Unit 5",
+    "label": [
+      "外研社"
+    ],
+    "definitions": [
+      "a substance that flows",
+      "a fluid",
+      "a non-solid state of matter"
+    ]
+  },
+  {
+    "word": "injury",
+    "phonetic": "/ˈɪndʒəri/",
+    "grade": "high-school-mandatory-3",
+    "unit": "Unit 5",
+    "label": [
+      "外研社"
+    ],
+    "definitions": [
+      "harm or damage",
+      "a wound",
+      "physical harm"
+    ]
+  },
+  {
+    "word": "stretch",
+    "phonetic": "/stretʃ/",
+    "grade": "high-school-mandatory-3",
+    "unit": "Unit 5",
+    "label": [
+      "外研社"
+    ],
+    "definitions": [
+      "to extend",
+      "to expand",
+      "to reach out"
+    ]
+  },
+  {
+    "word": "league",
+    "phonetic": "/liːɡ/",
+    "grade": "high-school-mandatory-3",
+    "unit": "Unit 5",
+    "label": [
+      "外研社"
+    ],
+    "definitions": [
+      "a unit of distance",
+      "an old measurement",
+      "a nautical distance"
+    ]
+  },
+  {
+    "word": "servant",
+    "phonetic": "/ˈsɜːv(ə)nt/",
+    "grade": "high-school-mandatory-3",
+    "unit": "Unit 5",
+    "label": [
+      "外研社"
+    ],
+    "definitions": [
+      "one who serves",
+      "a household worker",
+      "an employee"
+    ]
+  },
+  {
+    "word": "submarine",
+    "phonetic": "/ˈsʌbməriːn/",
+    "grade": "high-school-mandatory-3",
+    "unit": "Unit 5",
+    "label": [
+      "外研社"
+    ],
+    "definitions": [
+      "an underwater vessel",
+      "a submersible ship",
+      "a watercraft for underwater travel"
+    ]
+  },
+  {
+    "word": "charge",
+    "phonetic": "/tʃɑːdʒ/",
+    "grade": "high-school-mandatory-3",
+    "unit": "Unit 5",
+    "label": [
+      "外研社"
+    ],
+    "definitions": [
+      "responsibility",
+      "control",
+      "leadership"
+    ]
+  },
+  {
+    "word": "captain",
+    "phonetic": "/ˈkæptɪn/",
+    "grade": "high-school-mandatory-3",
+    "unit": "Unit 5",
+    "label": [
+      "外研社"
+    ],
+    "definitions": [
+      "a ship's leader",
+      "a commander",
+      "a person in authority"
+    ]
+  },
+  {
+    "word": "ahead",
+    "phonetic": "/əˈhed/",
+    "grade": "high-school-mandatory-3",
+    "unit": "Unit 5",
+    "label": [
+      "外研社"
+    ],
+    "definitions": [
+      "in front",
+      "forward",
+      "in advance"
+    ]
+  },
+  {
+    "word": "permit",
+    "phonetic": "/pəˈmɪt/",
+    "grade": "high-school-mandatory-3",
+    "unit": "Unit 5",
+    "label": [
+      "外研社"
+    ],
+    "definitions": [
+      "to allow",
+      "to authorize",
+      "to give permission"
+    ]
+  },
+  {
+    "word": "fascinated",
+    "phonetic": "/ˈfæsɪneɪtɪd/",
+    "grade": "high-school-mandatory-3",
+    "unit": "Unit 5",
+    "label": [
+      "外研社"
+    ],
+    "definitions": [
+      "captivated",
+      "absorbed",
+      "deeply interested"
+    ]
+  },
+  {
+    "word": "chapter",
+    "phonetic": "/ˈtʃæptə/",
+    "grade": "high-school-mandatory-3",
+    "unit": "Unit 5",
+    "label": [
+      "外研社"
+    ],
+    "definitions": [
+      "a section of a book",
+      "a division in literature",
+      "a segment of writing"
+    ]
+  },
+  {
+    "word": "relate",
+    "phonetic": "/rɪˈleɪt/",
+    "grade": "high-school-mandatory-3",
+    "unit": "Unit 5",
+    "label": [
+      "外研社"
+    ],
+    "definitions": [
+      "to connect",
+      "to be associated with",
+      "to tell a story"
+    ]
+  },
+  {
+    "word": "helmet",
+    "phonetic": "/ˈhelmɪt/",
+    "grade": "high-school-mandatory-3",
+    "unit": "Unit 5",
+    "label": [
+      "外研社"
+    ],
+    "definitions": [
+      "a protective headgear",
+      "a safety equipment for head",
+      "a covering for the head"
+    ]
+  },
+  {
+    "word": "nut",
+    "phonetic": "/nʌt/",
+    "grade": "high-school-mandatory-3",
+    "unit": "Unit 5",
+    "label": [
+      "外研社"
+    ],
+    "definitions": [
+      "a hard-shelled fruit",
+      "a edible seed",
+      "a healthy snack"
+    ]
+  },
+  {
+    "word": "astonish",
+    "phonetic": "/əˈstɒnɪʃ/",
+    "grade": "high-school-mandatory-3",
+    "unit": "Unit 5",
+    "label": [
+      "外研社"
+    ],
+    "definitions": [
+      "to surprise",
+      "to amaze",
+      "to astound"
+    ]
+  },
+  {
+    "word": "ray",
+    "phonetic": "/reɪ/",
+    "grade": "high-school-mandatory-3",
+    "unit": "Unit 5",
+    "label": [
+      "外研社"
+    ],
+    "definitions": [
+      "a beam of light",
+      "a stream of energy",
+      "a line of illumination"
+    ]
+  },
+  {
+    "word": "consume",
+    "phonetic": "/kənˈsjuːm/",
+    "grade": "high-school-mandatory-3",
+    "unit": "Unit 5",
+    "label": [
+      "外研社"
+    ],
+    "definitions": [
+      "to use up",
+      "to eat",
+      "to devour"
+    ]
+  },
+  {
+    "word": "distinguish",
+    "phonetic": "/dɪˈstɪŋɡwɪʃ/",
+    "grade": "high-school-mandatory-3",
+    "unit": "Unit 5",
+    "label": [
+      "外研社"
+    ],
+    "definitions": [
+      "to recognize",
+      "to identify",
+      "to differentiate"
+    ]
+  },
+  {
+    "word": "gradually",
+    "phonetic": "/ˈɡrædʒuəli/",
+    "grade": "high-school-mandatory-3",
+    "unit": "Unit 5",
+    "label": [
+      "外研社"
+    ],
+    "definitions": [
+      "slowly",
+      "step by step",
+      "in a progressive manner"
+    ]
+  },
+  {
+    "word": "surround",
+    "phonetic": "/səˈraʊnd/",
+    "grade": "high-school-mandatory-3",
+    "unit": "Unit 5",
+    "label": [
+      "外研社"
+    ],
+    "definitions": [
+      "to encircle",
+      "to enclose",
+      "to encompass"
+    ]
+  },
+  {
+    "word": "wrinkled",
+    "phonetic": "/ˈrɪŋk(ə)ld/",
+    "grade": "high-school-mandatory-3",
+    "unit": "Unit 5",
+    "label": [
+      "外研社"
+    ],
+    "definitions": [
+      "creased",
+      "folded",
+      "with lines or creases"
+    ]
+  },
+  {
+    "word": "shore",
+    "phonetic": "/ʃɔː/",
+    "grade": "high-school-mandatory-3",
+    "unit": "Unit 5",
+    "label": [
+      "外研社"
+    ],
+    "definitions": [
+      "the land by water",
+      "the edge of a body of water",
+      "the bank of a sea or lake"
+    ]
+  },
+  {
+    "word": "carpet",
+    "phonetic": "/ˈkɑːpɪt/",
+    "grade": "high-school-mandatory-3",
+    "unit": "Unit 5",
+    "label": [
+      "外研社"
+    ],
+    "definitions": [
+      "a floor covering",
+      "a textile floor covering",
+      "a floor textile"
+    ]
+  },
+  {
+    "word": "intensity",
+    "phonetic": "/ɪnˈtensɪti/",
+    "grade": "high-school-mandatory-3",
+    "unit": "Unit 5",
+    "label": [
+      "外研社"
+    ],
+    "definitions": [
+      "strength",
+      "power",
+      "forcefulness"
+    ]
+  },
+  {
+    "word": "vibration",
+    "phonetic": "/vaɪˈbreɪʃ(ə)n/",
+    "grade": "high-school-mandatory-3",
+    "unit": "Unit 5",
+    "label": [
+      "外研社"
+    ],
+    "definitions": [
+      "a trembling motion",
+      "a shaking movement",
+      "an oscillation"
+    ]
+  },
+  {
+    "word": "atom",
+    "phonetic": "/ˈætəm/",
+    "grade": "high-school-mandatory-3",
+    "unit": "Unit 5",
+    "label": [
+      "外研社"
+    ],
+    "definitions": [
+      "the smallest unit of matter",
+      "a basic unit of matter",
+      "a fundamental particle"
+    ]
+  },
+  {
+    "word": "depth",
+    "phonetic": "/depθ/",
+    "grade": "high-school-mandatory-3",
+    "unit": "Unit 5",
+    "label": [
+      "外研社"
+    ],
+    "definitions": [
+      "the measure from top to bottom",
+      "the third dimension",
+      "the downward measurement"
+    ]
+  },
+  {
+    "word": "broad",
+    "phonetic": "/brɔːd/",
+    "grade": "high-school-mandatory-3",
+    "unit": "Unit 5",
+    "label": [
+      "外研社"
+    ],
+    "definitions": [
+      "wide",
+      "extensive",
+      "spacious"
+    ]
+  },
+  {
+    "word": "in broad daylight",
+    "grade": "high-school-mandatory-3",
+    "unit": "Unit 5",
+    "label": [
+      "外研社"
+    ],
+    "definitions": [
+      "in plain sight",
+      "during the day",
+      "openly and obviously"
+    ]
+  },
+  {
+    "word": "beneath",
+    "phonetic": "/bɪˈniːθ/",
+    "grade": "high-school-mandatory-3",
+    "unit": "Unit 5",
+    "label": [
+      "外研社"
+    ],
+    "definitions": [
+      "under",
+      "below",
+      "directly underneath"
+    ]
+  },
+  {
+    "word": "resident",
+    "phonetic": "/ˈrezɪd(ə)nt/",
+    "grade": "high-school-mandatory-3",
+    "unit": "Unit 5",
+    "label": [
+      "外研社"
+    ],
+    "definitions": [
+      "an inhabitant",
+      "a person living in a place",
+      "a dweller"
+    ]
+  },
+  {
+    "word": "male",
+    "phonetic": "/meɪl/",
+    "grade": "high-school-mandatory-3",
+    "unit": "Unit 5",
+    "label": [
+      "外研社"
+    ],
+    "definitions": [
+      "the masculine gender",
+      "the opposite sex",
+      "a masculine person or animal"
+    ]
   }
 ]
