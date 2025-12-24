@@ -1234,5 +1234,739 @@
       "more",
       "beyond"
     ]
+  },
+  {
+    "word": "press",
+    "phonetic": "/pres/",
+    "grade": "high-school-mandatory-3",
+    "unit": "Unit 3",
+    "label": [
+      "外研社"
+    ],
+    "definitions": [
+      "to push firmly",
+      "to apply force",
+      "to exert pressure"
+    ]
+  },
+  {
+    "word": "shoot",
+    "phonetic": "/ʃuːt/",
+    "grade": "high-school-mandatory-3",
+    "unit": "Unit 3",
+    "label": [
+      "外研社"
+    ],
+    "definitions": [
+      "to fire or discharge",
+      "to emit or release",
+      "to discharge projectiles"
+    ]
+  },
+  {
+    "word": "gunpowder",
+    "phonetic": "/ˈɡʌnˌpaʊdə/",
+    "grade": "high-school-mandatory-3",
+    "unit": "Unit 3",
+    "label": [
+      "外研社"
+    ],
+    "definitions": [
+      "an explosive substance",
+      "a powder used in firearms",
+      "a substance for propelling projectiles"
+    ]
+  },
+  {
+    "word": "compass",
+    "phonetic": "/ˈkʌmpəs/",
+    "grade": "high-school-mandatory-3",
+    "unit": "Unit 3",
+    "label": [
+      "外研社"
+    ],
+    "definitions": [
+      "a device for finding direction",
+      "an instrument showing magnetic north",
+      "a navigation tool"
+    ]
+  },
+  {
+    "word": "virtual",
+    "phonetic": "/ˈvɜːtʃuəl/",
+    "grade": "high-school-mandatory-3",
+    "unit": "Unit 3",
+    "label": [
+      "外研社"
+    ],
+    "definitions": [
+      "simulated or imitated",
+      "not physically real",
+      "existing in digital form"
+    ]
+  },
+  {
+    "word": "virtual reality",
+    "grade": "high-school-mandatory-3",
+    "unit": "Unit 3",
+    "label": [
+      "外研社"
+    ],
+    "definitions": [
+      "a computer-generated environment",
+      "a simulated experience",
+      "an artificial world"
+    ]
+  },
+  {
+    "word": "wearable tech",
+    "grade": "high-school-mandatory-3",
+    "unit": "Unit 3",
+    "label": [
+      "外研社"
+    ],
+    "definitions": [
+      "technology worn on the body",
+      "electronic devices as accessories",
+      "computing devices worn as garments"
+    ]
+  },
+  {
+    "word": "flexible",
+    "phonetic": "/ˈfleksɪb(ə)l/",
+    "grade": "high-school-mandatory-3",
+    "unit": "Unit 3",
+    "label": [
+      "外研社"
+    ],
+    "definitions": [
+      "able to bend",
+      "adaptable",
+      "easily modified"
+    ]
+  },
+  {
+    "word": "battery",
+    "phonetic": "/ˈbæt(ə)ri/",
+    "grade": "high-school-mandatory-3",
+    "unit": "Unit 3",
+    "label": [
+      "外研社"
+    ],
+    "definitions": [
+      "a device storing electrical energy",
+      "a power source",
+      "a container with electrodes"
+    ]
+  },
+  {
+    "word": "in addition",
+    "grade": "high-school-mandatory-3",
+    "unit": "Unit 3",
+    "label": [
+      "外研社"
+    ],
+    "definitions": [
+      "besides",
+      "furthermore",
+      "moreover"
+    ]
+  },
+  {
+    "word": "compute",
+    "phonetic": "/kəmˈpjuːt/",
+    "grade": "high-school-mandatory-3",
+    "unit": "Unit 3",
+    "label": [
+      "外研社"
+    ],
+    "definitions": [
+      "to calculate",
+      "to determine mathematically",
+      "to work out"
+    ]
+  },
+  {
+    "word": "capable",
+    "phonetic": "/ˈkeɪpəb(ə)l/",
+    "grade": "high-school-mandatory-3",
+    "unit": "Unit 3",
+    "label": [
+      "外研社"
+    ],
+    "definitions": [
+      "having the ability",
+      "competent",
+      "able to do something"
+    ]
+  },
+  {
+    "word": "stuff",
+    "phonetic": "/stʌf/",
+    "grade": "high-school-mandatory-3",
+    "unit": "Unit 3",
+    "label": [
+      "外研社"
+    ],
+    "definitions": [
+      "items or things",
+      "material",
+      "articles"
+    ]
+  },
+  {
+    "word": "desire",
+    "phonetic": "/dɪˈzaɪə/",
+    "grade": "high-school-mandatory-3",
+    "unit": "Unit 3",
+    "label": [
+      "外研社"
+    ],
+    "definitions": [
+      "a strong wish",
+      "a longing",
+      "an urge"
+    ]
+  },
+  {
+    "word": "never say never",
+    "grade": "high-school-mandatory-3",
+    "unit": "Unit 3",
+    "label": [
+      "外研社"
+    ],
+    "definitions": [
+      "don't rule out possibilities",
+      "don't be too certain",
+      "don't exclude future options"
+    ]
+  },
+  {
+    "word": "passive",
+    "phonetic": "/ˈpæsɪv/",
+    "grade": "high-school-mandatory-3",
+    "unit": "Unit 3",
+    "label": [
+      "外研社"
+    ],
+    "definitions": [
+      "not active",
+      "receptive",
+      "not taking action"
+    ]
+  },
+  {
+    "word": "beyond",
+    "phonetic": "/bɪˈjɒnd/",
+    "grade": "high-school-mandatory-3",
+    "unit": "Unit 3",
+    "label": [
+      "外研社"
+    ],
+    "definitions": [
+      "further than",
+      "on the other side of",
+      "exceeding"
+    ]
+  },
+  {
+    "word": "instance",
+    "phonetic": "/ˈɪnstəns/",
+    "grade": "high-school-mandatory-3",
+    "unit": "Unit 3",
+    "label": [
+      "外研社"
+    ],
+    "definitions": [
+      "an example",
+      "a case",
+      "a particular occurrence"
+    ]
+  },
+  {
+    "word": "significant",
+    "phonetic": "/sɪɡˈnɪfɪkənt/",
+    "grade": "high-school-mandatory-3",
+    "unit": "Unit 3",
+    "label": [
+      "外研社"
+    ],
+    "definitions": [
+      "important",
+      "meaningful",
+      "having impact"
+    ]
+  },
+  {
+    "word": "injure",
+    "phonetic": "/ˈɪndʒə/",
+    "grade": "high-school-mandatory-3",
+    "unit": "Unit 3",
+    "label": [
+      "外研社"
+    ],
+    "definitions": [
+      "to harm",
+      "to cause damage to",
+      "to wound"
+    ]
+  },
+  {
+    "word": "chemist",
+    "phonetic": "/ˈkemɪst/",
+    "grade": "high-school-mandatory-3",
+    "unit": "Unit 3",
+    "label": [
+      "外研社"
+    ],
+    "definitions": [
+      "a scientist studying chemistry",
+      "a professional in chemical science",
+      "a person specializing in chemistry"
+    ]
+  },
+  {
+    "word": "astronomer",
+    "phonetic": "/əˈstrɒnəmə/",
+    "grade": "high-school-mandatory-3",
+    "unit": "Unit 3",
+    "label": [
+      "外研社"
+    ],
+    "definitions": [
+      "a scientist studying celestial objects",
+      "a professional in astronomy",
+      "a specialist in space science"
+    ]
+  },
+  {
+    "word": "biologist",
+    "phonetic": "/baɪˈɒlədʒɪst/",
+    "grade": "high-school-mandatory-3",
+    "unit": "Unit 3",
+    "label": [
+      "外研社"
+    ],
+    "definitions": [
+      "a scientist studying living organisms",
+      "a professional in biology",
+      "a specialist in life sciences"
+    ]
+  },
+  {
+    "word": "accurate",
+    "phonetic": "/ˈækjʊrət/",
+    "grade": "high-school-mandatory-3",
+    "unit": "Unit 3",
+    "label": [
+      "外研社"
+    ],
+    "definitions": [
+      "precise",
+      "exact",
+      "correct"
+    ]
+  },
+  {
+    "word": "Gregorian calendar",
+    "grade": "high-school-mandatory-3",
+    "unit": "Unit 3",
+    "label": [
+      "外研社"
+    ],
+    "definitions": [
+      "the calendar used in most of the world",
+      "the calendar introduced by Pope Gregory",
+      "the common calendar system"
+    ]
+  },
+  {
+    "word": "minor",
+    "phonetic": "/ˈmaɪnə/",
+    "grade": "high-school-mandatory-3",
+    "unit": "Unit 3",
+    "label": [
+      "外研社"
+    ],
+    "definitions": [
+      "small",
+      "less important",
+      "insignificant"
+    ]
+  },
+  {
+    "word": "origin",
+    "phonetic": "/ˈɒrɪdʒɪn/",
+    "grade": "high-school-mandatory-3",
+    "unit": "Unit 3",
+    "label": [
+      "外研社"
+    ],
+    "definitions": [
+      "the beginning",
+      "the source",
+      "the starting point"
+    ]
+  },
+  {
+    "word": "species",
+    "phonetic": "/ˈspiːʃiːz/",
+    "grade": "high-school-mandatory-3",
+    "unit": "Unit 3",
+    "label": [
+      "外研社"
+    ],
+    "definitions": [
+      "a group of similar organisms",
+      "a biological classification",
+      "a distinct type of organism"
+    ]
+  },
+  {
+    "word": "natural selection",
+    "grade": "high-school-mandatory-3",
+    "unit": "Unit 3",
+    "label": [
+      "外研社"
+    ],
+    "definitions": [
+      "the process of evolution",
+      "survival of the fittest",
+      "the mechanism of evolution"
+    ]
+  },
+  {
+    "word": "field research",
+    "grade": "high-school-mandatory-3",
+    "unit": "Unit 3",
+    "label": [
+      "外研社"
+    ],
+    "definitions": [
+      "research conducted in natural settings",
+      "study in real environments",
+      "investigation in actual conditions"
+    ]
+  },
+  {
+    "word": "stream",
+    "phonetic": "/striːm/",
+    "grade": "high-school-mandatory-3",
+    "unit": "Unit 3",
+    "label": [
+      "外研社"
+    ],
+    "definitions": [
+      "a small river",
+      "a flowing body of water",
+      "a continuous flow"
+    ]
+  },
+  {
+    "word": "extraordinary",
+    "phonetic": "/ɪkˈstrɔːd(ə)n(ə)ri/",
+    "grade": "high-school-mandatory-3",
+    "unit": "Unit 3",
+    "label": [
+      "外研社"
+    ],
+    "definitions": [
+      "exceptional",
+      "remarkable",
+      "unusual"
+    ]
+  },
+  {
+    "word": "brilliant",
+    "phonetic": "/ˈbrɪljənt/",
+    "grade": "high-school-mandatory-3",
+    "unit": "Unit 3",
+    "label": [
+      "外研社"
+    ],
+    "definitions": [
+      "exceptionally clever",
+      "very talented",
+      "outstanding"
+    ]
+  },
+  {
+    "word": "radium",
+    "phonetic": "/ˈreɪdiəm/",
+    "grade": "high-school-mandatory-3",
+    "unit": "Unit 3",
+    "label": [
+      "外研社"
+    ],
+    "definitions": [
+      "a radioactive element",
+      "a chemical element with symbol Ra",
+      "a metallic element"
+    ]
+  },
+  {
+    "word": "Goldbach's Conjecture",
+    "grade": "high-school-mandatory-3",
+    "unit": "Unit 3",
+    "label": [
+      "外研社"
+    ],
+    "definitions": [
+      "a famous mathematical hypothesis",
+      "an unsolved mathematical problem",
+      "a conjecture about prime numbers"
+    ]
+  },
+  {
+    "word": "theory",
+    "phonetic": "/ˈθɪəri/",
+    "grade": "high-school-mandatory-3",
+    "unit": "Unit 3",
+    "label": [
+      "外研社"
+    ],
+    "definitions": [
+      "a systematic explanation",
+      "a principle",
+      "a hypothesis"
+    ]
+  },
+  {
+    "word": "mental",
+    "phonetic": "/ˈmentl/",
+    "grade": "high-school-mandatory-3",
+    "unit": "Unit 3",
+    "label": [
+      "外研社"
+    ],
+    "definitions": [
+      "relating to the mind",
+      "psychological",
+      "cognitive"
+    ]
+  },
+  {
+    "word": "cure",
+    "phonetic": "/kjʊə/",
+    "grade": "high-school-mandatory-3",
+    "unit": "Unit 3",
+    "label": [
+      "外研社"
+    ],
+    "definitions": [
+      "a remedy",
+      "a treatment",
+      "a solution to a problem"
+    ]
+  },
+  {
+    "word": "draft",
+    "phonetic": "/drɑːft/",
+    "grade": "high-school-mandatory-3",
+    "unit": "Unit 3",
+    "label": [
+      "外研社"
+    ],
+    "definitions": [
+      "to write a preliminary version",
+      "to compose",
+      "to sketch out"
+    ]
+  },
+  {
+    "word": "declaration",
+    "phonetic": "/ˌdekləˈreɪʃ(ə)n/",
+    "grade": "high-school-mandatory-3",
+    "unit": "Unit 3",
+    "label": [
+      "外研社"
+    ],
+    "definitions": [
+      "a formal statement",
+      "an announcement",
+      "a public proclamation"
+    ]
+  },
+  {
+    "word": "experiment",
+    "phonetic": "/ɪkˈsperɪmənt/",
+    "grade": "high-school-mandatory-3",
+    "unit": "Unit 3",
+    "label": [
+      "外研社"
+    ],
+    "definitions": [
+      "a scientific test",
+      "a procedure to verify facts",
+      "a controlled test"
+    ]
+  },
+  {
+    "word": "lightning",
+    "phonetic": "/ˈlaɪtnɪŋ/",
+    "grade": "high-school-mandatory-3",
+    "unit": "Unit 3",
+    "label": [
+      "外研社"
+    ],
+    "definitions": [
+      "an electrical discharge",
+      "a flash of electricity",
+      "an atmospheric phenomenon"
+    ]
+  },
+  {
+    "word": "fiction",
+    "phonetic": "/ˈfɪkʃ(ə)n/",
+    "grade": "high-school-mandatory-3",
+    "unit": "Unit 3",
+    "label": [
+      "外研社"
+    ],
+    "definitions": [
+      "imaginary stories",
+      "invented narratives",
+      "non-factual literature"
+    ]
+  },
+  {
+    "word": "metal",
+    "phonetic": "/ˈmetl/",
+    "grade": "high-school-mandatory-3",
+    "unit": "Unit 3",
+    "label": [
+      "外研社"
+    ],
+    "definitions": [
+      "a material with metallic properties",
+      "a substance that conducts electricity",
+      "a solid material"
+    ]
+  },
+  {
+    "word": "attach",
+    "phonetic": "/əˈtætʃ/",
+    "grade": "high-school-mandatory-3",
+    "unit": "Unit 3",
+    "label": [
+      "外研社"
+    ],
+    "definitions": [
+      "to fasten",
+      "to connect",
+      "to join"
+    ]
+  },
+  {
+    "word": "flash",
+    "phonetic": "/flæʃ/",
+    "grade": "high-school-mandatory-3",
+    "unit": "Unit 3",
+    "label": [
+      "外研社"
+    ],
+    "definitions": [
+      "a brief burst of light",
+      "a sudden appearance",
+      "a quick glimpse"
+    ]
+  },
+  {
+    "word": "conduct",
+    "phonetic": "/kənˈdʌkt/",
+    "grade": "high-school-mandatory-3",
+    "unit": "Unit 3",
+    "label": [
+      "外研社"
+    ],
+    "definitions": [
+      "to carry electricity or heat",
+      "to transmit",
+      "to allow passage"
+    ]
+  },
+  {
+    "word": "scientific",
+    "phonetic": "/ˌsaɪənˈtɪfɪk/",
+    "grade": "high-school-mandatory-3",
+    "unit": "Unit 3",
+    "label": [
+      "外研社"
+    ],
+    "definitions": [
+      "relating to science",
+      "based on methodical study",
+      "systematic"
+    ]
+  },
+  {
+    "word": "entirely",
+    "phonetic": "/ɪnˈtaɪəli/",
+    "grade": "high-school-mandatory-3",
+    "unit": "Unit 3",
+    "label": [
+      "外研社"
+    ],
+    "definitions": [
+      "completely",
+      "totally",
+      "fully"
+    ]
+  },
+  {
+    "word": "gravity",
+    "phonetic": "/ˈɡrævɪti/",
+    "grade": "high-school-mandatory-3",
+    "unit": "Unit 3",
+    "label": [
+      "外研社"
+    ],
+    "definitions": [
+      "the force of attraction",
+      "the pull of the Earth",
+      "a fundamental force"
+    ]
+  },
+  {
+    "word": "account",
+    "phonetic": "/əˈkaʊnt/",
+    "grade": "high-school-mandatory-3",
+    "unit": "Unit 3",
+    "label": [
+      "外研社"
+    ],
+    "definitions": [
+      "a description",
+      "a record",
+      "a narrative"
+    ]
+  },
+  {
+    "word": "proof",
+    "phonetic": "/pruːf/",
+    "grade": "high-school-mandatory-3",
+    "unit": "Unit 3",
+    "label": [
+      "外研社"
+    ],
+    "definitions": [
+      "evidence",
+      "verification",
+      "confirmation"
+    ]
+  },
+  {
+    "word": "procedure",
+    "phonetic": "/prəˈsiːdʒə/",
+    "grade": "high-school-mandatory-3",
+    "unit": "Unit 3",
+    "label": [
+      "外研社"
+    ],
+    "definitions": [
+      "a series of steps",
+      "a process",
+      "a method"
+    ]
   }
 ]
