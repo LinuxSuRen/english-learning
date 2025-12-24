@@ -592,5 +592,647 @@
       "a structure that encloses an area",
       "a wall or barrier"
     ]
+  },
+  {
+    "word": "contribution",
+    "phonetic": "/ˌkɒntrɪˈbjuːʃ(ə)n/",
+    "grade": "high-school-mandatory-3",
+    "unit": "Unit 2",
+    "label": [
+      "外研社"
+    ],
+    "definitions": [
+      "something given or offered",
+      "a gift or donation",
+      "an act of giving"
+    ]
+  },
+  {
+    "word": "relief",
+    "phonetic": "/rɪˈliːf/",
+    "grade": "high-school-mandatory-3",
+    "unit": "Unit 2",
+    "label": [
+      "外研社"
+    ],
+    "definitions": [
+      "the lessening of pain or distress",
+      "a feeling of reassurance",
+      "assistance provided to those in need"
+    ]
+  },
+  {
+    "word": "shortage",
+    "phonetic": "/ˈʃɔːtɪdʒ/",
+    "grade": "high-school-mandatory-3",
+    "unit": "Unit 2",
+    "label": [
+      "外研社"
+    ],
+    "definitions": [
+      "an insufficient amount",
+      "a lack of something",
+      "insufficiency"
+    ]
+  },
+  {
+    "word": "internal",
+    "phonetic": "/ɪnˈtɜːnl/",
+    "grade": "high-school-mandatory-3",
+    "unit": "Unit 2",
+    "label": [
+      "外研社"
+    ],
+    "definitions": [
+      "relating to the inside",
+      "within an entity",
+      "inner"
+    ]
+  },
+  {
+    "word": "effective",
+    "phonetic": "/ɪˈfektɪv/",
+    "grade": "high-school-mandatory-3",
+    "unit": "Unit 2",
+    "label": [
+      "外研社"
+    ],
+    "definitions": [
+      "producing the desired result",
+      "successful",
+      "having an impact"
+    ]
+  },
+  {
+    "word": "fund",
+    "phonetic": "/fʌnd/",
+    "grade": "high-school-mandatory-3",
+    "unit": "Unit 2",
+    "label": [
+      "外研社"
+    ],
+    "definitions": [
+      "to provide money for",
+      "to finance",
+      "to supply with capital"
+    ]
+  },
+  {
+    "word": "recycle",
+    "phonetic": "/ˌriːˈsaɪk(ə)l/",
+    "grade": "high-school-mandatory-3",
+    "unit": "Unit 2",
+    "label": [
+      "外研社"
+    ],
+    "definitions": [
+      "to process for reuse",
+      "to convert into a new form",
+      "to use again"
+    ]
+  },
+  {
+    "word": "fountain",
+    "phonetic": "/ˈfaʊntɪn/",
+    "grade": "high-school-mandatory-3",
+    "unit": "Unit 2",
+    "label": [
+      "外研社"
+    ],
+    "definitions": [
+      "a structure that shoots water",
+      "a decorative water feature",
+      "a source of flowing water"
+    ]
+  },
+  {
+    "word": "earn",
+    "phonetic": "/ɜːn/",
+    "grade": "high-school-mandatory-3",
+    "unit": "Unit 2",
+    "label": [
+      "外研社"
+    ],
+    "definitions": [
+      "to receive money for work",
+      "to gain",
+      "to deserve"
+    ]
+  },
+  {
+    "word": "donate",
+    "phonetic": "/dəʊˈneɪt/",
+    "grade": "high-school-mandatory-3",
+    "unit": "Unit 2",
+    "label": [
+      "外研社"
+    ],
+    "definitions": [
+      "to give freely",
+      "to contribute",
+      "to offer as a gift"
+    ]
+  },
+  {
+    "word": "break into a smile",
+    "grade": "high-school-mandatory-3",
+    "unit": "Unit 2",
+    "label": [
+      "外研社"
+    ],
+    "definitions": [
+      "to suddenly start smiling",
+      "to burst into a smile",
+      "to begin to smile"
+    ]
+  },
+  {
+    "word": "foundation",
+    "phonetic": "/faʊnˈdeɪʃ(ə)n/",
+    "grade": "high-school-mandatory-3",
+    "unit": "Unit 2",
+    "label": [
+      "外研社"
+    ],
+    "definitions": [
+      "an organization that supports",
+      "a charitable institution",
+      "a body that provides funding"
+    ]
+  },
+  {
+    "word": "insight",
+    "phonetic": "/ˈɪnsaɪt/",
+    "grade": "high-school-mandatory-3",
+    "unit": "Unit 2",
+    "label": [
+      "外研社"
+    ],
+    "definitions": [
+      "understanding of a situation",
+      "clear perception",
+      "deep knowledge"
+    ]
+  },
+  {
+    "word": "perseverance",
+    "phonetic": "/ˌpɜːsɪˈvɪərəns/",
+    "grade": "high-school-mandatory-3",
+    "unit": "Unit 2",
+    "label": [
+      "外研社"
+    ],
+    "definitions": [
+      "persistence in doing something",
+      "continued effort",
+      "determination"
+    ]
+  },
+  {
+    "word": "reality",
+    "phonetic": "/riˈælɪti/",
+    "grade": "high-school-mandatory-3",
+    "unit": "Unit 2",
+    "label": [
+      "外研社"
+    ],
+    "definitions": [
+      "the state of things as they are",
+      "actual existence",
+      "the real world"
+    ]
+  },
+  {
+    "word": "extend",
+    "phonetic": "/ɪkˈstend/",
+    "grade": "high-school-mandatory-3",
+    "unit": "Unit 2",
+    "label": [
+      "外研社"
+    ],
+    "definitions": [
+      "to make longer",
+      "to continue",
+      "to stretch out"
+    ]
+  },
+  {
+    "word": "mission",
+    "phonetic": "/ˈmɪʃ(ə)n/",
+    "grade": "high-school-mandatory-3",
+    "unit": "Unit 2",
+    "label": [
+      "外研社"
+    ],
+    "definitions": [
+      "a task or duty",
+      "a purpose",
+      "an assignment"
+    ]
+  },
+  {
+    "word": "disease",
+    "phonetic": "/dɪˈziːz/",
+    "grade": "high-school-mandatory-3",
+    "unit": "Unit 2",
+    "label": [
+      "外研社"
+    ],
+    "definitions": [
+      "a disorder of the body",
+      "an illness",
+      "a medical condition"
+    ]
+  },
+  {
+    "word": "disability",
+    "phonetic": "/ˌdɪsəˈbɪlɪti/",
+    "grade": "high-school-mandatory-3",
+    "unit": "Unit 2",
+    "label": [
+      "外研社"
+    ],
+    "definitions": [
+      "a physical or mental impairment",
+      "a condition that limits",
+      "a restriction in function"
+    ]
+  },
+  {
+    "word": "territory",
+    "phonetic": "/ˈterɪt(ə)ri/",
+    "grade": "high-school-mandatory-3",
+    "unit": "Unit 2",
+    "label": [
+      "外研社"
+    ],
+    "definitions": [
+      "an area of land",
+      "a region",
+      "a domain"
+    ]
+  },
+  {
+    "word": "sensitive",
+    "phonetic": "/ˈsensɪtɪv/",
+    "grade": "high-school-mandatory-3",
+    "unit": "Unit 2",
+    "label": [
+      "外研社"
+    ],
+    "definitions": [
+      "easily hurt or offended",
+      "responsive to stimuli",
+      "aware of others' feelings"
+    ]
+  },
+  {
+    "word": "generous",
+    "phonetic": "/ˈdʒen(ə)rəs/",
+    "grade": "high-school-mandatory-3",
+    "unit": "Unit 2",
+    "label": [
+      "外研社"
+    ],
+    "definitions": [
+      "giving freely",
+      "willing to give",
+      "charitable"
+    ]
+  },
+  {
+    "word": "hesitate",
+    "phonetic": "/ˈhezɪteɪt/",
+    "grade": "high-school-mandatory-3",
+    "unit": "Unit 2",
+    "label": [
+      "外研社"
+    ],
+    "definitions": [
+      "to pause before acting",
+      "to be uncertain",
+      "to delay"
+    ]
+  },
+  {
+    "word": "cancer",
+    "phonetic": "/ˈkænsə/",
+    "grade": "high-school-mandatory-3",
+    "unit": "Unit 2",
+    "label": [
+      "外研社"
+    ],
+    "definitions": [
+      "a disease involving uncontrolled cell growth",
+      "a malignant tumor",
+      "a serious illness"
+    ]
+  },
+  {
+    "word": "royal",
+    "phonetic": "/ˈrɔɪəl/",
+    "grade": "high-school-mandatory-3",
+    "unit": "Unit 2",
+    "label": [
+      "外研社"
+    ],
+    "definitions": [
+      "relating to a king or queen",
+      "fit for royalty",
+      "of the highest quality"
+    ]
+  },
+  {
+    "word": "institution",
+    "phonetic": "/ˌɪnstɪˈtjuːʃ(ə)n/",
+    "grade": "high-school-mandatory-3",
+    "unit": "Unit 2",
+    "label": [
+      "外研社"
+    ],
+    "definitions": [
+      "an organization",
+      "a public establishment",
+      "a social structure"
+    ]
+  },
+  {
+    "word": "assistance",
+    "phonetic": "/əˈsɪst(ə)ns/",
+    "grade": "high-school-mandatory-3",
+    "unit": "Unit 2",
+    "label": [
+      "外研社"
+    ],
+    "definitions": [
+      "help or support",
+      "aid",
+      "support"
+    ]
+  },
+  {
+    "word": "registration",
+    "phonetic": "/ˌredʒɪˈstreɪʃ(ə)n/",
+    "grade": "high-school-mandatory-3",
+    "unit": "Unit 2",
+    "label": [
+      "外研社"
+    ],
+    "definitions": [
+      "the act of enrolling",
+      "the process of recording",
+      "official recording"
+    ]
+  },
+  {
+    "word": "sex",
+    "phonetic": "/seks/",
+    "grade": "high-school-mandatory-3",
+    "unit": "Unit 2",
+    "label": [
+      "外研社"
+    ],
+    "definitions": [
+      "either of the two main categories",
+      "male or female",
+      "gender classification"
+    ]
+  },
+  {
+    "word": "confirmation",
+    "phonetic": "/ˌkɒnfəˈmeɪʃ(ə)n/",
+    "grade": "high-school-mandatory-3",
+    "unit": "Unit 2",
+    "label": [
+      "外研社"
+    ],
+    "definitions": [
+      "verification",
+      "the act of confirming",
+      "proof"
+    ]
+  },
+  {
+    "word": "Nazi",
+    "phonetic": "/ˈnɑːtsi/",
+    "grade": "high-school-mandatory-3",
+    "unit": "Unit 2",
+    "label": [
+      "外研社"
+    ],
+    "definitions": [
+      "a member of the Nazi party",
+      "a German fascist",
+      "a follower of Nazism"
+    ]
+  },
+  {
+    "word": "Jewish",
+    "phonetic": "/ˈdʒuːɪʃ/",
+    "grade": "high-school-mandatory-3",
+    "unit": "Unit 2",
+    "label": [
+      "外研社"
+    ],
+    "definitions": [
+      "relating to Jews",
+      "of Jewish religion",
+      "Judaic"
+    ]
+  },
+  {
+    "word": "aid",
+    "phonetic": "/eɪd/",
+    "grade": "high-school-mandatory-3",
+    "unit": "Unit 2",
+    "label": [
+      "外研社"
+    ],
+    "definitions": [
+      "to help",
+      "to support",
+      "to assist"
+    ]
+  },
+  {
+    "word": "temporary",
+    "phonetic": "/ˈtemp(ə)rəri/",
+    "grade": "high-school-mandatory-3",
+    "unit": "Unit 2",
+    "label": [
+      "外研社"
+    ],
+    "definitions": [
+      "not permanent",
+      "short-term",
+      "for a limited time"
+    ]
+  },
+  {
+    "word": "military",
+    "phonetic": "/ˈmɪlɪt(ə)ri/",
+    "grade": "high-school-mandatory-3",
+    "unit": "Unit 2",
+    "label": [
+      "外研社"
+    ],
+    "definitions": [
+      "relating to armed forces",
+      "of the army",
+      "soldierly"
+    ]
+  },
+  {
+    "word": "rise to one's feet",
+    "grade": "high-school-mandatory-3",
+    "unit": "Unit 2",
+    "label": [
+      "外研社"
+    ],
+    "definitions": [
+      "to stand up",
+      "to get to one's feet",
+      "to stand"
+    ]
+  },
+  {
+    "word": "achievement",
+    "phonetic": "/əˈtʃiːvmənt/",
+    "grade": "high-school-mandatory-3",
+    "unit": "Unit 2",
+    "label": [
+      "外研社"
+    ],
+    "definitions": [
+      "something accomplished",
+      "a success",
+      "a goal reached"
+    ]
+  },
+  {
+    "word": "knighthood",
+    "phonetic": "/ˈnaɪthʊd/",
+    "grade": "high-school-mandatory-3",
+    "unit": "Unit 2",
+    "label": [
+      "外研社"
+    ],
+    "definitions": [
+      "the rank of a knight",
+      "the status of being a knight",
+      "chivalric rank"
+    ]
+  },
+  {
+    "word": "chief",
+    "phonetic": "/tʃiːf/",
+    "grade": "high-school-mandatory-3",
+    "unit": "Unit 2",
+    "label": [
+      "外研社"
+    ],
+    "definitions": [
+      "the highest in rank",
+      "the leader",
+      "the primary"
+    ]
+  },
+  {
+    "word": "major",
+    "phonetic": "/ˈmeɪdʒə/",
+    "grade": "high-school-mandatory-3",
+    "unit": "Unit 2",
+    "label": [
+      "外研社"
+    ],
+    "definitions": [
+      "of great importance",
+      "major",
+      "principal"
+    ]
+  },
+  {
+    "word": "treatment",
+    "phonetic": "/ˈtriːtmənt/",
+    "grade": "high-school-mandatory-3",
+    "unit": "Unit 2",
+    "label": [
+      "外研社"
+    ],
+    "definitions": [
+      "medical care",
+      "therapy",
+      "a way of dealing with"
+    ]
+  },
+  {
+    "word": "obtain",
+    "phonetic": "/əbˈteɪn/",
+    "grade": "high-school-mandatory-3",
+    "unit": "Unit 2",
+    "label": [
+      "外研社"
+    ],
+    "definitions": [
+      "to get",
+      "to acquire",
+      "to gain possession of"
+    ]
+  },
+  {
+    "word": "drug",
+    "phonetic": "/drʌɡ/",
+    "grade": "high-school-mandatory-3",
+    "unit": "Unit 2",
+    "label": [
+      "外研社"
+    ],
+    "definitions": [
+      "a substance used in medicine",
+      "a medicine",
+      "a pharmaceutical"
+    ]
+  },
+  {
+    "word": "certificate",
+    "phonetic": "/səˈtɪfɪkət/",
+    "grade": "high-school-mandatory-3",
+    "unit": "Unit 2",
+    "label": [
+      "外研社"
+    ],
+    "definitions": [
+      "a document proving qualification",
+      "an official paper",
+      "a written attestation"
+    ]
+  },
+  {
+    "word": "ministry",
+    "phonetic": "/ˈmɪnɪstri/",
+    "grade": "high-school-mandatory-3",
+    "unit": "Unit 2",
+    "label": [
+      "外研社"
+    ],
+    "definitions": [
+      "a government department",
+      "a department of state",
+      "a governmental body"
+    ]
+  },
+  {
+    "word": "further",
+    "phonetic": "/ˈfɜːðə/",
+    "grade": "high-school-mandatory-3",
+    "unit": "Unit 2",
+    "label": [
+      "外研社"
+    ],
+    "definitions": [
+      "additional",
+      "more",
+      "beyond"
+    ]
   }
 ]
